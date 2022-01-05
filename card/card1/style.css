@@ -1,0 +1,146 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+/* width */
+::-webkit-scrollbar {
+	width: 5px;
+	height: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: hsla(0, 0%, 100%);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: hsl(0, 0%, 50%);
+	border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #555;
+}
+
+html,
+body {
+	height: 100%;
+}
+
+body {
+	background: hsl(0, 0%, 2%);
+	display: grid;
+	place-items: center;
+	color: white;
+	font-family: 'IBM Plex Mono', monospace;
+	gap: 1rem;
+	padding: 2rem;
+}
+
+img {
+	max-width: 100%;
+	display: block;
+}
+
+.card-container {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	width: 100%;
+	gap: 1rem;
+}
+
+.card {
+	aspect-ratio: 1 / 1;
+	background: #1c9371;
+	overflow: hidden;
+	position: relative;
+}
+
+@keyframes slide-in-elliptic-top-fwd {
+	0% {
+		-webkit-transform: translateY(-600px) rotateX(-30deg) scale(0);
+		transform: translateY(-600px) rotateX(-30deg) scale(0);
+		-webkit-transform-origin: 50% 100%;
+		transform-origin: 50% 100%;
+		opacity: 0;
+	}
+	100% {
+		-webkit-transform: translateY(0) rotateX(0) scale(1);
+		transform: translateY(0) rotateX(0) scale(1);
+		-webkit-transform-origin: 50% 1400px;
+		transform-origin: 50% 1400px;
+		opacity: 1;
+	}
+}
+
+.card-main {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 100%;
+}
+
+.card-main img {
+	width: 100%;
+	filter: grayscale(100%) saturate(100%) contrast(300%) brightness(0.1)
+		invert(100%);
+}
+
+.card-hover {
+	position: absolute;
+	inset: 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 2rem;
+	text-align: center;
+	background: hsla(0, 0%, 0%, 0.9);
+	transition: 350ms ease;
+	gap: 1rem;
+	visibility: hidden;
+	opacity: 0;
+	transform: translateY(100%);
+}
+
+.card-hover a {
+	color: white;
+	text-decoration: none;
+	font-size: 2rem;
+	transition: 250ms ease;
+}
+
+.card-hover a:hover {
+	color: #ff364a;
+}
+
+.tags {
+	display: flex;
+	justify-content: center;
+	gap: 0.5rem;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.tag {
+	outline: 1px solid white;
+	padding: 0.5rem;
+	font-size: 0.8rem;
+	transition: 250ms ease;
+}
+
+.tag:hover {
+	background: white;
+	color: hsl(0, 0%, 2%);
+}
+
+.card:hover .card-hover {
+	visibility: visible;
+	opacity: 1;
+	transform: translateY(0);
+}

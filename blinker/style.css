@@ -1,0 +1,9 @@
+#blinker {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+	margin: auto;
+	width: 300px;
+	height: 300px;
+	background-color: orangered;
+}

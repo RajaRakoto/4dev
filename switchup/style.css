@@ -1,0 +1,59 @@
+@supports (--css: variables) {
+  @media (min-width: 64rem) {
+    :root {
+      --cd-back-to-top-size: 60px;
+      --cd-back-to-top-margin: 30px;
+    }
+  }
+}
+p {
+  font-size: 3.125rem;
+}
+
+/* =========== switchup (begin) =========== */
+.text-replace {
+  overflow: hidden;
+  color: transparent;
+  text-indent: 100%;
+  white-space: nowrap;
+}
+
+.cd-top {
+  position: fixed;
+  bottom: 1.25rem;
+  bottom: var(--cd-back-to-top-margin);
+  right: 1.25rem;
+  right: var(--cd-back-to-top-margin);
+  display: inline-block;
+  height: 2.5rem;
+  height: var(--cd-back-to-top-size);
+  width: 2.5rem;
+  width: var(--cd-back-to-top-size);
+  box-shadow: 0 0 0.625rem rgba(60, 255, 0, 0.05);
+  background: url(./img/cd-top-arrow.svg) no-repeat center 50%;
+  background-color: rgba(148, 61, 129, 0.8);
+}
+
+.js .cd-top {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s, visibility 0.3s, background-color 0.3s;
+  background-color: orangered;
+  border-radius: 0.625rem;
+}
+.js .cd-top--is-visible {
+  visibility: visible;
+  opacity: 1;
+}
+.js .cd-top--fade-out {
+  opacity: 0.5;
+}
+.js .cd-top:hover {
+  background-color: #ad4520;
+  opacity: 1;
+  border-radius: 10px;
+}
+
+/* ============ switchup (end) ============ */
+
+/*# sourceMappingURL=style.css.map */

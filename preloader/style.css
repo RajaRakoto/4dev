@@ -1,0 +1,8 @@
+#preloader {
+    background: #2d2e2f url(./img/loader.svg) no-repeat center;
+    background-size: 10%;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}

@@ -1,0 +1,36 @@
+* {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a button {
+	font-size: 18px;
+	font-weight: bold;
+	position: relative;
+	top: 10px;
+	width: 200px;
+	height: 60px;
+	background-color: rgb(235, 213, 88);
+	border-radius: 10px;
+}
+
+a button:hover {
+	background-color: rgb(255, 232, 100);
+}
+
+h1 {
+	margin-top: 0px;
+	padding-top: 20px;
+	text-align: center;
+	color: #eee;
+	font-size: 50px;
+}
+
+p {
+	margin: auto;
+	width: 50%;
+	position: relative;
+	top: 50px;
+	font-size: 30px;
+	text-align: center;
+	color: #eee;
+}
