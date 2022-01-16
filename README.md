@@ -21,6 +21,7 @@
 |📌 **candybutton**|Des boutons animEs en pure CSS|
 |📌 **card**|Collection of portfolio card|
 |📌 **carousel**|Collection of carousel|
+|📌 **cursor**|Custom your cursor with CSS|
 |📌 **fonts-pack**|Collection of fonts|
 |📌 **navbar**|Collection of navigation bar|
 |📌 **preloader**|Ajouter un chargement animé à votre page Web|
