@@ -24,6 +24,7 @@
 |📌 **cursor**|Custom your cursor with CSS|
 |📌 **fonts-pack**|Collection of fonts|
 |📌 **navbar**|Collection of navigation bar|
+|📌 **notify**|Little notification message with Javascript|
 |📌 **preloader**|Ajouter un chargement animé à votre page Web|
 |📌 **progBar**|Collection of progression bar with Javascript|
 |📌 **swiperJS** (JS library)|Swiper est le curseur tactile mobile gratuit le plus moderne avec des transitions matérielles accélérées et un comportement natif étonnant.|
