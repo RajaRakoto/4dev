@@ -30,7 +30,7 @@
 |📌 **swiperJS** (JS library)|Swiper est le curseur tactile mobile gratuit le plus moderne avec des transitions matérielles accélérées et un comportement natif étonnant.|
 |📌 **switchup**|Faites défiler automatiquement vers le haut de la page en utilisant JavaScript|
 |📌 **tsparticles** (JS library)|Créez facilement des animations de particules hautement personnalisables et utilisez-les comme arrière-plans animés pour votre site Web|
-|📌 **typing**|Typing text effect with Javascript|
+|📌 **typing**|Collection of typing text effect with Javascript|
 |📌 **vantaJS** (JS library)|3D & WebGL Background Animations For Your Website.|
 <center>
 🅴🅽🅹🅾🆈 ❗
