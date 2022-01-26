@@ -1,5 +1,5 @@
 const target = document.getElementById('entry-point');
-const wordList = ['developpeur', 'artiste', 'photographe'];
+const wordList = ['developpeur', 'artiste', 'photographe', 'musicien'];
 let wordIndex = 0;
 let letterIndex = 0;
 let wordCounter = wordList.length;
