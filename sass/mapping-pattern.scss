@@ -1,0 +1,31 @@
+/*
+Author: Raja 
+Github: https://github.com/RajaRakoto/
+Description: This serves as a model for the use and manipulation of the map in sass ...
+*/
+
+$txt-input-palette: (
+  active: (
+      bg: $colour-primary,
+      border: $colour-primary,
+      txt: $colour-white,
+
+   ),
+  focus: (
+      bg: $colour-primary,
+      border: $colour-primary,
+      txt: $colour-white,
+  ),
+  invalid: (
+      bg: $colour-invalid,
+      border: $colour-white,
+      txt: $colour-white,
+  )
+);
+
+@mixin txt-input-palette($state) {
+  $palette: map-get($txt-input-palette, $state);
+  border: .1rem solid map-get($palette, border);
+  background-color: map-get($palette, bg);
+  color: map-get($palette, txt);
+} 

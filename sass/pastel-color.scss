@@ -1,0 +1,14 @@
+/*
+Author: Raja 
+Github: https://github.com/RajaRakoto/
+Description: This function returns a pastel color of the color entered in argument ...
+*/
+
+@function pastel($clr) {
+  $hue: hue($clr);
+  $sat: 100%;
+  $light: 90%;
+  $pastel: hsl($hue, $sat, $light);
+
+  @return $pastel;
+} 
