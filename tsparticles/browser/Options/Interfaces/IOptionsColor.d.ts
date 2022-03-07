@@ -1,7 +1,0 @@
-import type { IColor } from "../../Core/Interfaces";
-/**
- * Color options
- * [[include:Color.md]]
- * @category Options
- */
-export declare type IOptionsColor = IColor;
