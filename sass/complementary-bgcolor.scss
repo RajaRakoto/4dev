@@ -1,0 +1,17 @@
+/*
+Author: Raja 
+Github: https://github.com/RajaRakoto/
+Description: A function that returns the complement of a color ...
+*/
+
+$color-primary: violet;
+$color-accent: #FFF;
+
+@mixin hover($color) {
+  @if (hue($color) >= 135 and hue($color) < 180) {
+    $color: complement($color-primary);
+  }@else{
+    $color: adjust-hue($color, -60);
+  }
+  background: $color;
+} 

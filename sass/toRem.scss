@@ -1,0 +1,16 @@
+/*
+Author: Raja 
+Github: https://github.com/RajaRakoto/
+Description: This program converts a number in pixel into a number rem ...
+*/
+
+@use 'sass:math';
+
+@function toRem($value) {
+    @return math.div($value, 16px) * 1rem; 
+}
+
+//demo
+p {
+font-size: toRem(12px);
+}
