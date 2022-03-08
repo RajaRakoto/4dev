@@ -31,10 +31,11 @@
 |📌 **typing**|Collection of typing text effect with Javascript|
 |📌 **vantaJS** (JS library)|3D & WebGL Background Animations For Your Website.|
 
-<center>
-<img src="./npm.png" width="80">
+<div align="center">
+<img src="./npm.png" width="80"><br>
 
 **Liste des packages (NPM) utiles**
+</div>
 
 |Package name|Description|Install|Size|Usage|
 |:-|:-|:-|:-|:-|
@@ -42,5 +43,5 @@
 |📌 **@faker-js/faker**|Générez des quantités massives de données factices (mais réalistes) pour les tests et le développement.|```npm i @faker-js/faker```|8mb|[💡](https://www.npmjs.com/package/@faker-js/faker)|
 
 🅴🅽🅹🅾🆈 ❗
-</center>
+
 
