@@ -50,6 +50,7 @@
 |📌 **prompt-sync**|Obtenir l'entrée de l'utilisateur par la methode prompt() en cli|```npm i prompt-sync```|15kb|[💡](https://www.npmjs.com/package/prompt-sync)|
 |📌 **@faker-js/faker**|Générez des quantités massives de données factices (mais réalistes) pour les tests et le développement.|```npm i @faker-js/faker```|8mb|[💡](https://www.npmjs.com/package/@faker-js/faker)|
 |📌 **sequelize**|Sequelize est un ORM Node.js basé sur des promesses pour Postgres, MySQL, MariaDB, SQLite et Microsoft SQL Server.|```npm install --save sequelize```|3mb|[💡](https://www.npmjs.com/package/sequelize)|
+|📌 **typescript**|Surcouche du langage Javscript qui a pour but d'améliorer et de sécuriser la production de code JavaScript.|```npm install -g typescript```|65mb|[💡](https://www.npmjs.com/package/typescript)|
 
 🅴🅽🅹🅾🆈 ❗
 
