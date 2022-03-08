@@ -1,8 +1,8 @@
 <div align="center">
 <img src="./4web.png" width="300">
 
-![HTML5](https://img.shields.io/badge/-HTML5-777?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-777?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![Sass](https://img.shields.io/badge/-Sass-777?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699) ![JSON](https://img.shields.io/badge/-JSON-777?style=flat&logo=JSON&logoColor=777&labelColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff)![Typescript](https://img.shields.io/badge/-Typescript-777?style=flat&logo=typescript&logoColor=dodgerblue&labelColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff) ![NPM](https://img.shields.io/badge/-NPM-777?style=flat&logo=npm&labelColor=ffffff)<br>
+![TML5](https://img.shields.io/badge/-TML5-777?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-777?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![Sass](https://img.shields.io/badge/-Sass-777?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699) ![JSON](https://img.shields.io/badge/-JSON-777?style=flat&logo=JSON&logoColor=777&labelColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff)![Typescript](https://img.shields.io/badge/-Typescript-777?style=flat&logo=typescript&logoColor=dodgerblue&labelColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![Gitub](https://img.shields.io/badge/-Gitub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff) ![NPM](https://img.shields.io/badge/-NPM-777?style=flat&logo=npm&labelColor=ffffff)<br>
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" width="175">
 <br>
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" width="104">
@@ -33,7 +33,17 @@
 |📌 **tsparticles** (JS library)|Créez facilement des animations de particules hautement personnalisables et utilisez-les comme arrière-plans animés pour votre site Web|
 |📌 **typing**|Collection of typing text effect with Javascript|
 |📌 **vantaJS** (JS library)|3D & WebGL Background Animations For Your Website.|
+
 <center>
+<img src="./npm.png" width="80">
+
+**Liste des packages (NPM) utiles**
+
+|Package name|Description|Install|Size|Usage|
+|:-|:-|:-|:-|:-|
+|📌 **prompt-sync**|Obtenir l'entrée de l'utilisateur par la methode prompt() en cli|```npm i prompt-sync```|15kb|[💡](https://www.npmjs.com/package/prompt-sync)|
+|📌 **@faker-js/faker**|Générez des quantités massives de données factices (mais réalistes) pour les tests et le développement.|```npm i @faker-js/faker```|8mb|[💡](https://www.npmjs.com/package/@faker-js/faker)|
+
 🅴🅽🅹🅾🆈 ❗
 </center>
 
