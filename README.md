@@ -37,10 +37,19 @@
 **Liste des packages (NPM) utiles**
 </div>
 
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+
+
+<!-- /code_chunk_output -->
+
 |Package name|Description|Install|Size|Usage|
 |:-|:-|:-|:-|:-|
 |📌 **prompt-sync**|Obtenir l'entrée de l'utilisateur par la methode prompt() en cli|```npm i prompt-sync```|15kb|[💡](https://www.npmjs.com/package/prompt-sync)|
 |📌 **@faker-js/faker**|Générez des quantités massives de données factices (mais réalistes) pour les tests et le développement.|```npm i @faker-js/faker```|8mb|[💡](https://www.npmjs.com/package/@faker-js/faker)|
+|📌 **sequelize**|Sequelize est un ORM Node.js basé sur des promesses pour Postgres, MySQL, MariaDB, SQLite et Microsoft SQL Server.|```npm install --save sequelize```|3mb|[💡](https://www.npmjs.com/package/sequelize)|
 
 🅴🅽🅹🅾🆈 ❗
 
