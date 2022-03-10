@@ -24,7 +24,7 @@
 |📌 **notify**|Little notification message with Javascript|
 |📌 **preloader**|Ajouter un chargement animé à votre page Web|
 |📌 **progBar**|Collection of progression bar with Javascript|
-|📌 **sass**|Collection of sass script (mixins - functions)|
+|📌 **sass-mixins-collection**|Collection of sass (mixins - functions)|
 |📌 **swiperJS** (JS library)|Swiper est le curseur tactile mobile gratuit le plus moderne avec des transitions matérielles accélérées et un comportement natif étonnant.|
 |📌 **switchup**|Faites défiler automatiquement vers le haut de la page en utilisant JavaScript|
 |📌 **tsparticles** (JS library)|Créez facilement des animations de particules hautement personnalisables et utilisez-les comme arrière-plans animés pour votre site Web|
