@@ -1,0 +1,76 @@
+// DESCRIPTION: ensemble des mixins dont le but est de positionner des elements plus rapidement et plus polyvalents possibles
+
+//center() -> center rapidement vos elements
+//NOTE: L'element parent doit etre en position relative
+// USAGE: @include center(both);
+//OPTIONS: vertical (gauche), horizontal (haut), both (center)
+
+@mixin center($position) {
+	position: absolute;
+
+	@if $position == 'vertical' {
+		top: 50%;
+		-webkit-transform: translateY(-50%);
+		-ms-transform: translateY(-50%);
+		transform: translateY(-50%);
+	} @else if $position == 'horizontal' {
+		left: 50%;
+		-webkit-transform: translateX(-50%);
+		-ms-transform: translateX(-50%);
+		transform: translate(-50%);
+	} @else if $position == 'both' {
+		top: 50%;
+		left: 50%;
+		-webkit-transform: translate(-50%, -50%);
+		-ms-transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
+	}
+}
+
+//------------------------------------------------------------
+
+//cnter-block() -> centrer rapidement un block
+// USAGE: @include center-block;
+
+@mixin center-block {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+//------------------------------------------------------------
+
+//center-child() -> centrer rapidement l'element (block, text, ...) enfant du selecteur en argument
+// USAGE: @include center-child('foo')
+
+@mixin center-child($selector) {
+	.#{$selector} {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+}
+
+//------------------------------------------------------------
+
+//clearfix() -> Ce mixin sera utile chaque fois que vous avez du contenu flottant à droite ou à gauche et que vous souhaitez effacer l'espace sous l'élément flottant pour insérer un nouveau contenu en dessous.
+/*
+USAGE:
+
+.container-with-floated-children {
+  @extend %clearfix;
+}
+*/
+//OPTIONS: vertical (gauche), horizontal (haut), both (center)
+
+%clearfix {
+	*zoom: 1;
+	&:before,
+	&:after {
+		content: ' ';
+		display: table;
+	}
+	&:after {
+		clear: both;
+	}
+}
