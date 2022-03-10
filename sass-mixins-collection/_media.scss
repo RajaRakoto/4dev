@@ -28,7 +28,7 @@ $breakpoint-small: 600px;
 $breakpoint-med-small: 960px;
 $breakpoint-med: 1175px;
 
-@mixin screen($size, $type: max, $pixels: $breakpoint-small) {
+@mixin media-queries($size, $type: max, $pixels: $breakpoint-small) {
 	@if $size == 'small' {
 		@media screen and ($type + -width: $breakpoint-small) {
 			@content;

@@ -1,7 +1,7 @@
 //DESCRIPTION: ensemble des mixins pour manipuler les effets css
 
 //opacity -> @include opacity(10%);
-@mixin opacity($opacity) {
+@mixin effect-opacity($opacity) {
   opacity: $opacity;
   $opacity-ie: $opacity * 100;
   filter: alpha(opacity=$opacity-ie); //IE8

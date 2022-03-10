@@ -8,7 +8,7 @@
 
 //font-size() -> ce mixin genere une taille de police cohérente
 //USAGE: @include font-size(14px);
-@mixin font-size($size) {
+@mixin typo-font-size($size) {
 	// font-size: $size; -- compatibilitE pour les navigateurs qui ne prennent pas en charge rem (IE8 et inférieur)
 	font-size: toRem($size);
 }
