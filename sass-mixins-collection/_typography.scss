@@ -1,0 +1,36 @@
+//DESCRIPTION: ensemble des mixins de manipulation de typographie (family, size, ...)
+@use 'sass:math';
+
+//convert pixel to rem
+@function toRem($size) {
+	@return math.div($size, 16px) * 1rem;
+}
+
+//font-size() -> ce mixin genere une taille de police cohérente
+//USAGE: @include font-size(14px);
+@mixin font-size($size) {
+	// font-size: $size; -- compatibilitE pour les navigateurs qui ne prennent pas en charge rem (IE8 et inférieur)
+	font-size: toRem($size);
+}
+
+//------------------------------------------------------------
+
+//font-face() -> ce mixin effectue l'importation rapide des polices externes et inclure les proprietEs coherentes.
+
+/*
+USAGE:
+
+@include font-face(firacode-regular, './Firacode/FiraCode-Regular.otf');
+p {
+  font-family: firacode-regular;
+}
+*/
+
+@mixin font-face($font-name, $path, $weight: normal, $style: normal) {
+	@font-face {
+		font-family: $font-name;
+		font-weight: $weight;
+		font-style: $style;
+		src: url($path);
+	}
+}

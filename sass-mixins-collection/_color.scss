@@ -1,0 +1,91 @@
+// DESCRIPTION: définir un thème de couleur à utiliser sur l'ensemble de votre site permet de gagner du temps en ayant les mêmes parties colorées de CSS sur les mêmes éléments HTML.
+
+// USAGE: @include color-theme(theme-banana, Orange, false, true);
+// arg1: $name -> nom du class (theme) a utiliser dans HTML
+// arg2: $color -> la couleur a utiliser comme theme (colors template)
+// arg3: $revert -> reverser la couleur (true) ou par defaut (false)
+// arg4: $bg -> afficher l'arriere plan (true) ou pas (false)
+
+// --- COLORS template ---
+// Tomato (rouge)
+// Orange (jaune)
+// DodgerBlue (bleu)
+// MediumSeaGreen (vert)
+// Gray
+// SlateBlue (violet)
+// Violet (rose)
+
+@mixin color-theme($name, $color, $revert: false, $bg: true) {
+	//default value
+	$primary: $color;
+	$secondary: lighten(adjust-hue($color, 20), 30%);
+	//ajustment
+	@if ($color == Tomato) {
+		$secondary: lighten(adjust-hue($color, 20), 30%);
+	} @else if ($color == Orange) {
+		$secondary: lighten(adjust-hue($color, 20), 40%);
+	} @else if ($color == DodgerBlue) {
+		$secondary: lighten(adjust-hue($color, 20), 40%);
+	} @else if ($color == MediumSeaGreen) {
+		$secondary: lighten(adjust-hue($color, 20), 45%);
+	} @else if ($color == Gray) {
+		$secondary: lighten(adjust-hue($color, 20), 40%);
+	} @else if ($color == SlateBlue) {
+		$secondary: lighten(adjust-hue($color, 20), 35%);
+	} @else if ($color == Violet) {
+		$secondary: lighten(adjust-hue($color, 20), 25%);
+	}
+	//create class
+	@if ($revert == true) {
+		.#{$name} {
+			color: $secondary;
+			background: $primary;
+		}
+	} @else {
+		.#{$name} {
+			color: $primary;
+			background: $secondary;
+		}
+	}
+	//background
+	@if ($bg == false) {
+		.#{$name} {
+			background: none;
+		}
+	}
+}
+
+//------------------------------------------------------------
+
+//une fonction qui retourne la pastel de la couleur en argument (couleur plus clair)
+@function color-pastel($color) {
+	$hue: hue($color);
+	$sat: 100%;
+	$light: 90%;
+	$pastel: hsl($hue, $sat, $light);
+
+	@return $pastel;
+}
+
+//------------------------------------------------------------
+
+//une fonction qui permet d'ajuster une couleur en fonction de la limunosite d'affichage
+@function lightness-shift($colour) {
+	@if (lightness($colour) < 25%) {
+		@return lighten($colour, 10%);
+	} @else {
+		@return darken($colour, 10%);
+	}
+}
+
+//------------------------------------------------------------
+
+//une fonction qui retourne le complementaire d'une couleur (charte)
+@mixin color-complement($color, $color-primary: $color) {
+	@if (hue($color) >= 135 and hue($color) < 180) {
+		$color: complement($color-primary);
+	} @else {
+		$color: adjust-hue($color, -60);
+	}
+	background: $color;
+}
