@@ -9,7 +9,7 @@ USAGE:
 //NOTE: En utilisant la propriété Sass null, vous pouvez omettre les propriétés de remplissage. Les mêmes règles s'appliquent pour les marges.
 
 //Padding mixin
-@mixin padding($top, $right, $bottom, $left) {
+@mixin spacing-padding($top, $right, $bottom, $left) {
 	padding-top: $top;
 	padding-right: $right;
 	padding-bottom: $bottom;
@@ -17,7 +17,7 @@ USAGE:
 }
 
 //Margin mixin
-@mixin margin($top, $right, $bottom, $left) {
+@mixin spacing-margin($top, $right, $bottom, $left) {
 	margin-top: $top;
 	margin-right: $right;
 	margin-bottom: $bottom;

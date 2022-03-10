@@ -5,7 +5,7 @@
 // USAGE: @include center(both);
 //OPTIONS: vertical (gauche), horizontal (haut), both (center)
 
-@mixin center($position) {
+@mixin position-center($position) {
 	position: absolute;
 
 	@if $position == 'vertical' {
@@ -32,7 +32,7 @@
 //cnter-block() -> centrer rapidement un block
 // USAGE: @include center-block;
 
-@mixin center-block {
+@mixin postion-center-block {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -43,7 +43,7 @@
 //center-child() -> centrer rapidement l'element (block, text, ...) enfant du selecteur en argument
 // USAGE: @include center-child('foo')
 
-@mixin center-child($selector) {
+@mixin position-center-child($selector) {
 	.#{$selector} {
 		display: flex;
 		align-items: center;

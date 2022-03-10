@@ -70,7 +70,7 @@
 //------------------------------------------------------------
 
 //une fonction qui permet d'ajuster une couleur en fonction de la limunosite d'affichage
-@function lightness-shift($colour) {
+@function color-ajust($colour) {
 	@if (lightness($colour) < 25%) {
 		@return lighten($colour, 10%);
 	} @else {
