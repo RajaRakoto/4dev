@@ -362,3 +362,83 @@
 	}
 }
 //fade(end)--------------------------------------
+
+//TODO: verified
+//zoom(begin)------------------------------------
+@mixin animation-zoom($in-out) {
+	@if ($in-out == in) {
+		-webkit-animation-name: zoomIn;
+		animation-name: zoomIn;
+		-webkit-animation-duration: 1s;
+		animation-duration: 1s;
+		-webkit-animation-fill-mode: both;
+		animation-fill-mode: both;
+
+		@-webkit-keyframes zoomIn {
+			0% {
+				opacity: 0;
+				-webkit-transform: scale3d(0.3, 0.3, 0.3);
+				transform: scale3d(0.3, 0.3, 0.3);
+			}
+			50% {
+				opacity: 1;
+			}
+		}
+		@keyframes zoomIn {
+			0% {
+				opacity: 0;
+				-webkit-transform: scale3d(0.3, 0.3, 0.3);
+				transform: scale3d(0.3, 0.3, 0.3);
+			}
+			50% {
+				opacity: 1;
+			}
+		}
+	}
+
+	@if ($in-out == out) {
+		-webkit-animation-name: zoomOut;
+		animation-name: zoomOut;
+		-webkit-animation-duration: 1s;
+		animation-duration: 1s;
+		-webkit-animation-fill-mode: both;
+		animation-fill-mode: both;
+
+		@-webkit-keyframes zoomOut {
+			0% {
+				opacity: 1;
+			}
+
+			50% {
+				opacity: 0;
+				-webkit-transform: scale3d(0.3, 0.3, 0.3);
+				transform: scale3d(0.3, 0.3, 0.3);
+			}
+			100% {
+				opacity: 0;
+			}
+		}
+		@keyframes zoomOut {
+			0% {
+				opacity: 1;
+			}
+			50% {
+				opacity: 0;
+				-webkit-transform: scale3d(0.3, 0.3, 0.3);
+				transform: scale3d(0.3, 0.3, 0.3);
+			}
+			100% {
+				opacity: 0;
+			}
+		}
+	}
+}
+//zoom(end)--------------------------------------
+
+//TODO: work
+//zoom(begin)------------------------------------
+//zoom(end)--------------------------------------
+
+//TODO: work
+//zoom(begin)------------------------------------
+//zoom(end)--------------------------------------
