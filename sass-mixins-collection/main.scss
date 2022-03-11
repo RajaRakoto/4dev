@@ -1,1 +1,3 @@
-@import './labs.scss';
+@import './ALL-IMPORT';
+
+@include color-theme('test', red, true, true);

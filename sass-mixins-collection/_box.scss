@@ -14,14 +14,14 @@
 	//activer/desactiver le couleur de l'arriere plan
 	$status: true //activer/desactiver les infos box
 ) {
-	@if ($status == true) {
+	@if ($status) {
 		#{$box-name} {
 			border: dashed 1px $color;
-			@if ($spacing == true) {
+			@if ($spacing) {
 				padding: 10px;
 				margin: 10px;
 			}
-			@if ($bg-color == true) {
+			@if ($bg-color) {
 				background-color: lighten(adjust-hue($color, 20), 25%);
 				// opacity: 70%;
 			}
@@ -32,7 +32,7 @@
 //------------------------------------------------------------
 
 //TODO: create BOX generator
-//box--template() -> mixin qui genere un box (type, couleur, taille, ...)
+//box--template() -> mixin qui genere un box (type, couleur, taille, ombre, bordure ...)
 //USAGE: box--template('foo', Orangered, solid, 120px, 200px, false)
 
 @mixin box-template(
@@ -45,7 +45,7 @@
 ) {
 	.#{$box-name} {
 		border: $type 2px $color;
-		@if ($bg-color == true) {
+		@if ($bg-color) {
 			background-color: lighten(adjust-hue($color, 20), 25%);
 		}
 		width: $width;
