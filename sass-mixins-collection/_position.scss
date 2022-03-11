@@ -5,25 +5,27 @@
 // USAGE: @include center(both);
 //OPTIONS: vertical (gauche), horizontal (haut), both (center)
 
-@mixin position-center($position) {
-	position: absolute;
+@mixin position-set($selector, $position) {
+	.#{$selector} {
+		position: absolute;
 
-	@if $position == 'vertical' {
-		top: 50%;
-		-webkit-transform: translateY(-50%);
-		-ms-transform: translateY(-50%);
-		transform: translateY(-50%);
-	} @else if $position == 'horizontal' {
-		left: 50%;
-		-webkit-transform: translateX(-50%);
-		-ms-transform: translateX(-50%);
-		transform: translate(-50%);
-	} @else if $position == 'both' {
-		top: 50%;
-		left: 50%;
-		-webkit-transform: translate(-50%, -50%);
-		-ms-transform: translate(-50%, -50%);
-		transform: translate(-50%, -50%);
+		@if $position == 'vertical' {
+			top: 50%;
+			-webkit-transform: translateY(-50%);
+			-ms-transform: translateY(-50%);
+			transform: translateY(-50%);
+		} @else if $position == 'horizontal' {
+			left: 50%;
+			-webkit-transform: translateX(-50%);
+			-ms-transform: translateX(-50%);
+			transform: translate(-50%);
+		} @else if $position == 'both' {
+			top: 50%;
+			left: 50%;
+			-webkit-transform: translate(-50%, -50%);
+			-ms-transform: translate(-50%, -50%);
+			transform: translate(-50%, -50%);
+		}
 	}
 }
 
@@ -32,10 +34,12 @@
 //cnter-block() -> centrer rapidement un block
 // USAGE: @include center-block;
 
-@mixin postion-center-block {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+@mixin position-center-block($selector) {
+	.#{$selector} {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
 }
 
 //------------------------------------------------------------
@@ -43,12 +47,10 @@
 //center-child() -> centrer rapidement l'element (block, text, ...) enfant du selecteur en argument
 // USAGE: @include center-child('foo')
 
-@mixin position-center-child($selector) {
-	.#{$selector} {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-	}
+@mixin position-center-child {
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 //------------------------------------------------------------
