@@ -649,7 +649,7 @@
 
 //TODO: verified (loading...)
 // USAGE: @include animation-rotate(in, up, left) | @include animation-rotate(out, down, right)
-//rotate(begin)------------------------------------
+//rotate(begin)----------------------------------
 @mixin animation-rotate($in-out, $axeY, $axeX) {
 	@if ($in-out == in) {
 		@if ($axeY == up) {
@@ -979,7 +979,49 @@
 		}
 	}
 }
-//rotate(end)--------------------------------------
+//rotate(end)------------------------------------
+
+//TODO: verified
+//flash(begin)------------------------------------
+@mixin animation-flash() {
+	-webkit-animation-name: flash;
+	animation-name: flash;
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+
+	@-webkit-keyframes flash {
+		0%,
+		50%,
+		100% {
+			opacity: 1;
+		}
+
+		25%,
+		75% {
+			opacity: 0;
+		}
+	}
+
+	@keyframes flash {
+		0%,
+		50%,
+		100% {
+			opacity: 1;
+		}
+
+		25%,
+		75% {
+			opacity: 0;
+		}
+	}
+}
+//flash(end)--------------------------------------
+
+//TODO: work
+//zoom(begin)------------------------------------
+//zoom(end)--------------------------------------
 
 //TODO: work
 //zoom(begin)------------------------------------
