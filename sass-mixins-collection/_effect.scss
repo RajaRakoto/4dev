@@ -2,7 +2,19 @@
 
 //opacity -> @include opacity(10%);
 @mixin effect-opacity($opacity) {
-  opacity: $opacity;
-  $opacity-ie: $opacity * 100;
-  filter: alpha(opacity=$opacity-ie); //IE8
+	opacity: $opacity;
+	$opacity-ie: $opacity * 100;
+	filter: alpha(opacity=$opacity-ie); //IE8
+}
+
+@mixin shadow-box {
+	box-shadow: 1px 3px 15px 1px rgba(0, 0, 0, 0.59);
+	-webkit-box-shadow: 1px 3px 15px 1px rgba(0, 0, 0, 0.59);
+	-moz-box-shadow: 1px 3px 15px 1px rgba(0, 0, 0, 0.59);
+}
+
+@mixin shadow-box-hover {
+	box-shadow: 5px 4px 18px 1px rgba(0, 0, 0, 0.59);
+	-webkit-box-shadow: 5px 4px 18px 1px rgba(0, 0, 0, 0.59);
+	-moz-box-shadow: 5px 4px 18px 1px rgba(0, 0, 0, 0.59);
 }
