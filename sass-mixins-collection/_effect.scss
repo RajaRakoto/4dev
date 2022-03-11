@@ -1,10 +1,10 @@
 //DESCRIPTION: ensemble des mixins & fonctions pour manipuler les effets css
 
 //opacity -> @include opacity(10%);
-@mixin effect-opacity($opacity) {
-	opacity: $opacity;
-	$opacity-ie: $opacity * 100;
-	filter: alpha(opacity=$opacity-ie); //IE8
+@mixin effect-opacity($percent) {
+	opacity: $percent;
+	$percent-ie: $percent * 100;
+	filter: alpha(opacity=$percent-ie); //IE8
 }
 
 @mixin shadow-box {
