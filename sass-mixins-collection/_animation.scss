@@ -1,5 +1,7 @@
 // DESCRIPTION: ensemble des mixins & fonctions pour des animations pre a employer
 
+//NOTE: Vous devez specifier le selecteur manuellement (syntaxe CSS basique)
+
 //TODO: verified
 //pulse(begin)------------------------------------
 @mixin animation-pulse {
@@ -40,5 +42,136 @@
 }
 //pulse(end)--------------------------------------
 
-//shiny(begin)------------------------------------
-//shiny(end)--------------------------------------
+//TODO: verified
+//slide(begin)------------------------------------
+@mixin animation-slide($type) {
+	@if ($type == up) {
+		-webkit-animation-name: slideInUp;
+		animation-name: slideInUp;
+		-webkit-animation-duration: 1s;
+		animation-duration: 1s;
+		-webkit-animation-fill-mode: both;
+		animation-fill-mode: both;
+
+		@-webkit-keyframes slideInUp {
+			0% {
+				-webkit-transform: translateY(100%);
+				transform: translateY(100%);
+				visibility: visible;
+			}
+			100% {
+				-webkit-transform: translateY(0);
+				transform: translateY(0);
+			}
+		}
+
+		@keyframes slideInUp {
+			0% {
+				-webkit-transform: translateY(100%);
+				transform: translateY(100%);
+				visibility: visible;
+			}
+			100% {
+				-webkit-transform: translateY(0);
+				transform: translateY(0);
+			}
+		}
+	}
+
+	@if ($type == down) {
+		-webkit-animation-name: slideInDown;
+		animation-name: slideInDown;
+		-webkit-animation-duration: 1s;
+		animation-duration: 1s;
+		-webkit-animation-fill-mode: both;
+		animation-fill-mode: both;
+		@-webkit-keyframes slideInDown {
+			0% {
+				-webkit-transform: translateY(-100%);
+				transform: translateY(-100%);
+				visibility: visible;
+			}
+			100% {
+				-webkit-transform: translateY(0);
+				transform: translateY(0);
+			}
+		}
+		@keyframes slideInDown {
+			0% {
+				-webkit-transform: translateY(-100%);
+				transform: translateY(-100%);
+				visibility: visible;
+			}
+			100% {
+				-webkit-transform: translateY(0);
+				transform: translateY(0);
+			}
+		}
+	}
+
+	@if ($type == left) {
+		-webkit-animation-name: slideInLeft;
+		animation-name: slideInLeft;
+		-webkit-animation-duration: 1s;
+		animation-duration: 1s;
+		-webkit-animation-fill-mode: both;
+		animation-fill-mode: both;
+
+		@-webkit-keyframes slideInLeft {
+			0% {
+				-webkit-transform: translateX(-100%);
+				transform: translateX(-100%);
+				visibility: visible;
+			}
+			100% {
+				-webkit-transform: translateX(0);
+				transform: translateX(0);
+			}
+		}
+		@keyframes slideInLeft {
+			0% {
+				-webkit-transform: translateX(-100%);
+				transform: translateX(-100%);
+				visibility: visible;
+			}
+			100% {
+				-webkit-transform: translateX(0);
+				transform: translateX(0);
+			}
+		}
+	}
+
+	@if ($type == right) {
+		-webkit-animation-name: slideInRight;
+		animation-name: slideInRight;
+		-webkit-animation-duration: 1s;
+		animation-duration: 1s;
+		-webkit-animation-fill-mode: both;
+		animation-fill-mode: both;
+
+		@-webkit-keyframes slideInRight {
+			0% {
+				-webkit-transform: translateX(100%);
+				transform: translateX(100%);
+				visibility: visible;
+			}
+			100% {
+				-webkit-transform: translateX(0);
+				transform: translateX(0);
+			}
+		}
+		@keyframes slideInRight {
+			0% {
+				-webkit-transform: translateX(100%);
+				transform: translateX(100%);
+				visibility: visible;
+			}
+			100% {
+				-webkit-transform: translateX(0);
+				transform: translateX(0);
+			}
+		}
+	}
+}
+
+//slide(end)--------------------------------------
