@@ -29,15 +29,23 @@ USAGE:
 }
 
 //spacing quickly
-@mixin spacing-quick($selector) {
-	.#{$selector} {
-		padding-top: 20px;
-		padding-right: 20px;
-		padding-bottom: 20px;
-		padding-left: 20px;
-		margin-top: 20px;
-		margin-right: 20px;
-		margin-bottom: 20px;
-		margin-left: 20px;
+@mixin spacing-quick($selector, $gabarit: medium) {
+	@if ($gabarit == small) {
+		.#{$selector} {
+			padding: 10px 10px 10px 10px;
+			margin: 10px 10px 10px 10px;
+		}
+	}
+	@if ($gabarit == medium) {
+		.#{$selector} {
+			padding: 30px 30px 30px 30px;
+			margin: 30px 30px 30px 30px;
+		}
+	}
+	@if ($gabarit == large) {
+		.#{$selector} {
+			padding: 50px 50px 50px 50px;
+			margin: 50px 50px 50px 50px;
+		}
 	}
 }
