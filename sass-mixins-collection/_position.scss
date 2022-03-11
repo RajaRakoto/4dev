@@ -1,54 +1,68 @@
-// DESCRIPTION: ensemble des mixins dont le but est de positionner des elements plus rapidement et plus polyvalents possibles
+// DESCRIPTION: ensemble des mixins & fonctions dont le but est de positionner des elements plus rapidement et plus polyvalents possibles
 
-//center() -> center rapidement vos elements
-//NOTE: L'element parent doit etre en position relative
-// USAGE: @include center(both);
+// position-set() -> positionner rapidement vos elements par rapport a son element parent
+// USAGE: @include position-set('foo', both);
 //OPTIONS: vertical (gauche), horizontal (haut), both (center)
 
-@mixin position-center($position) {
-	position: absolute;
-
-	@if $position == 'vertical' {
-		top: 50%;
-		-webkit-transform: translateY(-50%);
-		-ms-transform: translateY(-50%);
-		transform: translateY(-50%);
-	} @else if $position == 'horizontal' {
-		left: 50%;
-		-webkit-transform: translateX(-50%);
-		-ms-transform: translateX(-50%);
-		transform: translate(-50%);
-	} @else if $position == 'both' {
-		top: 50%;
-		left: 50%;
-		-webkit-transform: translate(-50%, -50%);
-		-ms-transform: translate(-50%, -50%);
-		transform: translate(-50%, -50%);
-	}
-}
-
-//------------------------------------------------------------
-
-//cnter-block() -> centrer rapidement un block
-// USAGE: @include center-block;
-
-@mixin postion-center-block {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-//------------------------------------------------------------
-
-//center-child() -> centrer rapidement l'element (block, text, ...) enfant du selecteur en argument
-// USAGE: @include center-child('foo')
-
-@mixin position-center-child($selector) {
+//TODO: test
+@mixin position-set($selector, $position) {
 	.#{$selector} {
-		display: flex;
-		align-items: center;
-		justify-content: center;
+		position: relative;
+
+		@if $position == 'vertical' {
+			top: 50%;
+			-webkit-transform: translateY(-50%);
+			-ms-transform: translateY(-50%);
+			transform: translateY(-50%);
+		} @else if $position == 'horizontal' {
+			left: 50%;
+			-webkit-transform: translateX(-50%);
+			-ms-transform: translateX(-50%);
+			transform: translate(-50%);
+		} @else if $position == 'both' {
+			top: 50%;
+			left: 50%;
+			-webkit-transform: translate(-50%, -50%);
+			-ms-transform: translate(-50%, -50%);
+			transform: translate(-50%, -50%);
+		}
 	}
+}
+
+//------------------------------------------------------------
+
+// position-center-block() -> centrer rapidement un block
+// USAGE: @include position-center-block('foo');
+
+//TODO: verified
+@mixin position-center-block($selector) {
+	.#{$selector} {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+//------------------------------------------------------------
+
+// position-center-flex() -> centrer rapidement l'element enfant du selecteur en argument
+// USAGE: @include position-center-flex('foo')
+
+//TODO: verified
+@mixin position-center-flex {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+//------------------------------------------------------------
+
+// position-center-text () -> centrer rapidement un text
+// USAGE: @include position-center-text()
+
+//TODO: verified
+@mixin position-center-text {
+	text-align: center;
 }
 
 //------------------------------------------------------------
@@ -63,6 +77,7 @@ USAGE:
 */
 //OPTIONS: vertical (gauche), horizontal (haut), both (center)
 
+//TODO: verified
 %clearfix {
 	*zoom: 1;
 	&:before,

@@ -1,16 +1,10 @@
-//DESCRIPTION: ensemble des mixins de manipulation de typographie (family, size, ...)
+//DESCRIPTION: ensemble des mixins & fonctions de manipulation de typographie (family, size, ...)
 @use 'sass:math';
 
+//TODO: verified
 //convert pixel to rem
 @function toRem($size) {
 	@return math.div($size, 16px) * 1rem;
-}
-
-//font-size() -> ce mixin genere une taille de police cohérente
-//USAGE: @include font-size(14px);
-@mixin typo-font-size($size) {
-	// font-size: $size; -- compatibilitE pour les navigateurs qui ne prennent pas en charge rem (IE8 et inférieur)
-	font-size: toRem($size);
 }
 
 //------------------------------------------------------------
@@ -26,6 +20,7 @@ p {
 }
 */
 
+//TODO: verified
 @mixin font-face($font-name, $path, $weight: normal, $style: normal) {
 	@font-face {
 		font-family: $font-name;
