@@ -20,22 +20,22 @@
 @mixin color-theme($selector, $color, $revert: false, $bg: true) {
 	//default value
 	$primary: $color;
-	$secondary: lighten(adjust-hue($color, 20), 30%);
+	$secondary: color-adjust($color, 30%);
 	//ajustment
 	@if ($color == Tomato) {
-		$secondary: lighten(adjust-hue($color, 20), 30%);
+		$secondary: color-adjust($color, 30%);
 	} @else if ($color == Orange) {
-		$secondary: lighten(adjust-hue($color, 20), 40%);
+		$secondary: color-adjust($color, 40%);
 	} @else if ($color == DodgerBlue) {
-		$secondary: lighten(adjust-hue($color, 20), 40%);
+		$secondary: color-adjust($color, 40%);
 	} @else if ($color == MediumSeaGreen) {
-		$secondary: lighten(adjust-hue($color, 20), 45%);
+		$secondary: color-adjust($color, 45%);
 	} @else if ($color == Gray) {
-		$secondary: lighten(adjust-hue($color, 20), 40%);
+		$secondary: color-adjust($color, 40%);
 	} @else if ($color == SlateBlue) {
-		$secondary: lighten(adjust-hue($color, 20), 35%);
+		$secondary: color-adjust($color, 35%);
 	} @else if ($color == Violet) {
-		$secondary: lighten(adjust-hue($color, 20), 25%);
+		$secondary: color-adjust($color, 25%);
 	}
 	//create class
 	@if ($revert) {
@@ -59,7 +59,7 @@
 
 //------------------------------------------------------------
 
-//une fonction qui retourne la pastel de la couleur en argument 
+//une fonction qui retourne la pastel de la couleur en argument
 @function color-pastel($color) {
 	$hue: hue($color);
 	$sat: 100%;
