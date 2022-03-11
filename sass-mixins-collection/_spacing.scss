@@ -8,7 +8,7 @@ USAGE:
 
 //NOTE: En utilisant la propriété Sass null, vous pouvez omettre les propriétés de remplissage. Les mêmes règles s'appliquent pour les marges.
 
-//Padding mixin
+//set padding manually
 @mixin spacing-padding($selector, $top, $right, $bottom, $left) {
 	.#{$selector} {
 		padding-top: $top;
@@ -18,12 +18,26 @@ USAGE:
 	}
 }
 
-//Margin mixin
+//set margin manually
 @mixin spacing-margin($selector, $top, $right, $bottom, $left) {
 	.#{$selector} {
 		margin-top: $top;
 		margin-right: $right;
 		margin-bottom: $bottom;
 		margin-left: $left;
+	}
+}
+
+//spacing quickly
+@mixin spacing-quick($selector) {
+	.#{$selector} {
+		padding-top: 20px;
+		padding-right: 20px;
+		padding-bottom: 20px;
+		padding-left: 20px;
+		margin-top: 20px;
+		margin-right: 20px;
+		margin-bottom: 20px;
+		margin-left: 20px;
 	}
 }
