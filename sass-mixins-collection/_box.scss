@@ -1,15 +1,13 @@
 //DESCRIPTION: des mixins & fonctions qui regroupe les modeles de box utile lors du developpement front
 
 //box--info() -> mettre un bordure/couleur d'arriere plan pour un block (utile lors du debogage front)
-//USAGE: @include box--info('.foo', red, false, true, true);
+//USAGE: @include box--info('.foo', red, true, true);
 
 @mixin box-info(
 	$selector,
 	//nom du class a generer ou la class a cibler
 	$color,
 	//couleur du bordure
-	$spacing: false,
-	//ajouter/pas un espacement du box
 	$bg-color: false,
 	//activer/desactiver le couleur de l'arriere plan
 	$status: true //activer/desactiver les infos box
@@ -17,10 +15,6 @@
 	@if ($status) {
 		#{$selector} {
 			border: dashed 1px $color;
-			@if ($spacing) {
-				padding: 10px;
-				margin: 10px;
-			}
 			@if ($bg-color) {
 				background-color: lighten(adjust-hue($color, 20), 25%);
 				// opacity: 70%;
@@ -37,7 +31,7 @@
 
 @import './effect';
 
-@mixin box-template(
+@mixin box-generator(
 	$selector,
 	$color,
 	$width,
