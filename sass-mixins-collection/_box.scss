@@ -4,7 +4,7 @@
 //USAGE: @include box--info('.foo', red, false, true, true);
 
 @mixin box-info(
-	$box-name,
+	$selector,
 	//nom du class a generer ou la class a cibler
 	$color,
 	//couleur du bordure
@@ -15,7 +15,7 @@
 	$status: true //activer/desactiver les infos box
 ) {
 	@if ($status) {
-		#{$box-name} {
+		#{$selector} {
 			border: dashed 1px $color;
 			@if ($spacing) {
 				padding: 10px;
@@ -35,20 +35,33 @@
 //box--template() -> mixin qui genere un box (type, couleur, taille, ombre, bordure ...)
 //USAGE: box--template('foo', Orangered, solid, 120px, 200px, false)
 
+@mixin box-shadow {
+	box-shadow: 1px 3px 15px 1px rgba(0, 0, 0, 0.59);
+	-webkit-box-shadow: 1px 3px 15px 1px rgba(0, 0, 0, 0.59);
+	-moz-box-shadow: 1px 3px 15px 1px rgba(0, 0, 0, 0.59);
+}
+
+@mixin box-shadow-hover {
+	box-shadow: 5px 4px 18px 1px rgba(0, 0, 0, 0.59);
+	-webkit-box-shadow: 5px 4px 18px 1px rgba(0, 0, 0, 0.59);
+	-moz-box-shadow: 5px 4px 18px 1px rgba(0, 0, 0, 0.59);
+}
+
 @mixin box-template(
-	$box-name,
+	$selector,
 	$color,
-	$type,
 	$width,
 	$height,
-	$bg-color: true
+	$radius,
+	$shadow: true
 ) {
-	.#{$box-name} {
-		border: $type 2px $color;
-		@if ($bg-color) {
-			background-color: lighten(adjust-hue($color, 20), 25%);
-		}
+	.#{$selector} {
+		background-color: $color;
 		width: $width;
 		height: $height;
+		border-radius: $radius;
+		@if ($shadow) {
+			@include box-shadow();
+		}
 	}
 }
