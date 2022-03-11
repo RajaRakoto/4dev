@@ -4,6 +4,7 @@
 // USAGE: @include position-set('foo', both);
 //OPTIONS: vertical (gauche), horizontal (haut), both (center)
 
+//TODO: test
 @mixin position-set($selector, $position) {
 	.#{$selector} {
 		position: relative;
@@ -33,6 +34,7 @@
 // position-center-block() -> centrer rapidement un block
 // USAGE: @include position-center-block('foo');
 
+//TODO: verified
 @mixin position-center-block($selector) {
 	.#{$selector} {
 		display: block;
@@ -46,6 +48,7 @@
 // position-center-flex() -> centrer rapidement l'element enfant du selecteur en argument
 // USAGE: @include position-center-flex('foo')
 
+//TODO: verified
 @mixin position-center-flex {
 	display: flex;
 	align-items: center;
@@ -57,6 +60,7 @@
 // position-center-text () -> centrer rapidement un text
 // USAGE: @include position-center-text()
 
+//TODO: verified
 @mixin position-center-text {
 	text-align: center;
 }
@@ -73,6 +77,7 @@ USAGE:
 */
 //OPTIONS: vertical (gauche), horizontal (haut), both (center)
 
+//TODO: verified
 %clearfix {
 	*zoom: 1;
 	&:before,

@@ -1,8 +1,10 @@
-//DESCRIPTION: des mixins & fonctions qui regroupe les modeles de box utile lors du developpement front
+// DESCRIPTION: des mixins & fonctions qui regroupe les modeles de box utile lors du developpement front
 
-//box--info() -> mettre un bordure/couleur d'arriere plan pour un block (utile lors du debogage front)
-//USAGE: @include box--info('.foo', red, true, true);
+// box--info() -> mettre un bordure/couleur d'arriere plan pour un block (utile lors du debogage front)
+// USAGE: @include box--info('.foo', red, true, true);
 
+
+//TODO: test
 @mixin box-info(
 	$selector,
 	//nom du class a generer ou la class a cibler
@@ -25,9 +27,9 @@
 
 //------------------------------------------------------------
 
-//TODO: create BOX generator
+//TODO: verified
 //box--template() -> mixin qui genere un box (type, couleur, taille, ombre, bordure ...)
-//USAGE: box--template('foo', Orangered, solid, 120px, 200px, false)
+// USAGE: box--template('foo', Orangered, solid, 120px, 200px, false)
 
 @import './effect';
 

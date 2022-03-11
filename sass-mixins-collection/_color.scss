@@ -17,6 +17,7 @@
 // SlateBlue (violet)
 // Violet (rose)
 
+//TODO: test
 @mixin color-theme($selector, $color, $revert: false, $bg: true) {
 	//default value
 	$primary: $color;
@@ -59,6 +60,8 @@
 
 //------------------------------------------------------------
 
+
+//TODO: verified
 //une fonction qui retourne la pastel de la couleur en argument
 @function color-pastel($color) {
 	$hue: hue($color);
@@ -71,6 +74,7 @@
 
 //------------------------------------------------------------
 
+//TODO: verified
 //une fonction qui ajuste la luminosite d'une couleur en argument
 @function color-adjust($color, $percent) {
 	$adjust: lighten(adjust-hue($color, 20), $percent);
@@ -80,6 +84,7 @@
 
 //------------------------------------------------------------
 
+//TODO: verified
 //une fonction qui permet d'ajuster une couleur en fonction de la contraste d'affichage
 @function color-contrast($colour) {
 	@if (lightness($colour) < 25%) {
@@ -91,6 +96,7 @@
 
 //------------------------------------------------------------
 
+//TODO: verified
 //une fonction qui retourne le complementaire d'une couleur (charte)
 @function color-complement($color, $color-primary: $color) {
 	@if (hue($color) >= 135 and hue($color) < 180) {
