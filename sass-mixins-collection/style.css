@@ -1,0 +1,45 @@
+/*
+ USAGE:
+
+@import './media-queries';
+
+.foo {
+  @include screen(large) {
+    width: 20%;
+  }
+  @include screen(med) {
+    width: 40%;
+  }
+  @include screen(med-small) {
+    width: 60%;
+  }
+  @include screen(small) {
+    width: 80%;
+  }
+  @include screen(custom, max, 400) {
+    width: 100%;
+  }
+}
+*/
+/*
+USAGE:
+
+.container-with-floated-children {
+  @extend %clearfix;
+}
+*/
+/*
+USAGE:
+@include padding(1px, null, 3px, 4px);
+@include margin(1px, 2px, null, 4px);
+*/
+/*
+USAGE:
+
+@include font-face(firacode-regular, './Firacode/FiraCode-Regular.otf');
+p {
+  font-family: firacode-regular;
+}
+*/
+
+/*# sourceMappingURL=style.css.map */
