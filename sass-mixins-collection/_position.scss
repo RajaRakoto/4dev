@@ -1,13 +1,12 @@
 // DESCRIPTION: ensemble des mixins & fonctions dont le but est de positionner des elements plus rapidement et plus polyvalents possibles
 
-//center() -> positionner rapidement vos elements
-//NOTE: L'element parent doit etre en position relative
-// USAGE: @include center(both);
+// position-set() -> positionner rapidement vos elements par rapport a son element parent
+// USAGE: @include position-set('foo', both);
 //OPTIONS: vertical (gauche), horizontal (haut), both (center)
 
 @mixin position-set($selector, $position) {
 	.#{$selector} {
-		position: absolute;
+		position: relative;
 
 		@if $position == 'vertical' {
 			top: 50%;
@@ -31,8 +30,8 @@
 
 //------------------------------------------------------------
 
-//cnter-block() -> centrer rapidement un block
-// USAGE: @include center-block;
+// position-center-block() -> centrer rapidement un block
+// USAGE: @include position-center-block('foo');
 
 @mixin position-center-block($selector) {
 	.#{$selector} {
@@ -44,13 +43,22 @@
 
 //------------------------------------------------------------
 
-//center-child() -> centrer rapidement l'element (block, text, ...) enfant du selecteur en argument
-// USAGE: @include center-child('foo')
+// position-center-flex() -> centrer rapidement l'element enfant du selecteur en argument
+// USAGE: @include position-center-flex('foo')
 
-@mixin position-center-child {
+@mixin position-center-flex {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+
+//------------------------------------------------------------
+
+// position-center-text () -> centrer rapidement un text
+// USAGE: @include position-center-text()
+
+@mixin position-center-text {
+	text-align: center;
 }
 
 //------------------------------------------------------------
