@@ -15,7 +15,7 @@
 // SlateBlue (violet)
 // Violet (rose)
 
-@mixin color-theme($name, $color, $revert: false, $bg: true) {
+@mixin color-theme($selector, $color, $revert: false, $bg: true) {
 	//default value
 	$primary: $color;
 	$secondary: lighten(adjust-hue($color, 20), 30%);
@@ -37,19 +37,19 @@
 	}
 	//create class
 	@if ($revert) {
-		.#{$name} {
+		.#{$selector} {
 			color: $secondary;
 			background: $primary;
 		}
 	} @else {
-		.#{$name} {
+		.#{$selector} {
 			color: $primary;
 			background: $secondary;
 		}
 	}
 	//background
 	@if ($bg == false) {
-		.#{$name} {
+		.#{$selector} {
 			background: none;
 		}
 	}
