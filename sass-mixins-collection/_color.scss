@@ -1,4 +1,6 @@
-// DESCRIPTION: définir un thème de couleur à utiliser sur l'ensemble de votre site permet de gagner du temps en ayant les mêmes parties colorées de CSS sur les mêmes éléments HTML.
+// DESCRIPTION: des mixins & fonctions pour manipuler la couleur d'un element
+
+//color-theme() -> définir un thème de couleur à utiliser sur l'ensemble de votre site permet de gagner du temps en ayant les mêmes parties colorées de CSS sur les mêmes éléments HTML.
 
 // USAGE: @include color-theme(theme-banana, Orange, false, true);
 // arg1: $name -> nom du class (theme) a utiliser dans HTML
