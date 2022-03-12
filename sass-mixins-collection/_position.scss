@@ -6,7 +6,7 @@
 
 //TODO: test
 @mixin position-set($selector, $position) {
-	.#{$selector} {
+	#{$selector} {
 		position: relative;
 
 		@if $position == 'vertical' {
@@ -37,7 +37,7 @@
 // centrer rapidement un block
 //TODO: verified
 @mixin position-center-block($selector) {
-	.#{$selector} {
+	#{$selector} {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
@@ -52,10 +52,32 @@
 // centrer rapidement l'element enfant du selecteur en argument
 //TODO: verified
 @mixin position-center-flex($selector) {
-	.#{$selector} {
+	#{$selector} {
 		display: flex;
 		align-items: center;
 		justify-content: center;
+	}
+}
+
+// aligner les elements ligne par ligne
+//TODO: verified
+@mixin position-row-flex($child, $parent) {
+	#{$parent} {
+		display: flex;
+	}
+	#{$child} {
+		flex-direction: row;
+	}
+}
+
+// aligner les elements colonne par colonne
+//TODO: verified
+@mixin position-col-flex($child, $parent) {
+	#{$parent} {
+		display: flex;
+	}
+	#{$child} {
+		flex-direction: column;
 	}
 }
 
