@@ -49,10 +49,12 @@
 // USAGE: @include position-center-flex('foo')
 
 //TODO: verified
-@mixin position-center-flex {
-	display: flex;
-	align-items: center;
-	justify-content: center;
+@mixin position-center-flex($selector) {
+	.#{$selector} {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
 }
 
 //------------------------------------------------------------
