@@ -1,71 +1,17 @@
-/*
- USAGE:
+/* Error: expected "{".
+ *    ,
+ * 10 | @include box-debug('debug1', red);
+ *    |                                  ^
+ *    '
+ *   ../../../Labs/PROJECTS/4web/sass-mixins-collection/main.scss 10:34  root stylesheet */
 
-@import './media-queries';
-
-.foo {
-  @include screen(large) {
-    width: 20%;
-  }
-  @include screen(med) {
-    width: 40%;
-  }
-  @include screen(med-small) {
-    width: 60%;
-  }
-  @include screen(small) {
-    width: 80%;
-  }
-  @include screen(custom, max, 400) {
-    width: 100%;
-  }
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: expected \"{\".\a    \2577 \a 10 \2502  @include box-debug('debug1', red);\a    \2502                                   ^\a    \2575 \a   ../../../Labs/PROJECTS/4web/sass-mixins-collection/main.scss 10:34  root stylesheet";
 }
-*/
-/*
-USAGE:
-
-.container-with-floated-children {
-  @extend %clearfix;
-}
-*/
-/*
-USAGE:
-@include padding(1px, null, 3px, 4px);
-@include margin(1px, 2px, null, 4px);
-*/
-/*
-USAGE:
-
-@include font-face(firacode-regular, './Firacode/FiraCode-Regular.otf');
-p {
-  font-family: firacode-regular;
-}
-*/
-.debug1 {
-  border: solid 1px red;
-}
-
-.debug2 {
-  border: solid 1px green;
-}
-
-.debug3 {
-  border: solid 1px yellow;
-}
-
-.col {
-  width: 100px;
-  height: 140px;
-}
-
-.col {
-  padding: 10px 10px 10px 10px;
-  margin: 10px 10px 10px 10px;
-}
-
-.row {
-  padding: 30px 30px 30px 30px;
-  margin: 30px 30px 30px 30px;
-}
-
-/*# sourceMappingURL=style.css.map */

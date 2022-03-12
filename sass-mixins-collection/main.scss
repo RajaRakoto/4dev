@@ -1,5 +1,10 @@
 @import './ALL-IMPORT';
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 // @include normalize;
 
 @include box-debug('debug1', red);
@@ -9,3 +14,9 @@
 @include box-size('col', 100px, 140px);
 @include spacing-quick('col', small);
 @include spacing-quick('row', medium);
+<<<<<<< Updated upstream
+=======
+
+@include position-center-block('col');
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
