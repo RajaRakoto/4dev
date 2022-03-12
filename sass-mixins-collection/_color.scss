@@ -40,19 +40,19 @@
 	}
 	//create class
 	@if ($revert) {
-		.#{$selector} {
+		#{$selector} {
 			color: $secondary;
 			background: $primary;
 		}
 	} @else {
-		.#{$selector} {
+		#{$selector} {
 			color: $primary;
 			background: $secondary;
 		}
 	}
 	//background
 	@if ($bg == false) {
-		.#{$selector} {
+		#{$selector} {
 			background: none;
 		}
 	}
