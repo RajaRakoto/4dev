@@ -41,5 +41,31 @@ p {
   font-family: firacode-regular;
 }
 */
+.debug1 {
+  border: solid 1px red;
+}
+
+.debug2 {
+  border: solid 1px green;
+}
+
+.debug3 {
+  border: solid 1px yellow;
+}
+
+.col {
+  width: 100px;
+  height: 140px;
+}
+
+.col {
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+}
+
+.row {
+  padding: 30px 30px 30px 30px;
+  margin: 30px 30px 30px 30px;
+}
 
 /*# sourceMappingURL=style.css.map */
