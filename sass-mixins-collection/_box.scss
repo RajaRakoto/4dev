@@ -14,7 +14,7 @@
 	$status: true //activer/desactiver les infos box
 ) {
 	@if ($status) {
-		.#{$selector} {
+		#{$selector} {
 			border: solid 1px $color;
 			@if ($bg-color) {
 				background-color: lighten(adjust-hue($color, 20), 25%);
@@ -40,7 +40,7 @@
 	$radius,
 	$shadow: true
 ) {
-	.#{$selector} {
+	#{$selector} {
 		background-color: $color;
 		width: $width;
 		height: $height;
@@ -58,7 +58,7 @@
 // USAGE: box-size('foo', 100px, 45px);
 
 @mixin box-size($selector, $width, $height) {
-	.#{$selector} {
+	#{$selector} {
 		width: $width;
 		height: $height;
 	}

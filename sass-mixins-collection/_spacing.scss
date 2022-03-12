@@ -11,7 +11,7 @@ USAGE:
 //TODO: verified
 //set padding manually
 @mixin spacing-padding($selector, $top, $right, $bottom, $left) {
-	.#{$selector} {
+	#{$selector} {
 		padding-top: $top;
 		padding-right: $right;
 		padding-bottom: $bottom;
@@ -22,7 +22,7 @@ USAGE:
 //TODO: verified
 //set margin manually
 @mixin spacing-margin($selector, $top, $right, $bottom, $left) {
-	.#{$selector} {
+	#{$selector} {
 		margin-top: $top;
 		margin-right: $right;
 		margin-bottom: $bottom;
@@ -34,19 +34,19 @@ USAGE:
 //spacing quickly
 @mixin spacing-quick($selector, $gabarit: medium) {
 	@if ($gabarit == small) {
-		.#{$selector} {
+		#{$selector} {
 			padding: 10px 10px 10px 10px;
 			margin: 10px 10px 10px 10px;
 		}
 	}
 	@if ($gabarit == medium) {
-		.#{$selector} {
+		#{$selector} {
 			padding: 30px 30px 30px 30px;
 			margin: 30px 30px 30px 30px;
 		}
 	}
 	@if ($gabarit == large) {
-		.#{$selector} {
+		#{$selector} {
 			padding: 50px 50px 50px 50px;
 			margin: 50px 50px 50px 50px;
 		}
