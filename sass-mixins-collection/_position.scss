@@ -31,9 +31,10 @@
 
 //------------------------------------------------------------
 
-// position-center-block() -> centrer rapidement un block
-// USAGE: @include position-center-block('foo');
+/* ### BLOCK ###*/
+// les mixins de manipulation de block CSS
 
+// centrer rapidement un block
 //TODO: verified
 @mixin position-center-block($selector) {
 	.#{$selector} {
@@ -45,14 +46,17 @@
 
 //------------------------------------------------------------
 
-// position-center-flex() -> centrer rapidement l'element enfant du selecteur en argument
-// USAGE: @include position-center-flex('foo')
+/* ### FLEX ###*/
+// les mixins de manipulation de flex CSS
 
+// centrer rapidement l'element enfant du selecteur en argument
 //TODO: verified
-@mixin position-center-flex {
-	display: flex;
-	align-items: center;
-	justify-content: center;
+@mixin position-center-flex($selector) {
+	.#{$selector} {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
 }
 
 //------------------------------------------------------------

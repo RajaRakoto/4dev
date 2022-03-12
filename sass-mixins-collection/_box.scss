@@ -1,11 +1,10 @@
 // DESCRIPTION: des mixins & fonctions qui regroupe les modeles de box utile lors du developpement front
 
-// box--info() -> mettre un bordure/couleur d'arriere plan pour un block (utile lors du debogage front)
+// box-debug() -> mettre un bordure/couleur d'arriere plan pour un block (utile lors du debogage front)
 // USAGE: @include box--info('.foo', red, true, true);
 
-
-//TODO: test
-@mixin box-info(
+//TODO: verified
+@mixin box-debug(
 	$selector,
 	//nom du class a generer ou la class a cibler
 	$color,
@@ -15,8 +14,8 @@
 	$status: true //activer/desactiver les infos box
 ) {
 	@if ($status) {
-		#{$selector} {
-			border: dashed 1px $color;
+		.#{$selector} {
+			border: solid 1px $color;
 			@if ($bg-color) {
 				background-color: lighten(adjust-hue($color, 20), 25%);
 				// opacity: 70%;
@@ -28,8 +27,8 @@
 //------------------------------------------------------------
 
 //TODO: verified
-//box--template() -> mixin qui genere un box (type, couleur, taille, ombre, bordure ...)
-// USAGE: box--template('foo', Orangered, solid, 120px, 200px, false)
+// box-generator() -> mixin qui genere un box (type, couleur, taille, ombre, bordure ...)
+// USAGE:  box-generator('foo', Orangered, solid, 120px, 200px, false)
 
 @import './effect';
 
@@ -49,5 +48,18 @@
 		@if ($shadow) {
 			@include shadow-box();
 		}
+	}
+}
+
+//------------------------------------------------------------
+
+//TODO: verified
+//box-size() -> mixin qui modifie la taille d'un box (width, height)
+// USAGE: box-size('foo', 100px, 45px);
+
+@mixin box-size($selector, $width, $height) {
+	.#{$selector} {
+		width: $width;
+		height: $height;
 	}
 }
