@@ -30,7 +30,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | 📌 **vantaJS** (JS library) | 3D & WebGL Background Animations For Your Website. |
 
 <div align="center">
-<img src=" https://github.com/RajaRakoto/github-docs/blob/master/4web/npm.png?raw=true" width="80"><br>
+<img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/npm.png?raw=true" width="80"><br>
 
 **Liste des packages (NPM) utiles**
 
@@ -46,7 +46,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | 📦 **animate.css** | Une bibliothèque multi-navigateurs d'animations CSS. Aussi facile à utiliser qu'une chose facile. | `npm install animate.css --save` | 5mb | [💡](https://animate.style) |
 
 <div align="center">
-<img src=" https://github.com/RajaRakoto/github-docs/blob/master/4web/link.png?raw=true" width="200"><br>
+<img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/link.png?raw=true" width="200"><br>
 
 **Liste des liens utiles**
 
