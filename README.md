@@ -5,6 +5,24 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-777?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-777?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![Sass](https://img.shields.io/badge/-Sass-777?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699) ![JSON](https://img.shields.io/badge/-JSON-777?style=flat&logo=JSON&logoColor=777&labelColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff)![Typescript](https://img.shields.io/badge/-Typescript-777?style=flat&logo=typescript&logoColor=dodgerblue&labelColor=ffffff) ![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![Gitub](https://img.shields.io/badge/-Gitub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff) ![NPM](https://img.shields.io/badge/-NPM-777?style=flat&logo=npm&labelColor=ffffff)<br>
 
+| Table des matières                                                    |
+| :-------------------------------------------------------------------- |
+| [CSS Frameworks](#-css-frameworks)                                    |
+| [Components & kits](#-components--kits)                               |
+| [Template & ideas (html + css + js)](#-template--ideas-html--css--js) |
+| [Animations](#-animations)                                            |
+| [Navigation & menu](#-navigation--menu)                               |
+| [Backgrounds](#-backgrounds)                                          |
+| [Charte graphique (colors)](#-charte-graphique-colors)                |
+| [Notifications & alerts](#-notifications--alerts)                     |
+| [Loaders & spinners](#-loaders--spinners)                             |
+| [Photos & videos](#-photos--videos)                                   |
+| [Music & Sound effects](#-music--sound-effects)                       |
+| [Icons](#-icons)                                                      |
+| [Fonts](#-fonts)                                                      |
+| [Logos](#-logos)                                                      |
+| [Effects](#-effects)                                                  |
+
 _📨 Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ..._
 
 </div>
@@ -39,7 +57,7 @@ Collection des meilleurs packages NPM qui peuvent vous être utiles ...
 
 </div>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 | Package name | Descriptions | Install | Size | Usage |
 | :-- | :-- | :-- | :-- | :-- |
@@ -124,6 +142,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **UI design daily** (figma, sketch, photoshop)](https://www.uidesigndaily.com) | Composants d'interface utilisateur impressionnants de tous types | ⭐⭐⭐⭐🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#-installation">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -165,6 +186,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Transitions & Transforms** (animation)](https://thoughtbot.com/blog/transitions-and-transforms) | Transitions et transformations CSS pour les débutants | ⭐⭐⭐🟊🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#-installation">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -207,6 +231,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **UI Gradients** (gradient)](https://uigradients.com) | Générateur de couleurs dégradés d'interface utilisateur | ⭐⭐⭐⭐🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#-installation">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -241,6 +268,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Magdeleine** (photos - theme)](https://colorcurves.app) | Galerie et photo haute résolution gratuite tous les jours | ⭐⭐⭐⭐🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#-installation">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -276,6 +306,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Dafont** (font)](https://www.dafont.com) | Archive des polices téléchargeables gratuitement | ⭐⭐⭐⭐🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#-installation">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -299,5 +332,8 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Brumm Shadow Maker** (shadow)](https://shadows.brumm.af/) | Faire une ombre douce | ⭐⭐⭐⭐⭐ |
 
 <br>
+<div align="right">
+    <b><a href="#-installation">↥ Back To Top</a></b>
+</div>
 
 🅴🅽🅹🅾🆈 ❗
