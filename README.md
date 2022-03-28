@@ -1,11 +1,12 @@
 <div align="center">
-<img src="./4web.png" width="300">
+<img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/4web.png?raw=true" width="300">
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/for-dago.svg?raw=true)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/build-by.svg?raw=true)](https://forthebadge.com)
 
-![HTML5](https://img.shields.io/badge/-TML5-777?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-777?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![Sass](https://img.shields.io/badge/-Sass-777?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699) ![JSON](https://img.shields.io/badge/-JSON-777?style=flat&logo=JSON&logoColor=777&labelColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff)![Typescript](https://img.shields.io/badge/-Typescript-777?style=flat&logo=typescript&logoColor=dodgerblue&labelColor=ffffff) ![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![Gitub](https://img.shields.io/badge/-Gitub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff) ![NPM](https://img.shields.io/badge/-NPM-777?style=flat&logo=npm&labelColor=ffffff)<br>
+![HTML5](https://img.shields.io/badge/-HTML5-777?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-777?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![Sass](https://img.shields.io/badge/-Sass-777?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699) ![JSON](https://img.shields.io/badge/-JSON-777?style=flat&logo=JSON&logoColor=777&labelColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff)![Typescript](https://img.shields.io/badge/-Typescript-777?style=flat&logo=typescript&logoColor=dodgerblue&labelColor=ffffff) ![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![Gitub](https://img.shields.io/badge/-Gitub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff) ![NPM](https://img.shields.io/badge/-NPM-777?style=flat&logo=npm&labelColor=ffffff)<br>
 
-*📨 Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ...*
+_📨 Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ..._
 
 </div>
 
@@ -29,7 +30,7 @@
 | 📌 **vantaJS** (JS library) | 3D & WebGL Background Animations For Your Website. |
 
 <div align="center">
-<img src="./npm.png" width="80"><br>
+<img src=" https://github.com/RajaRakoto/github-docs/blob/master/4web/npm.png?raw=true" width="80"><br>
 
 **Liste des packages (NPM) utiles**
 
@@ -42,9 +43,10 @@
 | 📦 **sequelize** | Sequelize est un ORM Node.js basé sur des promesses pour Postgres, MySQL, MariaDB, SQLite et Microsoft SQL Server. | `npm install --save sequelize` | 3mb | [💡](https://www.npmjs.com/package/sequelize) |
 | 📦 **typescript** | Surcouche du langage Javscript qui a pour but d'améliorer et de sécuriser la production de code JavaScript. | `npm install -g typescript` | 65mb | [💡](https://www.npmjs.com/package/typescript) |
 | 📦 **semantic-ui-react** | Collection des composants React de Semantic-ui. | ` npm install semantic-ui-react semantic-ui-css` | 5mb | [💡](https://www.npmjs.com/package/semantic-ui-react) |
+| 📦 **animate.css** | Une bibliothèque multi-navigateurs d'animations CSS. Aussi facile à utiliser qu'une chose facile. | `npm install animate.css --save` | 5mb | [💡](https://animate.style) |
 
 <div align="center">
-<img src="./link.png" width="200"><br>
+<img src=" https://github.com/RajaRakoto/github-docs/blob/master/4web/link.png?raw=true" width="200"><br>
 
 **Liste des liens utiles**
 
@@ -57,7 +59,7 @@
 | [🔗 **Semantic UI**](https://semantic-ui.com/introduction/getting-started.html) | Semantic est un cadre de composants d'interface utilisateur basé sur des principes utiles du langage naturel. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Semantic UI React**](https://react.semantic-ui.com) | Collection des composants react de semantic ui. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Bootstrap**](https://getbootstrap.com/) | Bootstrap est une collection d'outils utiles à la création du design de sites et d'applications web. C'est un ensemble qui contient des codes HTML et CSS, des formulaires, boutons, outils de navigation et autres éléments interactifs, ainsi que des extensions JavaScript en option. | ⭐⭐⭐⭐🟊 |
-| [🔗 **Milligram** (minimalist)](https://milligram.io/#getting-started) | Un framework minimalist CSS, le `grid system` de ce dernier est plus simple a utiliser que celui de BT5 ou semantic ui. | ⭐⭐⭐🟊🟊 |
+| [🔗 **Milligrid**](http://bencoveney.github.io/Milligrid/) | Milligrid est un system de grille CSS flexbox configurable et facile a apprendre basée sur Milligram | ⭐⭐⭐⭐🟊 |
 
 <br>
 
