@@ -124,6 +124,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **UI design daily** (figma, sketch, photoshop)](https://www.uidesigndaily.com) | Composants d'interface utilisateur impressionnants de tous types | ⭐⭐⭐⭐🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#-installation">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -165,6 +168,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Transitions & Transforms** (animation)](https://thoughtbot.com/blog/transitions-and-transforms) | Transitions et transformations CSS pour les débutants | ⭐⭐⭐🟊🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#-installation">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -207,6 +213,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **UI Gradients** (gradient)](https://uigradients.com) | Générateur de couleurs dégradés d'interface utilisateur | ⭐⭐⭐⭐🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#-installation">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -241,6 +250,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Magdeleine** (photos - theme)](https://colorcurves.app) | Galerie et photo haute résolution gratuite tous les jours | ⭐⭐⭐⭐🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#-installation">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -276,6 +288,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Dafont** (font)](https://www.dafont.com) | Archive des polices téléchargeables gratuitement | ⭐⭐⭐⭐🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#-installation">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -299,5 +314,8 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Brumm Shadow Maker** (shadow)](https://shadows.brumm.af/) | Faire une ombre douce | ⭐⭐⭐⭐⭐ |
 
 <br>
+<div align="right">
+    <b><a href="#-installation">↥ Back To Top</a></b>
+</div>
 
 🅴🅽🅹🅾🆈 ❗
