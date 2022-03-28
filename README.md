@@ -50,6 +50,8 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 </div>
 
+//TODO: verified
+
 ####`📌 CSS Frameworks`
 
 | Liens | Descriptions | Notes |
@@ -63,23 +65,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-####`📌 CSS Libraries`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **Hamburgers** (menu)](https://jonsuh.com/hamburgers/) | Hamburgers est une collection de savoureuses icônes de hamburger animées par CSS. La source est également incluse en tant que bibliothèque Sass. Il est modulable et personnalisable, alors préparez votre propre hamburger. | ⭐⭐⭐⭐⭐ |
-| [🔗 **sweetalert2** (alert)](https://sweetalert2.github.io/) | Sweetalert2 fabrique des messages popup plus facilement et jolis. | ⭐⭐⭐⭐⭐ |
-| [🔗 **Pocoloco** (background)](https://pocoloco.io/) | Générer des arrière-plans dynamiques pour votre site web | ⭐⭐⭐⭐🟊 |
-
-<br>
-
-####`📌 Javascript Libraries`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **Notiflix**](https://notiflix.github.io) | Bibliothèque JS pour les notifications non bloquantes côté client, les boîtes contextuelles (alert), les indicateurs de chargement (loader), et plus, rend vos projets Web beaucoup mieux | ⭐⭐⭐⭐🟊 |
-
-<br>
+//TODO: verified
 
 ####`📌 Components & kits`
 
@@ -94,6 +80,8 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
+//TODO: verified
+
 ####`📌 Template & ideas (html + css + js)`
 
 | Liens | Descriptions | Notes |
@@ -104,16 +92,71 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
+//TODO: verified
+
 ####`📌 Illustrations & Patterns`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
 | [🔗 **ManyPixel** (svg - png)](https://html5up.net) | Collection d'images vectorielles | ⭐⭐⭐⭐🟊 |
-| [🔗 **Hero Patterns** (geometric design)](http://www.heropatterns.com) | Une collection de motifs d'arrière-plan SVG reproductibles | ⭐⭐⭐⭐🟊 |
-| [🔗 **IsoFlat** (flat design)](https://isoflat.com) | Une collection gratuite de ressources graphiques SVG isométriques | ⭐⭐⭐🟊🟊 |
+| [🔗 **Hero Patterns** (geometric)](http://www.heropatterns.com) | Une collection de motifs d'arrière-plan SVG reproductibles | ⭐⭐⭐⭐🟊 |
+| [🔗 **IsoFlat** (flat)](https://isoflat.com) | Une collection gratuite de ressources graphiques SVG isométriques | ⭐⭐⭐🟊🟊 |
 | [🔗 **UnDraw** (caracters)](https://undraw.co/illustrations) | Des illustrations de personnage open source pour toutes les idées que vous pouvez imaginer et créer (couleur personnalisable) | ⭐⭐⭐⭐🟊 |
 | [🔗 **Humaaans** (caracters)](https://www.humaaans.com) | De superbes illustrations de personnes capables de se mélanger et de s'assortir | ⭐⭐⭐🟊🟊 |
 | [🔗 **404 Illustration**](https://error404.fun) | Collection d'illustration sur les erreurs 404 d'une page web | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+//TODO: verified
+
+####`📌 Layout`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Milligrid** (grid)](http://bencoveney.github.io/Milligrid/) | Milligrid est un system de grille CSS flexbox configurable et facile a apprendre basée sur Milligram | ⭐⭐⭐⭐⭐ |
+| [🔗 **CSS Grid Generator** (grid)](https://cssgrid-generator.netlify.app/) | Un projet open source permettant aux utilisateurs de créer rapidement une mise en page dynamique basée sur la grille CSS. | ⭐⭐⭐⭐🟊 |
+| [🔗 **CSS Layout** (pure css)](https://csslayout.io/) | Une collection de mises en page et de modèles de Web populaires en Pure CSS | ⭐⭐⭐⭐🟊 |
+| [🔗 **Generate Postition** (position)](http://www.generatecss.com/css/position/) | Ce générateur vous permet de positionner facilement des éléments au-dessus d'un autre élément. Cet outil est idéal pour des choses comme le positionnement d'un logo sur un en-tête dans la mise en page d'un site Web ou la création d'une bannière qui se chevauche avec des textes au lieu d'une image. | ⭐⭐⭐🟊🟊 |
+
+<br>
+
+//TODO: verified
+
+####`📌 Animations`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Magic Animations** (animation)](https://www.minimamente.com/project/magic/) | Une bibliothèques d'animation les plus impressionnantes disponibles | ⭐⭐⭐⭐⭐ |
+| [🔗 **Animate.css** (animation)](https://animate.style/) | Just-add-water CSS animations | ⭐⭐⭐⭐🟊 |
+| [🔗 **Animista** (animation)](http://animista.net/) | Animations CSS à la demande | ⭐⭐⭐⭐🟊 |
+| [🔗 **Transitions & Transforms** (animation)](https://thoughtbot.com/blog/transitions-and-transforms) | Transitions et transformations CSS pour les débutants | ⭐⭐⭐🟊🟊 |
+
+<br>
+
+//TODO: work
+
+####`📌 Navigation & menu`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Hamburgers** (menu)](https://jonsuh.com/hamburgers/) | Hamburgers est une collection de savoureuses icônes de hamburger animées par CSS. La source est également incluse en tant que bibliothèque Sass. Il est modulable et personnalisable, alors préparez votre propre hamburger. | ⭐⭐⭐⭐⭐ |
+
+<br>
+
+####`📌 Backgrounds`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Pocoloco** (bg)](https://pocoloco.io/) | Générer des arrière-plans dynamiques pour votre site web | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+####`📌 Notifications & alerts`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **sweetalert2** (alert)](https://sweetalert2.github.io/) | Sweetalert2 fabrique des messages popup plus facilement et jolis. | ⭐⭐⭐⭐⭐ |
+| [🔗 **Notiflix** (notif - alert)](https://notiflix.github.io) | Bibliothèque JS pour les notifications non bloquantes côté client, les boîtes contextuelles (alert), les indicateurs de chargement (loader), et plus, rend vos projets Web beaucoup mieux | ⭐⭐⭐⭐🟊 |
 
 <br>
 
@@ -126,33 +169,11 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-####`📌 Animations`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **Magic Animations** (animation)](https://www.minimamente.com/project/magic/) | Une bibliothèques d'animation les plus impressionnantes disponibles | ⭐⭐⭐⭐⭐ |
-| [🔗 **Animate.css** (animation)](https://animate.style/) | Just-add-water CSS animations | ⭐⭐⭐⭐🟊 |
-| [🔗 **Animista** (animation)](http://animista.net/) | Animations CSS à la demande | ⭐⭐⭐⭐🟊 |
-| [🔗 **Thoughtbot** (animation)](https://thoughtbot.com/blog/transitions-and-transforms) | Transitions et transformations CSS pour les débutants | ⭐⭐⭐🟊🟊 |
-
-<br>
-
 ####`📌 Effects`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
 | [🔗 **Brumm Shadow Maker** (shadow)](https://shadows.brumm.af/) | Faire une ombre douce | ⭐⭐⭐⭐⭐ |
-
-<br>
-
-####`📌 Layout`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **Milligrid** (grid)](http://bencoveney.github.io/Milligrid/) | Milligrid est un system de grille CSS flexbox configurable et facile a apprendre basée sur Milligram | ⭐⭐⭐⭐⭐ |
-| [🔗 **CSS Grid Generator** (grid)](https://cssgrid-generator.netlify.app/) | Un projet open source permettant aux utilisateurs de créer rapidement une mise en page dynamique basée sur la grille CSS. | ⭐⭐⭐⭐🟊 |
-| [🔗 **CSS Layout** (pure css)](https://csslayout.io/) | Une collection de mises en page et de modèles de Web populaires en Pure CSS | ⭐⭐⭐⭐🟊 |
-| [🔗 **Generate Postition** (position)](http://www.generatecss.com/css/position/) | Ce générateur vous permet de positionner facilement des éléments au-dessus d'un autre élément. Cet outil est idéal pour des choses comme le positionnement d'un logo sur un en-tête dans la mise en page d'un site Web ou la création d'une bannière qui se chevauche avec des textes au lieu d'une image. | ⭐⭐⭐🟊🟊 |
 
 <br>
 
