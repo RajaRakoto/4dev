@@ -57,25 +57,55 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | :-- | :-- | :-- |
 | [🔗 **Semantic UI**](https://semantic-ui.com/introduction/getting-started.html) | Semantic est un cadre de composants d'interface utilisateur basé sur des principes utiles du langage naturel. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Semantic UI React**](https://react.semantic-ui.com) | Collection des composants react de semantic ui. | ⭐⭐⭐⭐🟊 |
-| [🔗 **Bootstrap**](https://getbootstrap.com/) | Bootstrap est une collection d'outils utiles à la création du design de sites et d'applications web. C'est un ensemble qui contient des codes HTML et CSS, des formulaires, boutons, outils de navigation et autres éléments interactifs, ainsi que des extensions JavaScript en option. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Tailwind CSS**](https://tailwindcss.com/) | Un framework CSS complètement personnalisable, basé sur le principe de classes utilitaires. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Bootstrap**](https://getbootstrap.com/) | Bootstrap est une collection d'outils utiles à la création du design de sites et d'applications web. C'est un ensemble qui contient des codes HTML et CSS, des formulaires, boutons, outils de navigation et autres éléments interactifs, ainsi que des extensions JavaScript en option. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Materialize**](https://materializecss.com/) | Un framework front-end responsive moderne basé sur le Material Design. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Bulma**](https://bulma.io/) | Un framework CSS moderne no JS | ⭐⭐⭐⭐🟊 |
-| [🔗 **Milligrid**](http://bencoveney.github.io/Milligrid/) | Milligrid est un system de grille CSS flexbox configurable et facile a apprendre basée sur Milligram | ⭐⭐⭐⭐🟊 |
-| [pocoloco](https://pocoloco.io/) | Generate dynamic backgrounds for your website |  |
 
 <br>
 
-####`📌 CSS Librairies`
+####`📌 CSS Libraries & Components`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **Magic Animations**](https://www.minimamente.com/project/magic/) | Une bibliothèques d'animation les plus impressionnantes disponibles | ⭐⭐⭐⭐⭐ |
-| [🔗 **Animate.css**](https://animate.style/) | Just-add-water CSS animations | ⭐⭐⭐⭐🟊 |
-| [🔗 **Animista**](http://animista.net/) | Animations CSS à la demande | ⭐⭐⭐⭐🟊 |
-| [🔗 **Hamburgers**](https://jonsuh.com/hamburgers/) | Hamburgers est une collection de savoureuses icônes de hamburger animées par CSS. La source est également incluse en tant que bibliothèque Sass. Il est modulable et personnalisable, alors préparez votre propre hamburger. | ⭐⭐⭐⭐⭐ |
-| [🔗 **CSS Loaders & Spinners**](https://cssloaders.github.io/) | Il s'agit d'une bibliothèque ayant une collection de différents types de chargeurs CSS, spinners. | ⭐⭐⭐⭐⭐ |
-| [🔗 **thoughtbot**](https://thoughtbot.com/blog/transitions-and-transforms) | Transitions et transformations CSS pour les débutants | ⭐⭐⭐🟊🟊 |
+| [🔗 **MDB** (component)](https://mdbootstrap.com/) | Toolkit open source pour la conception de matériaux de construction avec bootstrap (Angular, Vue, React) | ⭐⭐⭐⭐⭐ |
+| [🔗 **Flowbite** (component)](https://flowbite.com) | Bibliothèque Open-source des components Tailwind CSS | ⭐⭐⭐⭐⭐ |
+| [🔗 **daisyUI** (component)](https://daisyui.com/) | Tailwind CSS Components | ⭐⭐⭐⭐⭐ |
+| [🔗 **Magic Animations** (animation)](https://www.minimamente.com/project/magic/) | Une bibliothèques d'animation les plus impressionnantes disponibles | ⭐⭐⭐⭐⭐ |
+| [🔗 **Animate.css** (animation)](https://animate.style/) | Just-add-water CSS animations | ⭐⭐⭐⭐🟊 |
+| [🔗 **Animista** (animation)](http://animista.net/) | Animations CSS à la demande | ⭐⭐⭐⭐🟊 |
+| [🔗 **Hamburgers** (menu)](https://jonsuh.com/hamburgers/) | Hamburgers est une collection de savoureuses icônes de hamburger animées par CSS. La source est également incluse en tant que bibliothèque Sass. Il est modulable et personnalisable, alors préparez votre propre hamburger. | ⭐⭐⭐⭐⭐ |
+| [🔗 **CSS Loaders & Spinners** (loader)](https://cssloaders.github.io/) | Il s'agit d'une bibliothèque ayant une collection de différents types de chargeurs CSS, spinners. | ⭐⭐⭐⭐⭐ |
+| [🔗 **SpinKit** (loader)](https://tobiasahlin.com/spinkit/) | Simple CSS Spinners. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Thoughtbot** (animation)](https://thoughtbot.com/blog/transitions-and-transforms) | Transitions et transformations CSS pour les débutants | ⭐⭐⭐🟊🟊 |
+| [🔗 **Pocoloco** (background)](https://pocoloco.io/) | Générer des arrière-plans dynamiques pour votre site web | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+####`📌 Effects`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Brumm Shadow Maker** (shadow)](https://shadows.brumm.af/) | Faire une ombre douce | ⭐⭐⭐⭐⭐ |
+
+<br>
+
+####`📌 Layout`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Milligrid** (grid)](http://bencoveney.github.io/Milligrid/) | Milligrid est un system de grille CSS flexbox configurable et facile a apprendre basée sur Milligram | ⭐⭐⭐⭐⭐ |
+| [🔗 **CSS Grid Generator** (grid)](https://cssgrid-generator.netlify.app/) | Un projet open source permettant aux utilisateurs de créer rapidement une mise en page dynamique basée sur la grille CSS. | ⭐⭐⭐⭐🟊 |
+| [🔗 **CSS Layout** (pure css)](https://csslayout.io/) | Une collection de mises en page et de modèles de Web populaires en Pure CSS | ⭐⭐⭐⭐🟊 |
+| [🔗 **Generate Postition** (position)](http://www.generatecss.com/css/position/) | Ce générateur vous permet de positionner facilement des éléments au-dessus d'un autre élément. Cet outil est idéal pour des choses comme le positionnement d'un logo sur un en-tête dans la mise en page d'un site Web ou la création d'une bannière qui se chevauche avec des textes au lieu d'une image. | ⭐⭐⭐🟊🟊 |
+
+<br>
+
+####`📌 UI kits`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Creative-tim** (kit)](https://www.creative-tim.com/) | Kits d'interface utilisateur, modèles et tableaux de bord construits sur Bootstrap, Vue.js, React, Angular, Node.js et Laravel. Rejoignez plus de 1 838 844 créatifs! | ⭐⭐⭐⭐🟊 |
 
 <br>
 
@@ -103,6 +133,12 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 <br>
 
 ####`📌 Charte graphique (colors)`
+
+**Colors swatches**
+
+<div align="center">
+<img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/colors.png?raw=true" width="700"><br>
+</div>
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
