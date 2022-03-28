@@ -31,7 +31,11 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <!-- //TODO: work -->
 
+<img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/codebase.png?raw=true" width="80"><br>
+
 ## `Codebase`
+
+Collection & creation des codebases qui peuvent vous être utiles ...
 
 </div>
 
