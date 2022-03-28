@@ -7,27 +7,27 @@
 
 _📨 Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ..._
 
-| Table des matières                                                    |
-| :-------------------------------------------------------------------- |
-| [Codebase](#codebase)                                                |
-|                                                                       |
-| [NPM packages](#npm-packages)                                        |
-|                                                                       |
-| [CSS Frameworks](#-css-frameworks)                                    |
-| [Components & kits](#-components--kits)                               |
-| [Template & ideas (html + css + js)](#-template--ideas-html--css--js) |
-| [Animations](#-animations)                                            |
-| [Navigation & menu](#-navigation--menu)                               |
-| [Backgrounds](#-backgrounds)                                          |
-| [Charte graphique (colors)](#-charte-graphique-colors)                |
-| [Notifications & alerts](#-notifications--alerts)                     |
-| [Loaders & spinners](#-loaders--spinners)                             |
-| [Photos & videos](#-photos--videos)                                   |
-| [Music & Sound effects](#-music--sound-effects)                       |
-| [Icons](#-icons)                                                      |
-| [Fonts](#-fonts)                                                      |
-| [Logos](#-logos)                                                      |
-| [Effects](#-effects)                                                  |
+| Table des matières                                                       |
+| :----------------------------------------------------------------------- |
+| [🔎 Codebase](#codebase)                                                 |
+|                                                                          |
+| [🔎 NPM packages](#npm-packages)                                         |
+|                                                                          |
+| [🔎 CSS Frameworks](#-css-frameworks)                                    |
+| [🔎 Components & kits](#-components--kits)                               |
+| [🔎 Template & ideas (html + css + js)](#-template--ideas-html--css--js) |
+| [🔎 Animations](#-animations)                                            |
+| [🔎 Navigation & menu](#-navigation--menu)                               |
+| [🔎 Backgrounds](#-backgrounds)                                          |
+| [🔎 Charte graphique (colors)](#-charte-graphique-colors)                |
+| [🔎 Notifications & alerts](#-notifications--alerts)                     |
+| [🔎 Loaders & spinners](#-loaders--spinners)                             |
+| [🔎 Photos & videos](#-photos--videos)                                   |
+| [🔎 Music & Sound effects](#-music--sound-effects)                       |
+| [🔎 Icons](#-icons)                                                      |
+| [🔎 Fonts](#-fonts)                                                      |
+| [🔎 Logos](#-logos)                                                      |
+| [🔎 Effects](#-effects)                                                  |
 
 <!-- //TODO: work -->
 
