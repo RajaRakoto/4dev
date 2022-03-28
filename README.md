@@ -9,9 +9,9 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 | Table des matières                                                    |
 | :-------------------------------------------------------------------- |
-| [Codebase](#-codebase)                                                |
+| [Codebase](#codebase)                                                |
 |                                                                       |
-| [NPM packages](#-npm-packages)                                        |
+| [NPM packages](#npm-packages)                                        |
 |                                                                       |
 | [CSS Frameworks](#-css-frameworks)                                    |
 | [Components & kits](#-components--kits)                               |
