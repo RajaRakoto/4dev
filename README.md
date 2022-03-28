@@ -42,7 +42,6 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | 📦 **sequelize** | Sequelize est un ORM Node.js basé sur des promesses pour Postgres, MySQL, MariaDB, SQLite et Microsoft SQL Server. | `npm install --save sequelize` | 3mb | [💡](https://www.npmjs.com/package/sequelize) |
 | 📦 **typescript** | Surcouche du langage Javscript qui a pour but d'améliorer et de sécuriser la production de code JavaScript. | `npm install -g typescript` | 65mb | [💡](https://www.npmjs.com/package/typescript) |
 | 📦 **semantic-ui-react** | Collection des composants React de Semantic-ui. | ` npm install semantic-ui-react semantic-ui-css` | 5mb | [💡](https://www.npmjs.com/package/semantic-ui-react) |
-| 📦 **animate.css** | Une bibliothèque multi-navigateurs d'animations CSS. Aussi facile à utiliser qu'une chose facile. | `npm install animate.css --save` | 5mb | [💡](https://animate.style) |
 
 <div align="center">
 <img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/link.png?raw=true" width="200"><br>
@@ -55,57 +54,43 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
+| [🔗 **Bootstrap**](https://getbootstrap.com/) | Bootstrap est une collection d'outils utiles à la création du design de sites et d'applications web. C'est un ensemble qui contient des codes HTML et CSS, des formulaires, boutons, outils de navigation et autres éléments interactifs, ainsi que des extensions JavaScript en option. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Semantic UI**](https://semantic-ui.com/introduction/getting-started.html) | Semantic est un cadre de composants d'interface utilisateur basé sur des principes utiles du langage naturel. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Semantic UI React**](https://react.semantic-ui.com) | Collection des composants react de semantic ui. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Tailwind CSS**](https://tailwindcss.com/) | Un framework CSS complètement personnalisable, basé sur le principe de classes utilitaires. | ⭐⭐⭐⭐🟊 |
-| [🔗 **Bootstrap**](https://getbootstrap.com/) | Bootstrap est une collection d'outils utiles à la création du design de sites et d'applications web. C'est un ensemble qui contient des codes HTML et CSS, des formulaires, boutons, outils de navigation et autres éléments interactifs, ainsi que des extensions JavaScript en option. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Materialize**](https://materializecss.com/) | Un framework front-end responsive moderne basé sur le Material Design. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Bulma**](https://bulma.io/) | Un framework CSS moderne no JS | ⭐⭐⭐⭐🟊 |
 
 <br>
 
-####`📌 CSS Libraries & Components`
+####`📌 CSS Libraries`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **MDB** (component)](https://mdbootstrap.com/) | Toolkit open source pour la conception de matériaux de construction avec bootstrap (Angular, Vue, React) | ⭐⭐⭐⭐⭐ |
-| [🔗 **Flowbite** (component)](https://flowbite.com) | Bibliothèque Open-source des components Tailwind CSS | ⭐⭐⭐⭐⭐ |
-| [🔗 **daisyUI** (component)](https://daisyui.com/) | Tailwind CSS Components | ⭐⭐⭐⭐⭐ |
-| [🔗 **Magic Animations** (animation)](https://www.minimamente.com/project/magic/) | Une bibliothèques d'animation les plus impressionnantes disponibles | ⭐⭐⭐⭐⭐ |
-| [🔗 **Animate.css** (animation)](https://animate.style/) | Just-add-water CSS animations | ⭐⭐⭐⭐🟊 |
-| [🔗 **Animista** (animation)](http://animista.net/) | Animations CSS à la demande | ⭐⭐⭐⭐🟊 |
 | [🔗 **Hamburgers** (menu)](https://jonsuh.com/hamburgers/) | Hamburgers est une collection de savoureuses icônes de hamburger animées par CSS. La source est également incluse en tant que bibliothèque Sass. Il est modulable et personnalisable, alors préparez votre propre hamburger. | ⭐⭐⭐⭐⭐ |
-| [🔗 **CSS Loaders & Spinners** (loader)](https://cssloaders.github.io/) | Il s'agit d'une bibliothèque ayant une collection de différents types de chargeurs CSS, spinners. | ⭐⭐⭐⭐⭐ |
-| [🔗 **SpinKit** (loader)](https://tobiasahlin.com/spinkit/) | Simple CSS Spinners. | ⭐⭐⭐⭐🟊 |
-| [🔗 **Thoughtbot** (animation)](https://thoughtbot.com/blog/transitions-and-transforms) | Transitions et transformations CSS pour les débutants | ⭐⭐⭐🟊🟊 |
+| [🔗 **sweetalert2** (alert)](https://sweetalert2.github.io/) | Sweetalert2 fabrique des messages popup plus facilement et jolis. | ⭐⭐⭐⭐⭐ |
 | [🔗 **Pocoloco** (background)](https://pocoloco.io/) | Générer des arrière-plans dynamiques pour votre site web | ⭐⭐⭐⭐🟊 |
 
 <br>
 
-####`📌 Effects`
+####`📌 Javascript Libraries`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **Brumm Shadow Maker** (shadow)](https://shadows.brumm.af/) | Faire une ombre douce | ⭐⭐⭐⭐⭐ |
+| [🔗 **Notiflix**](https://notiflix.github.io) | Bibliothèque JS pour les notifications non bloquantes côté client, les boîtes contextuelles (alert), les indicateurs de chargement (loader), et plus, rend vos projets Web beaucoup mieux | ⭐⭐⭐⭐🟊 |
 
 <br>
 
-####`📌 Layout`
+####`📌 Components & kits`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **Milligrid** (grid)](http://bencoveney.github.io/Milligrid/) | Milligrid est un system de grille CSS flexbox configurable et facile a apprendre basée sur Milligram | ⭐⭐⭐⭐⭐ |
-| [🔗 **CSS Grid Generator** (grid)](https://cssgrid-generator.netlify.app/) | Un projet open source permettant aux utilisateurs de créer rapidement une mise en page dynamique basée sur la grille CSS. | ⭐⭐⭐⭐🟊 |
-| [🔗 **CSS Layout** (pure css)](https://csslayout.io/) | Une collection de mises en page et de modèles de Web populaires en Pure CSS | ⭐⭐⭐⭐🟊 |
-| [🔗 **Generate Postition** (position)](http://www.generatecss.com/css/position/) | Ce générateur vous permet de positionner facilement des éléments au-dessus d'un autre élément. Cet outil est idéal pour des choses comme le positionnement d'un logo sur un en-tête dans la mise en page d'un site Web ou la création d'une bannière qui se chevauche avec des textes au lieu d'une image. | ⭐⭐⭐🟊🟊 |
-
-<br>
-
-####`📌 UI kits`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **Creative-tim** (kit)](https://www.creative-tim.com/) | Kits d'interface utilisateur, modèles et tableaux de bord construits sur Bootstrap, Vue.js, React, Angular, Node.js et Laravel. Rejoignez plus de 1 838 844 créatifs! | ⭐⭐⭐⭐🟊 |
+| [🔗 **Fast** (component - AVR)](https://www.fast.design/) | FAST est un ensemble de technologies basées sur des composants Web (Angular, Vue, React) et des normes Web modernes developpE par Microsoft, conçues pour vous aider à relever efficacement certains des défis les plus courants en matière de conception et de développement de sites Web et d'applications. | ⭐⭐⭐⭐⭐ |
+| [🔗 **MDB** (component - bootstrap - AVR)](https://mdbootstrap.com/) | Toolkit open source pour la conception de matériaux de construction avec bootstrap (Angular, Vue, React) | ⭐⭐⭐⭐⭐ |
+| [🔗 **Flowbite** (component - tailwind)](https://flowbite.com) | Bibliothèque Open-source des components Tailwind CSS | ⭐⭐⭐⭐🟊 |
+| [🔗 **daisyUI** (component - tailwind)](https://daisyui.com/) | Tailwind CSS Components | ⭐⭐⭐⭐🟊 |
+| [🔗 **Tailblocks** (component - tailwind)](https://mertjf.github.io/tailblocks/) | Simple Tailwind CSS Components | ⭐⭐⭐⭐🟊 |
+| [🔗 **Creative-tim** (kit - bootstrap - AVR)](https://www.creative-tim.com/) | Kits d'interface utilisateur, modèles et tableaux de bord construits sur Bootstrap, Vue.js, React, Angular, Node.js et Laravel. Rejoignez plus de 1 838 844 créatifs! | ⭐⭐⭐⭐🟊 |
 
 <br>
 
@@ -129,6 +114,45 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔗 **UnDraw** (caracters)](https://undraw.co/illustrations) | Des illustrations de personnage open source pour toutes les idées que vous pouvez imaginer et créer (couleur personnalisable) | ⭐⭐⭐⭐🟊 |
 | [🔗 **Humaaans** (caracters)](https://www.humaaans.com) | De superbes illustrations de personnes capables de se mélanger et de s'assortir | ⭐⭐⭐🟊🟊 |
 | [🔗 **404 Illustration**](https://error404.fun) | Collection d'illustration sur les erreurs 404 d'une page web | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+####`📌 Loaders & spinners`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **CSS Loaders & Spinners** (loader)](https://cssloaders.github.io/) | Il s'agit d'une bibliothèque ayant une collection de différents types de chargeurs CSS, spinners. | ⭐⭐⭐⭐⭐ |
+| [🔗 **SpinKit** (loader)](https://tobiasahlin.com/spinkit/) | Simple CSS Spinners. | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+####`📌 Animations`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Magic Animations** (animation)](https://www.minimamente.com/project/magic/) | Une bibliothèques d'animation les plus impressionnantes disponibles | ⭐⭐⭐⭐⭐ |
+| [🔗 **Animate.css** (animation)](https://animate.style/) | Just-add-water CSS animations | ⭐⭐⭐⭐🟊 |
+| [🔗 **Animista** (animation)](http://animista.net/) | Animations CSS à la demande | ⭐⭐⭐⭐🟊 |
+| [🔗 **Thoughtbot** (animation)](https://thoughtbot.com/blog/transitions-and-transforms) | Transitions et transformations CSS pour les débutants | ⭐⭐⭐🟊🟊 |
+
+<br>
+
+####`📌 Effects`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Brumm Shadow Maker** (shadow)](https://shadows.brumm.af/) | Faire une ombre douce | ⭐⭐⭐⭐⭐ |
+
+<br>
+
+####`📌 Layout`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Milligrid** (grid)](http://bencoveney.github.io/Milligrid/) | Milligrid est un system de grille CSS flexbox configurable et facile a apprendre basée sur Milligram | ⭐⭐⭐⭐⭐ |
+| [🔗 **CSS Grid Generator** (grid)](https://cssgrid-generator.netlify.app/) | Un projet open source permettant aux utilisateurs de créer rapidement une mise en page dynamique basée sur la grille CSS. | ⭐⭐⭐⭐🟊 |
+| [🔗 **CSS Layout** (pure css)](https://csslayout.io/) | Une collection de mises en page et de modèles de Web populaires en Pure CSS | ⭐⭐⭐⭐🟊 |
+| [🔗 **Generate Postition** (position)](http://www.generatecss.com/css/position/) | Ce générateur vous permet de positionner facilement des éléments au-dessus d'un autre élément. Cet outil est idéal pour des choses comme le positionnement d'un logo sur un en-tête dans la mise en page d'un site Web ou la création d'une bannière qui se chevauche avec des textes au lieu d'une image. | ⭐⭐⭐🟊🟊 |
 
 <br>
 
