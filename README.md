@@ -5,8 +5,14 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-777?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-777?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![Sass](https://img.shields.io/badge/-Sass-777?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699) ![JSON](https://img.shields.io/badge/-JSON-777?style=flat&logo=JSON&logoColor=777&labelColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff)![Typescript](https://img.shields.io/badge/-Typescript-777?style=flat&logo=typescript&logoColor=dodgerblue&labelColor=ffffff) ![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![Gitub](https://img.shields.io/badge/-Gitub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff) ![NPM](https://img.shields.io/badge/-NPM-777?style=flat&logo=npm&labelColor=ffffff)<br>
 
+_📨 Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ..._
+
 | Table des matières                                                    |
 | :-------------------------------------------------------------------- |
+| [Codebase](#-codebase)                                                |
+|                                                                       |
+| [NPM packages](#-npm-packages)                                        |
+|                                                                       |
 | [CSS Frameworks](#-css-frameworks)                                    |
 | [Components & kits](#-components--kits)                               |
 | [Template & ideas (html + css + js)](#-template--ideas-html--css--js) |
@@ -23,11 +29,11 @@
 | [Logos](#-logos)                                                      |
 | [Effects](#-effects)                                                  |
 
-_📨 Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ..._
+<!-- //TODO: work -->
+
+## `Codebase`
 
 </div>
-
-<!-- //TODO: work -->
 
 | <center>Collection name</center> | <center>Descriptions</center> |
 | :-- | :-- |
@@ -51,7 +57,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 <div align="center">
 <img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/npm.png?raw=true" width="80"><br>
 
-**NPM packages**
+## `NPM packages`
 
 Collection des meilleurs packages NPM qui peuvent vous être utiles ...
 
