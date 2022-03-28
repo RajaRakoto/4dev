@@ -50,7 +50,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 </div>
 
-//TODO: verified
+<!-- //TODO: verified -->
 
 ####`📌 CSS Frameworks`
 
@@ -65,7 +65,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-//TODO: verified
+<!-- //TODO: verified -->
 
 ####`📌 Components & kits`
 
@@ -80,7 +80,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-//TODO: verified
+<!-- //TODO: verified -->
 
 ####`📌 Template & ideas (html + css + js)`
 
@@ -92,7 +92,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-//TODO: verified
+<!-- //TODO: verified -->
 
 ####`📌 Illustrations & Patterns`
 
@@ -107,7 +107,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-//TODO: verified
+<!-- //TODO: verified -->
 
 ####`📌 Layout`
 
@@ -120,7 +120,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-//TODO: verified
+<!-- //TODO: verified -->
 
 ####`📌 Animations`
 
@@ -133,7 +133,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-//TODO: work
+<!-- //TODO: verified -->
 
 ####`📌 Navigation & menu`
 
@@ -143,6 +143,8 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
+<!-- //TODO: verified -->
+
 ####`📌 Backgrounds`
 
 | Liens | Descriptions | Notes |
@@ -151,35 +153,13 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-####`📌 Notifications & alerts`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **sweetalert2** (alert)](https://sweetalert2.github.io/) | Sweetalert2 fabrique des messages popup plus facilement et jolis. | ⭐⭐⭐⭐⭐ |
-| [🔗 **Notiflix** (notif - alert)](https://notiflix.github.io) | Bibliothèque JS pour les notifications non bloquantes côté client, les boîtes contextuelles (alert), les indicateurs de chargement (loader), et plus, rend vos projets Web beaucoup mieux | ⭐⭐⭐⭐🟊 |
-
-<br>
-
-####`📌 Loaders & spinners`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **CSS Loaders & Spinners** (loader)](https://cssloaders.github.io/) | Il s'agit d'une bibliothèque ayant une collection de différents types de chargeurs CSS, spinners. | ⭐⭐⭐⭐⭐ |
-| [🔗 **SpinKit** (loader)](https://tobiasahlin.com/spinkit/) | Simple CSS Spinners. | ⭐⭐⭐⭐🟊 |
-
-<br>
-
-####`📌 Effects`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **Brumm Shadow Maker** (shadow)](https://shadows.brumm.af/) | Faire une ombre douce | ⭐⭐⭐⭐⭐ |
-
-<br>
+<!-- //TODO: verified -->
 
 ####`📌 Charte graphique (colors)`
 
 **Colors swatches**
+
+Échantillons de couleurs conformes à la norme Web moderne ...
 
 <div align="center">
 <img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/colors.png?raw=true" width="700"><br>
@@ -195,6 +175,30 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
+<!-- //TODO: verified -->
+
+####`📌 Notifications & alerts`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **sweetalert2** (alert)](https://sweetalert2.github.io/) | Sweetalert2 fabrique des messages popup plus facilement et jolis. | ⭐⭐⭐⭐⭐ |
+| [🔗 **Notiflix** (notif - alert)](https://notiflix.github.io) | Bibliothèque JS pour les notifications non bloquantes côté client, les boîtes contextuelles (alert), les indicateurs de chargement (loader), et plus, rend vos projets Web beaucoup mieux | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: verified -->
+
+####`📌 Loaders & spinners`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **CSS Loaders & Spinners** (loader)](https://cssloaders.github.io/) | Il s'agit d'une bibliothèque ayant une collection de différents types de chargeurs CSS, spinners. | ⭐⭐⭐⭐⭐ |
+| [🔗 **SpinKit** (loader)](https://tobiasahlin.com/spinkit/) | Simple CSS Spinners. | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: verified -->
+
 ####`📌 Photos & videos`
 
 | Liens | Descriptions | Notes |
@@ -205,6 +209,8 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
+<!-- //TODO: verified -->
+
 ####`📌 Music & Sound effects`
 
 | Liens | Descriptions | Notes |
@@ -213,6 +219,8 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔗 **Bensound** (music)](https://www.bensound.com/) | Plus de 1,7 million d'images et de vidéos de haute qualité | ⭐⭐⭐⭐🟊 |
 
 <br>
+
+<!-- //TODO: verified -->
 
 ####`📌 Icons`
 
@@ -224,6 +232,8 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
+<!-- //TODO: verified -->
+
 ####`📌 Fonts`
 
 | Liens | Descriptions | Notes |
@@ -234,6 +244,8 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
+<!-- //TODO: verified -->
+
 ####`📌 Logos`
 
 | Liens | Descriptions | Notes |
@@ -242,6 +254,16 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔗 **SVGporn** (logo - search)](https://svgporn.com/#search=web) | Plus de 1000 logos SVG de haute qualité | ⭐⭐⭐⭐🟊 |
 | [🔗 **LogoSearch** (logo - search)](https://logosear.ch/search.html?q=) | Moteur de recherche avec plus de 200 000 logos SVG indexés | ⭐⭐⭐🟊🟊 |
 | [🔗 **Logoideas** (logo - ideas)](https://www.namecheap.com/logo-maker/ideas) | Idee de creation d'un logo | ⭐⭐⭐🟊🟊 |
+
+<br>
+
+<!-- //TODO: verified -->
+
+####`📌 Effects`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Brumm Shadow Maker** (shadow)](https://shadows.brumm.af/) | Faire une ombre douce | ⭐⭐⭐⭐⭐ |
 
 <br>
 
