@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/4web.png?raw=true" width="300">
 
-
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/for-dago.svg?raw=true)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/build-by.svg?raw=true)](https://forthebadge.com)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-777?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-777?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![Sass](https://img.shields.io/badge/-Sass-777?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699) ![JSON](https://img.shields.io/badge/-JSON-777?style=flat&logo=JSON&logoColor=777&labelColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff)![Typescript](https://img.shields.io/badge/-Typescript-777?style=flat&logo=typescript&logoColor=dodgerblue&labelColor=ffffff) ![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![Gitub](https://img.shields.io/badge/-Gitub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff) ![NPM](https://img.shields.io/badge/-NPM-777?style=flat&logo=npm&labelColor=ffffff)<br>
@@ -12,22 +11,22 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 | <center>Collection name</center> | <center>Descriptions</center> |
 | :-- | :-- |
-| 📌 **blinker** | Element de texte clignotant |
-| 📌 **boostrap5** (CSS framework) | Une collection d'outils utiles à la création du design responsive de sites et d'applications web |
-| 📌 **candybutton** | Des boutons animEs en pure CSS |
-| 📌 **card** | Collection of portfolio card |
-| 📌 **carousel** | Collection of carousel |
-| 📌 **cursor** | Custom your cursor with CSS |
-| 📌 **fonts-pack** | Collection of fonts |
-| 📌 **navbar** | Collection of navigation bar |
-| 📌 **notify** | Little notification message with Javascript |
-| 📌 **preloader** | Ajouter un chargement animé à votre page Web |
-| 📌 **progBar** | Collection of progression bar with Javascript |
-| 📌 **swiperJS** (JS library) | Swiper est le curseur tactile mobile gratuit le plus moderne avec des transitions matérielles accélérées et un comportement natif étonnant. |
-| 📌 **switchup** | Faites défiler automatiquement vers le haut de la page en utilisant JavaScript |
-| 📌 **tsparticles** (JS library) | Créez facilement des animations de particules hautement personnalisables et utilisez-les comme arrière-plans animés pour votre site Web |
-| 📌 **typing** | Collection of typing text effect with Javascript |
-| 📌 **vantaJS** (JS library) | 3D & WebGL Background Animations For Your Website. |
+| 📂 **blinker** | Element de texte clignotant |
+| 📂 **boostrap5** (CSS framework) | Une collection d'outils utiles à la création du design responsive de sites et d'applications web |
+| 📂 **candybutton** | Des boutons animEs en pure CSS |
+| 📂 **card** | Collection of portfolio card |
+| 📂 **carousel** | Collection of carousel |
+| 📂 **cursor** | Custom your cursor with CSS |
+| 📂 **fonts-pack** | Collection of fonts |
+| 📂 **navbar** | Collection of navigation bar |
+| 📂 **notify** | Little notification message with Javascript |
+| 📂 **preloader** | Ajouter un chargement animé à votre page Web |
+| 📂 **progBar** | Collection of progression bar with Javascript |
+| 📂 **swiperJS** (JS library) | Swiper est le curseur tactile mobile gratuit le plus moderne avec des transitions matérielles accélérées et un comportement natif étonnant. |
+| 📂 **switchup** | Faites défiler automatiquement vers le haut de la page en utilisant JavaScript |
+| 📂 **tsparticles** (JS library) | Créez facilement des animations de particules hautement personnalisables et utilisez-les comme arrière-plans animés pour votre site Web |
+| 📂 **typing** | Collection of typing text effect with Javascript |
+| 📂 **vantaJS** (JS library) | 3D & WebGL Background Animations For Your Website. |
 
 <div align="center">
 <img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/npm.png?raw=true" width="80"><br>
@@ -52,18 +51,35 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 </div>
 
-#### CSS Frameworks
+####`📌 CSS Frameworks`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
 | [🔗 **Semantic UI**](https://semantic-ui.com/introduction/getting-started.html) | Semantic est un cadre de composants d'interface utilisateur basé sur des principes utiles du langage naturel. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Semantic UI React**](https://react.semantic-ui.com) | Collection des composants react de semantic ui. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Bootstrap**](https://getbootstrap.com/) | Bootstrap est une collection d'outils utiles à la création du design de sites et d'applications web. C'est un ensemble qui contient des codes HTML et CSS, des formulaires, boutons, outils de navigation et autres éléments interactifs, ainsi que des extensions JavaScript en option. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Tailwind CSS**](https://tailwindcss.com/) | Un framework CSS complètement personnalisable, basé sur le principe de classes utilitaires. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Materialize**](https://materializecss.com/) | Un framework front-end responsive moderne basé sur le Material Design. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Bulma**](https://bulma.io/) | Un framework CSS moderne no JS | ⭐⭐⭐⭐🟊 |
 | [🔗 **Milligrid**](http://bencoveney.github.io/Milligrid/) | Milligrid est un system de grille CSS flexbox configurable et facile a apprendre basée sur Milligram | ⭐⭐⭐⭐🟊 |
+| [pocoloco](https://pocoloco.io/) | Generate dynamic backgrounds for your website |  |
 
 <br>
 
-#### Template & ideas (html + css + js)
+####`📌 CSS Librairies`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Magic Animations**](https://www.minimamente.com/project/magic/) | Une bibliothèques d'animation les plus impressionnantes disponibles | ⭐⭐⭐⭐⭐ |
+| [🔗 **Animate.css**](https://animate.style/) | Just-add-water CSS animations | ⭐⭐⭐⭐🟊 |
+| [🔗 **Animista**](http://animista.net/) | Animations CSS à la demande | ⭐⭐⭐⭐🟊 |
+| [🔗 **Hamburgers**](https://jonsuh.com/hamburgers/) | Hamburgers est une collection de savoureuses icônes de hamburger animées par CSS. La source est également incluse en tant que bibliothèque Sass. Il est modulable et personnalisable, alors préparez votre propre hamburger. | ⭐⭐⭐⭐⭐ |
+| [🔗 **CSS Loaders & Spinners**](https://cssloaders.github.io/) | Il s'agit d'une bibliothèque ayant une collection de différents types de chargeurs CSS, spinners. | ⭐⭐⭐⭐⭐ |
+| [🔗 **thoughtbot**](https://thoughtbot.com/blog/transitions-and-transforms) | Transitions et transformations CSS pour les débutants | ⭐⭐⭐🟊🟊 |
+
+<br>
+
+####`📌 Template & ideas (html + css + js)`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -73,7 +89,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-#### Illustrations & Patterns
+####`📌 Illustrations & Patterns`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -86,7 +102,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-#### Charte graphique (colors)
+####`📌 Charte graphique (colors)`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -98,7 +114,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-#### Photos & videos
+####`📌 Photos & videos`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -108,7 +124,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-#### Music & Sound effects
+####`📌 Music & Sound effects`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -117,7 +133,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-#### Icons
+####`📌 Icons`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -127,7 +143,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-#### Fonts
+####`📌 Fonts`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -137,7 +153,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-#### Logos
+####`📌 Logos`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
