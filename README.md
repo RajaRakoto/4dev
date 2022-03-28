@@ -68,8 +68,11 @@ Collection des meilleurs packages NPM qui peuvent vous être utiles ...
 | 📦 **shelljs** | ShellJS est une implémentation portable (Windows/Linux/OS X) des commandes shell Unix au-dessus de l'API Node.js. | `npm i shelljs` | 220kb | [💡](https://www.npmjs.com/package/shelljs) |
 | 📦 **@faker-js/faker** | Générez des quantités massives de données factices (mais réalistes) pour les tests et le développement. | `npm i @faker-js/faker` | 8mb | [💡](https://www.npmjs.com/package/@faker-js/faker) |
 | 📦 **sequelize** | Sequelize est un ORM Node.js basé sur des promesses pour Postgres, MySQL, MariaDB, SQLite et Microsoft SQL Server. | `npm install --save sequelize` | 3mb | [💡](https://www.npmjs.com/package/sequelize) |
+| 📦 **mongoose** | Modélisation d'objet MongoDB conçue pour fonctionner dans un environnement asynchrone. | `npm i mongoose` | 3mb | [💡](https://www.npmjs.com/package/mongoose) |
 | 📦 **semantic-ui-react** | Collection des composants React de Semantic-ui. | `npm install semantic-ui-react semantic-ui-css` | 5mb | [💡](https://www.npmjs.com/package/semantic-ui-react) |
 | 📦 **cloudinary** | Transformez les images et les vidéos pour qu'elles se chargent plus rapidement sans dégradation visuelle, générez automatiquement des variantes d'images et de vidéos et offrez une expérience réactive de haute qualité pour augmenter les conversions. | `npm i cloudinary` | 500kb | [💡](https://www.npmjs.com/package/cloudinary) |
+| 📦 **passport** | Passport est un middleware d'authentification pour Node.js. Extrêmement flexible et modulaire, Passport peut être inséré discrètement dans n'importe quelle application Web basée sur Express. | `npm i passport` | 70kb | [💡](https://www.npmjs.com/package/passport) |
+| 📦 **nodemailer** | Nodemailer est un module pour les applications Node.js permettant d'envoyer des e-mails en toute simplicité. | `npm i nodemailer` | 500kb | [💡](https://www.npmjs.com/package/nodemailer) |
 
 <div align="center">
 <img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/link.png?raw=true" width="200"><br>
