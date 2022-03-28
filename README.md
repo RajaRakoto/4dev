@@ -66,7 +66,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 CSS Frameworks`
+#### `📌 CSS Frameworks`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -81,7 +81,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 Components & kits`
+#### `📌 Components & kits`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -96,7 +96,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 Template & ideas (html + css + js)`
+#### `📌 Template & ideas (html + css + js)`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -108,7 +108,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 Illustrations & Patterns`
+#### `📌 Illustrations & Patterns`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -123,7 +123,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 Layout`
+#### `📌 Layout`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -136,7 +136,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 Animations`
+#### `📌 Animations`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -149,7 +149,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 Navigation & menu`
+#### `📌 Navigation & menu`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -159,7 +159,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 Backgrounds`
+#### `📌 Backgrounds`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -169,7 +169,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 Charte graphique (colors)`
+#### `📌 Charte graphique (colors)`
 
 **Colors swatches**
 
@@ -191,7 +191,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 Notifications & alerts`
+#### `📌 Notifications & alerts`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -202,7 +202,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 Loaders & spinners`
+#### `📌 Loaders & spinners`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -213,7 +213,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 Photos & videos`
+#### `📌 Photos & videos`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -225,7 +225,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 Music & Sound effects`
+#### `📌 Music & Sound effects`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -236,7 +236,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 Icons`
+#### `📌 Icons`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -248,7 +248,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 Fonts`
+#### `📌 Fonts`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -260,7 +260,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 Logos`
+#### `📌 Logos`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -273,7 +273,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-####`📌 Effects`
+#### `📌 Effects`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
