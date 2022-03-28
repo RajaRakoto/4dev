@@ -9,6 +9,8 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 </div>
 
+<!-- //TODO: work -->
+
 | <center>Collection name</center> | <center>Descriptions</center> |
 | :-- | :-- |
 | 📂 **blinker** | Element de texte clignotant |
@@ -31,22 +33,34 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 <div align="center">
 <img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/npm.png?raw=true" width="80"><br>
 
-**Liste des packages (NPM) utiles**
+**NPM packages**
+
+Collection des meilleurs packages NPM qui peuvent vous être utiles ...
 
 </div>
 
+<!-- //TODO: work -->
+
 | Package name | Descriptions | Install | Size | Usage |
 | :-- | :-- | :-- | :-- | :-- |
+| 📦 **express** | Framework Web rapide et minimaliste pour Node.js. | `npm i express` | 210kb | [💡](https://www.npmjs.com/package/express) |
+| 📦 **typescript** | Surcouche du langage Javscript qui a pour but d'améliorer et de sécuriser la production de code JavaScript. | `npm install -g typescript` | 65mb | [💡](https://www.npmjs.com/package/typescript) |
+| 📦 **lodash** | Une bibliothèque d'utilitaires JavaScript moderne offrant modularité, performances et extras. | `npm i lodash` | 2mb | [💡](https://www.npmjs.com/package/lodash) |
+| 📦 **browserify** | Côté navigateur require() à la manière de Node.js. | `npm i browserify` | 400kb | [💡](https://www.npmjs.com/package/browserify) |
+| 📦 **debug** | Un petit utilitaire de débogage JavaScript inspiré de la technique de débogage du noyau Node.js, fonctionne dans Node.js et les navigateurs Web. | `npm i debug` | 50kb | [💡](https://www.npmjs.com/package/debug) |
+| 📦 **grunt** | En un mot : automatisation. Moins vous avez de travail à faire lorsque vous effectuez des tâches répétitives comme la minification, la compilation, les tests unitaires, peluches, etc..., plus votre travail devient facile. Une fois que vous l'avez configuré via un Gruntfile, un exécuteur de tâches peut effectuer la plupart de ce travail banal pour vous et votre équipe avec pratiquement aucun effort. | `npm i grunt` | 80kb | [💡](https://www.npmjs.com/package/grunt) |
 | 📦 **prompt-sync** | Obtenir l'entrée de l'utilisateur par la methode prompt() en cli | `npm i prompt-sync` | 15kb | [💡](https://www.npmjs.com/package/prompt-sync) |
 | 📦 **@faker-js/faker** | Générez des quantités massives de données factices (mais réalistes) pour les tests et le développement. | `npm i @faker-js/faker` | 8mb | [💡](https://www.npmjs.com/package/@faker-js/faker) |
 | 📦 **sequelize** | Sequelize est un ORM Node.js basé sur des promesses pour Postgres, MySQL, MariaDB, SQLite et Microsoft SQL Server. | `npm install --save sequelize` | 3mb | [💡](https://www.npmjs.com/package/sequelize) |
-| 📦 **typescript** | Surcouche du langage Javscript qui a pour but d'améliorer et de sécuriser la production de code JavaScript. | `npm install -g typescript` | 65mb | [💡](https://www.npmjs.com/package/typescript) |
-| 📦 **semantic-ui-react** | Collection des composants React de Semantic-ui. | ` npm install semantic-ui-react semantic-ui-css` | 5mb | [💡](https://www.npmjs.com/package/semantic-ui-react) |
+| 📦 **semantic-ui-react** | Collection des composants React de Semantic-ui. | `npm install semantic-ui-react semantic-ui-css` | 5mb | [💡](https://www.npmjs.com/package/semantic-ui-react) |
+| 📦 **cloudinary** | Transformez les images et les vidéos pour qu'elles se chargent plus rapidement sans dégradation visuelle, générez automatiquement des variantes d'images et de vidéos et offrez une expérience réactive de haute qualité pour augmenter les conversions. | `npm i cloudinary` | 500kb | [💡](https://www.npmjs.com/package/cloudinary) |
 
 <div align="center">
 <img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/link.png?raw=true" width="200"><br>
 
-**Liste des liens utiles**
+**Links sources**
+
+Collection des liens dediE au developpement web qui peuvent vous être utiles ...
 
 </div>
 
