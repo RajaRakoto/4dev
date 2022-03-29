@@ -35,6 +35,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Effects](#-effects)                                                  |
 | [🔎 Tools](#-tools)                                                      |
 | [🔎 Training](#-training)                                                |
+| [🔎 Stat](#-stat)                                                        |
 | [🔎 Extension (chrome)](#-extension-chrome)                              |
 | [🔎 Others](#-others)                                                    |
 
@@ -431,6 +432,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **fsymbols** (convert - text)](https://fsymbols.com/generators/) | font generator | ⭐⭐⭐🟊🟊 |
 | [🔗 **fontmeme** (convert - sign)](https://fontmeme.com/fr/polices-de-signature/) | Convertir un texte en police de signature | ⭐⭐⭐🟊🟊 |
 | [🔗 **ASCIIart** (convert - img)](https://manytools.org/hacker-tools/convert-images-to-ascii-art/) | Convert Images to Ascii Art | ⭐⭐🟊🟊🟊 |
+| [🔗 **Minify** (css - js)](https://www.minifier.org/) | Rendez votre site Web plus petit et plus rapide à charger en minimisant le code JS et CSS. | ⭐⭐⭐🟊🟊 |
 
 <br>
 
@@ -444,6 +446,17 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **javascript30** (project)](https://javascript30.com/) | 30 jours Vanilla JS Coding Challenge, Construisez 30 choses en 30 jours avec 30 tutoriels, Pas de frameworks, Pas de compilateurs, Pas de bibliothèques ! | ⭐⭐⭐⭐🟊 |
 | [🔗 **HackerRank** (eval)](https://www.hackerrank.com/) | HackerRank est la solution d'évaluation technique et d'entretien à distance leader sur le marché pour le recrutement de développeurs. Apprenez à embaucher des talents techniques de n'importe où ! ! | ⭐⭐⭐⭐⭐ |
 | [🔗 **skillvalue** (quiz)](https://www.frontendmentor.io/) | Mettez-vous au défi avec des quiz techniques, choisissez parmi +1000 tests techniques et faites-vous remarquer. Valorisez vos compétences dès maintenant et obtenez un certificat ! | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: verified -->
+
+#### `📌 Stat`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **stateofcss** (stat)](https://2021.stateofcss.com/fr-FR/) | Statistique CSS et ses technologies. | ⭐⭐⭐⭐⭐ |
+| [🔗 **stateofjs** (stat)](https://2021.stateofjs.com/fr-FR/) | Statistique Javascript et ses technologies. | ⭐⭐⭐⭐⭐ |
 
 <br>
 
