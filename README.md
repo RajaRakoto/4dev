@@ -34,6 +34,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Logos](#-logos)                                                      |
 | [🔎 Effects](#-effects)                                                  |
 | [🔎 Tools](#-tools)                                                      |
+| [🔎 Training](#-training)                                                |
 
 <!-- //TODO: work -->
 
@@ -164,6 +165,11 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **HTML5 UP!** (html + css + js)](https://html5up.net) | Thèmes HTML5/CSS3 réactifs très modernes et uniques | ⭐⭐⭐⭐🟊 |
 | [🔗 **Bootswatch** (bootstrap)](https://bootswatch.com) | Collection des thèmes Bootstrap gratuit | ⭐⭐⭐⭐🟊 |
 | [🔗 **UI design daily** (figma, sketch, photoshop)](https://www.uidesigndaily.com) | Composants d'interface utilisateur impressionnants de tous types | ⭐⭐⭐⭐🟊 |
+| [🔗 **Collect UI** (collection - idea)](https://collectui.com/designs) | Inspiration quotidienne collectée à partir des archives quotidiennes de l'interface utilisateur et au-delà. Triés sur le volet et mis à jour quotidiennement. | ⭐⭐⭐⭐⭐ |
+| [🔗 **awwwards** (top - web - idea)](https://www.awwwards.com/) | Un site Web qui évalue et collecte les meilleurs sites Web du monde en matière d'interface utilisateur | ⭐⭐⭐⭐🟊 |
+| [🔗 **lapa.ninja** (web - idea)](https://www.lapa.ninja/) | Meilleure inspiration de page de destination | ⭐⭐⭐⭐🟊 |
+| [🔗 **buttons ui** (btn - idea)](https://getcssscan.com/css-buttons-examples) | 84 beaux exemples de boutons CSS. | ⭐⭐⭐⭐🟊 |
+| [🔗 **box shadow** (box - idea)](https://getcssscan.com/css-box-shadow-examples) | 91 Beaux exemples de boîte-ombre CSS. | ⭐⭐⭐⭐🟊 |
 
 <br>
 <div align="right">
@@ -391,7 +397,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 Tools`
 
@@ -409,7 +415,18 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **kodeshot** (editor - code)](https://www.kodeshot.net/) | Convertissez votre code source en belles images pour vos articles, tweets, messages, posts... | ⭐⭐⭐⭐🟊 |
 | [🔗 **GTmetrix** (analysis)](https://gtmetrix.com/) | Optimisation de la vitesse et des performances du site Web | ⭐⭐⭐⭐🟊 |
 
-<br> 
+<br>
+
+<!-- //TODO: work -->
+
+#### `📌 Training`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **frontendmentor**](https://www.frontendmentor.io/) | Résolvez des défis HTML, CSS et JavaScript du monde réel tout en travaillant sur des conceptions professionnelles. Rejoignez 330227 développeurs qui construisent des projets, révisent du code et s'entraident pour s'améliorer. | ⭐⭐⭐⭐⭐ |
+
+<br>
+
 <div align="right">
     <b><a href="#codebase">↥ Back To Top</a></b>
 </div>
