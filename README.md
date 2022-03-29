@@ -16,6 +16,8 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 CSS Frameworks](#-css-frameworks)                                    |
 | [🔎 Components & kits](#-components--kits)                               |
 | [🔎 Template & ideas (html + css + js)](#-template--ideas-html--css--js) |
+| [🔎 Illustrations & Patterns](#-illustrations--patterns)                 |
+| [🔎 Layout](#-layout)                                                    |
 | [🔎 Animations](#-animations)                                            |
 | [🔎 Navigation & menu](#-navigation--menu)                               |
 | [🔎 Backgrounds](#-backgrounds)                                          |
