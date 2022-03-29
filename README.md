@@ -28,6 +28,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Loaders & spinners](#-loaders--spinners)                             |
 | [🔎 Photos & videos](#-photos--videos)                                   |
 | [🔎 Music & Sound effects](#-music--sound-effects)                       |
+| [🔎 Chart](#-chart)                                                      |
 | [🔎 Icons](#-icons)                                                      |
 | [🔎 Fonts](#-fonts)                                                      |
 | [🔎 Logos](#-logos)                                                      |
@@ -316,6 +317,14 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Bensound** (music)](https://www.bensound.com/) | Plus de 1,7 million d'images et de vidéos de haute qualité | ⭐⭐⭐⭐🟊 |
 
 <br>
+
+<!-- //TODO: work -->
+
+#### `📌 Chart`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **chart.js** (chart)](https://www.chartjs.org/docs/latest/) | Graphiques JavaScript simples mais flexibles pour les concepteurs et les développeurs | ⭐⭐⭐⭐🟊 |
 
 <!-- //TODO: verified -->
 
