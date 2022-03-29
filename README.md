@@ -406,8 +406,10 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **getavataaars** (editor - avatar)](https://getavataaars.com/) | Outil de génération Web d'avatars gratuits amusants et colorés par Fang-Pen Lin utilisant la bibliothèque de croquis de Pablo Stanley. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Personas** (editor - avatar)](https://personas.draftbit.com/) | Un générateur d'avatar ludique pour l'ère moderne. | ⭐⭐⭐🟊🟊 |
 | [🔗 **MapInSeconds** (editor - stat - map)](http://mapinseconds.com/#) | Un moyen simple de visualiser vos données avec une carte. | ⭐⭐⭐🟊🟊 |
+| [🔗 **kodeshot** (editor - code)](https://www.kodeshot.net/) | Convertissez votre code source en belles images pour vos articles, tweets, messages, posts... | ⭐⭐⭐⭐🟊 |
+| [🔗 **GTmetrix** (analysis)](https://gtmetrix.com/) | Optimisation de la vitesse et des performances du site Web | ⭐⭐⭐⭐🟊 |
 
-<br>
+<br> 
 <div align="right">
     <b><a href="#codebase">↥ Back To Top</a></b>
 </div>
