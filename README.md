@@ -397,8 +397,10 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | :-- | :-- | :-- |
 | [🔗 **Photopea** [photoshop] (editor - graphic)](https://shadows.brumm.af/) | Un éditeur Photoshop en ligne | ⭐⭐⭐⭐⭐ |
 | [🔗 **vectr** [illustrator] (editor - vector)](https://vectr.com/design/) | Logiciel de graphisme vectoriel gratuit | ⭐⭐⭐⭐⭐ |
-| [🔗 **fancy-border** (editor - border)](https://9elements.github.io/fancy-border-radius/full-control.html) | Huit valeurs spécifiant border-radius en CSS ( border-radius generator ) | ⭐⭐⭐🟊🟊 |
-| [🔗 **remove.bg** (editor - bg)](https://www.remove.bg/fr) | Supprimer rapidement les arrière-plans des images | ⭐⭐⭐🟊🟊 |
+| [🔗 **fancy-border** (editor - border)](https://9elements.github.io/fancy-border-radius/full-control.html/) | Huit valeurs spécifiant border-radius en CSS ( border-radius generator ) | ⭐⭐⭐🟊🟊 |
+| [🔗 **remove.bg** (editor - bg)](https://www.remove.bg/fr/) | Supprimer rapidement les arrière-plans des images | ⭐⭐⭐🟊🟊 |
+| [🔗 **Blobmaker** (editor - svg)](https://www.blobmaker.app/) | Blobmaker est un outil de conception générative gratuit qui vous aide à créer rapidement des formes SVG aléatoires, uniques et d'apparence organique. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Personas** (editor - avatar)](https://personas.draftbit.com/) | Un générateur d'avatar ludique pour l'ère moderne. | ⭐⭐⭐⭐🟊 |
 
 <br>
 <div align="right">
