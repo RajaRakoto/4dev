@@ -425,6 +425,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Personas** (editor - avatar)](https://personas.draftbit.com/) | Un générateur d'avatar ludique pour l'ère moderne. | ⭐⭐⭐🟊🟊 |
 | [🔗 **MapInSeconds** (editor - stat - map)](http://mapinseconds.com/#) | Un moyen simple de visualiser vos données avec une carte. | ⭐⭐⭐🟊🟊 |
 | [🔗 **kodeshot** (editor - code)](https://www.kodeshot.net/) | Convertissez votre code source en belles images pour vos articles, tweets, messages, posts... | ⭐⭐⭐⭐🟊 |
+| [🔗 **jsBin** (editor - js)](https://jsbin.com/?js,console) | Editeur de code Javascript en ligne | ⭐⭐⭐⭐🟊 |
 | [🔗 **GTmetrix** (analysis)](https://gtmetrix.com/) | Optimisation de la vitesse et des performances du site Web | ⭐⭐⭐⭐🟊 |
 | [🔗 **TinyPNG** (compress)](https://tinypng.com/) | Compression PNG et JPEG intelligente | ⭐⭐⭐⭐🟊 |
 | [🔗 **fsymbols** (convert - text)](https://fsymbols.com/generators/) | font generator | ⭐⭐⭐🟊🟊 |
@@ -439,7 +440,10 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **frontendmentor**](https://www.frontendmentor.io/) | Résolvez des défis HTML, CSS et JavaScript du monde réel tout en travaillant sur des conceptions professionnelles. Rejoignez 330227 développeurs qui construisent des projets, révisent du code et s'entraident pour s'améliorer. | ⭐⭐⭐⭐⭐ |
+| [🔗 **frontendmentor** (project)](https://www.frontendmentor.io/) | Résolvez des défis HTML, CSS et JavaScript du monde réel tout en travaillant sur des conceptions professionnelles. Rejoignez 330227 développeurs qui construisent des projets, révisent du code et s'entraident pour s'améliorer. | ⭐⭐⭐⭐⭐ |
+| [🔗 **javascript30** (project)](https://javascript30.com/) | 30 jours Vanilla JS Coding Challenge, Construisez 30 choses en 30 jours avec 30 tutoriels, Pas de frameworks, Pas de compilateurs, Pas de bibliothèques ! | ⭐⭐⭐⭐🟊 |
+| [🔗 **HackerRank** (eval)](https://www.hackerrank.com/) | HackerRank est la solution d'évaluation technique et d'entretien à distance leader sur le marché pour le recrutement de développeurs. Apprenez à embaucher des talents techniques de n'importe où ! ! | ⭐⭐⭐⭐⭐ |
+| [🔗 **skillvalue** (quiz)](https://www.frontendmentor.io/) | Mettez-vous au défi avec des quiz techniques, choisissez parmi +1000 tests techniques et faites-vous remarquer. Valorisez vos compétences dès maintenant et obtenez un certificat ! | ⭐⭐⭐⭐🟊 |
 
 <br>
 
