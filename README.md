@@ -35,7 +35,9 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Effects](#-effects)                                                  |
 | [🔎 Tools](#-tools)                                                      |
 | [🔎 Training](#-training)                                                |
-| [🔎 Extension (chrome)](#-extension-chrome)                             |
+| [🔎 Stat](#-stat)                                                        |
+| [🔎 Extension (chrome)](#-extension-chrome)                              |
+| [🔎 Others](#-others)                                                    |
 
 <br><br><br>
 
@@ -240,6 +242,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **barba.js** (animation - transition - js)](https://barba.js.org/docs/getstarted/intro/) | Barba.js est une petite bibliothèque (7 Ko minifiée et compressée) et facile à utiliser qui vous aide à créer des transitions fluides entre les pages de votre site Web. Il permet à votre site Web de fonctionner comme un SPA (Single Page Application) et aide à réduire le délai entre vos pages, à minimiser les requêtes HTTP du navigateur et à améliorer l'expérience Web de votre utilisateur. | ⭐⭐⭐⭐⭐ |
 | [🔗 **granim.js** (animation - gradient - js)](https://sarcadass.github.io/granim.js/examples.html) | Créez des animations dégradées fluides et interactives avec cette petite bibliothèque javascript. | ⭐⭐⭐⭐🟊 |
 | [🔗 **vivus.js** (animation - svg - js)](https://maxwellito.github.io/vivus/) | Vivus est une classe JavaScript légère (sans dépendances) qui vous permet d'animer des SVG, leur donnant l'apparence d'être dessinés. | ⭐⭐⭐⭐🟊 |
+| [🔗 **typingSVG** (animation - svg - typing)](https://readme-typing-svg.herokuapp.com/demo/) | SVG personnalisable généré dynamiquement qui donne l'impression de taper et de supprimer du texte. | ⭐⭐⭐⭐🟊 |
 | [🔗 **typed.js** (animation - typing - js)](https://mattboldt.com/demos/typed-js/) | Une bibliothèque d'animation de frappe (clavier) JavaScript.. | ⭐⭐⭐⭐🟊 |
 | [🔗 **progressbar.js** (animation - progress - js)](https://mattboldt.com/demos/typed-js/) | Barres de progression réactives et fluides avec des chemins SVG animés. | ⭐⭐⭐⭐🟊 |
 | [🔗 **tingle.js** (animation - modal - js)](https://tingle.robinparisi.com/) | Un plugin modal minimaliste et facile à utiliser écrit en Vanilla JS. | ⭐⭐⭐⭐⭐ |
@@ -267,6 +270,8 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | :-- | :-- | :-- |
 | [🔗 **Pocoloco** (bg)](https://pocoloco.io/) | Générer des arrière-plans dynamiques pour votre site web | ⭐⭐⭐⭐🟊 |
 | [🔗 **getwaves** (bg)](https://getwaves.io/) | Un générateur d'ondes SVG gratuit pour créer des ondes SVG uniques pour la conception Web | ⭐⭐⭐⭐🟊 |
+| [🔗 **Clippy** (bg - polygone)](https://bennettfeely.com/clippy/) | Editer une image sous forme de polygone en CSS | ⭐⭐⭐⭐🟊 |
+| [🔗 **cssgradient** (bg - gradient)](https://cssgradient.io/) | Un générateur de couleur degredE elegant pour des arrière-plans | ⭐⭐⭐⭐🟊 |
 
 <br>
 
@@ -326,6 +331,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Pixabay** (photos - videos)](https://pixabay.com) | Plus de 1,7 million d'images et de vidéos de haute qualité | ⭐⭐⭐⭐⭐ |
 | [🔗 **Pexels** (photos - videos)](https://www.pexels.com) | La plus grande bibliothèque de vidéos gratuites, offerte par la communauté | ⭐⭐⭐⭐🟊 |
 | [🔗 **Magdeleine** (photos - theme)](https://colorcurves.app) | Galerie et photo haute résolution gratuite tous les jours | ⭐⭐⭐⭐🟊 |
+| [🔗 **giphy** (gif)](https://giphy.com/stickers/) | Collection d'image GIF | ⭐⭐⭐🟊🟊 |
 
 <br>
 <div align="right">
@@ -420,8 +426,13 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Personas** (editor - avatar)](https://personas.draftbit.com/) | Un générateur d'avatar ludique pour l'ère moderne. | ⭐⭐⭐🟊🟊 |
 | [🔗 **MapInSeconds** (editor - stat - map)](http://mapinseconds.com/#) | Un moyen simple de visualiser vos données avec une carte. | ⭐⭐⭐🟊🟊 |
 | [🔗 **kodeshot** (editor - code)](https://www.kodeshot.net/) | Convertissez votre code source en belles images pour vos articles, tweets, messages, posts... | ⭐⭐⭐⭐🟊 |
+| [🔗 **jsBin** (editor - js)](https://jsbin.com/?js,console) | Editeur de code Javascript en ligne | ⭐⭐⭐⭐🟊 |
 | [🔗 **GTmetrix** (analysis)](https://gtmetrix.com/) | Optimisation de la vitesse et des performances du site Web | ⭐⭐⭐⭐🟊 |
 | [🔗 **TinyPNG** (compress)](https://tinypng.com/) | Compression PNG et JPEG intelligente | ⭐⭐⭐⭐🟊 |
+| [🔗 **fsymbols** (convert - text)](https://fsymbols.com/generators/) | font generator | ⭐⭐⭐🟊🟊 |
+| [🔗 **fontmeme** (convert - sign)](https://fontmeme.com/fr/polices-de-signature/) | Convertir un texte en police de signature | ⭐⭐⭐🟊🟊 |
+| [🔗 **ASCIIart** (convert - img)](https://manytools.org/hacker-tools/convert-images-to-ascii-art/) | Convert Images to Ascii Art | ⭐⭐🟊🟊🟊 |
+| [🔗 **Minify** (css - js)](https://www.minifier.org/) | Rendez votre site Web plus petit et plus rapide à charger en minimisant le code JS et CSS. | ⭐⭐⭐🟊🟊 |
 
 <br>
 
@@ -431,7 +442,21 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **frontendmentor**](https://www.frontendmentor.io/) | Résolvez des défis HTML, CSS et JavaScript du monde réel tout en travaillant sur des conceptions professionnelles. Rejoignez 330227 développeurs qui construisent des projets, révisent du code et s'entraident pour s'améliorer. | ⭐⭐⭐⭐⭐ |
+| [🔗 **frontendmentor** (project)](https://www.frontendmentor.io/) | Résolvez des défis HTML, CSS et JavaScript du monde réel tout en travaillant sur des conceptions professionnelles. Rejoignez 330227 développeurs qui construisent des projets, révisent du code et s'entraident pour s'améliorer. | ⭐⭐⭐⭐⭐ |
+| [🔗 **javascript30** (project)](https://javascript30.com/) | 30 jours Vanilla JS Coding Challenge, Construisez 30 choses en 30 jours avec 30 tutoriels, Pas de frameworks, Pas de compilateurs, Pas de bibliothèques ! | ⭐⭐⭐⭐🟊 |
+| [🔗 **HackerRank** (eval)](https://www.hackerrank.com/) | HackerRank est la solution d'évaluation technique et d'entretien à distance leader sur le marché pour le recrutement de développeurs. Apprenez à embaucher des talents techniques de n'importe où ! ! | ⭐⭐⭐⭐⭐ |
+| [🔗 **skillvalue** (quiz)](https://www.frontendmentor.io/) | Mettez-vous au défi avec des quiz techniques, choisissez parmi +1000 tests techniques et faites-vous remarquer. Valorisez vos compétences dès maintenant et obtenez un certificat ! | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: verified -->
+
+#### `📌 Stat`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **stateofcss** (stat)](https://2021.stateofcss.com/fr-FR/) | Statistique CSS et ses technologies. | ⭐⭐⭐⭐⭐ |
+| [🔗 **stateofjs** (stat)](https://2021.stateofjs.com/fr-FR/) | Statistique Javascript et ses technologies. | ⭐⭐⭐⭐⭐ |
 
 <br>
 
@@ -456,6 +481,16 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | Fake Filler un remplisseur de formulaire qui remplit toutes les entrées d'une page avec des données fausses/factices. | ⭐⭐⭐⭐🟊 |
 | [🔗 CSSviewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) | Une simple visionneuse de propriétés CSS. | ⭐⭐⭐🟊🟊 |
 | [🔗 Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | Un outil open source et automatisé pour améliorer les performances, la qualité et l'exactitude de vos applications Web. | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: work -->
+
+#### `📌 Others`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **jsDelivr** (search)](https://www.jsdelivr.com/) | jsDelivr est un moteur de recherche puissant pour developpeur, ce dernier offre des liens qui permet d'acceder rapidement au site officiel, documentation, github ou meme telecharger directement un package | ⭐⭐⭐⭐⭐ |
 
 <br>
 
