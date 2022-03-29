@@ -35,7 +35,9 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Effects](#-effects)                                                  |
 | [🔎 Tools](#-tools)                                                      |
 | [🔎 Training](#-training)                                                |
-| [🔎 Extension (chrome)](<#-extension-(chrome)>)                          |
+| [🔎 Extension (chrome)](<#-extension-chrome)                             |
+
+<br><br><br>
 
 <!-- //TODO: work -->
 
@@ -65,6 +67,8 @@ Collection & creation des codebases qui peuvent vous être utiles ...
 | 📂 **tsparticles** (JS library) | Créez facilement des animations de particules hautement personnalisables et utilisez-les comme arrière-plans animés pour votre site Web |
 | 📂 **typing** | Collection of typing text effect with Javascript |
 | 📂 **vantaJS** (JS library) | 3D & WebGL Background Animations For Your Website. |
+
+<br><br><br>
 
 <div align="center">
 <img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/npm.png?raw=true" width="80"><br>
@@ -109,6 +113,8 @@ Collection des meilleurs packages NPM qui peuvent vous être utiles ...
 | 📦 **cloudinary** | Transformez les images et les vidéos pour qu'elles se chargent plus rapidement sans dégradation visuelle, générez automatiquement des variantes d'images et de vidéos et offrez une expérience réactive de haute qualité pour augmenter les conversions. | `npm i cloudinary` | 500kb | [💡](https://www.npmjs.com/package/cloudinary) |
 | 📦 **passport** | Passport est un middleware d'authentification pour Node.js. Extrêmement flexible et modulaire, Passport peut être inséré discrètement dans n'importe quelle application Web basée sur Express. | `npm i passport` | 70kb | [💡](https://www.npmjs.com/package/passport) |
 | 📦 **nodemailer** | Nodemailer est un module pour les applications Node.js permettant d'envoyer des e-mails en toute simplicité. | `npm i nodemailer` | 500kb | [💡](https://www.npmjs.com/package/nodemailer) |
+
+<br><br><br>
 
 <div align="center">
 <img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/link.png?raw=true" width="200"><br>
@@ -419,7 +425,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 Training`
 
@@ -429,7 +435,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 Extension (chrome)`
 
