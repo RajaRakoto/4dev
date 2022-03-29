@@ -189,16 +189,24 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: verified -->
+<!-- //TODO: work -->
 
 #### `📌 Animations`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **Magic Animations** (animation)](https://www.minimamente.com/project/magic/) | Une bibliothèques d'animation les plus impressionnantes disponibles | ⭐⭐⭐⭐⭐ |
-| [🔗 **Animate.css** (animation)](https://animate.style/) | Just-add-water CSS animations | ⭐⭐⭐⭐🟊 |
-| [🔗 **Animista** (animation)](http://animista.net/) | Animations CSS à la demande | ⭐⭐⭐⭐🟊 |
-| [🔗 **Transitions & Transforms** (animation)](https://thoughtbot.com/blog/transitions-and-transforms) | Transitions et transformations CSS pour les débutants | ⭐⭐⭐🟊🟊 |
+| [🔗 **Magic Animations** (animation - css)](https://www.minimamente.com/project/magic/) | Une bibliothèques d'animation - css les plus impressionnantes disponibles | ⭐⭐⭐⭐⭐ |
+| [🔗 **Animate.css** (animation - css)](https://animate.style/) | Just-add-water CSS animations | ⭐⭐⭐⭐🟊 |
+| [🔗 **Animista** (animation - css)](http://animista.net/) | Animations CSS à la demande | ⭐⭐⭐⭐🟊 |
+| [🔗 **Transitions & Transforms** (animation - css)](https://thoughtbot.com/blog/transitions-and-transforms) | Transitions et transformations CSS pour les débutants | ⭐⭐⭐🟊🟊 |
+| [🔗 **lax.js** (animation - scroll - js)](https://github.com/alexfoxy/laxxx) | Plugin javascript vanille simple et léger pour créer des animations fluides et belles lorsque vous faites défiler | ⭐⭐⭐⭐🟊 |
+| [🔗 **rellax.js** (animation - scroll - js)](https://dixonandmoe.com/rellax/) | Une bibliothèque de parallaxe javascript vanille ultra légère | ⭐⭐⭐⭐🟊 |
+| [🔗 **wow.js** (animation - scroll - js)](https://github.com/graingert/wow/) | Révélez l'animation CSS lorsque vous faites défiler une page | ⭐⭐⭐⭐🟊 |
+| [🔗 **tilt.js** (animation - hover - js)](https://github.com/gijsroge/tilt.js/) | Un petit effet d'inclinaison de survol de parallaxe léger à 60+ fps de requestAnimationFrame pour jQuery. | ⭐⭐⭐⭐🟊 |
+| [🔗 **particles.js** (animation - bg - js)](https://particles.js.org/) | Une bibliothèque légère pour créer des particules | ⭐⭐⭐⭐🟊 |
+| [🔗 **Lightbox2** (animation - image - js)](https://lokeshdhakar.com/projects/lightbox2/) | Une petite bibliothèque JS pour superposer des images en haut de la page actuelle | ⭐⭐🟊🟊🟊 |
+| [🔗 **slick** (animation - carousel - js)](https://kenwheeler.github.io/slick/) | Carrousel entièrement réactif et ultra legere en jQuery | ⭐⭐⭐🟊🟊 |
+| [🔗 **barba.js** (animation - transition - js)](https://barba.js.org/docs/getstarted/intro/) | Barba.js est une petite bibliothèque (7 Ko minifiée et compressée) et facile à utiliser qui vous aide à créer des transitions fluides entre les pages de votre site Web. Il permet à votre site Web de fonctionner comme un SPA (Single Page Application) et aide à réduire le délai entre vos pages, à minimiser les requêtes HTTP du navigateur et à améliorer l'expérience Web de votre utilisateur. | ⭐⭐⭐⭐⭐ |
 
 <br>
 <div align="right">
