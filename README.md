@@ -325,6 +325,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
 | [🔗 **chart.js** (chart)](https://www.chartjs.org/docs/latest/) | Graphiques JavaScript simples mais flexibles pour les concepteurs et les développeurs | ⭐⭐⭐⭐🟊 |
+| [🔗 **charist** (chart)](http://gionkunz.github.io/chartist-js/getting-started.html/) | Graphiques réactifs simples | ⭐⭐⭐🟊🟊 |
 
 <!-- //TODO: verified -->
 
