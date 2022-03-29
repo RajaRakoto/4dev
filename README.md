@@ -35,7 +35,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Effects](#-effects)                                                  |
 | [🔎 Tools](#-tools)                                                      |
 | [🔎 Training](#-training)                                                |
-| [🔎 Extension (chrome)](<#-extension-chrome)                             |
+| [🔎 Extension (chrome)](#-extension-chrome)                             |
 
 <br><br><br>
 
