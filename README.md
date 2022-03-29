@@ -435,15 +435,21 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **WhatRuns**](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en) | Découvrez ce qui gère un site Web. Frameworks, outils d'analyse, plugins Wordpress, polices - vous l'appelez. | ⭐⭐⭐⭐🟊 |
+| [🔗 Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg/related) | Wappalyzer est un profileur technologique qui vous montre avec quoi les sites Web sont construits. | ⭐⭐⭐⭐⭐ |
+| [🔗 WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en) | Découvrez ce qui gère un site Web. Frameworks, outils d'analyse, plugins Wordpress, polices - vous l'appelez. | ⭐⭐⭐🟊🟊 |
 | [🔗 React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | Réagissez les outils de débogage aux outils de développement Chrome. Il vous permet d'inspecter les hiérarchies des composants React dans les outils de développement Chrome. | ⭐⭐⭐⭐⭐ |
-| [🔗 **Web Developer**](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | Ajoute un bouton de barre d'outils avec divers outils de développement Web. | ⭐⭐⭐⭐🟊 |
+| [🔗 Angular DevTools](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh) | Angular DevTools vous permet de comprendre la structure de votre application et de prévisualiser l'état de la directive et des instances de composants. | ⭐⭐⭐⭐⭐ |
+| [🔗 Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) | Comprendre la structure de votre application et de prévisualiser l'état de la directive et des instances de composants Vue. | ⭐⭐⭐⭐⭐ |
+| [🔗 Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | Ajoute un bouton de barre d'outils avec divers outils de développement Web. | ⭐⭐⭐⭐🟊 |
 | [🔗 Awesome Screenshot & Screen Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) | Capture d'écran pleine page et enregistreur d'écran - 2 en 1. Partagez instantanément la vidéo screencast. | ⭐⭐⭐⭐🟊 |
 | [🔗 GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) | Capturez une capture d'écran de votre page actuelle dans son intégralité et de manière fiable, sans demander d'autorisations supplémentaires !. | ⭐⭐⭐⭐🟊 |
 | [🔗 Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en) | Afficher plusieurs écrans une fois, testeur de conception réactive. | ⭐⭐⭐⭐⭐ |
 | [🔗 Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) | Insère le CSS Pesticide dans la page actuelle, décrivant chaque élément HTML pour mieux voir le placement sur la page, utile pour créer des mises en page. | ⭐⭐⭐🟊🟊 |
 | [🔗 Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh) | Un outil indispensable pour les concepteurs et les développeurs frontend pour saisir les couleurs de n'importe quel site Web. | ⭐⭐⭐⭐⭐ |
 | [🔗 Imageye](https://chrome.google.com/webstore/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm) | Rechercher et télécharger toutes les images d'une page Web. Avec Imageye, vous pouvez trouver, parcourir et télécharger toutes les images présentes dans une page Web. | ⭐⭐⭐⭐⭐ |
+| [🔗 Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | Fake Filler un remplisseur de formulaire qui remplit toutes les entrées d'une page avec des données fausses/factices. | ⭐⭐⭐⭐🟊 |
+| [🔗 CSSviewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) | Une simple visionneuse de propriétés CSS. | ⭐⭐⭐🟊🟊 |
+| [🔗 Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | Un outil open source et automatisé pour améliorer les performances, la qualité et l'exactitude de vos applications Web. | ⭐⭐⭐⭐🟊 |
 
 <br>
 
