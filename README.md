@@ -33,6 +33,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Fonts](#-fonts)                                                      |
 | [🔎 Logos](#-logos)                                                      |
 | [🔎 Effects](#-effects)                                                  |
+| [🔎 Tools](#-tools)                                                      |
 
 <!-- //TODO: work -->
 
@@ -131,7 +132,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 Components & kits`
 
@@ -145,7 +146,12 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Creative-tim** (kit - bootstrap - AVR)](https://www.creative-tim.com/) | Kits d'interface utilisateur, modèles et tableaux de bord construits sur Bootstrap, Vue.js, React, Angular, Node.js et Laravel. Rejoignez plus de 1 838 844 créatifs! | ⭐⭐⭐⭐🟊 |
 | [🔗 **chakra-UI** (component - react)](https://chakra-ui.com/guides/first-steps) | Créez rapidement des applications et des sites Web React accessibles. | ⭐⭐⭐⭐⭐ |
 | [🔗 **react-bootstrap** (component - bootstrap - react)](https://react-bootstrap.github.io/getting-started/introduction) | Bootstrap reconstruit pour React. Inclure les composants Bootstrap directement dans votre projet React | ⭐⭐⭐⭐🟊 |
-| [🔗 **MUI** (component - react)](https://mui.com/getting-started/installation/) | Composants React pour un développement Web plus rapide et plus facile, basé sur Material Design | ⭐⭐⭐🟊🟊 |
+| [🔗 **MUI** (component - react)](https://mui.com/getting-started/installation/) | Cadre de composants React basé sur Material Design | ⭐⭐⭐🟊🟊 |
+| [🔗 **RNUILib** (component - reactnative)](https://wix.github.io/react-native-ui-lib/docs/getting-started/setup) | React Native UI (RNUI) est une bibliothèque d'outils et de composants d'interface utilisateur pour React Native de Wix | ⭐⭐⭐🟊🟊 |
+| [🔗 **Vuetify** (component - vue)](https://vuetifyjs.com/en/getting-started/installation/) | Cadre de composants Vue basé sur Material Design | ⭐⭐⭐⭐🟊 |
+| [🔗 **BootstrapVue** (component - bootstrap - vue)](https://bootstrap-vue.org/docs) | Utiliser les composants Bootstrap avec Vue | ⭐⭐⭐⭐🟊 |
+| [🔗 **Angular Material** (component - angular)](https://material.angular.io/guide/getting-started/) | Cadre de composants Angular basé sur Material Design | ⭐⭐⭐⭐🟊 |
+| [🔗 **Angular powered Bootstrap** (component - bootstrap - angular)](https://bootstrap-vue.org/docs) | Utiliser les composants Bootstrap avec Angular | ⭐⭐⭐⭐🟊 |
 
 <br>
 
@@ -245,6 +251,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
 | [🔗 **Pocoloco** (bg)](https://pocoloco.io/) | Générer des arrière-plans dynamiques pour votre site web | ⭐⭐⭐⭐🟊 |
+| [🔗 **getwaves** (bg)](https://getwaves.io/) | Un générateur d'ondes SVG gratuit pour créer des ondes SVG uniques pour la conception Web | ⭐⭐⭐⭐🟊 |
 
 <br>
 
@@ -379,6 +386,19 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
 | [🔗 **Brumm Shadow Maker** (shadow)](https://shadows.brumm.af/) | Faire une ombre douce | ⭐⭐⭐⭐⭐ |
+
+<br>
+
+<!-- //TODO: work -->
+
+#### `📌 Tools`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Photopea** [photoshop] (editor - graphic)](https://shadows.brumm.af/) | Un éditeur Photoshop en ligne | ⭐⭐⭐⭐⭐ |
+| [🔗 **vectr** [illustrator] (editor - vector)](https://vectr.com/design/) | Logiciel de graphisme vectoriel gratuit | ⭐⭐⭐⭐⭐ |
+| [🔗 **fancy-border** (editor - border)](https://9elements.github.io/fancy-border-radius/full-control.html) | Huit valeurs spécifiant border-radius en CSS ( border-radius generator ) | ⭐⭐⭐🟊🟊 |
+| [🔗 **remove.bg** (editor - bg)](https://www.remove.bg/fr) | Supprimer rapidement les arrière-plans des images | ⭐⭐⭐🟊🟊 |
 
 <br>
 <div align="right">
