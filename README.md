@@ -200,13 +200,18 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Animista** (animation - css)](http://animista.net/) | Animations CSS à la demande | ⭐⭐⭐⭐🟊 |
 | [🔗 **Transitions & Transforms** (animation - css)](https://thoughtbot.com/blog/transitions-and-transforms) | Transitions et transformations CSS pour les débutants | ⭐⭐⭐🟊🟊 |
 | [🔗 **lax.js** (animation - scroll - js)](https://github.com/alexfoxy/laxxx) | Plugin javascript vanille simple et léger pour créer des animations fluides et belles lorsque vous faites défiler | ⭐⭐⭐⭐🟊 |
-| [🔗 **rellax.js** (animation - scroll - js)](https://dixonandmoe.com/rellax/) | Une bibliothèque de parallaxe javascript vanille ultra légère | ⭐⭐⭐⭐🟊 |
 | [🔗 **wow.js** (animation - scroll - js)](https://github.com/graingert/wow/) | Révélez l'animation CSS lorsque vous faites défiler une page | ⭐⭐⭐⭐🟊 |
+| [🔗 **rellax.js** (animation - parallax - js)](https://dixonandmoe.com/rellax/) | Une bibliothèque de parallaxe javascript vanille ultra légère | ⭐⭐⭐⭐🟊 |
+| [🔗 **simpleparallax.js** (animation - parallax - js)](https://simpleparallax.com/) | Le moyen le plus simple d'obtenir un effet de parallaxe avec javascript | ⭐⭐⭐⭐🟊 |
 | [🔗 **tilt.js** (animation - hover - js)](https://github.com/gijsroge/tilt.js/) | Un petit effet d'inclinaison de survol de parallaxe léger à 60+ fps de requestAnimationFrame pour jQuery. | ⭐⭐⭐⭐🟊 |
 | [🔗 **particles.js** (animation - bg - js)](https://particles.js.org/) | Une bibliothèque légère pour créer des particules | ⭐⭐⭐⭐🟊 |
 | [🔗 **Lightbox2** (animation - image - js)](https://lokeshdhakar.com/projects/lightbox2/) | Une petite bibliothèque JS pour superposer des images en haut de la page actuelle | ⭐⭐🟊🟊🟊 |
+| [🔗 **Swiper.js** (animation - carousel - AVR - js)](https://swiperjs.com/get-started/) | Carousel gratuit, elegant et moderne sans jQuery. Disponible pour Vanilla JS et tous les frameworks modernes comme React, Vue, Angular etc... | ⭐⭐⭐⭐⭐ |
 | [🔗 **slick** (animation - carousel - js)](https://kenwheeler.github.io/slick/) | Carrousel entièrement réactif et ultra legere en jQuery | ⭐⭐⭐🟊🟊 |
 | [🔗 **barba.js** (animation - transition - js)](https://barba.js.org/docs/getstarted/intro/) | Barba.js est une petite bibliothèque (7 Ko minifiée et compressée) et facile à utiliser qui vous aide à créer des transitions fluides entre les pages de votre site Web. Il permet à votre site Web de fonctionner comme un SPA (Single Page Application) et aide à réduire le délai entre vos pages, à minimiser les requêtes HTTP du navigateur et à améliorer l'expérience Web de votre utilisateur. | ⭐⭐⭐⭐⭐ |
+| [🔗 **KUTE.js** (animation - engine - js)](https://thednp.github.io/kute.js/) | KUTE.js est un moteur d'animation (collection de component) JavaScript pour les navigateurs modernes. | ⭐⭐⭐⭐⭐ |
+| [🔗 **granim.js** (animation - gradient - js)](https://sarcadass.github.io/granim.js/examples.html) | Créez des animations dégradées fluides et interactives avec cette petite bibliothèque javascript. | ⭐⭐⭐⭐🟊 |
+| [🔗 **vivus.js** (animation - svg - js)](https://maxwellito.github.io/vivus/) | Vivus est une classe JavaScript légère (sans dépendances) qui vous permet d'animer des SVG, leur donnant l'apparence d'être dessinés. | ⭐⭐⭐⭐🟊 |
 
 <br>
 <div align="right">
