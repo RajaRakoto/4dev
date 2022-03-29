@@ -196,6 +196,8 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **CSS Layout** (pure css)](https://csslayout.io/) | Une collection de mises en page et de modèles de Web populaires en Pure CSS | ⭐⭐⭐⭐🟊 |
 | [🔗 **Generate Postition** (position)](http://www.generatecss.com/css/position/) | Ce générateur vous permet de positionner facilement des éléments au-dessus d'un autre élément. Cet outil est idéal pour des choses comme le positionnement d'un logo sur un en-tête dans la mise en page d'un site Web ou la création d'une bannière qui se chevauche avec des textes au lieu d'une image. | ⭐⭐⭐🟊🟊 |
 | [🔗 **Flexbox help** (flex)](https://flexbox.help/) | Un generateur de flexbox rapide et facile | ⭐⭐⭐⭐🟊 |
+| [🔗 **GRIDmalven** (grid)](https://flexbox.help/) | Une cheatsheet de grille CSS à référencer lors de la création d'une grille CSS | ⭐⭐⭐⭐🟊 |
+| [🔗 **FLEXmalven** (flex)](https://flexbox.help/) | Une cheatsheet de grille flexbox à référencer lorsque vous travaillez avec flexbox | ⭐⭐⭐⭐🟊 |
 
 <br>
 
@@ -397,10 +399,17 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | :-- | :-- | :-- |
 | [🔗 **Photopea** [photoshop] (editor - graphic)](https://shadows.brumm.af/) | Un éditeur Photoshop en ligne | ⭐⭐⭐⭐⭐ |
 | [🔗 **vectr** [illustrator] (editor - vector)](https://vectr.com/design/) | Logiciel de graphisme vectoriel gratuit | ⭐⭐⭐⭐⭐ |
-| [🔗 **fancy-border** (editor - border)](https://9elements.github.io/fancy-border-radius/full-control.html) | Huit valeurs spécifiant border-radius en CSS ( border-radius generator ) | ⭐⭐⭐🟊🟊 |
-| [🔗 **remove.bg** (editor - bg)](https://www.remove.bg/fr) | Supprimer rapidement les arrière-plans des images | ⭐⭐⭐🟊🟊 |
+| [🔗 **fancy-border** (editor - border)](https://9elements.github.io/fancy-border-radius/full-control.html/) | Huit valeurs spécifiant border-radius en CSS ( border-radius generator ) | ⭐⭐⭐🟊🟊 |
+| [🔗 **remove.bg** (editor - bg)](https://www.remove.bg/fr/) | Supprimer rapidement les arrière-plans des images | ⭐⭐⭐🟊🟊 |
+| [🔗 **Blobmaker** (editor - svg)](https://www.blobmaker.app/) | Blobmaker est un outil de conception générative gratuit qui vous aide à créer rapidement des formes SVG aléatoires, uniques et d'apparence organique. | ⭐⭐⭐⭐🟊 |
+| [🔗 **bigheads** (caracters - avatar)](https://github.com/RobertBroersma/bigheads/) | Générez facilement des avatars pour vos projets avec Big Heads de Robert Broersma. | ⭐⭐⭐⭐⭐ |
+| [🔗 **getavataaars** (editor - avatar)](https://getavataaars.com/) | Outil de génération Web d'avatars gratuits amusants et colorés par Fang-Pen Lin utilisant la bibliothèque de croquis de Pablo Stanley. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Personas** (editor - avatar)](https://personas.draftbit.com/) | Un générateur d'avatar ludique pour l'ère moderne. | ⭐⭐⭐🟊🟊 |
+| [🔗 **MapInSeconds** (editor - stat - map)](http://mapinseconds.com/#) | Un moyen simple de visualiser vos données avec une carte. | ⭐⭐⭐🟊🟊 |
+| [🔗 **kodeshot** (editor - code)](https://www.kodeshot.net/) | Convertissez votre code source en belles images pour vos articles, tweets, messages, posts... | ⭐⭐⭐⭐🟊 |
+| [🔗 **GTmetrix** (analysis)](https://gtmetrix.com/) | Optimisation de la vitesse et des performances du site Web | ⭐⭐⭐⭐🟊 |
 
-<br>
+<br> 
 <div align="right">
     <b><a href="#codebase">↥ Back To Top</a></b>
 </div>
