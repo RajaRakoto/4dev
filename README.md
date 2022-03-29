@@ -131,7 +131,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 Components & kits`
 
@@ -145,7 +145,11 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Creative-tim** (kit - bootstrap - AVR)](https://www.creative-tim.com/) | Kits d'interface utilisateur, modèles et tableaux de bord construits sur Bootstrap, Vue.js, React, Angular, Node.js et Laravel. Rejoignez plus de 1 838 844 créatifs! | ⭐⭐⭐⭐🟊 |
 | [🔗 **chakra-UI** (component - react)](https://chakra-ui.com/guides/first-steps) | Créez rapidement des applications et des sites Web React accessibles. | ⭐⭐⭐⭐⭐ |
 | [🔗 **react-bootstrap** (component - bootstrap - react)](https://react-bootstrap.github.io/getting-started/introduction) | Bootstrap reconstruit pour React. Inclure les composants Bootstrap directement dans votre projet React | ⭐⭐⭐⭐🟊 |
-| [🔗 **MUI** (component - react)](https://mui.com/getting-started/installation/) | Composants React pour un développement Web plus rapide et plus facile, basé sur Material Design | ⭐⭐⭐🟊🟊 |
+| [🔗 **MUI** (component - react)](https://mui.com/getting-started/installation/) | Cadre de composants React basé sur Material Design | ⭐⭐⭐🟊🟊 |
+| [🔗 **Vuetify** (component - vue)](https://vuetifyjs.com/en/getting-started/installation/) | Cadre de composants Vue basé sur Material Design | ⭐⭐⭐⭐🟊 |
+| [🔗 **BootstrapVue** (component - bootstrap - vue)](https://bootstrap-vue.org/docs) | Utiliser les composants Bootstrap avec Vue | ⭐⭐⭐⭐🟊 |
+| [🔗 **Angular Material** (component - angular)](https://material.angular.io/guide/getting-started/) | Cadre de composants Angular basé sur Material Design | ⭐⭐⭐⭐🟊 |
+| [🔗 **Angular powered Bootstrap** (component - bootstrap - angular)](https://bootstrap-vue.org/docs) | Utiliser les composants Bootstrap avec Angular | ⭐⭐⭐⭐🟊 |
 
 <br>
 
