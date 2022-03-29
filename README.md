@@ -205,7 +205,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **rellax.js** (animation - parallax - js)](https://dixonandmoe.com/rellax/) | Une bibliothèque de parallaxe javascript vanille ultra légère | ⭐⭐⭐⭐🟊 |
 | [🔗 **simpleparallax.js** (animation - parallax - js)](https://simpleparallax.com/) | Le moyen le plus simple d'obtenir un effet de parallaxe avec javascript | ⭐⭐⭐⭐🟊 |
 | [🔗 **tilt.js** (animation - hover - js)](https://github.com/gijsroge/tilt.js/) | Un petit effet d'inclinaison de survol de parallaxe léger à 60+ fps de requestAnimationFrame pour jQuery. | ⭐⭐⭐⭐🟊 |
+| [🔗 **nice-waves** (animation - bg - js)](https://github.com/gVguy/nice-waves#nice-waves) | Belles vagues animées. | ⭐⭐⭐🟊🟊 |
 | [🔗 **particles.js** (animation - bg - js)](https://particles.js.org/) | Une bibliothèque légère pour créer des particules | ⭐⭐⭐⭐🟊 |
+| [🔗 **vanta.js** (animation - bg - js)](https://www.vantajs.com/) | Arrière-plans de sites Web animés en quelques lignes de code. | ⭐⭐⭐⭐⭐ |
 | [🔗 **Lightbox2** (animation - image - js)](https://lokeshdhakar.com/projects/lightbox2/) | Une petite bibliothèque JS pour superposer des images en haut de la page actuelle | ⭐⭐🟊🟊🟊 |
 | [🔗 **Swiper.js** (animation - carousel - AVR - js)](https://swiperjs.com/get-started/) | Carousel gratuit, elegant et moderne sans jQuery. Disponible pour Vanilla JS et tous les frameworks modernes comme React, Vue, Angular etc... | ⭐⭐⭐⭐⭐ |
 | [🔗 **splide.js** (animation - carousel - js)](https://splidejs.com/) | Splide est un slider/carrousel léger, flexible et accessible écrit en TypeScript. Pas de dépendances, pas d'erreurs Lighthouse. | ⭐⭐⭐⭐🟊 |
