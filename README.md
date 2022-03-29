@@ -7,6 +7,8 @@
 
 _📨 Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ..._
 
+<!-- //TODO: verified -->
+
 | Table des matières                                                       |
 | :----------------------------------------------------------------------- |
 | [🔎 Codebase](#codebase)                                                 |
@@ -183,6 +185,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **CSS Grid Generator** (grid)](https://cssgrid-generator.netlify.app/) | Un projet open source permettant aux utilisateurs de créer rapidement une mise en page dynamique basée sur la grille CSS. | ⭐⭐⭐⭐🟊 |
 | [🔗 **CSS Layout** (pure css)](https://csslayout.io/) | Une collection de mises en page et de modèles de Web populaires en Pure CSS | ⭐⭐⭐⭐🟊 |
 | [🔗 **Generate Postition** (position)](http://www.generatecss.com/css/position/) | Ce générateur vous permet de positionner facilement des éléments au-dessus d'un autre élément. Cet outil est idéal pour des choses comme le positionnement d'un logo sur un en-tête dans la mise en page d'un site Web ou la création d'une bannière qui se chevauche avec des textes au lieu d'une image. | ⭐⭐⭐🟊🟊 |
+| [🔗 **Flexbox help** (flex)](https://flexbox.help/) | Un generateur de flexbox rapide et facile | ⭐⭐⭐⭐🟊 |
 
 <br>
 
