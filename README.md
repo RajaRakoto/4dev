@@ -36,6 +36,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Tools](#-tools)                                                      |
 | [🔎 Training](#-training)                                                |
 | [🔎 Extension (chrome)](#-extension-chrome)                              |
+| [🔎 Others](#-others)                                                    |
 
 <br><br><br>
 
@@ -463,6 +464,16 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | Fake Filler un remplisseur de formulaire qui remplit toutes les entrées d'une page avec des données fausses/factices. | ⭐⭐⭐⭐🟊 |
 | [🔗 CSSviewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) | Une simple visionneuse de propriétés CSS. | ⭐⭐⭐🟊🟊 |
 | [🔗 Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | Un outil open source et automatisé pour améliorer les performances, la qualité et l'exactitude de vos applications Web. | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: work -->
+
+#### `📌 Others`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **jsDelivr** (search)](https://www.jsdelivr.com/) | jsDelivr est un moteur de recherche puissant pour developpeur, ce dernier offre des liens qui permet d'acceder rapidement au site officiel, documentation, github ou meme telecharger directement un package | ⭐⭐⭐⭐⭐ |
 
 <br>
 
