@@ -11,41 +11,40 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 | Table des matières                                                       |
 | :----------------------------------------------------------------------- |
-| [🔎 Codebase](#codebase)                                                 |
-|                                                                          |
-| [🔎 NPM packages](#npm-packages)                                         |
-|                                                                          |
+| [🔎 API](#-api)                                                          |
+| [🔎 Animations](#-animations)                                            |
+| [🔎 Avatar](#-avatar)                                                    |
+| [🔎 Backgrounds](#-backgrounds)                                          |
+| [🔎 Blog](#-blog)                                                        |
 | [🔎 CSS Frameworks](#-css-frameworks)                                    |
+| [🔎 Chart](#-chart)                                                      |
+| [🔎 Charte graphique (colors)](#-charte-graphique-colors)                |
+| [🔎 Codebase](#codebase)                                                 |
 | [🔎 Components & kits](#-components--kits)                               |
-| [🔎 Template & ideas (html + css + js)](#-template--ideas-html--css--js) |
+| [🔎 Convert & Compress](#-convert--compress)                             |
+| [🔎 Editor](#-editor)                                                    |
+| [🔎 Effects](#-effects)                                                  |
+| [🔎 Extension (chrome)](#-extension-chrome)                              |
+| [🔎 Fonts](#-fonts)                                                      |
+| [🔎 Icons](#-icons)                                                      |
 | [🔎 Illustrations & Patterns](#-illustrations--patterns)                 |
 | [🔎 Layout](#-layout)                                                    |
-| [🔎 Animations](#-animations)                                            |
-| [🔎 Navigation](#-navigation)                                            |
-| [🔎 Backgrounds](#-backgrounds)                                          |
-| [🔎 Charte graphique (colors)](#-charte-graphique-colors)                |
-| [🔎 Notifications](#-notifications)                                      |
 | [🔎 Loaders & spinners](#-loaders--spinners)                             |
-| [🔎 Photos & videos](#-photos--videos)                                   |
-| [🔎 Music & Sound effects](#-music--sound-effects)                       |
-| [🔎 Convert & Compress](#-convert--compress)                             |
-| [🔎 Chart](#-chart)                                                      |
-| [🔎 Table](#-table)                                                      |
-| [🔎 Icons](#-icons)                                                      |
-| [🔎 Fonts](#-fonts)                                                      |
 | [🔎 Logos](#-logos)                                                      |
-| [🔎 Effects](#-effects)                                                  |
-| [🔎 Tools](#-tools)                                                      |
-| [🔎 Tuto & Certification & Roadmap](#-tuto--certification--roadmap)      |
-| [🔎 Editor](#-editor)                                                    |
-| [🔎 Avatar](#-avatar)                                                    |
+| [🔎 Music & Sound effects](#-music--sound-effects)                       |
+| [🔎 NPM packages](#npm-packages)                                         |
+| [🔎 Navigation](#-navigation)                                            |
+| [🔎 Notifications](#-notifications)                                      |
+| [🔎 Others](#-others)                                                    |
+| [🔎 Photos & videos](#-photos--videos)                                   |
 | [🔎 Project](#-project)                                                  |
 | [🔎 Skills](#-skills)                                                    |
 | [🔎 Stat](#-stat)                                                        |
-| [🔎 Extension (chrome)](#-extension-chrome)                              |
+| [🔎 Table](#-table)                                                      |
+| [🔎 Template & ideas (html + css + js)](#-template--ideas-html--css--js) |
+| [🔎 Tools](#-tools)                                                      |
+| [🔎 Tuto & Certification & Roadmap](#-tuto--certification--roadmap)      |
 | [🔎 Youtube](#-youtube)                                                  |
-| [🔎 Blog](#-blog)                                                        |
-| [🔎 Others](#-others)                                                    |
 
 <br><br><br>
 
@@ -435,6 +434,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
 | [🔗 **GTmetrix** (analysis - seo)](https://gtmetrix.com/) | Optimisation de la vitesse et des performances du site Web | ⭐⭐⭐⭐🟊 |
+| [🔗 **smalldev.io** (web - tools)](https://smalldev.tools/) | Outil gratuit pour les développeurs web pour aider avec Beautify & Minify HTML/CSS/Javascript, et de nombreux autres outils pratiques. Avec une interface délicieuse. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Minify** (css - js)](https://www.minifier.org/) | Rendez votre site Web plus petit et plus rapide à charger en minimisant le code JS et CSS. | ⭐⭐⭐🟊🟊 |
 | [🔗 **snippet-generator** (snippet)](https://snippet-generator.app/) | Un generateur de snippet pour VScode, sublimetext et atom. | ⭐⭐⭐⭐🟊 |
 | [🔗 **shields.io** (badge)](https://shields.io/) | Créez des badges avec votre propre personnalisation. | ⭐⭐⭐⭐🟊 |
@@ -471,6 +471,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **MapInSeconds** (editor - stat)](http://mapinseconds.com/#) | Un moyen simple de visualiser vos données avec une carte. | ⭐⭐⭐🟊🟊 |
 | [🔗 **codepen** (editor - frontend)](https://codepen.io/) | CodePen est un environnement de développement social pour les concepteurs et développeurs frontaux. Créez et déployez un site Web, montrez votre travail, créez des scénarios de test pour apprendre et déboguer, et trouvez l'inspiration. | ⭐⭐⭐⭐🟊 |
 | [🔗 **jsBin** (editor - js)](https://jsbin.com/?js,console) | Editeur de code Javascript en ligne | ⭐⭐⭐⭐🟊 |
+| [🔗 **readme.so** (editor - markdown)](https://readme.so/fr/editor) | Le moyen le plus simple de créer un fichier README en markdown. | ⭐⭐⭐🟊🟊 |
 
 <br>
 
@@ -562,7 +563,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: verified -->
+<!-- //TODO: work -->
 
 #### `📌 Blog`
 
@@ -575,11 +576,22 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: work -->
 
+#### `📌 API`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **rapidAPI** (api)](https://rapidapi.com/hub) | Découvrez et connectez-vous à des milliers d'API. | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: work -->
+
 #### `📌 Others`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
 | [🔗 **jsDelivr** (search - engine)](https://www.jsdelivr.com/) | jsDelivr est un moteur de recherche puissant pour developpeur, ce dernier offre des liens qui permet d'acceder rapidement au site officiel, documentation, github ou meme telecharger directement un package | ⭐⭐⭐⭐⭐ |
+| [🔗 **bootstrap-cheatsheet** (bootstrap - cheatsheets)](https://bootstrap-cheatsheet.themeselection.com/index.html) | Une liste interactive des classes, variables et mixins Bootstrap 5. Le seul CheatSheet Bootstrap 5 dont vous aurez besoin. | ⭐⭐⭐⭐🟊 |
 | [🔗 **DevHint** (all - cheatsheets)](https://devhints.io/) | Une collection de cheatsheets. | ⭐⭐⭐⭐⭐ |
 | [🔗 **DevDocs** (all - docs)](https://devdocs.io/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
 
