@@ -446,6 +446,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | :-- | :-- | :-- |
 | [🔗 **frontendmentor** (project)](https://www.frontendmentor.io/) | Résolvez des défis HTML, CSS et JavaScript du monde réel tout en travaillant sur des conceptions professionnelles. Rejoignez 330227 développeurs qui construisent des projets, révisent du code et s'entraident pour s'améliorer. | ⭐⭐⭐⭐⭐ |
 | [🔗 **javascript30** (project)](https://javascript30.com/) | 30 jours Vanilla JS Coding Challenge, Construisez 30 choses en 30 jours avec 30 tutoriels, Pas de frameworks, Pas de compilateurs, Pas de bibliothèques ! | ⭐⭐⭐⭐🟊 |
+| [🔗 **30secondsofcode** (project)](https://www.30secondsofcode.org/) | Parcourez 1107 extraits de snippets code pour tous vos besoins de développement sur 30 secondes de code ! | ⭐⭐⭐⭐⭐ |
 | [🔗 **HackerRank** (eval)](https://www.hackerrank.com/) | HackerRank est la solution d'évaluation technique et d'entretien à distance leader sur le marché pour le recrutement de développeurs. Apprenez à embaucher des talents techniques de n'importe où ! ! | ⭐⭐⭐⭐⭐ |
 | [🔗 **skillvalue** (quiz)](https://www.frontendmentor.io/) | Mettez-vous au défi avec des quiz techniques, choisissez parmi +1000 tests techniques et faites-vous remarquer. Valorisez vos compétences dès maintenant et obtenez un certificat ! | ⭐⭐⭐⭐🟊 |
 
@@ -486,7 +487,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 Youtube`
 
@@ -500,7 +501,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Graven ilvec** (dev - tips)](https://www.youtube.com/user/Gravenilvectuto/) | Un jeune passionE de la programmation qui partage ses connaissance dans le domaine ... | ⭐⭐⭐⭐🟊 |
 | [🔗 **Pierre Giraud** (web)](https://www.youtube.com/c/PierreGiraudcom/) | Cours complets et gratuits HTML, CSS, JavaScript, PHP, MySQL, Python, Bootstrap, etc ... | ⭐⭐⭐⭐🟊 |
 | [🔗 **From Scratch** (web)](https://www.youtube.com/c/FromScratchD%C3%A9veloppementWeb/playlists/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
-| [🔗 **Grafikart** (web)](https://www.youtube.com/c/grafikart/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
+| [🔗 **Grafikart** (web - devops)](https://www.youtube.com/c/grafikart/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
 
 <br>
 
@@ -510,11 +511,17 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **jsDelivr** (search)](https://www.jsdelivr.com/) | jsDelivr est un moteur de recherche puissant pour developpeur, ce dernier offre des liens qui permet d'acceder rapidement au site officiel, documentation, github ou meme telecharger directement un package | ⭐⭐⭐⭐⭐ |
-| [🔗 **Devhint** (cheatsheets)](https://devhints.io/) | Une collection ridicule de cheatsheets pour le développement Web. | ⭐⭐⭐⭐⭐ |
-| [🔗 **w3schools** (docs - tuto)](https://www.w3schools.com/) | W3Schools est un site web destiné à l'apprentissage en ligne des technologies web. Son contenu inclut des didacticiels et des références relatives à HTML, CSS, JavaScript, JSON, PHP, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX et XML. Il reçoit plus de 10 millions de visiteurs uniques chaque mois. | ⭐⭐⭐⭐⭐ |
-| [🔗 **itsfoss** (blog - veille)](https://itsfoss.com/) | Ceci n'a pas vraiment rien avoir avec le dev web mais pourrai vous servir, avec It's FOSS, vous apprendrez les dernières nouvelles du monde open source. Vous apprendrez également à utiliser efficacement Linux grâce à des didacticiels de premier ordre et à des experts ... | ⭐⭐⭐⭐⭐ |
-| [🔗 **korben** (blog - fr - veille)](https://korben.info/) | Le meilleur site tech (fr) de l'univers visible et invisible. #logiciel #crypto #cybersécurité #linux #astuces ... | ⭐⭐⭐⭐⭐ |
+| [🔗 **itsfoss** (blog - linux - opensource)](https://itsfoss.com/) | Ceci n'a pas vraiment rien avoir avec le dev web mais pourrai vous servir, avec It's FOSS, vous apprendrez les dernières nouvelles du monde open source. Vous apprendrez également à utiliser efficacement Linux grâce à des didacticiels de premier ordre et à des experts ... | ⭐⭐⭐⭐⭐ |
+| [🔗 **korben** (blog - veille)](https://korben.info/) | Le meilleur site tech (fr) de l'univers visible et invisible. #logiciel #crypto #cybersécurité #linux #astuces ... | ⭐⭐⭐⭐🟊 |
+| [🔗 **Coding Artist** (articles - design)](https://codingartistweb.com/) | Coding Artist se consacre à vous fournir des didacticiels de codage rapides et simples mais efficaces. Nous fournissons les meilleurs tutoriels sur HTML, CSS et Javascript. | ⭐⭐⭐⭐⭐ |
+| [🔗 **jsDelivr** (search - engine)](https://www.jsdelivr.com/) | jsDelivr est un moteur de recherche puissant pour developpeur, ce dernier offre des liens qui permet d'acceder rapidement au site officiel, documentation, github ou meme telecharger directement un package | ⭐⭐⭐⭐⭐ |
+| [🔗 **DevHint** (all - cheatsheets)](https://devhints.io/) | Une collection de cheatsheets. | ⭐⭐⭐⭐⭐ |
+| [🔗 **DevDocs** (all - docs)](https://devdocs.io/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
+| [🔗 **MDN** (docs - tuto)](https://developer.mozilla.org/fr/docs/Web/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
+| [🔗 **w3schools** (docs - tuto)](https://www.w3schools.com/) | W3Schools est un site web destiné à l'apprentissage en ligne des technologies web. Son contenu inclut des didacticiels et des références relatives à HTML, CSS, JavaScript, JSON, PHP, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX et XML. Il reçoit plus de 10 millions de visiteurs uniques chaque mois. | ⭐⭐⭐⭐🟊 |
+| [🔗 **PG** (web - tuto)](https://www.pierre-giraud.com/) | Toutes vos ressources sur le développement web, apprenez à coder en HTML, CSS, JavaScript, Python, PHP. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Grafikart** (web - devops - tuto)](https://grafikart.fr/formations/) | Découvrez une technologie spécifique à travers une série de vidéo qui vous guidera dans votre apprentissage | ⭐⭐⭐⭐⭐ |
+| [🔗 **Openclassrooms** (cert - tuto)](https://openclassrooms.com/fr/) | OpenClassrooms est un site web de formation en ligne, créé en 1999 sous le nom de Site du Zéro. Il propose à ses membres des cours certifiants et des parcours débouchant sur des métiers en croissance (ideale pour un debutant) | ⭐⭐⭐⭐⭐ |
 
 <br>
 
