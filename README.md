@@ -180,6 +180,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **tingle.js** (animation - modal - js)](https://tingle.robinparisi.com/) | Un plugin modal minimaliste et facile à utiliser écrit en Vanilla JS. | ⭐⭐⭐⭐⭐ |
 
 <br>
+<div align="right">
+    <b><a href="#codebase">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: work -->
 
@@ -217,6 +220,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **korben** (blog - veille)](https://korben.info/) | Le meilleur site tech (fr) de l'univers visible et invisible. #logiciel #crypto #cybersécurité #linux #astuces ... | ⭐⭐⭐⭐🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#codebase">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -263,6 +269,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **UI Gradients** (gradient)](https://uigradients.com) | Générateur de couleurs dégradés d'interface utilisateur | ⭐⭐⭐⭐🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#codebase">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -319,6 +328,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **readme.so** (editor - markdown)](https://readme.so/fr/editor) | Le moyen le plus simple de créer un fichier README en markdown. | ⭐⭐⭐🟊🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#codebase">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -365,6 +377,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Dafont** (font)](https://www.dafont.com) | Archive des polices téléchargeables gratuitement | ⭐⭐⭐⭐🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#codebase">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -408,6 +423,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **flexboxfroggy** (training)](http://flexboxfroggy.com/#fr) | un jeu où vous aidez Froggy la grenouille et ses amis en écrivant du code flexbox CSS! | ⭐⭐⭐⭐⭐ |
 
 <br>
+<div align="right">
+    <b><a href="#codebase">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -443,6 +461,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Bensound** (music)](https://www.bensound.com/) | Plus de 1,7 million d'images et de vidéos de haute qualité | ⭐⭐⭐⭐🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#codebase">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -477,6 +498,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **DevDocs** (all - docs)](https://devdocs.io/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
 
 <br>
+<div align="right">
+    <b><a href="#codebase">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -513,6 +537,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **skillvalue** (skill - cert - quiz)](https://www.frontendmentor.io/) | Mettez-vous au défi avec des quiz techniques, choisissez parmi +1000 tests techniques et faites-vous remarquer. Valorisez vos compétences dès maintenant et obtenez un certificat ! | ⭐⭐⭐⭐🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#codebase">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: verified -->
 
@@ -552,6 +579,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **box shadow** (box - idea)](https://getcssscan.com/css-box-shadow-examples) | 91 Beaux exemples de boîte-ombre CSS. | ⭐⭐⭐⭐🟊 |
 
 <br>
+<div align="right">
+    <b><a href="#codebase">↥ Back To Top</a></b>
+</div>
 
 <!-- //TODO: work -->
 
@@ -600,9 +630,6 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Grafikart** (web - devops)](https://www.youtube.com/c/grafikart/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
 
 <br>
-
-<!-- barr ========================================================================================================= -->
-
 <div align="right">
     <b><a href="#codebase">↥ Back To Top</a></b>
 </div>
