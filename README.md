@@ -7,10 +7,14 @@
 
 _📨 Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ..._
 
+<br><br><br>
+
 <!-- //TODO: work -->
 
 | Table des matières                                                       |
 | :----------------------------------------------------------------------- |
+| [🔎 Codebase](#codebase)                                                 |
+|                                                                          |
 | [🔎 API](#-api)                                                          |
 | [🔎 Animations](#-animations)                                            |
 | [🔎 Avatar](#-avatar)                                                    |
@@ -19,7 +23,6 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 CSS Frameworks](#-css-frameworks)                                    |
 | [🔎 Chart](#-chart)                                                      |
 | [🔎 Charte graphique (colors)](#-charte-graphique-colors)                |
-| [🔎 Codebase](#codebase)                                                 |
 | [🔎 Components & kits](#-components--kits)                               |
 | [🔎 Convert & Compress](#-convert--compress)                             |
 | [🔎 Editor](#-editor)                                                    |
@@ -134,89 +137,13 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 </div>
 
-<!-- //TODO: verified -->
+<!-- //TODO: work -->
 
-#### `📌 CSS Frameworks`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **Bootstrap**](https://getbootstrap.com/) | Bootstrap est une collection d'outils utiles à la création du design de sites et d'applications web. C'est un ensemble qui contient des codes HTML et CSS, des formulaires, boutons, outils de navigation et autres éléments interactifs, ainsi que des extensions JavaScript en option. | ⭐⭐⭐⭐🟊 |
-| [🔗 **Semantic UI**](https://semantic-ui.com/introduction/getting-started.html) | Semantic est un cadre de composants d'interface utilisateur basé sur des principes utiles du langage naturel. | ⭐⭐⭐⭐🟊 |
-| [🔗 **Semantic UI React**](https://react.semantic-ui.com) | Collection des composants react de semantic ui. | ⭐⭐⭐⭐🟊 |
-| [🔗 **Tailwind CSS**](https://tailwindcss.com/) | Un framework CSS complètement personnalisable, basé sur le principe de classes utilitaires. | ⭐⭐⭐⭐🟊 |
-| [🔗 **Materialize**](https://materializecss.com/) | Un framework front-end responsive moderne basé sur le Material Design. | ⭐⭐⭐⭐🟊 |
-| [🔗 **Bulma**](https://bulma.io/) | Un framework CSS moderne no JS | ⭐⭐⭐⭐🟊 |
-
-<br>
-
-<!-- //TODO: verified -->
-
-#### `📌 Components & kits`
+#### `📌 API`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **Fast** (component - AVR)](https://www.fast.design/) | FAST est un ensemble de technologies basées sur des composants Web (Angular, Vue, React) et des normes Web modernes developpE par Microsoft, conçues pour vous aider à relever efficacement certains des défis les plus courants en matière de conception et de développement de sites Web et d'applications. | ⭐⭐⭐⭐⭐ |
-| [🔗 **MDB** (component - bootstrap - AVR)](https://mdbootstrap.com/) | Toolkit open source pour la conception de matériaux de construction avec bootstrap (Angular, Vue, React) | ⭐⭐⭐⭐⭐ |
-| [🔗 **Flowbite** (component - tailwind)](https://flowbite.com) | Bibliothèque Open-source des components Tailwind CSS | ⭐⭐⭐⭐🟊 |
-| [🔗 **daisyUI** (component - tailwind)](https://daisyui.com/) | Tailwind CSS Components | ⭐⭐⭐⭐🟊 |
-| [🔗 **Tailblocks** (component - tailwind)](https://mertjf.github.io/tailblocks/) | Simple Tailwind CSS Components | ⭐⭐⭐⭐🟊 |
-| [🔗 **Creative-tim** (kit - bootstrap - AVR)](https://www.creative-tim.com/) | Kits d'interface utilisateur, modèles et tableaux de bord construits sur Bootstrap, Vue.js, React, Angular, Node.js et Laravel. Rejoignez plus de 1 838 844 créatifs! | ⭐⭐⭐⭐🟊 |
-| [🔗 **chakra-UI** (component - react)](https://chakra-ui.com/guides/first-steps) | Créez rapidement des applications et des sites Web React accessibles. | ⭐⭐⭐⭐⭐ |
-| [🔗 **react-bootstrap** (component - bootstrap - react)](https://react-bootstrap.github.io/getting-started/introduction) | Bootstrap reconstruit pour React. Inclure les composants Bootstrap directement dans votre projet React | ⭐⭐⭐⭐🟊 |
-| [🔗 **MUI** (component - react)](https://mui.com/getting-started/installation/) | Cadre de composants React basé sur Material Design | ⭐⭐⭐🟊🟊 |
-| [🔗 **RNUILib** (component - reactnative)](https://wix.github.io/react-native-ui-lib/docs/getting-started/setup) | React Native UI (RNUI) est une bibliothèque d'outils et de composants d'interface utilisateur pour React Native de Wix | ⭐⭐⭐🟊🟊 |
-| [🔗 **Vuetify** (component - vue)](https://vuetifyjs.com/en/getting-started/installation/) | Cadre de composants Vue basé sur Material Design | ⭐⭐⭐⭐🟊 |
-| [🔗 **BootstrapVue** (component - bootstrap - vue)](https://bootstrap-vue.org/docs) | Utiliser les composants Bootstrap avec Vue | ⭐⭐⭐⭐🟊 |
-| [🔗 **Angular Material** (component - angular)](https://material.angular.io/guide/getting-started/) | Cadre de composants Angular basé sur Material Design | ⭐⭐⭐⭐🟊 |
-| [🔗 **Angular powered Bootstrap** (component - bootstrap - angular)](https://bootstrap-vue.org/docs) | Utiliser les composants Bootstrap avec Angular | ⭐⭐⭐⭐🟊 |
-
-<br>
-
-<!-- //TODO: verified -->
-
-#### `📌 Template & ideas (html + css + js)`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **HTML5 UP!** (html + css + js)](https://html5up.net) | Thèmes HTML5/CSS3 réactifs très modernes et uniques | ⭐⭐⭐⭐🟊 |
-| [🔗 **Bootswatch** (bootstrap)](https://bootswatch.com) | Collection des thèmes Bootstrap gratuit | ⭐⭐⭐⭐🟊 |
-| [🔗 **UI design daily** (figma, sketch, photoshop)](https://www.uidesigndaily.com) | Composants d'interface utilisateur impressionnants de tous types | ⭐⭐⭐⭐🟊 |
-| [🔗 **Collect UI** (collection - idea)](https://collectui.com/designs) | Inspiration quotidienne collectée à partir des archives quotidiennes de l'interface utilisateur et au-delà. Triés sur le volet et mis à jour quotidiennement. | ⭐⭐⭐⭐⭐ |
-| [🔗 **awwwards** (top - web - idea)](https://www.awwwards.com/) | Un site Web qui évalue et collecte les meilleurs sites Web du monde en matière d'interface utilisateur | ⭐⭐⭐⭐🟊 |
-| [🔗 **lapa.ninja** (web - idea)](https://www.lapa.ninja/) | Meilleure inspiration de page de destination | ⭐⭐⭐⭐🟊 |
-| [🔗 **buttons ui** (btn - idea)](https://getcssscan.com/css-buttons-examples) | 84 beaux exemples de boutons CSS. | ⭐⭐⭐⭐🟊 |
-| [🔗 **box shadow** (box - idea)](https://getcssscan.com/css-box-shadow-examples) | 91 Beaux exemples de boîte-ombre CSS. | ⭐⭐⭐⭐🟊 |
-
-<br>
-
-<!-- //TODO: verified -->
-
-#### `📌 Illustrations & Patterns`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **ManyPixels** (svg - png)](https://www.manypixels.co/) | Collection d'images vectorielles | ⭐⭐⭐⭐🟊 |
-| [🔗 **IsoFlat** (flat)](https://isoflat.com) | Une collection gratuite de ressources graphiques SVG isométriques | ⭐⭐⭐🟊🟊 |
-| [🔗 **UnDraw** (caracters)](https://undraw.co/illustrations) | Des illustrations de personnage open source pour toutes les idées que vous pouvez imaginer et créer (couleur personnalisable) | ⭐⭐⭐⭐🟊 |
-| [🔗 **Humaaans** (caracters)](https://www.humaaans.com) | De superbes illustrations de personnes capables de se mélanger et de s'assortir | ⭐⭐⭐🟊🟊 |
-| [🔗 **404 Illustration**](https://error404.fun) | Collection d'illustration sur les erreurs 404 d'une page web | ⭐⭐⭐⭐🟊 |
-
-<br>
-
-<!-- //TODO: verified -->
-
-#### `📌 Layout`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **Milligrid** (grid)](http://bencoveney.github.io/Milligrid/) | Milligrid est un system de grille CSS flexbox configurable et facile a apprendre basée sur Milligram | ⭐⭐⭐⭐⭐ |
-| [🔗 **CSS Grid Generator** (grid)](https://cssgrid-generator.netlify.app/) | Un projet open source permettant aux utilisateurs de créer rapidement une mise en page dynamique basée sur la grille CSS. | ⭐⭐⭐⭐🟊 |
-| [🔗 **CSS Layout** (pure css)](https://csslayout.io/) | Une collection de mises en page et de modèles de Web populaires en Pure CSS | ⭐⭐⭐⭐🟊 |
-| [🔗 **Generate Postition** (position)](http://www.generatecss.com/css/position/) | Ce générateur vous permet de positionner facilement des éléments au-dessus d'un autre élément. Cet outil est idéal pour des choses comme le positionnement d'un logo sur un en-tête dans la mise en page d'un site Web ou la création d'une bannière qui se chevauche avec des textes au lieu d'une image. | ⭐⭐⭐🟊🟊 |
-| [🔗 **Flexbox help** (flex)](https://flexbox.help/) | Un generateur de flexbox rapide et facile | ⭐⭐⭐⭐🟊 |
-| [🔗 **GRIDmalven** (grid)](https://flexbox.help/) | Une cheatsheet de grille CSS à référencer lors de la création d'une grille CSS | ⭐⭐⭐⭐🟊 |
-| [🔗 **FLEXmalven** (flex)](https://flexbox.help/) | Une cheatsheet de grille flexbox à référencer lorsque vous travaillez avec flexbox | ⭐⭐⭐⭐🟊 |
-| [🔗 **flexboxfroggy** (training)](http://flexboxfroggy.com/#fr) | un jeu où vous aidez Froggy la grenouille et ses amis en écrivant du code flexbox CSS! | ⭐⭐⭐⭐⭐ |
+| [🔗 **rapidAPI** (api)](https://rapidapi.com/hub) | Découvrez et connectez-vous à des milliers d'API. | ⭐⭐⭐⭐🟊 |
 
 <br>
 
@@ -253,13 +180,15 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: verified -->
+<!-- //TODO: work -->
 
-#### `📌 Navigation`
+#### `📌 Avatar`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **Hamburgers** (menu)](https://jonsuh.com/hamburgers/) | Hamburgers est une collection de savoureuses icônes de hamburger animées par CSS. La source est également incluse en tant que bibliothèque Sass. Il est modulable et personnalisable, alors préparez votre propre hamburger. | ⭐⭐⭐⭐⭐ |
+| [🔗 **bigheads** (caracters - avatar)](https://github.com/RobertBroersma/bigheads/) | Générez facilement des avatars pour vos projets avec Big Heads de Robert Broersma. | ⭐⭐⭐⭐⭐ |
+| [🔗 **getavataaars** (avatar)](https://getavataaars.com/) | Outil de génération Web d'avatars gratuits amusants et colorés par Fang-Pen Lin utilisant la bibliothèque de croquis de Pablo Stanley. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Personas** (avatar)](https://personas.draftbit.com/) | Un générateur d'avatar ludique pour l'ère moderne. | ⭐⭐⭐🟊🟊 |
 
 <br>
 
@@ -274,6 +203,43 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Clippy** (bg - polygone)](https://bennettfeely.com/clippy/) | Editer une image sous forme de polygone en CSS | ⭐⭐⭐⭐🟊 |
 | [🔗 **cssgradient** (bg - gradient)](https://cssgradient.io/) | Un générateur de couleur degredE elegant pour des arrière-plans | ⭐⭐⭐⭐🟊 |
 | [🔗 **Hero Patterns** (bg - geometric)](http://www.heropatterns.com) | Une collection de motifs d'arrière-plan SVG reproductibles | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: work -->
+
+#### `📌 Blog`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **itsfoss** (blog - linux - opensource)](https://itsfoss.com/) | Ceci n'a pas vraiment rien avoir avec le dev web mais pourrai vous servir, avec It's FOSS, vous apprendrez les dernières nouvelles du monde open source. Vous apprendrez également à utiliser efficacement Linux grâce à des didacticiels de premier ordre et à des experts ... | ⭐⭐⭐⭐⭐ |
+| [🔗 **korben** (blog - veille)](https://korben.info/) | Le meilleur site tech (fr) de l'univers visible et invisible. #logiciel #crypto #cybersécurité #linux #astuces ... | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: verified -->
+
+#### `📌 CSS Frameworks`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Bootstrap**](https://getbootstrap.com/) | Bootstrap est une collection d'outils utiles à la création du design de sites et d'applications web. C'est un ensemble qui contient des codes HTML et CSS, des formulaires, boutons, outils de navigation et autres éléments interactifs, ainsi que des extensions JavaScript en option. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Semantic UI**](https://semantic-ui.com/introduction/getting-started.html) | Semantic est un cadre de composants d'interface utilisateur basé sur des principes utiles du langage naturel. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Semantic UI React**](https://react.semantic-ui.com) | Collection des composants react de semantic ui. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Tailwind CSS**](https://tailwindcss.com/) | Un framework CSS complètement personnalisable, basé sur le principe de classes utilitaires. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Materialize**](https://materializecss.com/) | Un framework front-end responsive moderne basé sur le Material Design. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Bulma**](https://bulma.io/) | Un framework CSS moderne no JS | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: verified -->
+
+#### `📌 Chart`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **chart.js** (chart)](https://www.chartjs.org/docs/latest/) | Graphiques JavaScript simples mais flexibles pour les concepteurs et les développeurs | ⭐⭐⭐⭐🟊 |
+| [🔗 **charist** (chart)](http://gionkunz.github.io/chartist-js/getting-started.html/) | Graphiques réactifs simples | ⭐⭐⭐🟊🟊 |
 
 <br>
 
@@ -299,47 +265,24 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-#### `📌 Notifications`
+#### `📌 Components & kits`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **sweetalert2** (alert)](https://sweetalert2.github.io/) | Sweetalert2 fabrique des messages popup plus facilement et jolis. | ⭐⭐⭐⭐⭐ |
-| [🔗 **Notiflix** (notif - alert)](https://notiflix.github.io) | Bibliothèque JS pour les notifications non bloquantes côté client, les boîtes contextuelles (alert), les indicateurs de chargement (loader), et plus, rend vos projets Web beaucoup mieux | ⭐⭐⭐⭐🟊 |
-
-<br>
-
-<!-- //TODO: verified -->
-
-#### `📌 Loaders & spinners`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **CSS Loaders & Spinners** (loader)](https://cssloaders.github.io/) | Il s'agit d'une bibliothèque ayant une collection de différents types de chargeurs CSS, spinners. | ⭐⭐⭐⭐⭐ |
-| [🔗 **SpinKit** (loader)](https://tobiasahlin.com/spinkit/) | Simple CSS Spinners. | ⭐⭐⭐⭐🟊 |
-
-<br>
-
-<!-- //TODO: verified -->
-
-#### `📌 Photos & videos`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **Pixabay** (photos - videos)](https://pixabay.com) | Plus de 1,7 million d'images et de vidéos de haute qualité | ⭐⭐⭐⭐⭐ |
-| [🔗 **Pexels** (photos - videos)](https://www.pexels.com) | La plus grande bibliothèque de vidéos gratuites, offerte par la communauté | ⭐⭐⭐⭐🟊 |
-| [🔗 **Magdeleine** (photos - theme)](https://colorcurves.app) | Galerie et photo haute résolution gratuite tous les jours | ⭐⭐⭐⭐🟊 |
-| [🔗 **giphy** (gif)](https://giphy.com/stickers/) | Collection d'image GIF | ⭐⭐⭐🟊🟊 |
-
-<br>
-
-<!-- //TODO: verified -->
-
-#### `📌 Music & Sound effects`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **Mixkit** (music - sound)](https://mixkit.co) | Musique & effet sonore gratuite pour vos projets | ⭐⭐⭐⭐🟊 |
-| [🔗 **Bensound** (music)](https://www.bensound.com/) | Plus de 1,7 million d'images et de vidéos de haute qualité | ⭐⭐⭐⭐🟊 |
+| [🔗 **Fast** (component - AVR)](https://www.fast.design/) | FAST est un ensemble de technologies basées sur des composants Web (Angular, Vue, React) et des normes Web modernes developpE par Microsoft, conçues pour vous aider à relever efficacement certains des défis les plus courants en matière de conception et de développement de sites Web et d'applications. | ⭐⭐⭐⭐⭐ |
+| [🔗 **MDB** (component - bootstrap - AVR)](https://mdbootstrap.com/) | Toolkit open source pour la conception de matériaux de construction avec bootstrap (Angular, Vue, React) | ⭐⭐⭐⭐⭐ |
+| [🔗 **Flowbite** (component - tailwind)](https://flowbite.com) | Bibliothèque Open-source des components Tailwind CSS | ⭐⭐⭐⭐🟊 |
+| [🔗 **daisyUI** (component - tailwind)](https://daisyui.com/) | Tailwind CSS Components | ⭐⭐⭐⭐🟊 |
+| [🔗 **Tailblocks** (component - tailwind)](https://mertjf.github.io/tailblocks/) | Simple Tailwind CSS Components | ⭐⭐⭐⭐🟊 |
+| [🔗 **Creative-tim** (kit - bootstrap - AVR)](https://www.creative-tim.com/) | Kits d'interface utilisateur, modèles et tableaux de bord construits sur Bootstrap, Vue.js, React, Angular, Node.js et Laravel. Rejoignez plus de 1 838 844 créatifs! | ⭐⭐⭐⭐🟊 |
+| [🔗 **chakra-UI** (component - react)](https://chakra-ui.com/guides/first-steps) | Créez rapidement des applications et des sites Web React accessibles. | ⭐⭐⭐⭐⭐ |
+| [🔗 **react-bootstrap** (component - bootstrap - react)](https://react-bootstrap.github.io/getting-started/introduction) | Bootstrap reconstruit pour React. Inclure les composants Bootstrap directement dans votre projet React | ⭐⭐⭐⭐🟊 |
+| [🔗 **MUI** (component - react)](https://mui.com/getting-started/installation/) | Cadre de composants React basé sur Material Design | ⭐⭐⭐🟊🟊 |
+| [🔗 **RNUILib** (component - reactnative)](https://wix.github.io/react-native-ui-lib/docs/getting-started/setup) | React Native UI (RNUI) est une bibliothèque d'outils et de composants d'interface utilisateur pour React Native de Wix | ⭐⭐⭐🟊🟊 |
+| [🔗 **Vuetify** (component - vue)](https://vuetifyjs.com/en/getting-started/installation/) | Cadre de composants Vue basé sur Material Design | ⭐⭐⭐⭐🟊 |
+| [🔗 **BootstrapVue** (component - bootstrap - vue)](https://bootstrap-vue.org/docs) | Utiliser les composants Bootstrap avec Vue | ⭐⭐⭐⭐🟊 |
+| [🔗 **Angular Material** (component - angular)](https://material.angular.io/guide/getting-started/) | Cadre de composants Angular basé sur Material Design | ⭐⭐⭐⭐🟊 |
+| [🔗 **Angular powered Bootstrap** (component - bootstrap - angular)](https://bootstrap-vue.org/docs) | Utiliser les composants Bootstrap avec Angular | ⭐⭐⭐⭐🟊 |
 
 <br>
 
@@ -358,37 +301,45 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: verified -->
-
-#### `📌 Chart`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **chart.js** (chart)](https://www.chartjs.org/docs/latest/) | Graphiques JavaScript simples mais flexibles pour les concepteurs et les développeurs | ⭐⭐⭐⭐🟊 |
-| [🔗 **charist** (chart)](http://gionkunz.github.io/chartist-js/getting-started.html/) | Graphiques réactifs simples | ⭐⭐⭐🟊🟊 |
-
-<br>
-
 <!-- //TODO: work -->
 
-#### `📌 Table`
+#### `📌 Editor`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **grid.js** (table - AVR)](https://gridjs.io/docs/index/) | Grid.js est un plugin de tableau HTML gratuit et open-source écrit en TypeScript. Il fonctionne avec la plupart des frameworks JavaScript, y compris React, Angular, Vue et VanillaJs. | ⭐⭐⭐⭐⭐ |
-| [🔗 **DataTables** (table - jquery)](https://datatables.net/) | DataTables est un plug-in jQuery open-source permettant de dynamiser un tableau HTML. Créée par Allan Jardine sous la licence MIT | ⭐⭐⭐⭐⭐ |
+| [🔗 **Photopea** [photoshop] (editor - graphic)](https://shadows.brumm.af/) | Un éditeur Photoshop en ligne | ⭐⭐⭐⭐⭐ |
+| [🔗 **vectr** [illustrator] (editor - vector)](https://vectr.com/design/) | Logiciel de graphisme vectoriel gratuit | ⭐⭐⭐⭐⭐ |
+| [🔗 **fancy-border** (editor - border)](https://9elements.github.io/fancy-border-radius/full-control.html/) | Huit valeurs spécifiant border-radius en CSS ( border-radius generator ) | ⭐⭐⭐🟊🟊 |
+| [🔗 **remove.bg** (editor - bg)](https://www.remove.bg/fr/) | Supprimer rapidement les arrière-plans des images | ⭐⭐⭐🟊🟊 |
+| [🔗 **Blobmaker** (editor - svg)](https://www.blobmaker.app/) | Blobmaker est un outil de conception générative gratuit qui vous aide à créer rapidement des formes SVG aléatoires, uniques et d'apparence organique. | ⭐⭐⭐⭐🟊 |
+| [🔗 **MapInSeconds** (editor - stat)](http://mapinseconds.com/#) | Un moyen simple de visualiser vos données avec une carte. | ⭐⭐⭐🟊🟊 |
+| [🔗 **codepen** (editor - frontend)](https://codepen.io/) | CodePen est un environnement de développement social pour les concepteurs et développeurs frontaux. Créez et déployez un site Web, montrez votre travail, créez des scénarios de test pour apprendre et déboguer, et trouvez l'inspiration. | ⭐⭐⭐⭐🟊 |
+| [🔗 **jsBin** (editor - js)](https://jsbin.com/?js,console) | Editeur de code Javascript en ligne | ⭐⭐⭐⭐🟊 |
+| [🔗 **readme.so** (editor - markdown)](https://readme.so/fr/editor) | Le moyen le plus simple de créer un fichier README en markdown. | ⭐⭐⭐🟊🟊 |
 
 <br>
 
 <!-- //TODO: verified -->
 
-#### `📌 Icons`
+#### `📌 Extension (chrome)`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **Fontawesome** (ico - font)](https://fontawesome.com/start) | Font Awesome est une police d'écriture et un outil d'icônes qui se base sur CSS, LESS et SASS | ⭐⭐⭐⭐⭐ |
-| [🔗 **Xicons** (vue - react - ico)](https://www.xicons.org/#) | Composants ultra complet SVG Vue/React intégrés à partir de fluentui-system-icons, ionicons, etc ... | ⭐⭐⭐⭐⭐ |
-| [🔗 **UXwing** (svg ico)](https://uxwing.com) | Collection d'icone vectorielle bien optimisé | ⭐⭐⭐⭐🟊 |
+| [🔗 Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg/related) | Wappalyzer est un profileur technologique qui vous montre avec quoi les sites Web sont construits. | ⭐⭐⭐⭐⭐ |
+| [🔗 WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en) | Découvrez ce qui gère un site Web. Frameworks, outils d'analyse, plugins Wordpress, polices - vous l'appelez. | ⭐⭐⭐🟊🟊 |
+| [🔗 React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | Réagissez les outils de débogage aux outils de développement Chrome. Il vous permet d'inspecter les hiérarchies des composants React dans les outils de développement Chrome. | ⭐⭐⭐⭐⭐ |
+| [🔗 Angular DevTools](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh) | Angular DevTools vous permet de comprendre la structure de votre application et de prévisualiser l'état de la directive et des instances de composants. | ⭐⭐⭐⭐⭐ |
+| [🔗 Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) | Comprendre la structure de votre application et de prévisualiser l'état de la directive et des instances de composants Vue. | ⭐⭐⭐⭐⭐ |
+| [🔗 Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | Ajoute un bouton de barre d'outils avec divers outils de développement Web. | ⭐⭐⭐⭐🟊 |
+| [🔗 Awesome Screenshot & Screen Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) | Capture d'écran pleine page et enregistreur d'écran - 2 en 1. Partagez instantanément la vidéo screencast. | ⭐⭐⭐⭐🟊 |
+| [🔗 GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) | Capturez une capture d'écran de votre page actuelle dans son intégralité et de manière fiable, sans demander d'autorisations supplémentaires !. | ⭐⭐⭐⭐🟊 |
+| [🔗 Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en) | Afficher plusieurs écrans une fois, testeur de conception réactive. | ⭐⭐⭐⭐⭐ |
+| [🔗 Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) | Insère le CSS Pesticide dans la page actuelle, décrivant chaque élément HTML pour mieux voir le placement sur la page, utile pour créer des mises en page. | ⭐⭐⭐🟊🟊 |
+| [🔗 Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh) | Un outil indispensable pour les concepteurs et les développeurs frontend pour saisir les couleurs de n'importe quel site Web. | ⭐⭐⭐⭐⭐ |
+| [🔗 Imageye](https://chrome.google.com/webstore/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm) | Rechercher et télécharger toutes les images d'une page Web. Avec Imageye, vous pouvez trouver, parcourir et télécharger toutes les images présentes dans une page Web. | ⭐⭐⭐⭐⭐ |
+| [🔗 Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | Fake Filler un remplisseur de formulaire qui remplit toutes les entrées d'une page avec des données fausses/factices. | ⭐⭐⭐⭐🟊 |
+| [🔗 CSSviewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) | Une simple visionneuse de propriétés CSS. | ⭐⭐⭐🟊🟊 |
+| [🔗 Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | Un outil open source et automatisé pour améliorer les performances, la qualité et l'exactitude de vos applications Web. | ⭐⭐⭐⭐🟊 |
 
 <br>
 
@@ -406,6 +357,60 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
+#### `📌 Icons`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Fontawesome** (ico - font)](https://fontawesome.com/start) | Font Awesome est une police d'écriture et un outil d'icônes qui se base sur CSS, LESS et SASS | ⭐⭐⭐⭐⭐ |
+| [🔗 **Xicons** (vue - react - ico)](https://www.xicons.org/#) | Composants ultra complet SVG Vue/React intégrés à partir de fluentui-system-icons, ionicons, etc ... | ⭐⭐⭐⭐⭐ |
+| [🔗 **UXwing** (svg ico)](https://uxwing.com) | Collection d'icone vectorielle bien optimisé | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: verified -->
+
+#### `📌 Illustrations & Patterns`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **ManyPixels** (svg - png)](https://www.manypixels.co/) | Collection d'images vectorielles | ⭐⭐⭐⭐🟊 |
+| [🔗 **IsoFlat** (flat)](https://isoflat.com) | Une collection gratuite de ressources graphiques SVG isométriques | ⭐⭐⭐🟊🟊 |
+| [🔗 **UnDraw** (caracters)](https://undraw.co/illustrations) | Des illustrations de personnage open source pour toutes les idées que vous pouvez imaginer et créer (couleur personnalisable) | ⭐⭐⭐⭐🟊 |
+| [🔗 **Humaaans** (caracters)](https://www.humaaans.com) | De superbes illustrations de personnes capables de se mélanger et de s'assortir | ⭐⭐⭐🟊🟊 |
+| [🔗 **404 Illustration**](https://error404.fun) | Collection d'illustration sur les erreurs 404 d'une page web | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: verified -->
+
+#### `📌 Layout`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Milligrid** (grid)](http://bencoveney.github.io/Milligrid/) | Milligrid est un system de grille CSS flexbox configurable et facile a apprendre basée sur Milligram | ⭐⭐⭐⭐⭐ |
+| [🔗 **CSS Grid Generator** (grid)](https://cssgrid-generator.netlify.app/) | Un projet open source permettant aux utilisateurs de créer rapidement une mise en page dynamique basée sur la grille CSS. | ⭐⭐⭐⭐🟊 |
+| [🔗 **CSS Layout** (pure css)](https://csslayout.io/) | Une collection de mises en page et de modèles de Web populaires en Pure CSS | ⭐⭐⭐⭐🟊 |
+| [🔗 **Generate Postition** (position)](http://www.generatecss.com/css/position/) | Ce générateur vous permet de positionner facilement des éléments au-dessus d'un autre élément. Cet outil est idéal pour des choses comme le positionnement d'un logo sur un en-tête dans la mise en page d'un site Web ou la création d'une bannière qui se chevauche avec des textes au lieu d'une image. | ⭐⭐⭐🟊🟊 |
+| [🔗 **Flexbox help** (flex)](https://flexbox.help/) | Un generateur de flexbox rapide et facile | ⭐⭐⭐⭐🟊 |
+| [🔗 **GRIDmalven** (grid)](https://flexbox.help/) | Une cheatsheet de grille CSS à référencer lors de la création d'une grille CSS | ⭐⭐⭐⭐🟊 |
+| [🔗 **FLEXmalven** (flex)](https://flexbox.help/) | Une cheatsheet de grille flexbox à référencer lorsque vous travaillez avec flexbox | ⭐⭐⭐⭐🟊 |
+| [🔗 **flexboxfroggy** (training)](http://flexboxfroggy.com/#fr) | un jeu où vous aidez Froggy la grenouille et ses amis en écrivant du code flexbox CSS! | ⭐⭐⭐⭐⭐ |
+
+<br>
+
+<!-- //TODO: verified -->
+
+#### `📌 Loaders & spinners`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **CSS Loaders & Spinners** (loader)](https://cssloaders.github.io/) | Il s'agit d'une bibliothèque ayant une collection de différents types de chargeurs CSS, spinners. | ⭐⭐⭐⭐⭐ |
+| [🔗 **SpinKit** (loader)](https://tobiasahlin.com/spinkit/) | Simple CSS Spinners. | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: verified -->
+
 #### `📌 Logos`
 
 | Liens | Descriptions | Notes |
@@ -414,6 +419,81 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **SVGporn** (logo - search)](https://svgporn.com/#search=web) | Plus de 1000 logos SVG de haute qualité | ⭐⭐⭐⭐🟊 |
 | [🔗 **LogoSearch** (logo - search)](https://logosear.ch/search.html?q=) | Moteur de recherche avec plus de 200 000 logos SVG indexés | ⭐⭐⭐🟊🟊 |
 | [🔗 **Logoideas** (logo - ideas)](https://www.namecheap.com/logo-maker/ideas) | Idee de creation d'un logo | ⭐⭐⭐🟊🟊 |
+
+<br>
+
+<!-- //TODO: verified -->
+
+#### `📌 Music & Sound effects`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Mixkit** (music - sound)](https://mixkit.co) | Musique & effet sonore gratuite pour vos projets | ⭐⭐⭐⭐🟊 |
+| [🔗 **Bensound** (music)](https://www.bensound.com/) | Plus de 1,7 million d'images et de vidéos de haute qualité | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- barr ========================================================================================================= -->
+
+<!-- //TODO: verified -->
+
+#### `📌 Template & ideas (html + css + js)`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **HTML5 UP!** (html + css + js)](https://html5up.net) | Thèmes HTML5/CSS3 réactifs très modernes et uniques | ⭐⭐⭐⭐🟊 |
+| [🔗 **Bootswatch** (bootstrap)](https://bootswatch.com) | Collection des thèmes Bootstrap gratuit | ⭐⭐⭐⭐🟊 |
+| [🔗 **UI design daily** (figma, sketch, photoshop)](https://www.uidesigndaily.com) | Composants d'interface utilisateur impressionnants de tous types | ⭐⭐⭐⭐🟊 |
+| [🔗 **Collect UI** (collection - idea)](https://collectui.com/designs) | Inspiration quotidienne collectée à partir des archives quotidiennes de l'interface utilisateur et au-delà. Triés sur le volet et mis à jour quotidiennement. | ⭐⭐⭐⭐⭐ |
+| [🔗 **awwwards** (top - web - idea)](https://www.awwwards.com/) | Un site Web qui évalue et collecte les meilleurs sites Web du monde en matière d'interface utilisateur | ⭐⭐⭐⭐🟊 |
+| [🔗 **lapa.ninja** (web - idea)](https://www.lapa.ninja/) | Meilleure inspiration de page de destination | ⭐⭐⭐⭐🟊 |
+| [🔗 **buttons ui** (btn - idea)](https://getcssscan.com/css-buttons-examples) | 84 beaux exemples de boutons CSS. | ⭐⭐⭐⭐🟊 |
+| [🔗 **box shadow** (box - idea)](https://getcssscan.com/css-box-shadow-examples) | 91 Beaux exemples de boîte-ombre CSS. | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: verified -->
+
+#### `📌 Navigation`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Hamburgers** (menu)](https://jonsuh.com/hamburgers/) | Hamburgers est une collection de savoureuses icônes de hamburger animées par CSS. La source est également incluse en tant que bibliothèque Sass. Il est modulable et personnalisable, alors préparez votre propre hamburger. | ⭐⭐⭐⭐⭐ |
+
+<br>
+
+<!-- //TODO: verified -->
+
+#### `📌 Notifications`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **sweetalert2** (alert)](https://sweetalert2.github.io/) | Sweetalert2 fabrique des messages popup plus facilement et jolis. | ⭐⭐⭐⭐⭐ |
+| [🔗 **Notiflix** (notif - alert)](https://notiflix.github.io) | Bibliothèque JS pour les notifications non bloquantes côté client, les boîtes contextuelles (alert), les indicateurs de chargement (loader), et plus, rend vos projets Web beaucoup mieux | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: verified -->
+
+#### `📌 Photos & videos`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Pixabay** (photos - videos)](https://pixabay.com) | Plus de 1,7 million d'images et de vidéos de haute qualité | ⭐⭐⭐⭐⭐ |
+| [🔗 **Pexels** (photos - videos)](https://www.pexels.com) | La plus grande bibliothèque de vidéos gratuites, offerte par la communauté | ⭐⭐⭐⭐🟊 |
+| [🔗 **Magdeleine** (photos - theme)](https://colorcurves.app) | Galerie et photo haute résolution gratuite tous les jours | ⭐⭐⭐⭐🟊 |
+| [🔗 **giphy** (gif)](https://giphy.com/stickers/) | Collection d'image GIF | ⭐⭐⭐🟊🟊 |
+
+<br>
+
+<!-- //TODO: work -->
+
+#### `📌 Table`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **grid.js** (table - AVR)](https://gridjs.io/docs/index/) | Grid.js est un plugin de tableau HTML gratuit et open-source écrit en TypeScript. Il fonctionne avec la plupart des frameworks JavaScript, y compris React, Angular, Vue et VanillaJs. | ⭐⭐⭐⭐⭐ |
+| [🔗 **DataTables** (table - jquery)](https://datatables.net/) | DataTables est un plug-in jQuery open-source permettant de dynamiser un tableau HTML. Créée par Allan Jardine sous la licence MIT | ⭐⭐⭐⭐⭐ |
 
 <br>
 
@@ -459,36 +539,6 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: work -->
 
-#### `📌 Editor`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **Photopea** [photoshop] (editor - graphic)](https://shadows.brumm.af/) | Un éditeur Photoshop en ligne | ⭐⭐⭐⭐⭐ |
-| [🔗 **vectr** [illustrator] (editor - vector)](https://vectr.com/design/) | Logiciel de graphisme vectoriel gratuit | ⭐⭐⭐⭐⭐ |
-| [🔗 **fancy-border** (editor - border)](https://9elements.github.io/fancy-border-radius/full-control.html/) | Huit valeurs spécifiant border-radius en CSS ( border-radius generator ) | ⭐⭐⭐🟊🟊 |
-| [🔗 **remove.bg** (editor - bg)](https://www.remove.bg/fr/) | Supprimer rapidement les arrière-plans des images | ⭐⭐⭐🟊🟊 |
-| [🔗 **Blobmaker** (editor - svg)](https://www.blobmaker.app/) | Blobmaker est un outil de conception générative gratuit qui vous aide à créer rapidement des formes SVG aléatoires, uniques et d'apparence organique. | ⭐⭐⭐⭐🟊 |
-| [🔗 **MapInSeconds** (editor - stat)](http://mapinseconds.com/#) | Un moyen simple de visualiser vos données avec une carte. | ⭐⭐⭐🟊🟊 |
-| [🔗 **codepen** (editor - frontend)](https://codepen.io/) | CodePen est un environnement de développement social pour les concepteurs et développeurs frontaux. Créez et déployez un site Web, montrez votre travail, créez des scénarios de test pour apprendre et déboguer, et trouvez l'inspiration. | ⭐⭐⭐⭐🟊 |
-| [🔗 **jsBin** (editor - js)](https://jsbin.com/?js,console) | Editeur de code Javascript en ligne | ⭐⭐⭐⭐🟊 |
-| [🔗 **readme.so** (editor - markdown)](https://readme.so/fr/editor) | Le moyen le plus simple de créer un fichier README en markdown. | ⭐⭐⭐🟊🟊 |
-
-<br>
-
-<!-- //TODO: work -->
-
-#### `📌 Avatar`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **bigheads** (caracters - avatar)](https://github.com/RobertBroersma/bigheads/) | Générez facilement des avatars pour vos projets avec Big Heads de Robert Broersma. | ⭐⭐⭐⭐⭐ |
-| [🔗 **getavataaars** (avatar)](https://getavataaars.com/) | Outil de génération Web d'avatars gratuits amusants et colorés par Fang-Pen Lin utilisant la bibliothèque de croquis de Pablo Stanley. | ⭐⭐⭐⭐🟊 |
-| [🔗 **Personas** (avatar)](https://personas.draftbit.com/) | Un générateur d'avatar ludique pour l'ère moderne. | ⭐⭐⭐🟊🟊 |
-
-<br>
-
-<!-- //TODO: work -->
-
 #### `📌 Project`
 
 | Liens | Descriptions | Notes |
@@ -523,30 +573,6 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-#### `📌 Extension (chrome)`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg/related) | Wappalyzer est un profileur technologique qui vous montre avec quoi les sites Web sont construits. | ⭐⭐⭐⭐⭐ |
-| [🔗 WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en) | Découvrez ce qui gère un site Web. Frameworks, outils d'analyse, plugins Wordpress, polices - vous l'appelez. | ⭐⭐⭐🟊🟊 |
-| [🔗 React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | Réagissez les outils de débogage aux outils de développement Chrome. Il vous permet d'inspecter les hiérarchies des composants React dans les outils de développement Chrome. | ⭐⭐⭐⭐⭐ |
-| [🔗 Angular DevTools](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh) | Angular DevTools vous permet de comprendre la structure de votre application et de prévisualiser l'état de la directive et des instances de composants. | ⭐⭐⭐⭐⭐ |
-| [🔗 Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) | Comprendre la structure de votre application et de prévisualiser l'état de la directive et des instances de composants Vue. | ⭐⭐⭐⭐⭐ |
-| [🔗 Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | Ajoute un bouton de barre d'outils avec divers outils de développement Web. | ⭐⭐⭐⭐🟊 |
-| [🔗 Awesome Screenshot & Screen Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) | Capture d'écran pleine page et enregistreur d'écran - 2 en 1. Partagez instantanément la vidéo screencast. | ⭐⭐⭐⭐🟊 |
-| [🔗 GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) | Capturez une capture d'écran de votre page actuelle dans son intégralité et de manière fiable, sans demander d'autorisations supplémentaires !. | ⭐⭐⭐⭐🟊 |
-| [🔗 Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en) | Afficher plusieurs écrans une fois, testeur de conception réactive. | ⭐⭐⭐⭐⭐ |
-| [🔗 Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) | Insère le CSS Pesticide dans la page actuelle, décrivant chaque élément HTML pour mieux voir le placement sur la page, utile pour créer des mises en page. | ⭐⭐⭐🟊🟊 |
-| [🔗 Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh) | Un outil indispensable pour les concepteurs et les développeurs frontend pour saisir les couleurs de n'importe quel site Web. | ⭐⭐⭐⭐⭐ |
-| [🔗 Imageye](https://chrome.google.com/webstore/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm) | Rechercher et télécharger toutes les images d'une page Web. Avec Imageye, vous pouvez trouver, parcourir et télécharger toutes les images présentes dans une page Web. | ⭐⭐⭐⭐⭐ |
-| [🔗 Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | Fake Filler un remplisseur de formulaire qui remplit toutes les entrées d'une page avec des données fausses/factices. | ⭐⭐⭐⭐🟊 |
-| [🔗 CSSviewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) | Une simple visionneuse de propriétés CSS. | ⭐⭐⭐🟊🟊 |
-| [🔗 Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | Un outil open source et automatisé pour améliorer les performances, la qualité et l'exactitude de vos applications Web. | ⭐⭐⭐⭐🟊 |
-
-<br>
-
-<!-- //TODO: verified -->
-
 #### `📌 Youtube`
 
 | Liens | Descriptions | Notes |
@@ -560,27 +586,6 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Pierre Giraud** (web)](https://www.youtube.com/c/PierreGiraudcom/) | Cours complets et gratuits HTML, CSS, JavaScript, PHP, MySQL, Python, Bootstrap, etc ... | ⭐⭐⭐⭐🟊 |
 | [🔗 **From Scratch** (web)](https://www.youtube.com/c/FromScratchD%C3%A9veloppementWeb/playlists/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
 | [🔗 **Grafikart** (web - devops)](https://www.youtube.com/c/grafikart/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
-
-<br>
-
-<!-- //TODO: work -->
-
-#### `📌 Blog`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **itsfoss** (blog - linux - opensource)](https://itsfoss.com/) | Ceci n'a pas vraiment rien avoir avec le dev web mais pourrai vous servir, avec It's FOSS, vous apprendrez les dernières nouvelles du monde open source. Vous apprendrez également à utiliser efficacement Linux grâce à des didacticiels de premier ordre et à des experts ... | ⭐⭐⭐⭐⭐ |
-| [🔗 **korben** (blog - veille)](https://korben.info/) | Le meilleur site tech (fr) de l'univers visible et invisible. #logiciel #crypto #cybersécurité #linux #astuces ... | ⭐⭐⭐⭐🟊 |
-
-<br>
-
-<!-- //TODO: work -->
-
-#### `📌 API`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **rapidAPI** (api)](https://rapidapi.com/hub) | Découvrez et connectez-vous à des milliers d'API. | ⭐⭐⭐⭐🟊 |
 
 <br>
 
