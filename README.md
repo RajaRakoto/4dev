@@ -630,6 +630,20 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Grafikart** (web - devops)](https://www.youtube.com/c/grafikart/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
 
 <br>
+
+### BOOKMARKS 4web
+
+Vous pouvez telecharger le `bookmarks` de `4web`, il vous suffit de copier le code HTML dans le lien ci-dessous dans un fichier HTML puis effectuer l'importation dans votre navigateur preferE ...
+
+<div align="center">
+
+| [Get 4web bookmarks](https://github.com/RajaRakoto/github-docs/blob/master/4web/4web-bookmarks.html) |
+| :-- |
+
+<img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/bookmarks.gif?raw=true" width="700">
+</div>
+
+<br>
 <div align="right">
     <b><a href="#codebase">↥ Back To Top</a></b>
 </div>
