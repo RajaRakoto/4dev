@@ -7,9 +7,9 @@
 
 _📨 Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ..._
 
-<br><br><br>
+<br>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 | Table des matières                                                       |
 | :----------------------------------------------------------------------- |
@@ -50,7 +50,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Tuto & Certification & Roadmap](#-tuto--certification--roadmap)      |
 | [🔎 Youtube](#-youtube)                                                  |
 
-<br><br><br>
+<br>
 
 <!-- //TODO: work -->
 
@@ -138,7 +138,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 </div>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 API`
 
@@ -184,13 +184,13 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
     <b><a href="#codebase">↥ Back To Top</a></b>
 </div>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 Avatar`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **bigheads** (caracters - avatar)](https://github.com/RobertBroersma/bigheads/) | Générez facilement des avatars pour vos projets avec Big Heads de Robert Broersma. | ⭐⭐⭐⭐⭐ |
+| [🔗 **bigheads** (avatar)](https://github.com/RobertBroersma/bigheads/) | Générez facilement des avatars pour vos projets avec Big Heads de Robert Broersma. | ⭐⭐⭐⭐⭐ |
 | [🔗 **getavataaars** (avatar)](https://getavataaars.com/) | Outil de génération Web d'avatars gratuits amusants et colorés par Fang-Pen Lin utilisant la bibliothèque de croquis de Pablo Stanley. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Personas** (avatar)](https://personas.draftbit.com/) | Un générateur d'avatar ludique pour l'ère moderne. | ⭐⭐⭐🟊🟊 |
 
@@ -202,8 +202,8 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **Pocoloco** (bg)](https://pocoloco.io/) | Générer des arrière-plans dynamiques pour votre site web | ⭐⭐⭐⭐🟊 |
-| [🔗 **getwaves** (bg)](https://getwaves.io/) | Un générateur d'ondes SVG gratuit pour créer des ondes SVG uniques pour la conception Web | ⭐⭐⭐⭐🟊 |
+| [🔗 **Pocoloco** (bg - all)](https://pocoloco.io/) | Générer des arrière-plans dynamiques pour votre site web | ⭐⭐⭐⭐🟊 |
+| [🔗 **getwaves** (bg - wave)](https://getwaves.io/) | Un générateur d'ondes SVG gratuit pour créer des ondes SVG uniques pour la conception Web | ⭐⭐⭐⭐🟊 |
 | [🔗 **Clippy** (bg - polygone)](https://bennettfeely.com/clippy/) | Editer une image sous forme de polygone en CSS | ⭐⭐⭐⭐🟊 |
 | [🔗 **cssgradient** (bg - gradient)](https://cssgradient.io/) | Un générateur de couleur degredE elegant pour des arrière-plans | ⭐⭐⭐⭐🟊 |
 | [🔗 **Hero Patterns** (bg - geometric)](http://www.heropatterns.com) | Une collection de motifs d'arrière-plan SVG reproductibles | ⭐⭐⭐⭐🟊 |
@@ -217,7 +217,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
 | [🔗 **itsfoss** (blog - linux - opensource)](https://itsfoss.com/) | Ceci n'a pas vraiment rien avoir avec le dev web mais pourrai vous servir, avec It's FOSS, vous apprendrez les dernières nouvelles du monde open source. Vous apprendrez également à utiliser efficacement Linux grâce à des didacticiels de premier ordre et à des experts ... | ⭐⭐⭐⭐⭐ |
-| [🔗 **korben** (blog - veille)](https://korben.info/) | Le meilleur site tech (fr) de l'univers visible et invisible. #logiciel #crypto #cybersécurité #linux #astuces ... | ⭐⭐⭐⭐🟊 |
+| [🔗 **korben** (blog - techno)](https://korben.info/) | Le meilleur site tech (fr) de l'univers visible et invisible. #logiciel #crypto #cybersécurité #linux #astuces ... | ⭐⭐⭐⭐🟊 |
 
 <br>
 <div align="right">
@@ -296,7 +296,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 Convert & Compress`
 
@@ -311,7 +311,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 Editor`
 
