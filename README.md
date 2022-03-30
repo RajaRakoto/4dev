@@ -7,7 +7,7 @@
 
 _📨 Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ..._
 
-<!-- //TODO: verified -->
+<!-- //TODO: work -->
 
 | Table des matières                                                       |
 | :----------------------------------------------------------------------- |
@@ -29,6 +29,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Photos & videos](#-photos--videos)                                   |
 | [🔎 Music & Sound effects](#-music--sound-effects)                       |
 | [🔎 Chart](#-chart)                                                      |
+| [🔎 Table](#-table)                                                      |
 | [🔎 Icons](#-icons)                                                      |
 | [🔎 Fonts](#-fonts)                                                      |
 | [🔎 Logos](#-logos)                                                      |
@@ -361,6 +362,17 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
+<!-- //TODO: work -->
+
+#### `📌 Table`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **grid.js** (table - AVR)](https://gridjs.io/docs/index/) | Grid.js est un plugin de tableau HTML gratuit et open-source écrit en TypeScript. Il fonctionne avec la plupart des frameworks JavaScript, y compris React, Angular, Vue et VanillaJs. | ⭐⭐⭐⭐⭐ |
+| [🔗 **DataTables** (table - jquery)](https://datatables.net/) | DataTables est un plug-in jQuery open-source permettant de dynamiser un tableau HTML. Créée par Allan Jardine sous la licence MIT | ⭐⭐⭐⭐⭐ |
+
+<br>
+
 <!-- //TODO: verified -->
 
 #### `📌 Icons`
@@ -427,12 +439,14 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Personas** (editor - avatar)](https://personas.draftbit.com/) | Un générateur d'avatar ludique pour l'ère moderne. | ⭐⭐⭐🟊🟊 |
 | [🔗 **MapInSeconds** (editor - stat - map)](http://mapinseconds.com/#) | Un moyen simple de visualiser vos données avec une carte. | ⭐⭐⭐🟊🟊 |
 | [🔗 **kodeshot** (editor - code)](https://www.kodeshot.net/) | Convertissez votre code source en belles images pour vos articles, tweets, messages, posts... | ⭐⭐⭐⭐🟊 |
+| [🔗 **codepen** (editor - frontend)](https://codepen.io/) | CodePen est un environnement de développement social pour les concepteurs et développeurs frontaux. Créez et déployez un site Web, montrez votre travail, créez des scénarios de test pour apprendre et déboguer, et trouvez l'inspiration. | ⭐⭐⭐⭐🟊 |
 | [🔗 **jsBin** (editor - js)](https://jsbin.com/?js,console) | Editeur de code Javascript en ligne | ⭐⭐⭐⭐🟊 |
 | [🔗 **GTmetrix** (analysis)](https://gtmetrix.com/) | Optimisation de la vitesse et des performances du site Web | ⭐⭐⭐⭐🟊 |
 | [🔗 **TinyPNG** (compress)](https://tinypng.com/) | Compression PNG et JPEG intelligente | ⭐⭐⭐⭐🟊 |
 | [🔗 **fsymbols** (convert - text)](https://fsymbols.com/generators/) | font generator | ⭐⭐⭐🟊🟊 |
 | [🔗 **fontmeme** (convert - sign)](https://fontmeme.com/fr/polices-de-signature/) | Convertir un texte en police de signature | ⭐⭐⭐🟊🟊 |
 | [🔗 **ASCIIart** (convert - img)](https://manytools.org/hacker-tools/convert-images-to-ascii-art/) | Convert Images to Ascii Art | ⭐⭐🟊🟊🟊 |
+| [🔗 **Vertopal** (convert - ALL)](https://www.vertopal.com/) | Plate-forme en ligne gratuite pour convertir des fichiers informatiques vers une variété de formats de fichiers. | ⭐⭐⭐⭐⭐ |
 | [🔗 **Minify** (css - js)](https://www.minifier.org/) | Rendez votre site Web plus petit et plus rapide à charger en minimisant le code JS et CSS. | ⭐⭐⭐🟊🟊 |
 | [🔗 **snippet-generator** (maker)](https://snippet-generator.app/) | Un generateur de snippet pour VScode, sublimetext et atom. | ⭐⭐⭐⭐🟊 |
 
