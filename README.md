@@ -37,6 +37,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Training](#-training)                                                |
 | [🔎 Stat](#-stat)                                                        |
 | [🔎 Extension (chrome)](#-extension-chrome)                              |
+| [🔎 Youtube](#-youtube)                                                  |
 | [🔎 Others](#-others)                                                    |
 
 <br><br><br>
@@ -487,6 +488,24 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: work -->
 
+#### `📌 Youtube`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **cocadmin** (devops - tips - hacking)](https://www.youtube.com/channel/UCVRJ6D343dX-x730MRP8tNw/) | all in one | ⭐⭐⭐⭐⭐ |
+| [🔗 **Cookie connecté** (tech - tips - devops)](https://www.youtube.com/channel/UC5cs06DgLFeyLIF_II7lWCQ/) | Chaine de vulgarisation informatique illustrE par des dessins | ⭐⭐⭐⭐🟊 |
+| [🔗 **xavki** (devops - sysadmin)](https://github.com/priximmo/sommaire-xavki-devops-fr/) | tuto devops complet | ⭐⭐⭐⭐🟊 |
+| [🔗 **Khaos Farbauti Ibn Oblivion** (pentest)](https://www.youtube.com/user/brumadar/) | Chaine tuto pentest & capture the flag | ⭐⭐⭐🟊🟊 |
+| [🔗 **Processus Thief** (sysadmin - pentest)](https://www.youtube.com/channel/UCqrxDV9EPOlI1YMhzIPed2g/) | Chaine tuto pentest & capture the flag | ⭐⭐⭐⭐🟊 |
+| [🔗 **Graven ilvec** (dev - tips)](https://www.youtube.com/user/Gravenilvectuto/) | Un jeune passionE de la programmation qui partage ses connaissance dans le domaine ... | ⭐⭐⭐⭐🟊 |
+| [🔗 **Pierre Giraud** (web)](https://www.youtube.com/c/PierreGiraudcom/) | Cours complets et gratuits HTML, CSS, JavaScript, PHP, MySQL, Python, Bootstrap, etc ... | ⭐⭐⭐⭐🟊 |
+| [🔗 **From Scratch** (web)](https://www.youtube.com/c/FromScratchD%C3%A9veloppementWeb/playlists/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
+| [🔗 **Grafikart** (web)](https://www.youtube.com/c/grafikart/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
+
+<br>
+
+<!-- //TODO: work -->
+
 #### `📌 Others`
 
 | Liens | Descriptions | Notes |
@@ -495,7 +514,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Devhint** (cheatsheets)](https://devhints.io/) | Une collection ridicule de cheatsheets pour le développement Web. | ⭐⭐⭐⭐⭐ |
 | [🔗 **w3schools** (docs - tuto)](https://www.w3schools.com/) | W3Schools est un site web destiné à l'apprentissage en ligne des technologies web. Son contenu inclut des didacticiels et des références relatives à HTML, CSS, JavaScript, JSON, PHP, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX et XML. Il reçoit plus de 10 millions de visiteurs uniques chaque mois. | ⭐⭐⭐⭐⭐ |
 | [🔗 **itsfoss** (blog - veille)](https://itsfoss.com/) | Ceci n'a pas vraiment rien avoir avec le dev web mais pourrai vous servir, avec It's FOSS, vous apprendrez les dernières nouvelles du monde open source. Vous apprendrez également à utiliser efficacement Linux grâce à des didacticiels de premier ordre et à des experts ... | ⭐⭐⭐⭐⭐ |
-| [🔗 **korben** (blog - fr - veille)](https://itsfoss.com/) | Le meilleur site tech (fr) de l'univers visible et invisible. #logiciel #crypto #cybersécurité #linux #astuces ... | ⭐⭐⭐⭐⭐ |
+| [🔗 **korben** (blog - fr - veille)](https://korben.info/) | Le meilleur site tech (fr) de l'univers visible et invisible. #logiciel #crypto #cybersécurité #linux #astuces ... | ⭐⭐⭐⭐⭐ |
 
 <br>
 
