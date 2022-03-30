@@ -15,6 +15,8 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | :----------------------------------------------------------------------- |
 | [🔎 Codebase](#codebase)                                                 |
 |                                                                          |
+| [🔎 NPM packages](#npm-packages)                                         |
+|                                                                          |
 | [🔎 API](#-api)                                                          |
 | [🔎 Animations](#-animations)                                            |
 | [🔎 Avatar](#-avatar)                                                    |
@@ -35,7 +37,6 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Loaders & spinners](#-loaders--spinners)                             |
 | [🔎 Logos](#-logos)                                                      |
 | [🔎 Music & Sound effects](#-music--sound-effects)                       |
-| [🔎 NPM packages](#npm-packages)                                         |
 | [🔎 Navigation](#-navigation)                                            |
 | [🔎 Notifications](#-notifications)                                      |
 | [🔎 Others](#-others)                                                    |
@@ -321,6 +322,16 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
+#### `📌 Effects`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Brumm Shadow Maker** (shadow)](https://shadows.brumm.af/) | Faire une ombre douce | ⭐⭐⭐⭐⭐ |
+
+<br>
+
+<!-- //TODO: verified -->
+
 #### `📌 Extension (chrome)`
 
 | Liens | Descriptions | Notes |
@@ -433,25 +444,6 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- barr ========================================================================================================= -->
-
-<!-- //TODO: verified -->
-
-#### `📌 Template & ideas (html + css + js)`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **HTML5 UP!** (html + css + js)](https://html5up.net) | Thèmes HTML5/CSS3 réactifs très modernes et uniques | ⭐⭐⭐⭐🟊 |
-| [🔗 **Bootswatch** (bootstrap)](https://bootswatch.com) | Collection des thèmes Bootstrap gratuit | ⭐⭐⭐⭐🟊 |
-| [🔗 **UI design daily** (figma, sketch, photoshop)](https://www.uidesigndaily.com) | Composants d'interface utilisateur impressionnants de tous types | ⭐⭐⭐⭐🟊 |
-| [🔗 **Collect UI** (collection - idea)](https://collectui.com/designs) | Inspiration quotidienne collectée à partir des archives quotidiennes de l'interface utilisateur et au-delà. Triés sur le volet et mis à jour quotidiennement. | ⭐⭐⭐⭐⭐ |
-| [🔗 **awwwards** (top - web - idea)](https://www.awwwards.com/) | Un site Web qui évalue et collecte les meilleurs sites Web du monde en matière d'interface utilisateur | ⭐⭐⭐⭐🟊 |
-| [🔗 **lapa.ninja** (web - idea)](https://www.lapa.ninja/) | Meilleure inspiration de page de destination | ⭐⭐⭐⭐🟊 |
-| [🔗 **buttons ui** (btn - idea)](https://getcssscan.com/css-buttons-examples) | 84 beaux exemples de boutons CSS. | ⭐⭐⭐⭐🟊 |
-| [🔗 **box shadow** (box - idea)](https://getcssscan.com/css-box-shadow-examples) | 91 Beaux exemples de boîte-ombre CSS. | ⭐⭐⭐⭐🟊 |
-
-<br>
-
 <!-- //TODO: verified -->
 
 #### `📌 Navigation`
@@ -473,6 +465,19 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
+<!-- //TODO: work -->
+
+#### `📌 Others`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **jsDelivr** (search - engine)](https://www.jsdelivr.com/) | jsDelivr est un moteur de recherche puissant pour developpeur, ce dernier offre des liens qui permet d'acceder rapidement au site officiel, documentation, github ou meme telecharger directement un package | ⭐⭐⭐⭐⭐ |
+| [🔗 **bootstrap-cheatsheet** (bootstrap - cheatsheets)](https://bootstrap-cheatsheet.themeselection.com/index.html) | Une liste interactive des classes, variables et mixins Bootstrap 5. Le seul CheatSheet Bootstrap 5 dont vous aurez besoin. | ⭐⭐⭐⭐🟊 |
+| [🔗 **DevHint** (all - cheatsheets)](https://devhints.io/) | Une collection de cheatsheets. | ⭐⭐⭐⭐⭐ |
+| [🔗 **DevDocs** (all - docs)](https://devdocs.io/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
+
+<br>
+
 <!-- //TODO: verified -->
 
 #### `📌 Photos & videos`
@@ -483,57 +488,6 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Pexels** (photos - videos)](https://www.pexels.com) | La plus grande bibliothèque de vidéos gratuites, offerte par la communauté | ⭐⭐⭐⭐🟊 |
 | [🔗 **Magdeleine** (photos - theme)](https://colorcurves.app) | Galerie et photo haute résolution gratuite tous les jours | ⭐⭐⭐⭐🟊 |
 | [🔗 **giphy** (gif)](https://giphy.com/stickers/) | Collection d'image GIF | ⭐⭐⭐🟊🟊 |
-
-<br>
-
-<!-- //TODO: work -->
-
-#### `📌 Table`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **grid.js** (table - AVR)](https://gridjs.io/docs/index/) | Grid.js est un plugin de tableau HTML gratuit et open-source écrit en TypeScript. Il fonctionne avec la plupart des frameworks JavaScript, y compris React, Angular, Vue et VanillaJs. | ⭐⭐⭐⭐⭐ |
-| [🔗 **DataTables** (table - jquery)](https://datatables.net/) | DataTables est un plug-in jQuery open-source permettant de dynamiser un tableau HTML. Créée par Allan Jardine sous la licence MIT | ⭐⭐⭐⭐⭐ |
-
-<br>
-
-<!-- //TODO: verified -->
-
-#### `📌 Effects`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **Brumm Shadow Maker** (shadow)](https://shadows.brumm.af/) | Faire une ombre douce | ⭐⭐⭐⭐⭐ |
-
-<br>
-
-<!-- //TODO: work -->
-
-#### `📌 Tools`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **GTmetrix** (analysis - seo)](https://gtmetrix.com/) | Optimisation de la vitesse et des performances du site Web | ⭐⭐⭐⭐🟊 |
-| [🔗 **smalldev.io** (web - tools)](https://smalldev.tools/) | Outil gratuit pour les développeurs web pour aider avec Beautify & Minify HTML/CSS/Javascript, et de nombreux autres outils pratiques. Avec une interface délicieuse. | ⭐⭐⭐⭐🟊 |
-| [🔗 **Minify** (css - js)](https://www.minifier.org/) | Rendez votre site Web plus petit et plus rapide à charger en minimisant le code JS et CSS. | ⭐⭐⭐🟊🟊 |
-| [🔗 **snippet-generator** (snippet)](https://snippet-generator.app/) | Un generateur de snippet pour VScode, sublimetext et atom. | ⭐⭐⭐⭐🟊 |
-| [🔗 **shields.io** (badge)](https://shields.io/) | Créez des badges avec votre propre personnalisation. | ⭐⭐⭐⭐🟊 |
-
-<br>
-
-<!-- //TODO: work -->
-
-#### `📌 Tuto & Certification & Roadmap`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **Coding Artist** (articles - design - tuto)](https://codingartistweb.com/) | Coding Artist se consacre à vous fournir des didacticiels de codage rapides et simples mais efficaces. Nous fournissons les meilleurs tutoriels sur HTML, CSS et Javascript. | ⭐⭐⭐⭐⭐ |
-| [🔗 **PG** (web - tuto)](https://www.pierre-giraud.com/) | Toutes vos ressources sur le développement web, apprenez à coder en HTML, CSS, JavaScript, Python, PHP. | ⭐⭐⭐⭐🟊 |
-| [🔗 **Grafikart** (web - devops - tuto)](https://grafikart.fr/formations/) | Découvrez une technologie spécifique à travers une série de vidéo qui vous guidera dans votre apprentissage | ⭐⭐⭐⭐⭐ |
-| [🔗 **Openclassrooms** (cert - tuto)](https://openclassrooms.com/fr/) | OpenClassrooms est un site web de formation en ligne, créé en 1999 sous le nom de Site du Zéro. Il propose à ses membres des cours certifiants et des parcours débouchant sur des métiers en croissance (ideale pour un debutant) | ⭐⭐⭐⭐⭐ |
-| [🔗 **MDN** (docs - tuto)](https://developer.mozilla.org/fr/docs/Web/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
-| [🔗 **w3schools** (cert - docs - tuto)](https://www.w3schools.com/) | W3Schools est un site web destiné à l'apprentissage en ligne des technologies web. Son contenu inclut des didacticiels et des références relatives à HTML, CSS, JavaScript, JSON, PHP, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX et XML. Il reçoit plus de 10 millions de visiteurs uniques chaque mois. | ⭐⭐⭐⭐🟊 |
-| [🔗 **roadmap.sh** (roadmap)](https://www.roadmap.sh/) | roadmap.sh est un effort communautaire pour créer des feuilles de route, des guides et d'autres contenus éducatifs pour aider les développeurs à choisir le chemin et guider leurs apprentissages. | ⭐⭐⭐⭐🟊 |
 
 <br>
 
@@ -571,6 +525,64 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
+<!-- //TODO: work -->
+
+#### `📌 Table`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **grid.js** (table - AVR)](https://gridjs.io/docs/index/) | Grid.js est un plugin de tableau HTML gratuit et open-source écrit en TypeScript. Il fonctionne avec la plupart des frameworks JavaScript, y compris React, Angular, Vue et VanillaJs. | ⭐⭐⭐⭐⭐ |
+| [🔗 **DataTables** (table - jquery)](https://datatables.net/) | DataTables est un plug-in jQuery open-source permettant de dynamiser un tableau HTML. Créée par Allan Jardine sous la licence MIT | ⭐⭐⭐⭐⭐ |
+
+<br>
+
+<!-- //TODO: verified -->
+
+#### `📌 Template & ideas (html + css + js)`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **HTML5 UP!** (html + css + js)](https://html5up.net) | Thèmes HTML5/CSS3 réactifs très modernes et uniques | ⭐⭐⭐⭐🟊 |
+| [🔗 **Bootswatch** (bootstrap)](https://bootswatch.com) | Collection des thèmes Bootstrap gratuit | ⭐⭐⭐⭐🟊 |
+| [🔗 **UI design daily** (figma, sketch, photoshop)](https://www.uidesigndaily.com) | Composants d'interface utilisateur impressionnants de tous types | ⭐⭐⭐⭐🟊 |
+| [🔗 **Collect UI** (collection - idea)](https://collectui.com/designs) | Inspiration quotidienne collectée à partir des archives quotidiennes de l'interface utilisateur et au-delà. Triés sur le volet et mis à jour quotidiennement. | ⭐⭐⭐⭐⭐ |
+| [🔗 **awwwards** (top - web - idea)](https://www.awwwards.com/) | Un site Web qui évalue et collecte les meilleurs sites Web du monde en matière d'interface utilisateur | ⭐⭐⭐⭐🟊 |
+| [🔗 **lapa.ninja** (web - idea)](https://www.lapa.ninja/) | Meilleure inspiration de page de destination | ⭐⭐⭐⭐🟊 |
+| [🔗 **buttons ui** (btn - idea)](https://getcssscan.com/css-buttons-examples) | 84 beaux exemples de boutons CSS. | ⭐⭐⭐⭐🟊 |
+| [🔗 **box shadow** (box - idea)](https://getcssscan.com/css-box-shadow-examples) | 91 Beaux exemples de boîte-ombre CSS. | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: work -->
+
+#### `📌 Tools`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **GTmetrix** (analysis - seo)](https://gtmetrix.com/) | Optimisation de la vitesse et des performances du site Web | ⭐⭐⭐⭐🟊 |
+| [🔗 **smalldev.io** (web - tools)](https://smalldev.tools/) | Outil gratuit pour les développeurs web pour aider avec Beautify & Minify HTML/CSS/Javascript, et de nombreux autres outils pratiques. Avec une interface délicieuse. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Minify** (css - js)](https://www.minifier.org/) | Rendez votre site Web plus petit et plus rapide à charger en minimisant le code JS et CSS. | ⭐⭐⭐🟊🟊 |
+| [🔗 **snippet-generator** (snippet)](https://snippet-generator.app/) | Un generateur de snippet pour VScode, sublimetext et atom. | ⭐⭐⭐⭐🟊 |
+| [🔗 **shields.io** (badge)](https://shields.io/) | Créez des badges avec votre propre personnalisation. | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: work -->
+
+#### `📌 Tuto & Certification & Roadmap`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **Coding Artist** (articles - design - tuto)](https://codingartistweb.com/) | Coding Artist se consacre à vous fournir des didacticiels de codage rapides et simples mais efficaces. Nous fournissons les meilleurs tutoriels sur HTML, CSS et Javascript. | ⭐⭐⭐⭐⭐ |
+| [🔗 **PG** (web - tuto)](https://www.pierre-giraud.com/) | Toutes vos ressources sur le développement web, apprenez à coder en HTML, CSS, JavaScript, Python, PHP. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Grafikart** (web - devops - tuto)](https://grafikart.fr/formations/) | Découvrez une technologie spécifique à travers une série de vidéo qui vous guidera dans votre apprentissage | ⭐⭐⭐⭐⭐ |
+| [🔗 **Openclassrooms** (cert - tuto)](https://openclassrooms.com/fr/) | OpenClassrooms est un site web de formation en ligne, créé en 1999 sous le nom de Site du Zéro. Il propose à ses membres des cours certifiants et des parcours débouchant sur des métiers en croissance (ideale pour un debutant) | ⭐⭐⭐⭐⭐ |
+| [🔗 **MDN** (docs - tuto)](https://developer.mozilla.org/fr/docs/Web/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
+| [🔗 **w3schools** (cert - docs - tuto)](https://www.w3schools.com/) | W3Schools est un site web destiné à l'apprentissage en ligne des technologies web. Son contenu inclut des didacticiels et des références relatives à HTML, CSS, JavaScript, JSON, PHP, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX et XML. Il reçoit plus de 10 millions de visiteurs uniques chaque mois. | ⭐⭐⭐⭐🟊 |
+| [🔗 **roadmap.sh** (roadmap)](https://www.roadmap.sh/) | roadmap.sh est un effort communautaire pour créer des feuilles de route, des guides et d'autres contenus éducatifs pour aider les développeurs à choisir le chemin et guider leurs apprentissages. | ⭐⭐⭐⭐🟊 |
+
+<br>
+
 <!-- //TODO: verified -->
 
 #### `📌 Youtube`
@@ -589,18 +601,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: work -->
-
-#### `📌 Others`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **jsDelivr** (search - engine)](https://www.jsdelivr.com/) | jsDelivr est un moteur de recherche puissant pour developpeur, ce dernier offre des liens qui permet d'acceder rapidement au site officiel, documentation, github ou meme telecharger directement un package | ⭐⭐⭐⭐⭐ |
-| [🔗 **bootstrap-cheatsheet** (bootstrap - cheatsheets)](https://bootstrap-cheatsheet.themeselection.com/index.html) | Une liste interactive des classes, variables et mixins Bootstrap 5. Le seul CheatSheet Bootstrap 5 dont vous aurez besoin. | ⭐⭐⭐⭐🟊 |
-| [🔗 **DevHint** (all - cheatsheets)](https://devhints.io/) | Une collection de cheatsheets. | ⭐⭐⭐⭐⭐ |
-| [🔗 **DevDocs** (all - docs)](https://devdocs.io/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
-
-<br>
+<!-- barr ========================================================================================================= -->
 
 <div align="right">
     <b><a href="#codebase">↥ Back To Top</a></b>
