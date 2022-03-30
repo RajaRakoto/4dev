@@ -7,7 +7,7 @@
 
 _📨 Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ..._
 
-<!-- //TODO: verified -->
+<!-- //TODO: work -->
 
 | Table des matières                                                       |
 | :----------------------------------------------------------------------- |
@@ -29,11 +29,15 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Photos & videos](#-photos--videos)                                   |
 | [🔎 Music & Sound effects](#-music--sound-effects)                       |
 | [🔎 Chart](#-chart)                                                      |
+| [🔎 Table](#-table)                                                      |
 | [🔎 Icons](#-icons)                                                      |
 | [🔎 Fonts](#-fonts)                                                      |
 | [🔎 Logos](#-logos)                                                      |
 | [🔎 Effects](#-effects)                                                  |
 | [🔎 Tools](#-tools)                                                      |
+| [🔎 Tuto](#-tuto)                                                        |
+| [🔎 Project](#-project)                                                  |
+| [🔎 Skills](#-skills)                                                    |
 | [🔎 Training](#-training)                                                |
 | [🔎 Stat](#-stat)                                                        |
 | [🔎 Extension (chrome)](#-extension-chrome)                              |
@@ -214,6 +218,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Flexbox help** (flex)](https://flexbox.help/) | Un generateur de flexbox rapide et facile | ⭐⭐⭐⭐🟊 |
 | [🔗 **GRIDmalven** (grid)](https://flexbox.help/) | Une cheatsheet de grille CSS à référencer lors de la création d'une grille CSS | ⭐⭐⭐⭐🟊 |
 | [🔗 **FLEXmalven** (flex)](https://flexbox.help/) | Une cheatsheet de grille flexbox à référencer lorsque vous travaillez avec flexbox | ⭐⭐⭐⭐🟊 |
+| [🔗 **flexboxfroggy** (training)](http://flexboxfroggy.com/#fr) | un jeu où vous aidez Froggy la grenouille et ses amis en écrivant du code flexbox CSS! | ⭐⭐⭐⭐⭐ |
 
 <br>
 
@@ -361,6 +366,17 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
+<!-- //TODO: work -->
+
+#### `📌 Table`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **grid.js** (table - AVR)](https://gridjs.io/docs/index/) | Grid.js est un plugin de tableau HTML gratuit et open-source écrit en TypeScript. Il fonctionne avec la plupart des frameworks JavaScript, y compris React, Angular, Vue et VanillaJs. | ⭐⭐⭐⭐⭐ |
+| [🔗 **DataTables** (table - jquery)](https://datatables.net/) | DataTables est un plug-in jQuery open-source permettant de dynamiser un tableau HTML. Créée par Allan Jardine sous la licence MIT | ⭐⭐⭐⭐⭐ |
+
+<br>
+
 <!-- //TODO: verified -->
 
 #### `📌 Icons`
@@ -411,7 +427,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: verified -->
+<!-- //TODO: work -->
 
 #### `📌 Tools`
 
@@ -427,35 +443,56 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Personas** (editor - avatar)](https://personas.draftbit.com/) | Un générateur d'avatar ludique pour l'ère moderne. | ⭐⭐⭐🟊🟊 |
 | [🔗 **MapInSeconds** (editor - stat - map)](http://mapinseconds.com/#) | Un moyen simple de visualiser vos données avec une carte. | ⭐⭐⭐🟊🟊 |
 | [🔗 **kodeshot** (editor - code)](https://www.kodeshot.net/) | Convertissez votre code source en belles images pour vos articles, tweets, messages, posts... | ⭐⭐⭐⭐🟊 |
+| [🔗 **codepen** (editor - frontend)](https://codepen.io/) | CodePen est un environnement de développement social pour les concepteurs et développeurs frontaux. Créez et déployez un site Web, montrez votre travail, créez des scénarios de test pour apprendre et déboguer, et trouvez l'inspiration. | ⭐⭐⭐⭐🟊 |
 | [🔗 **jsBin** (editor - js)](https://jsbin.com/?js,console) | Editeur de code Javascript en ligne | ⭐⭐⭐⭐🟊 |
 | [🔗 **GTmetrix** (analysis)](https://gtmetrix.com/) | Optimisation de la vitesse et des performances du site Web | ⭐⭐⭐⭐🟊 |
 | [🔗 **TinyPNG** (compress)](https://tinypng.com/) | Compression PNG et JPEG intelligente | ⭐⭐⭐⭐🟊 |
 | [🔗 **fsymbols** (convert - text)](https://fsymbols.com/generators/) | font generator | ⭐⭐⭐🟊🟊 |
 | [🔗 **fontmeme** (convert - sign)](https://fontmeme.com/fr/polices-de-signature/) | Convertir un texte en police de signature | ⭐⭐⭐🟊🟊 |
 | [🔗 **ASCIIart** (convert - img)](https://manytools.org/hacker-tools/convert-images-to-ascii-art/) | Convert Images to Ascii Art | ⭐⭐🟊🟊🟊 |
+| [🔗 **Vertopal** (convert - ALL)](https://www.vertopal.com/) | Plate-forme en ligne gratuite pour convertir des fichiers informatiques vers une variété de formats de fichiers. | ⭐⭐⭐⭐⭐ |
 | [🔗 **Minify** (css - js)](https://www.minifier.org/) | Rendez votre site Web plus petit et plus rapide à charger en minimisant le code JS et CSS. | ⭐⭐⭐🟊🟊 |
 | [🔗 **snippet-generator** (maker)](https://snippet-generator.app/) | Un generateur de snippet pour VScode, sublimetext et atom. | ⭐⭐⭐⭐🟊 |
+| [🔗 **shields.io** (badge)](https://shields.io/) | Créez des badges avec votre propre personnalisation. | ⭐⭐⭐⭐🟊 |
 
 <br>
 
 <!-- //TODO: work -->
 
-#### `📌 Training`
+#### `📌 Tuto & certification & roadmap`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **frontendmentor** (project)](https://www.frontendmentor.io/) | Résolvez des défis HTML, CSS et JavaScript du monde réel tout en travaillant sur des conceptions professionnelles. Rejoignez 330227 développeurs qui construisent des projets, révisent du code et s'entraident pour s'améliorer. | ⭐⭐⭐⭐⭐ |
-| [🔗 **javascript30** (project)](https://javascript30.com/) | 30 jours Vanilla JS Coding Challenge, Construisez 30 choses en 30 jours avec 30 tutoriels, Pas de frameworks, Pas de compilateurs, Pas de bibliothèques ! | ⭐⭐⭐⭐🟊 |
-| [🔗 **30secondsofcode** (project)](https://www.30secondsofcode.org/) | Parcourez 1107 extraits de snippets code pour tous vos besoins de développement sur 30 secondes de code ! | ⭐⭐⭐⭐⭐ |
-| [🔗 **HackerRank** (eval)](https://www.hackerrank.com/) | HackerRank est la solution d'évaluation technique et d'entretien à distance leader sur le marché pour le recrutement de développeurs. Apprenez à embaucher des talents techniques de n'importe où ! ! | ⭐⭐⭐⭐⭐ |
-| [🔗 **skillvalue** (cert - quiz)](https://www.frontendmentor.io/) | Mettez-vous au défi avec des quiz techniques, choisissez parmi +1000 tests techniques et faites-vous remarquer. Valorisez vos compétences dès maintenant et obtenez un certificat ! | ⭐⭐⭐⭐🟊 |
-| [🔗 **Coding Artist** (articles - design)](https://codingartistweb.com/) | Coding Artist se consacre à vous fournir des didacticiels de codage rapides et simples mais efficaces. Nous fournissons les meilleurs tutoriels sur HTML, CSS et Javascript. | ⭐⭐⭐⭐⭐ |
+| [🔗 **Coding Artist** (articles - design - tuto)](https://codingartistweb.com/) | Coding Artist se consacre à vous fournir des didacticiels de codage rapides et simples mais efficaces. Nous fournissons les meilleurs tutoriels sur HTML, CSS et Javascript. | ⭐⭐⭐⭐⭐ |
 | [🔗 **PG** (web - tuto)](https://www.pierre-giraud.com/) | Toutes vos ressources sur le développement web, apprenez à coder en HTML, CSS, JavaScript, Python, PHP. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Grafikart** (web - devops - tuto)](https://grafikart.fr/formations/) | Découvrez une technologie spécifique à travers une série de vidéo qui vous guidera dans votre apprentissage | ⭐⭐⭐⭐⭐ |
 | [🔗 **Openclassrooms** (cert - tuto)](https://openclassrooms.com/fr/) | OpenClassrooms est un site web de formation en ligne, créé en 1999 sous le nom de Site du Zéro. Il propose à ses membres des cours certifiants et des parcours débouchant sur des métiers en croissance (ideale pour un debutant) | ⭐⭐⭐⭐⭐ |
 | [🔗 **MDN** (docs - tuto)](https://developer.mozilla.org/fr/docs/Web/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
 | [🔗 **w3schools** (cert - docs - tuto)](https://www.w3schools.com/) | W3Schools est un site web destiné à l'apprentissage en ligne des technologies web. Son contenu inclut des didacticiels et des références relatives à HTML, CSS, JavaScript, JSON, PHP, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX et XML. Il reçoit plus de 10 millions de visiteurs uniques chaque mois. | ⭐⭐⭐⭐🟊 |
 | [🔗 **roadmap.sh**](https://www.roadmap.sh/) | roadmap.sh est un effort communautaire pour créer des feuilles de route, des guides et d'autres contenus éducatifs pour aider les développeurs à choisir le chemin et guider leurs apprentissages. | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: work -->
+
+#### `📌 Project`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **frontendmentor** (project)](https://www.frontendmentor.io/) | Résolvez des défis HTML, CSS et JavaScript du monde réel tout en travaillant sur des conceptions professionnelles. Rejoignez 330227 développeurs qui construisent des projets, révisent du code et s'entraident pour s'améliorer. | ⭐⭐⭐⭐⭐ |
+| [🔗 **javascript30** (project)](https://javascript30.com/) | 30 jours Vanilla JS Coding Challenge, Construisez 30 choses en 30 jours avec 30 tutoriels, Pas de frameworks, Pas de compilateurs, Pas de bibliothèques ! | ⭐⭐⭐⭐🟊 |
+| [🔗 **30secondsofcode** (project)](https://www.30secondsofcode.org/) | Parcourez 1107 extraits de snippets code pour tous vos besoins de développement sur 30 secondes de code ! | ⭐⭐⭐⭐⭐ |
+
+<br>
+
+<!-- //TODO: work -->
+
+#### `📌 Skills`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **HackerRank** (skill - eval)](https://www.hackerrank.com/) | HackerRank est la solution d'évaluation technique et d'entretien à distance leader sur le marché pour le recrutement de développeurs. Apprenez à embaucher des talents techniques de n'importe où ! ! | ⭐⭐⭐⭐⭐ |
+| [🔗 **skillvalue** (skill - cert - quiz)](https://www.frontendmentor.io/) | Mettez-vous au défi avec des quiz techniques, choisissez parmi +1000 tests techniques et faites-vous remarquer. Valorisez vos compétences dès maintenant et obtenez un certificat ! | ⭐⭐⭐⭐🟊 |
 
 <br>
 
