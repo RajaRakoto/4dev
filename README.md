@@ -36,7 +36,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Logos](#-logos)                                                      |
 | [🔎 Effects](#-effects)                                                  |
 | [🔎 Tools](#-tools)                                                      |
-| [🔎 Tuto & Certificate & Roadmap](#-tuto--certificate--roadmap)          |
+| [🔎 Tuto & Certification & Roadmap](#-tuto--certification--roadmap)      |
 | [🔎 Editor](#-editor)                                                    |
 | [🔎 Avatar](#-avatar)                                                    |
 | [🔎 Project](#-project)                                                  |
