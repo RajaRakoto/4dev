@@ -38,7 +38,6 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Tuto](#-tuto)                                                        |
 | [🔎 Project](#-project)                                                  |
 | [🔎 Skills](#-skills)                                                    |
-| [🔎 Training](#-training)                                                |
 | [🔎 Stat](#-stat)                                                        |
 | [🔎 Extension (chrome)](#-extension-chrome)                              |
 | [🔎 Youtube](#-youtube)                                                  |
@@ -433,27 +432,54 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
+| [🔗 **GTmetrix** (analysis)](https://gtmetrix.com/) | Optimisation de la vitesse et des performances du site Web | ⭐⭐⭐⭐🟊 |
+| [🔗 **Minify** (css - js)](https://www.minifier.org/) | Rendez votre site Web plus petit et plus rapide à charger en minimisant le code JS et CSS. | ⭐⭐⭐🟊🟊 |
+| [🔗 **snippet-generator** (maker)](https://snippet-generator.app/) | Un generateur de snippet pour VScode, sublimetext et atom. | ⭐⭐⭐⭐🟊 |
+| [🔗 **shields.io** (badge)](https://shields.io/) | Créez des badges avec votre propre personnalisation. | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: work -->
+
+#### `📌 Convert & Compress`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **TinyPNG** (compress)](https://tinypng.com/) | Compression PNG et JPEG intelligente | ⭐⭐⭐⭐🟊 |
+| [🔗 **fsymbols** (convert - text)](https://fsymbols.com/generators/) | font generator | ⭐⭐⭐🟊🟊 |
+| [🔗 **fontmeme** (convert - sign)](https://fontmeme.com/fr/polices-de-signature/) | Convertir un texte en police de signature | ⭐⭐⭐🟊🟊 |
+| [🔗 **ASCIIart** (convert - img)](https://manytools.org/hacker-tools/convert-images-to-ascii-art/) | Convert Images to Ascii Art | ⭐⭐🟊🟊🟊 |
+| [🔗 **kodeshot** (convert - code)](https://www.kodeshot.net/) | Convertissez votre code source en belles images pour vos articles, tweets, messages, posts... | ⭐⭐⭐⭐🟊 |
+| [🔗 **Vertopal** (convert - ALL)](https://www.vertopal.com/) | Plate-forme en ligne gratuite pour convertir des fichiers informatiques vers une variété de formats de fichiers. | ⭐⭐⭐⭐⭐ |
+
+<br>
+
+<!-- //TODO: work -->
+
+#### `📌 Editor`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
 | [🔗 **Photopea** [photoshop] (editor - graphic)](https://shadows.brumm.af/) | Un éditeur Photoshop en ligne | ⭐⭐⭐⭐⭐ |
 | [🔗 **vectr** [illustrator] (editor - vector)](https://vectr.com/design/) | Logiciel de graphisme vectoriel gratuit | ⭐⭐⭐⭐⭐ |
 | [🔗 **fancy-border** (editor - border)](https://9elements.github.io/fancy-border-radius/full-control.html/) | Huit valeurs spécifiant border-radius en CSS ( border-radius generator ) | ⭐⭐⭐🟊🟊 |
 | [🔗 **remove.bg** (editor - bg)](https://www.remove.bg/fr/) | Supprimer rapidement les arrière-plans des images | ⭐⭐⭐🟊🟊 |
 | [🔗 **Blobmaker** (editor - svg)](https://www.blobmaker.app/) | Blobmaker est un outil de conception générative gratuit qui vous aide à créer rapidement des formes SVG aléatoires, uniques et d'apparence organique. | ⭐⭐⭐⭐🟊 |
-| [🔗 **bigheads** (caracters - avatar)](https://github.com/RobertBroersma/bigheads/) | Générez facilement des avatars pour vos projets avec Big Heads de Robert Broersma. | ⭐⭐⭐⭐⭐ |
-| [🔗 **getavataaars** (editor - avatar)](https://getavataaars.com/) | Outil de génération Web d'avatars gratuits amusants et colorés par Fang-Pen Lin utilisant la bibliothèque de croquis de Pablo Stanley. | ⭐⭐⭐⭐🟊 |
-| [🔗 **Personas** (editor - avatar)](https://personas.draftbit.com/) | Un générateur d'avatar ludique pour l'ère moderne. | ⭐⭐⭐🟊🟊 |
-| [🔗 **MapInSeconds** (editor - stat - map)](http://mapinseconds.com/#) | Un moyen simple de visualiser vos données avec une carte. | ⭐⭐⭐🟊🟊 |
-| [🔗 **kodeshot** (editor - code)](https://www.kodeshot.net/) | Convertissez votre code source en belles images pour vos articles, tweets, messages, posts... | ⭐⭐⭐⭐🟊 |
+| [🔗 **MapInSeconds** (editor - stat)](http://mapinseconds.com/#) | Un moyen simple de visualiser vos données avec une carte. | ⭐⭐⭐🟊🟊 |
 | [🔗 **codepen** (editor - frontend)](https://codepen.io/) | CodePen est un environnement de développement social pour les concepteurs et développeurs frontaux. Créez et déployez un site Web, montrez votre travail, créez des scénarios de test pour apprendre et déboguer, et trouvez l'inspiration. | ⭐⭐⭐⭐🟊 |
 | [🔗 **jsBin** (editor - js)](https://jsbin.com/?js,console) | Editeur de code Javascript en ligne | ⭐⭐⭐⭐🟊 |
-| [🔗 **GTmetrix** (analysis)](https://gtmetrix.com/) | Optimisation de la vitesse et des performances du site Web | ⭐⭐⭐⭐🟊 |
-| [🔗 **TinyPNG** (compress)](https://tinypng.com/) | Compression PNG et JPEG intelligente | ⭐⭐⭐⭐🟊 |
-| [🔗 **fsymbols** (convert - text)](https://fsymbols.com/generators/) | font generator | ⭐⭐⭐🟊🟊 |
-| [🔗 **fontmeme** (convert - sign)](https://fontmeme.com/fr/polices-de-signature/) | Convertir un texte en police de signature | ⭐⭐⭐🟊🟊 |
-| [🔗 **ASCIIart** (convert - img)](https://manytools.org/hacker-tools/convert-images-to-ascii-art/) | Convert Images to Ascii Art | ⭐⭐🟊🟊🟊 |
-| [🔗 **Vertopal** (convert - ALL)](https://www.vertopal.com/) | Plate-forme en ligne gratuite pour convertir des fichiers informatiques vers une variété de formats de fichiers. | ⭐⭐⭐⭐⭐ |
-| [🔗 **Minify** (css - js)](https://www.minifier.org/) | Rendez votre site Web plus petit et plus rapide à charger en minimisant le code JS et CSS. | ⭐⭐⭐🟊🟊 |
-| [🔗 **snippet-generator** (maker)](https://snippet-generator.app/) | Un generateur de snippet pour VScode, sublimetext et atom. | ⭐⭐⭐⭐🟊 |
-| [🔗 **shields.io** (badge)](https://shields.io/) | Créez des badges avec votre propre personnalisation. | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: work -->
+
+#### `📌 Avatar`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **bigheads** (caracters - avatar)](https://github.com/RobertBroersma/bigheads/) | Générez facilement des avatars pour vos projets avec Big Heads de Robert Broersma. | ⭐⭐⭐⭐⭐ |
+| [🔗 **getavataaars** (avatar)](https://getavataaars.com/) | Outil de génération Web d'avatars gratuits amusants et colorés par Fang-Pen Lin utilisant la bibliothèque de croquis de Pablo Stanley. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Personas** (avatar)](https://personas.draftbit.com/) | Un générateur d'avatar ludique pour l'ère moderne. | ⭐⭐⭐🟊🟊 |
 
 <br>
 
