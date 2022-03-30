@@ -21,13 +21,14 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Illustrations & Patterns](#-illustrations--patterns)                 |
 | [🔎 Layout](#-layout)                                                    |
 | [🔎 Animations](#-animations)                                            |
-| [🔎 Navigation & menu](#-navigation--menu)                               |
+| [🔎 Navigation](#-navigation)                                            |
 | [🔎 Backgrounds](#-backgrounds)                                          |
 | [🔎 Charte graphique (colors)](#-charte-graphique-colors)                |
-| [🔎 Notifications & alerts](#-notifications--alerts)                     |
+| [🔎 Notifications](#-notifications)                                      |
 | [🔎 Loaders & spinners](#-loaders--spinners)                             |
 | [🔎 Photos & videos](#-photos--videos)                                   |
 | [🔎 Music & Sound effects](#-music--sound-effects)                       |
+| [🔎 Convert & Compress](#-convert--compress)                             |
 | [🔎 Chart](#-chart)                                                      |
 | [🔎 Table](#-table)                                                      |
 | [🔎 Icons](#-icons)                                                      |
@@ -35,12 +36,15 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Logos](#-logos)                                                      |
 | [🔎 Effects](#-effects)                                                  |
 | [🔎 Tools](#-tools)                                                      |
-| [🔎 Tuto](#-tuto)                                                        |
+| [🔎 Tuto & Certificate & Roadmap](#-tuto--certificate--roadmap)          |
+| [🔎 Editor](#-editor)                                                    |
+| [🔎 Avatar](#-avatar)                                                    |
 | [🔎 Project](#-project)                                                  |
 | [🔎 Skills](#-skills)                                                    |
 | [🔎 Stat](#-stat)                                                        |
 | [🔎 Extension (chrome)](#-extension-chrome)                              |
 | [🔎 Youtube](#-youtube)                                                  |
+| [🔎 Blog](#-blog)                                                        |
 | [🔎 Others](#-others)                                                    |
 
 <br><br><br>
@@ -185,9 +189,6 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **box shadow** (box - idea)](https://getcssscan.com/css-box-shadow-examples) | 91 Beaux exemples de boîte-ombre CSS. | ⭐⭐⭐⭐🟊 |
 
 <br>
-<div align="right">
-    <b><a href="#codebase">↥ Back To Top</a></b>
-</div>
 
 <!-- //TODO: verified -->
 
@@ -195,8 +196,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **ManyPixel** (svg - png)](https://html5up.net) | Collection d'images vectorielles | ⭐⭐⭐⭐🟊 |
-| [🔗 **Hero Patterns** (geometric)](http://www.heropatterns.com) | Une collection de motifs d'arrière-plan SVG reproductibles | ⭐⭐⭐⭐🟊 |
+| [🔗 **ManyPixels** (svg - png)](https://www.manypixels.co/) | Collection d'images vectorielles | ⭐⭐⭐⭐🟊 |
 | [🔗 **IsoFlat** (flat)](https://isoflat.com) | Une collection gratuite de ressources graphiques SVG isométriques | ⭐⭐⭐🟊🟊 |
 | [🔗 **UnDraw** (caracters)](https://undraw.co/illustrations) | Des illustrations de personnage open source pour toutes les idées que vous pouvez imaginer et créer (couleur personnalisable) | ⭐⭐⭐⭐🟊 |
 | [🔗 **Humaaans** (caracters)](https://www.humaaans.com) | De superbes illustrations de personnes capables de se mélanger et de s'assortir | ⭐⭐⭐🟊🟊 |
@@ -253,13 +253,10 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **tingle.js** (animation - modal - js)](https://tingle.robinparisi.com/) | Un plugin modal minimaliste et facile à utiliser écrit en Vanilla JS. | ⭐⭐⭐⭐⭐ |
 
 <br>
-<div align="right">
-    <b><a href="#codebase">↥ Back To Top</a></b>
-</div>
 
 <!-- //TODO: verified -->
 
-#### `📌 Navigation & menu`
+#### `📌 Navigation`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -277,14 +274,13 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **getwaves** (bg)](https://getwaves.io/) | Un générateur d'ondes SVG gratuit pour créer des ondes SVG uniques pour la conception Web | ⭐⭐⭐⭐🟊 |
 | [🔗 **Clippy** (bg - polygone)](https://bennettfeely.com/clippy/) | Editer une image sous forme de polygone en CSS | ⭐⭐⭐⭐🟊 |
 | [🔗 **cssgradient** (bg - gradient)](https://cssgradient.io/) | Un générateur de couleur degredE elegant pour des arrière-plans | ⭐⭐⭐⭐🟊 |
+| [🔗 **Hero Patterns** (bg - geometric)](http://www.heropatterns.com) | Une collection de motifs d'arrière-plan SVG reproductibles | ⭐⭐⭐⭐🟊 |
 
 <br>
 
 <!-- //TODO: verified -->
 
 #### `📌 Charte graphique (colors)`
-
-**Colors swatches**
 
 Échantillons de couleurs conformes à la norme Web moderne ...
 
@@ -301,13 +297,10 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **UI Gradients** (gradient)](https://uigradients.com) | Générateur de couleurs dégradés d'interface utilisateur | ⭐⭐⭐⭐🟊 |
 
 <br>
-<div align="right">
-    <b><a href="#codebase">↥ Back To Top</a></b>
-</div>
 
 <!-- //TODO: verified -->
 
-#### `📌 Notifications & alerts`
+#### `📌 Notifications`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -339,9 +332,6 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **giphy** (gif)](https://giphy.com/stickers/) | Collection d'image GIF | ⭐⭐⭐🟊🟊 |
 
 <br>
-<div align="right">
-    <b><a href="#codebase">↥ Back To Top</a></b>
-</div>
 
 <!-- //TODO: verified -->
 
@@ -351,6 +341,21 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | :-- | :-- | :-- |
 | [🔗 **Mixkit** (music - sound)](https://mixkit.co) | Musique & effet sonore gratuite pour vos projets | ⭐⭐⭐⭐🟊 |
 | [🔗 **Bensound** (music)](https://www.bensound.com/) | Plus de 1,7 million d'images et de vidéos de haute qualité | ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: work -->
+
+#### `📌 Convert & Compress`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **TinyPNG** (compress)](https://tinypng.com/) | Compression PNG et JPEG intelligente | ⭐⭐⭐⭐🟊 |
+| [🔗 **Vertopal** (convert - ALL)](https://www.vertopal.com/) | Plate-forme en ligne gratuite pour convertir des fichiers informatiques vers une variété de formats de fichiers. | ⭐⭐⭐⭐⭐ |
+| [🔗 **fsymbols** (convert - text)](https://fsymbols.com/generators/) | font generator | ⭐⭐⭐🟊🟊 |
+| [🔗 **fontmeme** (convert - sign)](https://fontmeme.com/fr/polices-de-signature/) | Convertir un texte en police de signature | ⭐⭐⭐🟊🟊 |
+| [🔗 **ASCIIart** (convert - img)](https://manytools.org/hacker-tools/convert-images-to-ascii-art/) | Convert Images to Ascii Art | ⭐⭐🟊🟊🟊 |
+| [🔗 **kodeshot** (convert - code)](https://www.kodeshot.net/) | Convertissez votre code source en belles images pour vos articles, tweets, messages, posts... | ⭐⭐⭐⭐🟊 |
 
 <br>
 
@@ -399,9 +404,6 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Dafont** (font)](https://www.dafont.com) | Archive des polices téléchargeables gratuitement | ⭐⭐⭐⭐🟊 |
 
 <br>
-<div align="right">
-    <b><a href="#codebase">↥ Back To Top</a></b>
-</div>
 
 <!-- //TODO: verified -->
 
@@ -432,25 +434,26 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **GTmetrix** (analysis)](https://gtmetrix.com/) | Optimisation de la vitesse et des performances du site Web | ⭐⭐⭐⭐🟊 |
+| [🔗 **GTmetrix** (analysis - seo)](https://gtmetrix.com/) | Optimisation de la vitesse et des performances du site Web | ⭐⭐⭐⭐🟊 |
 | [🔗 **Minify** (css - js)](https://www.minifier.org/) | Rendez votre site Web plus petit et plus rapide à charger en minimisant le code JS et CSS. | ⭐⭐⭐🟊🟊 |
-| [🔗 **snippet-generator** (maker)](https://snippet-generator.app/) | Un generateur de snippet pour VScode, sublimetext et atom. | ⭐⭐⭐⭐🟊 |
+| [🔗 **snippet-generator** (snippet)](https://snippet-generator.app/) | Un generateur de snippet pour VScode, sublimetext et atom. | ⭐⭐⭐⭐🟊 |
 | [🔗 **shields.io** (badge)](https://shields.io/) | Créez des badges avec votre propre personnalisation. | ⭐⭐⭐⭐🟊 |
 
 <br>
 
 <!-- //TODO: work -->
 
-#### `📌 Convert & Compress`
+#### `📌 Tuto & Certification & Roadmap`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **TinyPNG** (compress)](https://tinypng.com/) | Compression PNG et JPEG intelligente | ⭐⭐⭐⭐🟊 |
-| [🔗 **fsymbols** (convert - text)](https://fsymbols.com/generators/) | font generator | ⭐⭐⭐🟊🟊 |
-| [🔗 **fontmeme** (convert - sign)](https://fontmeme.com/fr/polices-de-signature/) | Convertir un texte en police de signature | ⭐⭐⭐🟊🟊 |
-| [🔗 **ASCIIart** (convert - img)](https://manytools.org/hacker-tools/convert-images-to-ascii-art/) | Convert Images to Ascii Art | ⭐⭐🟊🟊🟊 |
-| [🔗 **kodeshot** (convert - code)](https://www.kodeshot.net/) | Convertissez votre code source en belles images pour vos articles, tweets, messages, posts... | ⭐⭐⭐⭐🟊 |
-| [🔗 **Vertopal** (convert - ALL)](https://www.vertopal.com/) | Plate-forme en ligne gratuite pour convertir des fichiers informatiques vers une variété de formats de fichiers. | ⭐⭐⭐⭐⭐ |
+| [🔗 **Coding Artist** (articles - design - tuto)](https://codingartistweb.com/) | Coding Artist se consacre à vous fournir des didacticiels de codage rapides et simples mais efficaces. Nous fournissons les meilleurs tutoriels sur HTML, CSS et Javascript. | ⭐⭐⭐⭐⭐ |
+| [🔗 **PG** (web - tuto)](https://www.pierre-giraud.com/) | Toutes vos ressources sur le développement web, apprenez à coder en HTML, CSS, JavaScript, Python, PHP. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Grafikart** (web - devops - tuto)](https://grafikart.fr/formations/) | Découvrez une technologie spécifique à travers une série de vidéo qui vous guidera dans votre apprentissage | ⭐⭐⭐⭐⭐ |
+| [🔗 **Openclassrooms** (cert - tuto)](https://openclassrooms.com/fr/) | OpenClassrooms est un site web de formation en ligne, créé en 1999 sous le nom de Site du Zéro. Il propose à ses membres des cours certifiants et des parcours débouchant sur des métiers en croissance (ideale pour un debutant) | ⭐⭐⭐⭐⭐ |
+| [🔗 **MDN** (docs - tuto)](https://developer.mozilla.org/fr/docs/Web/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
+| [🔗 **w3schools** (cert - docs - tuto)](https://www.w3schools.com/) | W3Schools est un site web destiné à l'apprentissage en ligne des technologies web. Son contenu inclut des didacticiels et des références relatives à HTML, CSS, JavaScript, JSON, PHP, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX et XML. Il reçoit plus de 10 millions de visiteurs uniques chaque mois. | ⭐⭐⭐⭐🟊 |
+| [🔗 **roadmap.sh** (roadmap)](https://www.roadmap.sh/) | roadmap.sh est un effort communautaire pour créer des feuilles de route, des guides et d'autres contenus éducatifs pour aider les développeurs à choisir le chemin et guider leurs apprentissages. | ⭐⭐⭐⭐🟊 |
 
 <br>
 
@@ -480,22 +483,6 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **bigheads** (caracters - avatar)](https://github.com/RobertBroersma/bigheads/) | Générez facilement des avatars pour vos projets avec Big Heads de Robert Broersma. | ⭐⭐⭐⭐⭐ |
 | [🔗 **getavataaars** (avatar)](https://getavataaars.com/) | Outil de génération Web d'avatars gratuits amusants et colorés par Fang-Pen Lin utilisant la bibliothèque de croquis de Pablo Stanley. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Personas** (avatar)](https://personas.draftbit.com/) | Un générateur d'avatar ludique pour l'ère moderne. | ⭐⭐⭐🟊🟊 |
-
-<br>
-
-<!-- //TODO: work -->
-
-#### `📌 Tuto & certification & roadmap`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **Coding Artist** (articles - design - tuto)](https://codingartistweb.com/) | Coding Artist se consacre à vous fournir des didacticiels de codage rapides et simples mais efficaces. Nous fournissons les meilleurs tutoriels sur HTML, CSS et Javascript. | ⭐⭐⭐⭐⭐ |
-| [🔗 **PG** (web - tuto)](https://www.pierre-giraud.com/) | Toutes vos ressources sur le développement web, apprenez à coder en HTML, CSS, JavaScript, Python, PHP. | ⭐⭐⭐⭐🟊 |
-| [🔗 **Grafikart** (web - devops - tuto)](https://grafikart.fr/formations/) | Découvrez une technologie spécifique à travers une série de vidéo qui vous guidera dans votre apprentissage | ⭐⭐⭐⭐⭐ |
-| [🔗 **Openclassrooms** (cert - tuto)](https://openclassrooms.com/fr/) | OpenClassrooms est un site web de formation en ligne, créé en 1999 sous le nom de Site du Zéro. Il propose à ses membres des cours certifiants et des parcours débouchant sur des métiers en croissance (ideale pour un debutant) | ⭐⭐⭐⭐⭐ |
-| [🔗 **MDN** (docs - tuto)](https://developer.mozilla.org/fr/docs/Web/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
-| [🔗 **w3schools** (cert - docs - tuto)](https://www.w3schools.com/) | W3Schools est un site web destiné à l'apprentissage en ligne des technologies web. Son contenu inclut des didacticiels et des références relatives à HTML, CSS, JavaScript, JSON, PHP, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX et XML. Il reçoit plus de 10 millions de visiteurs uniques chaque mois. | ⭐⭐⭐⭐🟊 |
-| [🔗 **roadmap.sh**](https://www.roadmap.sh/) | roadmap.sh est un effort communautaire pour créer des feuilles de route, des guides et d'autres contenus éducatifs pour aider les développeurs à choisir le chemin et guider leurs apprentissages. | ⭐⭐⭐⭐🟊 |
 
 <br>
 
@@ -575,14 +562,23 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
+<!-- //TODO: verified -->
+
+#### `📌 Blog`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **itsfoss** (blog - linux - opensource)](https://itsfoss.com/) | Ceci n'a pas vraiment rien avoir avec le dev web mais pourrai vous servir, avec It's FOSS, vous apprendrez les dernières nouvelles du monde open source. Vous apprendrez également à utiliser efficacement Linux grâce à des didacticiels de premier ordre et à des experts ... | ⭐⭐⭐⭐⭐ |
+| [🔗 **korben** (blog - veille)](https://korben.info/) | Le meilleur site tech (fr) de l'univers visible et invisible. #logiciel #crypto #cybersécurité #linux #astuces ... | ⭐⭐⭐⭐🟊 |
+
+<br>
+
 <!-- //TODO: work -->
 
 #### `📌 Others`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **itsfoss** (blog - linux - opensource)](https://itsfoss.com/) | Ceci n'a pas vraiment rien avoir avec le dev web mais pourrai vous servir, avec It's FOSS, vous apprendrez les dernières nouvelles du monde open source. Vous apprendrez également à utiliser efficacement Linux grâce à des didacticiels de premier ordre et à des experts ... | ⭐⭐⭐⭐⭐ |
-| [🔗 **korben** (blog - veille)](https://korben.info/) | Le meilleur site tech (fr) de l'univers visible et invisible. #logiciel #crypto #cybersécurité #linux #astuces ... | ⭐⭐⭐⭐🟊 |
 | [🔗 **jsDelivr** (search - engine)](https://www.jsdelivr.com/) | jsDelivr est un moteur de recherche puissant pour developpeur, ce dernier offre des liens qui permet d'acceder rapidement au site officiel, documentation, github ou meme telecharger directement un package | ⭐⭐⭐⭐⭐ |
 | [🔗 **DevHint** (all - cheatsheets)](https://devhints.io/) | Une collection de cheatsheets. | ⭐⭐⭐⭐⭐ |
 | [🔗 **DevDocs** (all - docs)](https://devdocs.io/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
