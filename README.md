@@ -7,7 +7,7 @@
 
 _📨 Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ..._
 
-<br><br><br>
+<br>
 
 <!-- //TODO: work -->
 
@@ -50,7 +50,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Tuto & Certification & Roadmap](#-tuto--certification--roadmap)      |
 | [🔎 Youtube](#-youtube)                                                  |
 
-<br><br><br>
+<br>
 
 <!-- //TODO: work -->
 
