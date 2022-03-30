@@ -37,6 +37,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Training](#-training)                                                |
 | [🔎 Stat](#-stat)                                                        |
 | [🔎 Extension (chrome)](#-extension-chrome)                              |
+| [🔎 Youtube](#-youtube)                                                  |
 | [🔎 Others](#-others)                                                    |
 
 <br><br><br>
@@ -433,10 +434,11 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **fontmeme** (convert - sign)](https://fontmeme.com/fr/polices-de-signature/) | Convertir un texte en police de signature | ⭐⭐⭐🟊🟊 |
 | [🔗 **ASCIIart** (convert - img)](https://manytools.org/hacker-tools/convert-images-to-ascii-art/) | Convert Images to Ascii Art | ⭐⭐🟊🟊🟊 |
 | [🔗 **Minify** (css - js)](https://www.minifier.org/) | Rendez votre site Web plus petit et plus rapide à charger en minimisant le code JS et CSS. | ⭐⭐⭐🟊🟊 |
+| [🔗 **snippet-generator** (maker)](https://snippet-generator.app/) | Un generateur de snippet pour VScode, sublimetext et atom. | ⭐⭐⭐⭐🟊 |
 
 <br>
 
-<!-- //TODO: verified -->
+<!-- //TODO: work -->
 
 #### `📌 Training`
 
@@ -444,8 +446,16 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | :-- | :-- | :-- |
 | [🔗 **frontendmentor** (project)](https://www.frontendmentor.io/) | Résolvez des défis HTML, CSS et JavaScript du monde réel tout en travaillant sur des conceptions professionnelles. Rejoignez 330227 développeurs qui construisent des projets, révisent du code et s'entraident pour s'améliorer. | ⭐⭐⭐⭐⭐ |
 | [🔗 **javascript30** (project)](https://javascript30.com/) | 30 jours Vanilla JS Coding Challenge, Construisez 30 choses en 30 jours avec 30 tutoriels, Pas de frameworks, Pas de compilateurs, Pas de bibliothèques ! | ⭐⭐⭐⭐🟊 |
+| [🔗 **30secondsofcode** (project)](https://www.30secondsofcode.org/) | Parcourez 1107 extraits de snippets code pour tous vos besoins de développement sur 30 secondes de code ! | ⭐⭐⭐⭐⭐ |
 | [🔗 **HackerRank** (eval)](https://www.hackerrank.com/) | HackerRank est la solution d'évaluation technique et d'entretien à distance leader sur le marché pour le recrutement de développeurs. Apprenez à embaucher des talents techniques de n'importe où ! ! | ⭐⭐⭐⭐⭐ |
-| [🔗 **skillvalue** (quiz)](https://www.frontendmentor.io/) | Mettez-vous au défi avec des quiz techniques, choisissez parmi +1000 tests techniques et faites-vous remarquer. Valorisez vos compétences dès maintenant et obtenez un certificat ! | ⭐⭐⭐⭐🟊 |
+| [🔗 **skillvalue** (cert - quiz)](https://www.frontendmentor.io/) | Mettez-vous au défi avec des quiz techniques, choisissez parmi +1000 tests techniques et faites-vous remarquer. Valorisez vos compétences dès maintenant et obtenez un certificat ! | ⭐⭐⭐⭐🟊 |
+| [🔗 **Coding Artist** (articles - design)](https://codingartistweb.com/) | Coding Artist se consacre à vous fournir des didacticiels de codage rapides et simples mais efficaces. Nous fournissons les meilleurs tutoriels sur HTML, CSS et Javascript. | ⭐⭐⭐⭐⭐ |
+| [🔗 **PG** (web - tuto)](https://www.pierre-giraud.com/) | Toutes vos ressources sur le développement web, apprenez à coder en HTML, CSS, JavaScript, Python, PHP. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Grafikart** (web - devops - tuto)](https://grafikart.fr/formations/) | Découvrez une technologie spécifique à travers une série de vidéo qui vous guidera dans votre apprentissage | ⭐⭐⭐⭐⭐ |
+| [🔗 **Openclassrooms** (cert - tuto)](https://openclassrooms.com/fr/) | OpenClassrooms est un site web de formation en ligne, créé en 1999 sous le nom de Site du Zéro. Il propose à ses membres des cours certifiants et des parcours débouchant sur des métiers en croissance (ideale pour un debutant) | ⭐⭐⭐⭐⭐ |
+| [🔗 **MDN** (docs - tuto)](https://developer.mozilla.org/fr/docs/Web/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
+| [🔗 **w3schools** (cert - docs - tuto)](https://www.w3schools.com/) | W3Schools est un site web destiné à l'apprentissage en ligne des technologies web. Son contenu inclut des didacticiels et des références relatives à HTML, CSS, JavaScript, JSON, PHP, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX et XML. Il reçoit plus de 10 millions de visiteurs uniques chaque mois. | ⭐⭐⭐⭐🟊 |
+| [🔗 **roadmap.sh**](https://www.roadmap.sh/) | roadmap.sh est un effort communautaire pour créer des feuilles de route, des guides et d'autres contenus éducatifs pour aider les développeurs à choisir le chemin et guider leurs apprentissages. | ⭐⭐⭐⭐🟊 |
 
 <br>
 
@@ -484,13 +494,35 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
+<!-- //TODO: verified -->
+
+#### `📌 Youtube`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **cocadmin** (devops - tips - hacking)](https://www.youtube.com/channel/UCVRJ6D343dX-x730MRP8tNw/) | all in one | ⭐⭐⭐⭐⭐ |
+| [🔗 **Cookie connecté** (tech - tips - devops)](https://www.youtube.com/channel/UC5cs06DgLFeyLIF_II7lWCQ/) | Chaine de vulgarisation informatique illustrE par des dessins | ⭐⭐⭐⭐🟊 |
+| [🔗 **xavki** (devops - sysadmin)](https://github.com/priximmo/sommaire-xavki-devops-fr/) | tuto devops complet | ⭐⭐⭐⭐🟊 |
+| [🔗 **Khaos Farbauti Ibn Oblivion** (pentest)](https://www.youtube.com/user/brumadar/) | Chaine tuto pentest & capture the flag | ⭐⭐⭐🟊🟊 |
+| [🔗 **Processus Thief** (sysadmin - pentest)](https://www.youtube.com/channel/UCqrxDV9EPOlI1YMhzIPed2g/) | Chaine tuto pentest & capture the flag | ⭐⭐⭐⭐🟊 |
+| [🔗 **Graven ilvec** (dev - tips)](https://www.youtube.com/user/Gravenilvectuto/) | Un jeune passionE de la programmation qui partage ses connaissance dans le domaine ... | ⭐⭐⭐⭐🟊 |
+| [🔗 **Pierre Giraud** (web)](https://www.youtube.com/c/PierreGiraudcom/) | Cours complets et gratuits HTML, CSS, JavaScript, PHP, MySQL, Python, Bootstrap, etc ... | ⭐⭐⭐⭐🟊 |
+| [🔗 **From Scratch** (web)](https://www.youtube.com/c/FromScratchD%C3%A9veloppementWeb/playlists/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
+| [🔗 **Grafikart** (web - devops)](https://www.youtube.com/c/grafikart/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
+
+<br>
+
 <!-- //TODO: work -->
 
 #### `📌 Others`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **jsDelivr** (search)](https://www.jsdelivr.com/) | jsDelivr est un moteur de recherche puissant pour developpeur, ce dernier offre des liens qui permet d'acceder rapidement au site officiel, documentation, github ou meme telecharger directement un package | ⭐⭐⭐⭐⭐ |
+| [🔗 **itsfoss** (blog - linux - opensource)](https://itsfoss.com/) | Ceci n'a pas vraiment rien avoir avec le dev web mais pourrai vous servir, avec It's FOSS, vous apprendrez les dernières nouvelles du monde open source. Vous apprendrez également à utiliser efficacement Linux grâce à des didacticiels de premier ordre et à des experts ... | ⭐⭐⭐⭐⭐ |
+| [🔗 **korben** (blog - veille)](https://korben.info/) | Le meilleur site tech (fr) de l'univers visible et invisible. #logiciel #crypto #cybersécurité #linux #astuces ... | ⭐⭐⭐⭐🟊 |
+| [🔗 **jsDelivr** (search - engine)](https://www.jsdelivr.com/) | jsDelivr est un moteur de recherche puissant pour developpeur, ce dernier offre des liens qui permet d'acceder rapidement au site officiel, documentation, github ou meme telecharger directement un package | ⭐⭐⭐⭐⭐ |
+| [🔗 **DevHint** (all - cheatsheets)](https://devhints.io/) | Une collection de cheatsheets. | ⭐⭐⭐⭐⭐ |
+| [🔗 **DevDocs** (all - docs)](https://devdocs.io/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
 
 <br>
 
