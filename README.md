@@ -26,7 +26,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Chart](#-chart)                                                      |
 | [🔎 Charte graphique (colors)](#-charte-graphique-colors)                |
 | [🔎 Components & kits](#-components--kits)                               |
-| [🔎 Convert & Compress](#-convert--compress)                             |
+| [🔎 Convert & Compress & Resize](#-convert--compress--resize)            |
 | [🔎 Editor](#-editor)                                                    |
 | [🔎 Effects](#-effects)                                                  |
 | [🔎 Extension (chrome)](#-extension-chrome)                              |
@@ -302,7 +302,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-#### `📌 Convert & Compress`
+#### `📌 Convert & Compress & Resize`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
@@ -312,6 +312,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **fontmeme** (convert - sign)](https://fontmeme.com/fr/polices-de-signature/) | Convertir un texte en police de signature | ⭐⭐⭐🟊🟊 |
 | [🔗 **ASCIIart** (convert - img)](https://manytools.org/hacker-tools/convert-images-to-ascii-art/) | Convert Images to Ascii Art | ⭐⭐🟊🟊🟊 |
 | [🔗 **kodeshot** (convert - code)](https://www.kodeshot.net/) | Convertissez votre code source en belles images pour vos articles, tweets, messages, posts... | ⭐⭐⭐⭐🟊 |
+| [🔗 **resize-image** (resize - img)](https://www.iloveimg.com/resize-image) | Redimensionnez JPG, PNG, SVG ou GIF en définissant de nouveaux pixels de hauteur et de largeur. Modifiez les dimensions de l'image en masse. | ⭐⭐⭐⭐🟊 |
 
 <br>
 
