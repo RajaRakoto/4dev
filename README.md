@@ -45,6 +45,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Skills](#-skills)                                                    |
 | [🔎 Stat](#-stat)                                                        |
 | [🔎 Table](#-table)                                                      |
+| [🔎 Task runner](#-task-runner)                                          |
 | [🔎 Template & ideas (html + css + js)](#-template--ideas-html--css--js) |
 | [🔎 Tools](#-tools)                                                      |
 | [🔎 Tuto & Certification & Roadmap](#-tuto--certification--roadmap)      |
@@ -130,6 +131,8 @@ Collection des meilleurs packages NPM qui peuvent vous être utiles ...
 | 📦 **cloudinary** | Transformez les images et les vidéos pour qu'elles se chargent plus rapidement sans dégradation visuelle, générez automatiquement des variantes d'images et de vidéos et offrez une expérience réactive de haute qualité pour augmenter les conversions. | `npm i cloudinary` | 500kb | [💡](https://www.npmjs.com/package/cloudinary) |
 | 📦 **passport** | Passport est un middleware d'authentification pour Node.js. Extrêmement flexible et modulaire, Passport peut être inséré discrètement dans n'importe quelle application Web basée sur Express. | `npm i passport` | 70kb | [💡](https://www.npmjs.com/package/passport) |
 | 📦 **nodemailer** | Nodemailer est un module pour les applications Node.js permettant d'envoyer des e-mails en toute simplicité. | `npm i nodemailer` | 500kb | [💡](https://www.npmjs.com/package/nodemailer) |
+| 📦 **marked** | Un analyseur et un compilateur Markdown. | `npm i marked` | 420kb | [💡](https://www.npmjs.com/package/marked) |
+| 📦 **node-sass** | Node-sass est une bibliothèque qui fournit la liaison de Node.js à LibSass, la version du préprocesseur de feuille de style populaire Sass - ce dernier est utile si vous voulez utiliser sass dans React (par exemple). | `npm i node-sass` | 5mb | [💡](https://github.com/sass/node-sass) |
 
 <br><br><br>
 
@@ -557,7 +560,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 Table`
 
@@ -565,6 +568,17 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | :-- | :-- | :-- |
 | [🔗 **grid.js** (table - AVR)](https://gridjs.io/docs/index/) | Grid.js est un plugin de tableau HTML gratuit et open-source écrit en TypeScript. Il fonctionne avec la plupart des frameworks JavaScript, y compris React, Angular, Vue et VanillaJs. | ⭐⭐⭐⭐⭐ |
 | [🔗 **DataTables** (table - jquery)](https://datatables.net/) | DataTables est un plug-in jQuery open-source permettant de dynamiser un tableau HTML. Créée par Allan Jardine sous la licence MIT | ⭐⭐⭐⭐⭐ |
+
+<br>
+
+<!-- //TODO: verified -->
+
+#### `📌 Task runner`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **grunt** (task)](https://gruntjs.com/) | Grunt est un outil pour la création de tâches automatisées avec le langage JavaScript (orientE fichier) | ⭐⭐⭐⭐⭐ |
+| [🔗 **gulp** (task)](https://gulpjs.com/) | Tirez parti du gulp et de la flexibilité de JavaScript pour automatiser les workflows lents et répétitifs et les composer dans des pipelines de build efficaces. | ⭐⭐⭐⭐⭐ |
 
 <br>
 
