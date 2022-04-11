@@ -57,7 +57,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <br>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 <img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/codebase.png?raw=true" width="80"><br>
 
@@ -217,7 +217,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 Blog`
 
@@ -494,7 +494,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 Others`
 
@@ -523,7 +523,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 Project`
 
@@ -535,7 +535,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 Skills`
 
@@ -602,7 +602,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
     <b><a href="#codebase">↥ Back To Top</a></b>
 </div>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 Tools`
 
@@ -616,7 +616,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <br>
 
-<!-- //TODO: work -->
+<!-- //TODO: verified -->
 
 #### `📌 Tuto & Certification & Roadmap`
 
