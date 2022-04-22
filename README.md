@@ -133,7 +133,8 @@ Collection des meilleurs packages NPM qui peuvent vous être utiles ...
 | 📦 **nodemailer** | Nodemailer est un module pour les applications Node.js permettant d'envoyer des e-mails en toute simplicité. | `npm i nodemailer` | 500kb | [💡](https://www.npmjs.com/package/nodemailer) |
 | 📦 **marked** | Un analyseur et un compilateur Markdown. | `npm i marked` | 420kb | [💡](https://www.npmjs.com/package/marked) |
 | 📦 **node-sass** | Node-sass est une bibliothèque qui fournit la liaison de Node.js à LibSass, la version du préprocesseur de feuille de style populaire Sass - ce dernier est utile si vous voulez utiliser sass dans React (par exemple). | `npm i node-sass` | 5mb | [💡](https://github.com/sass/node-sass) |
-| 📦 **yo** | Le générateur Yeoman vous guidera à travers les étapes nécessaires pour créer votre personnalisation ou votre extension en vous demandant les informations requises. | `npm install -g yo generator-code` | 300kb | [💡](https://www.npmjs.com/package/generator-code) |
+| 📦 **yo** | Le générateur Yeoman vous guidera à travers les étapes nécessaires pour créer votre personnalisation ou votre extension en vous demandant les informations requises. | `npm i -g yo generator-code`. | 300kb | [💡](https://www.npmjs.com/package/generator-code) |
+| 📦 **vsce** | Le gestionnaire d'extensions de code Visual Studio. | `npm i -g vsce` | 150kb | [💡](https://www.npmjs.com/package/vsce) |
 
 <br><br><br>
 
