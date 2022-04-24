@@ -135,6 +135,7 @@ Collection des meilleurs packages NPM qui peuvent vous être utiles ...
 | 📦 **node-sass** | Node-sass est une bibliothèque qui fournit la liaison de Node.js à LibSass, la version du préprocesseur de feuille de style populaire Sass - ce dernier est utile si vous voulez utiliser sass dans React (par exemple). | `npm i node-sass` | 5mb | [💡](https://github.com/sass/node-sass) |
 | 📦 **yo** | Le générateur Yeoman vous guidera à travers les étapes nécessaires pour créer votre personnalisation ou votre extension en vous demandant les informations requises. | `npm i -g yo generator-code`. | 300kb | [💡](https://www.npmjs.com/package/generator-code) |
 | 📦 **vsce** | Le gestionnaire d'extensions de code Visual Studio. | `npm i -g vsce` | 150kb | [💡](https://www.npmjs.com/package/vsce) |
+| 📦 **sass-eo** | sass-eo est une bibliothèque de mixins et de fonctions SASS (Syntactically Awesome Style Sheets), c'est un fork du projet gerillass avec quelques modifications pour le rendre plus facile à utiliser, sass-eo offre flexibilité, rapidité , performance et créativité dans le développement frontend. | `npm i @raja_rakoto/sass-eo --save-dev && npm i grunt grunt-contrib-sass grunt-contrib-watch grunt-shell load-grunt-tasks sassdoc -D` | 4mb | [💡](https://www.npmjs.com/package/@raja_rakoto/sass-eo) |
 
 <br><br><br>
 
