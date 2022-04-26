@@ -75,7 +75,6 @@ Collection & creation des codebases qui peuvent vous être utiles ...
 | <center>Collection name</center> | <center>Descriptions</center> |
 | :-- | :-- |
 | 📂 **blinker** | Element de texte clignotant |
-| 📂 **boostrap5** (CSS framework) | Une collection d'outils utiles à la création du design responsive de sites et d'applications web |
 | 📂 **candybutton** | Des boutons animEs en pure CSS |
 | 📂 **card** | Collection of portfolio card |
 | 📂 **carousel** | Collection of carousel |
