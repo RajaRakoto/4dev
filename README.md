@@ -142,6 +142,8 @@ Collection des meilleurs packages NPM qui peuvent vous être utiles ...
 | 📦 **sass-eo** | sass-eo est une bibliothèque de mixins et de fonctions SASS (Syntactically Awesome Style Sheets), c'est un fork du projet gerillass avec quelques modifications pour le rendre plus facile à utiliser, sass-eo offre flexibilité, rapidité , performance et créativité dans le développement frontend. | `npm i @raja_rakoto/sass-eo --save-dev && npm i grunt grunt-contrib-sass grunt-contrib-watch grunt-shell load-grunt-tasks sassdoc -D` | 4mb | [💡](https://www.npmjs.com/package/@raja_rakoto/sass-eo) |
 | 📦 **react-helmet** | A document head manager for React. | `npm i react-helmet` | - | [💡](https://www.npmjs.com/package/react-helmet) |
 | 📦 **react-responsive** | Ce package permet d'utiliser media queries dans React | `npm install react-responsive --save` | - | [💡](https://www.npmjs.com/package/react-responsive) |
+| 📦 **mdb-react-ui-kit** | Material Design for Bootstrap pour React | `npm i mdb-react-ui-kit` | - | [💡](https://mdbootstrap.com/docs/b5/react/getting-started/installation/) |
+| 📦 **uniqid** | Un générateur d'identifiant hexadécimal unique | `npm i uniqid` | - | [💡](https://www.npmjs.com/package/uniqid) |
 
 <br><br><br>
 
