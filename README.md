@@ -140,10 +140,11 @@ Collection des meilleurs packages NPM qui peuvent vous être utiles ...
 | 📦 **yo** | Le générateur Yeoman vous guidera à travers les étapes nécessaires pour créer votre personnalisation ou votre extension en vous demandant les informations requises. | `npm i -g yo generator-code`. | 300kb | [💡](https://www.npmjs.com/package/generator-code) |
 | 📦 **vsce** | Le gestionnaire d'extensions de code Visual Studio. | `npm i -g vsce` | 150kb | [💡](https://www.npmjs.com/package/vsce) |
 | 📦 **sass-eo** | sass-eo est une bibliothèque de mixins et de fonctions SASS (Syntactically Awesome Style Sheets), c'est un fork du projet gerillass avec quelques modifications pour le rendre plus facile à utiliser, sass-eo offre flexibilité, rapidité , performance et créativité dans le développement frontend. | `npm i @raja_rakoto/sass-eo --save-dev && npm i grunt grunt-contrib-sass grunt-contrib-watch grunt-shell load-grunt-tasks sassdoc -D` | 4mb | [💡](https://www.npmjs.com/package/@raja_rakoto/sass-eo) |
-| 📦 **react-helmet** | A document head manager for React. | `npm i react-helmet` | - | [💡](https://www.npmjs.com/package/react-helmet) |
-| 📦 **react-responsive** | Ce package permet d'utiliser media queries dans React | `npm install react-responsive --save` | - | [💡](https://www.npmjs.com/package/react-responsive) |
+| 📦 **react-helmet** | A document head manager for React. | `npm i react-helmet` | 100kb | [💡](https://www.npmjs.com/package/react-helmet) |
+| 📦 **react-responsive** | Ce package permet d'utiliser media queries dans React | `npm install react-responsive --save` | 210kb | [💡](https://www.npmjs.com/package/react-responsive) |
 | 📦 **mdb-react-ui-kit** | Material Design for Bootstrap pour React | `npm i mdb-react-ui-kit` | - | [💡](https://mdbootstrap.com/docs/b5/react/getting-started/installation/) |
-| 📦 **uniqid** | Un générateur d'identifiant hexadécimal unique | `npm i uniqid` | - | [💡](https://www.npmjs.com/package/uniqid) |
+| 📦 **uniqid** | Un générateur d'identifiant hexadécimal unique | `npm i uniqid` | 8kb | [💡](https://www.npmjs.com/package/uniqid) |
+| 📦 **uuid** | Universally unique identifier generator | `npm i uniqid` | 120kb | [💡](https://www.npmjs.com/package/uuid) |
 
 <br><br><br>
 
