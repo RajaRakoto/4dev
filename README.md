@@ -55,6 +55,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Tools](#-tools)                                                      |
 | [🔎 Tuto & Certification & Roadmap](#-tuto--certification--roadmap)      |
 | [🔎 Youtube](#-youtube)                                                  |
+| [🔎 Discord server](#-discord-server)                                    |
 
 <br>
 
