@@ -659,6 +659,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Pierre Giraud** (web)](https://www.youtube.com/c/PierreGiraudcom/) | Cours complets et gratuits HTML, CSS, JavaScript, PHP, MySQL, Python, Bootstrap, etc ... | ⭐⭐⭐⭐🟊 |
 | [🔗 **From Scratch** (web)](https://www.youtube.com/c/FromScratchD%C3%A9veloppementWeb/playlists/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
 | [🔗 **Grafikart** (web - devops)](https://www.youtube.com/c/grafikart/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
+| [🔗 **Simon Dieny** (web - js)](https://www.youtube.com/channel/UCZqq_ow06Husetd9ICEM2gQ) | Un specialiste dans l'eco systeme Javascript ... | ⭐⭐⭐⭐⭐ |
 
 <br>
 
