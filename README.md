@@ -143,7 +143,6 @@ Collection des meilleurs packages NPM qui peuvent vous être utiles ...
 | 📦 **react-helmet** | A document head manager for React. | `npm i react-helmet` | 100kb | [💡](https://www.npmjs.com/package/react-helmet) |
 | 📦 **react-responsive** | Ce package permet d'utiliser media queries dans React | `npm install react-responsive --save` | 210kb | [💡](https://www.npmjs.com/package/react-responsive) |
 | 📦 **mdb-react-ui-kit** | Material Design for Bootstrap pour React | `npm i mdb-react-ui-kit` | - | [💡](https://mdbootstrap.com/docs/b5/react/getting-started/installation/) |
-| 📦 **uniqid** | Un générateur d'identifiant hexadécimal unique | `npm i uniqid` | 8kb | [💡](https://www.npmjs.com/package/uniqid) |
 | 📦 **uuid** | Universally unique identifier generator | `npm i uniqid` | 120kb | [💡](https://www.npmjs.com/package/uuid) |
 
 <br><br><br>
@@ -659,6 +658,22 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Pierre Giraud** (web)](https://www.youtube.com/c/PierreGiraudcom/) | Cours complets et gratuits HTML, CSS, JavaScript, PHP, MySQL, Python, Bootstrap, etc ... | ⭐⭐⭐⭐🟊 |
 | [🔗 **From Scratch** (web)](https://www.youtube.com/c/FromScratchD%C3%A9veloppementWeb/playlists/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
 | [🔗 **Grafikart** (web - devops)](https://www.youtube.com/c/grafikart/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
+
+<br>
+
+<br>
+
+<!-- //TODO: verified -->
+
+#### `📌 Discord server`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **discord.me**](https://discord.me/servers) | Discord Me est une plate-forme qui connecte les gens avec des serveurs et des bots publics. Nous sommes là pour vous aider à trouver le serveur parfait ! | ⭐⭐⭐⭐⭐ |
+| [🔗 **grafikart discord**](https://discord.com/invite/rAuuD7Q) | La communautE discord de Grafikart est l'un des serveurs fr le plus actif | ⭐⭐⭐⭐⭐ |
+| [🔗 **speakJS**](https://discord.com/invite/FePZ6VR4) | Une communauté de plus de 16 000 développeurs JavaScript. | ⭐⭐⭐⭐⭐ |
+| [🔗 **Nodeiflux**](https://discord.com/invite/aD42zPx) | Une communauté amicale de développeurs actifs et en herbe. Il s'agit d'un environnement professionnel pour apprendre, partager des connaissances et grandir personnellement et professionnellement. | ⭐⭐⭐⭐🟊 |
+| [🔗 **Reactiflux**](https://discord.gg/jGKhXV26d8) | Une communauté dedié pour les developpeur ReactJS. | ⭐⭐⭐⭐⭐ |
 
 <br>
 
