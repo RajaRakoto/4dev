@@ -146,6 +146,7 @@ Collection des meilleurs packages NPM qui peuvent vous être utiles ...
 | 📦 **mdb-react-ui-kit** | Material Design for Bootstrap pour React | `npm i mdb-react-ui-kit` | - | [💡](https://mdbootstrap.com/docs/b5/react/getting-started/installation/) |
 | 📦 **uuid** | Universally unique identifier generator | `npm i uniqid` | 120kb | [💡](https://www.npmjs.com/package/uuid) |
 | 📦 **react-use-cart** | Un Hook de panier useCart() léger pour React, Next.js et Gatsby | `npm i react-use-cart` | 110kb | [💡](https://www.npmjs.com/package/react-use-cart) |
+| 📦 **immutability-helper** | Mutation d'une copie de données sans modifier la source d'origine | `npm i immutability-helper --save` | 30kb | [💡](https://www.npmjs.com/package/immutability-helper) |
 
 <br><br><br>
 
