@@ -300,15 +300,15 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
-| [🔗 **Fast** (component - AVR)](https://www.fast.design/) | FAST est un ensemble de technologies basées sur des composants Web (Angular, Vue, React) et des normes Web modernes developpE par Microsoft, conçues pour vous aider à relever efficacement certains des défis les plus courants en matière de conception et de développement de sites Web et d'applications. | ⭐⭐⭐⭐⭐ |
+| [🔗 **MUI** (component - react)](https://mui.com/getting-started/installation/) | Cadre de composants React basé sur Material Design | ⭐⭐⭐⭐⭐ |
 | [🔗 **MDB** (component - bootstrap - AVR)](https://mdbootstrap.com/) | Toolkit open source pour la conception de matériaux de construction avec bootstrap (Angular, Vue, React) | ⭐⭐⭐⭐⭐ |
+| [🔗 **Fast** (component - AVR)](https://www.fast.design/) | FAST est un ensemble de technologies basées sur des composants Web (Angular, Vue, React) et des normes Web modernes developpE par Microsoft, conçues pour vous aider à relever efficacement certains des défis les plus courants en matière de conception et de développement de sites Web et d'applications. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Flowbite** (component - tailwind)](https://flowbite.com) | Bibliothèque Open-source des components Tailwind CSS | ⭐⭐⭐⭐🟊 |
 | [🔗 **daisyUI** (component - tailwind)](https://daisyui.com/) | Tailwind CSS Components | ⭐⭐⭐⭐🟊 |
 | [🔗 **Tailblocks** (component - tailwind)](https://mertjf.github.io/tailblocks/) | Simple Tailwind CSS Components | ⭐⭐⭐⭐🟊 |
 | [🔗 **Creative-tim** (kit - bootstrap - AVR)](https://www.creative-tim.com/) | Kits d'interface utilisateur, modèles et tableaux de bord construits sur Bootstrap, Vue.js, React, Angular, Node.js et Laravel. Rejoignez plus de 1 838 844 créatifs! | ⭐⭐⭐⭐🟊 |
 | [🔗 **chakra-UI** (component - react)](https://chakra-ui.com/guides/first-steps) | Créez rapidement des applications et des sites Web React accessibles. | ⭐⭐⭐⭐⭐ |
 | [🔗 **react-bootstrap** (component - bootstrap - react)](https://react-bootstrap.github.io/getting-started/introduction) | Bootstrap reconstruit pour React. Inclure les composants Bootstrap directement dans votre projet React | ⭐⭐⭐⭐🟊 |
-| [🔗 **MUI** (component - react)](https://mui.com/getting-started/installation/) | Cadre de composants React basé sur Material Design | ⭐⭐⭐🟊🟊 |
 | [🔗 **RNUILib** (component - reactnative)](https://wix.github.io/react-native-ui-lib/docs/getting-started/setup) | React Native UI (RNUI) est une bibliothèque d'outils et de composants d'interface utilisateur pour React Native de Wix | ⭐⭐⭐🟊🟊 |
 | [🔗 **Vuetify** (component - vue)](https://vuetifyjs.com/en/getting-started/installation/) | Cadre de composants Vue basé sur Material Design | ⭐⭐⭐⭐🟊 |
 | [🔗 **BootstrapVue** (component - bootstrap - vue)](https://bootstrap-vue.org/docs) | Utiliser les composants Bootstrap avec Vue | ⭐⭐⭐⭐🟊 |
