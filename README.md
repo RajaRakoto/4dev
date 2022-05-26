@@ -147,6 +147,7 @@ Collection des meilleurs packages NPM qui peuvent vous être utiles ...
 | 📦 **uuid** | Universally unique identifier generator | `npm i uniqid` | 120kb | [💡](https://www.npmjs.com/package/uuid) |
 | 📦 **react-use-cart** | Un Hook de panier useCart() léger pour React, Next.js et Gatsby | `npm i react-use-cart` | 110kb | [💡](https://www.npmjs.com/package/react-use-cart) |
 | 📦 **immutability-helper** | Mutation d'une copie de données sans modifier la source d'origine | `npm i immutability-helper --save` | 30kb | [💡](https://www.npmjs.com/package/immutability-helper) |
+| 📦 **pico** | Framework CSS minimal pour le HTML sémantique, styles élégants pour tous les éléments HTML natifs sans .classes et mode sombre automatiquement activés. | `npm i @picocss/pico` | 3mb | [💡](https://www.npmjs.com/package/@picocss/pico) |
 
 <br><br><br>
 
