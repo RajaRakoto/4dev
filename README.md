@@ -48,13 +48,12 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 PDF](#-pdf) |
 | [🔎 Photos & videos](#-photos--videos) |
 | [🔎 Project](#-project) |
-| [🔎 Skills](#-skills) |
 | [🔎 Stat](#-stat) |
 | [🔎 Table](#-table) |
 | [🔎 Task runner](#-task-runner) |
 | [🔎 Generator & Template & ideas (html + css + js)](#-generator--template--ideas-html--css--js) |
 | [🔎 Tools](#-tools) |
-| [🔎 Tuto & Certification & Roadmap](#-tuto--certification--roadmap) |
+| [🔎 Skills & Tuto & Certification & Roadmap](#-skills--tuto--certification--roadmap) |
 | [🔎 Youtube](#-youtube) |
 | [🔎 Discord server](#-discord-server) |
 
@@ -571,17 +570,6 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **30secondsofcode** (project)](https://www.30secondsofcode.org/) | Parcourez 1107 extraits de snippets code pour tous vos besoins de développement sur 30 secondes de code ! | ⭐⭐⭐⭐⭐ |
 
 <br>
-
-<!-- //TODO: verified -->
-
-#### `📌 Skills`
-
-| Liens | Descriptions | Notes |
-| :-- | :-- | :-- |
-| [🔗 **HackerRank** (skill - eval)](https://www.hackerrank.com/) | HackerRank est la solution d'évaluation technique et d'entretien à distance leader sur le marché pour le recrutement de développeurs. Apprenez à embaucher des talents techniques de n'importe où ! ! | ⭐⭐⭐⭐⭐ |
-| [🔗 **skillvalue** (skill - cert - quiz)](https://www.frontendmentor.io/) | Mettez-vous au défi avec des quiz techniques, choisissez parmi +1000 tests techniques et faites-vous remarquer. Valorisez vos compétences dès maintenant et obtenez un certificat ! | ⭐⭐⭐⭐🟊 |
-
-<br>
 <div align="right">
     <b><a href="#codebase">↥ Back To Top</a></b>
 </div>
@@ -656,10 +644,13 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-#### `📌 Tuto & Certification & Roadmap`
+#### `📌 Skills & Tuto & Certification & Roadmap`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
+| [🔗 **codeingame** (skill - cert - eval)](https://www.codingame.com/home) | CodinGame est un site consacré à la programmation informatique ludique, proposant d’un côté des casse-têtes de difficulté croissante à résoudre dans l’un des vingt-cinq langages de programmation ! | ⭐⭐⭐⭐⭐ |
+| [🔗 **HackerRank** (skill - eval)](https://www.hackerrank.com/) | HackerRank est la solution d'évaluation technique et d'entretien à distance leader sur le marché pour le recrutement de développeurs. Apprenez à embaucher des talents techniques de n'importe où ! ! | ⭐⭐⭐⭐⭐ |
+| [🔗 **skillvalue** (skill - cert - quiz)](https://www.frontendmentor.io/) | Mettez-vous au défi avec des quiz techniques, choisissez parmi +1000 tests techniques et faites-vous remarquer. Valorisez vos compétences dès maintenant et obtenez un certificat ! | ⭐⭐⭐⭐🟊 |
 | [🔗 **Coding Artist** (articles - design - tuto)](https://codingartistweb.com/) | Coding Artist se consacre à vous fournir des didacticiels de codage rapides et simples mais efficaces. Nous fournissons les meilleurs tutoriels sur HTML, CSS et Javascript. | ⭐⭐⭐⭐⭐ |
 | [🔗 **PG** (web - tuto)](https://www.pierre-giraud.com/) | Toutes vos ressources sur le développement web, apprenez à coder en HTML, CSS, JavaScript, Python, PHP. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Grafikart** (web - devops - tuto)](https://grafikart.fr/formations/) | Découvrez une technologie spécifique à travers une série de vidéo qui vous guidera dans votre apprentissage | ⭐⭐⭐⭐⭐ |
@@ -684,10 +675,8 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Graven ilvec** (dev - tips)](https://www.youtube.com/user/Gravenilvectuto/) | Un jeune passionE de la programmation qui partage ses connaissance dans le domaine ... | ⭐⭐⭐⭐🟊 |
 | [🔗 **Pierre Giraud** (web)](https://www.youtube.com/c/PierreGiraudcom/) | Cours complets et gratuits HTML, CSS, JavaScript, PHP, MySQL, Python, Bootstrap, etc ... | ⭐⭐⭐⭐🟊 |
 | [🔗 **From Scratch** (web)](https://www.youtube.com/c/FromScratchD%C3%A9veloppementWeb/playlists/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
-| [🔗 **Grafikart** (web - devops)](https://www.youtube.com/c/grafikart/) | Un specialiste en developpement web ... | ⭐⭐⭐⭐⭐ |
-| [🔗 **Simon Dieny** (web - js)](https://www.youtube.com/channel/UCZqq_ow06Husetd9ICEM2gQ) | Un specialiste dans l'eco systeme Javascript ... | ⭐⭐⭐⭐⭐ |
-
-<br>
+| [🔗 **Grafikart** (web - devops)](https://www.youtube.com/c/grafikart/) | Un specialiste en developpement web et devops ... | ⭐⭐⭐⭐⭐ |
+| [🔗 **Simon Dieny** (web - js)](https://www.youtube.com/channel/UCZqq_ow06Husetd9ICEM2gQ) | Un specialiste dans l'eco systeme Javascript (angular - react) ... | ⭐⭐⭐⭐⭐ |
 
 <br>
 
