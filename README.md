@@ -711,6 +711,9 @@ Vous pouvez telecharger le `bookmarks` de `4web`, il vous suffit de copier le co
 | :-- |
 
 <img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/bookmarks.gif?raw=true" width="700">
+
+> **NOTE**: Ces bookmarks ne sont peut-être plus à jour, merci de me contacter sur mon adresse mail pour avoir le fichier à jour, c'est juste pour vous montrer comment l'integrer dans votre navigateur
+
 </div>
 
 <br>
