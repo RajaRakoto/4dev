@@ -349,6 +349,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **codepen** (editor - frontend)](https://codepen.io/) | CodePen est un environnement de développement social pour les concepteurs et développeurs frontaux. Créez et déployez un site Web, montrez votre travail, créez des scénarios de test pour apprendre et déboguer, et trouvez l'inspiration. | ⭐⭐⭐⭐🟊 |
 | [🔗 **jsBin** (editor - js)](https://jsbin.com/?js,console) | Editeur de code Javascript en ligne | ⭐⭐⭐⭐🟊 |
 | [🔗 **readme.so** (editor - markdown)](https://readme.so/fr/editor) | Le moyen le plus simple de créer un fichier README en markdown. | ⭐⭐⭐🟊🟊 |
+| [🔗 **iloveimg** (editor - resize)](https://www.iloveimg.com/fr/redimensionner-image) | Redimensionnez plusieurs images à la fois ! | ⭐⭐⭐🟊🟊 |
+| [🔗 **myposter** (editor - collage)](https://www.myposter.fr/collage-photo) | Collage photo | ⭐⭐⭐🟊🟊 |
+| [🔗 **BeFunky** (editor - cartoon)](https://www.befunky.com/create/photo-to-cartoon) | Cartoon yourself | ⭐⭐⭐🟊🟊 |
 
 <br>
 <div align="right">
