@@ -16,46 +16,47 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 
 <!-- //TODO: verified -->
 
-| Table des matières                                                       |
-| :----------------------------------------------------------------------- |
-| [🔎 Codebase](#codebase)                                                 |
-|                                                                          |
-| [🔎 NPM packages](#npm-packages)                                         |
-|                                                                          |
-| [🔎 API](#-api)                                                          |
-| [🔎 Animations](#-animations)                                            |
-| [🔎 Avatar](#-avatar)                                                    |
-| [🔎 Backgrounds](#-backgrounds)                                          |
-| [🔎 Blog](#-blog)                                                        |
-| [🔎 CSS Frameworks](#-css-frameworks)                                    |
-| [🔎 Chart](#-chart)                                                      |
-| [🔎 Charte graphique (colors)](#-charte-graphique-colors)                |
-| [🔎 Components & kits](#-components--kits)                               |
-| [🔎 Convert & Compress & Resize](#-convert--compress--resize)            |
-| [🔎 Editor](#-editor)                                                    |
-| [🔎 Effects](#-effects)                                                  |
-| [🔎 Extension (chrome)](#-extension-chrome)                              |
-| [🔎 Fonts](#-fonts)                                                      |
-| [🔎 Icons](#-icons)                                                      |
-| [🔎 Illustrations & Patterns](#-illustrations--patterns)                 |
-| [🔎 Layout](#-layout)                                                    |
-| [🔎 Loaders & spinners](#-loaders--spinners)                             |
-| [🔎 Logos](#-logos)                                                      |
-| [🔎 Music & Sound effects](#-music--sound-effects)                       |
-| [🔎 Navigation](#-navigation)                                            |
-| [🔎 Notifications](#-notifications)                                      |
-| [🔎 Others](#-others)                                                    |
-| [🔎 Photos & videos](#-photos--videos)                                   |
-| [🔎 Project](#-project)                                                  |
-| [🔎 Skills](#-skills)                                                    |
-| [🔎 Stat](#-stat)                                                        |
-| [🔎 Table](#-table)                                                      |
-| [🔎 Task runner](#-task-runner)                                          |
-| [🔎 Template & ideas (html + css + js)](#-template--ideas-html--css--js) |
-| [🔎 Tools](#-tools)                                                      |
-| [🔎 Tuto & Certification & Roadmap](#-tuto--certification--roadmap)      |
-| [🔎 Youtube](#-youtube)                                                  |
-| [🔎 Discord server](#-discord-server)                                    |
+| Table des matières |
+| :-- |
+| [🔎 Codebase](#codebase) |
+|  |
+| [🔎 NPM packages](#npm-packages) |
+|  |
+| [🔎 API](#-api) |
+| [🔎 Animations](#-animations) |
+| [🔎 Avatar](#-avatar) |
+| [🔎 Backgrounds](#-backgrounds) |
+| [🔎 Blog](#-blog) |
+| [🔎 CSS Frameworks](#-css-frameworks) |
+| [🔎 Chart](#-chart) |
+| [🔎 Charte graphique (colors)](#-charte-graphique-colors) |
+| [🔎 Components & kits](#-components--kits) |
+| [🔎 Convert & Compress & Resize](#-convert--compress--resize) |
+| [🔎 Editor](#-editor) |
+| [🔎 Effects](#-effects) |
+| [🔎 Extension (chrome)](#-extension-chrome) |
+| [🔎 Fonts](#-fonts) |
+| [🔎 Icons](#-icons) |
+| [🔎 Illustrations & Patterns](#-illustrations--patterns) |
+| [🔎 Layout](#-layout) |
+| [🔎 Loaders & spinners](#-loaders--spinners) |
+| [🔎 Logos](#-logos) |
+| [🔎 Music & Sound effects](#-music--sound-effects) |
+| [🔎 Navigation](#-navigation) |
+| [🔎 Notifications](#-notifications) |
+| [🔎 Others](#-others) |
+| [🔎 PDF](#-pdf) |
+| [🔎 Photos & videos](#-photos--videos) |
+| [🔎 Project](#-project) |
+| [🔎 Skills](#-skills) |
+| [🔎 Stat](#-stat) |
+| [🔎 Table](#-table) |
+| [🔎 Task runner](#-task-runner) |
+| [🔎 Generator & Template & ideas (html + css + js)](#-generator--template--ideas-html--css--js) |
+| [🔎 Tools](#-tools) |
+| [🔎 Tuto & Certification & Roadmap](#-tuto--certification--roadmap) |
+| [🔎 Youtube](#-youtube) |
+| [🔎 Discord server](#-discord-server) |
 
 <br>
 
@@ -474,6 +475,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **SVGporn** (logo - search)](https://svgporn.com/#search=web) | Plus de 1000 logos SVG de haute qualité | ⭐⭐⭐⭐🟊 |
 | [🔗 **LogoSearch** (logo - search)](https://logosear.ch/search.html?q=) | Moteur de recherche avec plus de 200 000 logos SVG indexés | ⭐⭐⭐🟊🟊 |
 | [🔗 **Logoideas** (logo - ideas)](https://www.namecheap.com/logo-maker/ideas) | Idee de creation d'un logo | ⭐⭐⭐🟊🟊 |
+| [🔗 **Wix logo** (logo - maker)](https://www.wix.com/logo/maker/esh/dashboard/my-logos?logoId=1e2c6a95-5a0b-4a57-8ca0-1907d69ab990&referralInfo=savedlogos) | Generateur de logo du site wix | ⭐⭐⭐⭐🟊 |
 
 <br>
 
@@ -522,11 +524,24 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **bootstrap-cheatsheet** (bootstrap - cheatsheets)](https://bootstrap-cheatsheet.themeselection.com/index.html) | Une liste interactive des classes, variables et mixins Bootstrap 5. Le seul CheatSheet Bootstrap 5 dont vous aurez besoin. | ⭐⭐⭐⭐🟊 |
 | [🔗 **DevHint** (all - cheatsheets)](https://devhints.io/) | Une collection de cheatsheets. | ⭐⭐⭐⭐⭐ |
 | [🔗 **DevDocs** (all - docs)](https://devdocs.io/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
+| [🔗 **DevDocs** (all - docs)](https://devdocs.io/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
+| [🔗 **evozi** (android)](https://apps.evozi.com/apk-downloader/) | Un site qui permet de telecharger directement des apk dans playstore | ⭐⭐⭐⭐⭐ |
 
 <br>
 <div align="right">
     <b><a href="#codebase">↥ Back To Top</a></b>
 </div>
+
+<!-- //TODO: verified -->
+
+#### `📌 PDF`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **iLovePDF** (pdf - tools)](https://www.ilovepdf.com/fr) | Divers outils pour vos fichiers PDF | ⭐⭐⭐⭐🟊 |
+| [🔗 **web2pdf** (pdf - convert)](https://www.web2pdfconvert.com/) | convertir une page web en PDF | ⭐⭐⭐⭐🟊 |
+
+<br>
 
 <!-- //TODO: verified -->
 
@@ -602,10 +617,11 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 <!-- //TODO: verified -->
 
-#### `📌 Template & ideas (html + css + js)`
+#### `📌 Generator & Template & ideas (html + css + js)`
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
+| [🔗 **Wix** (generator)](https://fr.wix.com/) | Wix est une plateforme en ligne de type SaaS qui permet de créer des sites web en HTML5 et leur version mobile. | ⭐⭐⭐⭐🟊 |
 | [🔗 **HTML5 UP!** (html + css + js)](https://html5up.net) | Thèmes HTML5/CSS3 réactifs très modernes et uniques | ⭐⭐⭐⭐🟊 |
 | [🔗 **Bootswatch** (bootstrap)](https://bootswatch.com) | Collection des thèmes Bootstrap gratuit | ⭐⭐⭐⭐🟊 |
 | [🔗 **UI design daily** (figma, sketch, photoshop)](https://www.uidesigndaily.com) | Composants d'interface utilisateur impressionnants de tous types | ⭐⭐⭐⭐🟊 |
