@@ -141,7 +141,8 @@ Collection des meilleurs packages NPM qui peuvent vous être utiles ...
 | 📦 **node-sass** | Node-sass est une bibliothèque qui fournit la liaison de Node.js à LibSass, la version du préprocesseur de feuille de style populaire Sass - ce dernier est utile si vous voulez utiliser sass dans React (par exemple). | `npm i node-sass` | 5mb | [💡](https://github.com/sass/node-sass) |
 | 📦 **yo** | Le générateur Yeoman vous guidera à travers les étapes nécessaires pour créer votre personnalisation ou votre extension en vous demandant les informations requises. | `npm i -g yo generator-code`. | 300kb | [💡](https://www.npmjs.com/package/generator-code) |
 | 📦 **vsce** | Le gestionnaire d'extensions de code Visual Studio. | `npm i -g vsce` | 150kb | [💡](https://www.npmjs.com/package/vsce) |
-| 📦 **sass-eo** | sass-eo est une bibliothèque de mixins et de fonctions SASS (Syntactically Awesome Style Sheets), c'est un fork du projet gerillass avec quelques modifications pour le rendre plus facile à utiliser, sass-eo offre flexibilité, rapidité , performance et créativité dans le développement frontend. | `npm i @raja_rakoto/sass-eo --save-dev && npm i grunt grunt-contrib-sass grunt-contrib-watch grunt-shell load-grunt-tasks sassdoc -D` | 4mb | [💡](https://www.npmjs.com/package/@raja_rakoto/sass-eo) |
+| 📦 **@raja_rakoto/sass-eo** | Personnalisez votre site Web plus rapidement avec SASS-EO, un ensemble d'outils optimisé par SASS (Syntactically Awesome Style Sheets). | `npm i @raja_rakoto/sass-eo --save-dev && npm i grunt grunt-contrib-sass grunt-contrib-watch grunt-shell load-grunt-tasks sassdoc -D` | 4mb | [💡](https://www.npmjs.com/package/@raja_rakoto/sass-eo) |
+| 📦 **@raja_rakoto/minificator** | minificator vous permet de minifier rapidement vos fichiers (Images, HTML, CSS, Javascript). | `npm i @raja_rakoto/minificator` | 12kb | [💡](https://www.npmjs.com/package/@raja_rakoto/minificator) |
 | 📦 **react-helmet** | A document head manager for React. | `npm i react-helmet` | 100kb | [💡](https://www.npmjs.com/package/react-helmet) |
 | 📦 **react-responsive** | Ce package permet d'utiliser media queries dans React | `npm install react-responsive --save` | 210kb | [💡](https://www.npmjs.com/package/react-responsive) |
 | 📦 **mdb-react-ui-kit** | Material Design for Bootstrap pour React | `npm i mdb-react-ui-kit` | - | [💡](https://mdbootstrap.com/docs/b5/react/getting-started/installation/) |
@@ -402,6 +403,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Fontawesome** (ico - font)](https://fontawesome.com/start) | Font Awesome est une police d'écriture et un outil d'icônes qui se base sur CSS, LESS et SASS | ⭐⭐⭐⭐⭐ |
 | [🔗 **Google Fonts** (font)](https://fonts.google.com) | Bibliothèque d'environ 1000 familles de polices sous licence gratuite | ⭐⭐⭐⭐⭐ |
 | [🔗 **Dafont** (font)](https://www.dafont.com) | Archive des polices téléchargeables gratuitement | ⭐⭐⭐⭐🟊 |
+| [🔗 **fontgeneratorguru** (font - maker)](https://www.fontgeneratorguru.com/) | Generateur de font sympa ! | ⭐⭐⭐⭐🟊 |
 
 <br>
 <div align="right">
@@ -553,6 +555,8 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Pexels** (photos - videos)](https://www.pexels.com) | La plus grande bibliothèque de vidéos gratuites, offerte par la communauté | ⭐⭐⭐⭐🟊 |
 | [🔗 **Magdeleine** (photos - theme)](https://colorcurves.app) | Galerie et photo haute résolution gratuite tous les jours | ⭐⭐⭐⭐🟊 |
 | [🔗 **giphy** (gif)](https://giphy.com/stickers/) | Collection d'image GIF | ⭐⭐⭐🟊🟊 |
+| [🔗 **Bloggif** (gif - maker)](https://www.bloggif.com/text) | Convertisser un texte en image GIF | ⭐⭐⭐🟊🟊 |
+| [🔗 **onlineOCR** (ocr)](https://www.onlineocr.net/fr/) | Convertisser une image en texte | ⭐⭐⭐⭐🟊 |
 
 <br>
 
