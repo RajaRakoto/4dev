@@ -649,6 +649,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
 | [🔗 **codeingame** (skill - cert - eval)](https://www.codingame.com/home) | CodinGame est un site consacré à la programmation informatique ludique, proposant d’un côté des casse-têtes de difficulté croissante à résoudre dans l’un des vingt-cinq langages de programmation ! | ⭐⭐⭐⭐⭐ |
+| [🔗 **codesignal** (skill - cert - eval)](https://codesignal.com/) | CodeSignal est une plateforme d'entretien technique et d'évaluation exploitée par la société américaine BrainFights | ⭐⭐⭐⭐⭐ |
 | [🔗 **HackerRank** (skill - eval)](https://www.hackerrank.com/) | HackerRank est la solution d'évaluation technique et d'entretien à distance leader sur le marché pour le recrutement de développeurs. Apprenez à embaucher des talents techniques de n'importe où ! ! | ⭐⭐⭐⭐⭐ |
 | [🔗 **skillvalue** (skill - cert - quiz)](https://www.frontendmentor.io/) | Mettez-vous au défi avec des quiz techniques, choisissez parmi +1000 tests techniques et faites-vous remarquer. Valorisez vos compétences dès maintenant et obtenez un certificat ! | ⭐⭐⭐⭐🟊 |
 | [🔗 **Coding Artist** (articles - design - tuto)](https://codingartistweb.com/) | Coding Artist se consacre à vous fournir des didacticiels de codage rapides et simples mais efficaces. Nous fournissons les meilleurs tutoriels sur HTML, CSS et Javascript. | ⭐⭐⭐⭐⭐ |
