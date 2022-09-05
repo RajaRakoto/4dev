@@ -4,6 +4,8 @@
 <img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/4web.png?raw=true" width="300">
 </div>
 
+---
+
 <img src="https://github.com/RajaRakoto/github-docs/blob/master/dago.gif?raw=true" width=40>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/for-dago.svg?raw=true)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/build-by.svg?raw=true)](https://forthebadge.com)
@@ -639,6 +641,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Minify** (css - js)](https://www.minifier.org/) | Rendez votre site Web plus petit et plus rapide à charger en minimisant le code JS et CSS. | ⭐⭐⭐🟊🟊 |
 | [🔗 **snippet-generator** (snippet)](https://snippet-generator.app/) | Un generateur de snippet pour VScode, sublimetext et atom. | ⭐⭐⭐⭐🟊 |
 | [🔗 **shields.io** (badge)](https://shields.io/) | Créez des badges avec votre propre personnalisation. | ⭐⭐⭐⭐🟊 |
+| [🔗 **regex-generator** (regex)](https://regex-generator.olafneumann.org/) | Generateur de regex | ⭐⭐⭐⭐⭐ |
 
 <br>
 
