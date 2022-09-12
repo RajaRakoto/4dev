@@ -53,6 +53,7 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Task runner](#-task-runner) |
 | [🔎 Generator & Template & ideas (html + css + js)](#-generator--template--ideas-html--css--js) |
 | [🔎 Tools](#-tools) |
+| [🔎 Hosting](#-hosting) |
 | [🔎 Skills & Tuto & Certification & Roadmap](#-skills--tuto--certification--roadmap) |
 | [🔎 Youtube](#-youtube) |
 | [🔎 Discord server](#-discord-server) |
@@ -140,7 +141,8 @@ Collection des meilleurs packages NPM qui peuvent vous être utiles ...
 | 📦 **node-sass** | Node-sass est une bibliothèque qui fournit la liaison de Node.js à LibSass, la version du préprocesseur de feuille de style populaire Sass - ce dernier est utile si vous voulez utiliser sass dans React (par exemple). | `npm i node-sass` | 5mb | [💡](https://github.com/sass/node-sass) |
 | 📦 **yo** | Le générateur Yeoman vous guidera à travers les étapes nécessaires pour créer votre personnalisation ou votre extension en vous demandant les informations requises. | `npm i -g yo generator-code`. | 300kb | [💡](https://www.npmjs.com/package/generator-code) |
 | 📦 **vsce** | Le gestionnaire d'extensions de code Visual Studio. | `npm i -g vsce` | 150kb | [💡](https://www.npmjs.com/package/vsce) |
-| 📦 **@raja_rakoto/sass-eo** | Personnalisez votre site Web plus rapidement avec SASS-EO, un ensemble d'outils optimisé par SASS (Syntactically Awesome Style Sheets). | `npm i @raja_rakoto/sass-eo --save-dev && npm i grunt grunt-contrib-sass grunt-contrib-watch grunt-shell load-grunt-tasks sassdoc -D` | 4mb | [💡](https://www.npmjs.com/package/@raja_rakoto/sass-eo) |
+| 📦 **@raja_rakoto/sass-eo** | Personnalisez votre site Web plus rapidement avec SASS-EO, un ensemble de mixins, methodes et outils optimisé par SASS (Syntactically Awesome Style Sheets). | `npm i @raja_rakoto/sass-eo --save-dev` | 5mb | [💡](https://www.npmjs.com/package/@raja_rakoto/sass-eo) |
+| 📦 **@raja_rakoto/boost-eo** | Un ensemble d'extraits de code et de modèles personnalisés disponibles pour l'IDE VScode afin de vous aider à être plus productif en fournissant des méthodes d'assistance | `ext install raja.boost-eo` | 115kb | [💡](https://marketplace.visualstudio.com/items?itemName=raja.boost-eo) |
 | 📦 **@raja_rakoto/minificator** | minificator vous permet de minifier rapidement vos fichiers (Images, HTML, CSS, Javascript). | `npm i @raja_rakoto/minificator` | 12kb | [💡](https://www.npmjs.com/package/@raja_rakoto/minificator) |
 | 📦 **react-helmet** | A document head manager for React. | `npm i react-helmet` | 100kb | [💡](https://www.npmjs.com/package/react-helmet) |
 | 📦 **react-responsive** | Ce package permet d'utiliser media queries dans React | `npm install react-responsive --save` | 210kb | [💡](https://www.npmjs.com/package/react-responsive) |
@@ -640,6 +642,23 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **snippet-generator** (snippet)](https://snippet-generator.app/) | Un generateur de snippet pour VScode, sublimetext et atom. | ⭐⭐⭐⭐🟊 |
 | [🔗 **shields.io** (badge)](https://shields.io/) | Créez des badges avec votre propre personnalisation. | ⭐⭐⭐⭐🟊 |
 | [🔗 **regex-generator** (regex)](https://regex-generator.olafneumann.org/) | Generateur de regex | ⭐⭐⭐⭐⭐ |
+| [🔗 **jsonformatter** (json)](https://jsonformatter.curiousconcept.com/) | Validateur JSON | ⭐⭐⭐⭐🟊 |
+| [🔗 **deepscan** (json)](https://deepscan.io/) | DeepScan est un outil d'analyse statique de pointe pour JavaScript. Vous pouvez inspecter l'ensemble de votre code JavaScript de manière exhaustive.
+| ⭐⭐⭐⭐🟊 |
+
+<br>
+
+<!-- //TODO: verified -->
+
+#### `📌 Hosting`
+
+| Liens | Descriptions | Notes |
+| :-- | :-- | :-- |
+| [🔗 **render (frontend & backend)**](https://render.com/) | Render est un cloud unifié pour créer et exécuter toutes vos applications et sites Web avec des certificats TLS gratuits, un CDN mondial, des réseaux privés et des déploiements automatiques à partir de Git. | ⭐⭐⭐⭐⭐ |
+| [🔗 **heroku (backend)**](https://www.heroku.com/) | Heroku est une entreprise créant des logiciels pour serveur qui permettent le déploiement d'applications web. | ⭐⭐⭐⭐🟊 |
+| [🔗 **netlify (frontend)**](https://www.netlify.com/) | Netlify est à la fois un outil d'hébergement et de création de sites et d'applications web. | ⭐⭐⭐⭐⭐ |
+| [🔗 **ngrok (tunnel)**](https://dashboard.ngrok.com/) | ngrok est un proxy inverse distribué dans le monde entier faisant face à vos services Web s'exécutant dans n'importe quel cloud ou réseau privé, ou sur votre machine. | ⭐⭐⭐⭐⭐ |
+
 
 <br>
 
@@ -649,6 +668,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 
 | Liens | Descriptions | Notes |
 | :-- | :-- | :-- |
+| [🔗 **freecodecamp** (skill - cert)](https://www.freecodecamp.org/learn/) | freeCodeCamp est une organisation à but non lucratif qui se compose d'une plate-forme Web d'apprentissage interactive, d'un forum communautaire en ligne, de salles de discussion, de publications en ligne et d'organisations locales qui ont l'intention d'apprendre à développer des sites Web accessible à tous. ! | ⭐⭐⭐⭐⭐ |
 | [🔗 **codeingame** (skill - cert - eval)](https://www.codingame.com/home) | CodinGame est un site consacré à la programmation informatique ludique, proposant d’un côté des casse-têtes de difficulté croissante à résoudre dans l’un des vingt-cinq langages de programmation ! | ⭐⭐⭐⭐⭐ |
 | [🔗 **codesignal** (skill - cert - eval)](https://codesignal.com/) | CodeSignal est une plateforme d'entretien technique et d'évaluation exploitée par la société américaine BrainFights | ⭐⭐⭐⭐⭐ |
 | [🔗 **HackerRank** (skill - eval)](https://www.hackerrank.com/) | HackerRank est la solution d'évaluation technique et d'entretien à distance leader sur le marché pour le recrutement de développeurs. Apprenez à embaucher des talents techniques de n'importe où ! ! | ⭐⭐⭐⭐⭐ |
@@ -660,6 +680,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **MDN** (docs - tuto)](https://developer.mozilla.org/fr/docs/Web/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
 | [🔗 **w3schools** (cert - docs - tuto)](https://www.w3schools.com/) | W3Schools est un site web destiné à l'apprentissage en ligne des technologies web. Son contenu inclut des didacticiels et des références relatives à HTML, CSS, JavaScript, JSON, PHP, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX et XML. Il reçoit plus de 10 millions de visiteurs uniques chaque mois. | ⭐⭐⭐⭐🟊 |
 | [🔗 **roadmap.sh** (roadmap)](https://www.roadmap.sh/) | roadmap.sh est un effort communautaire pour créer des feuilles de route, des guides et d'autres contenus éducatifs pour aider les développeurs à choisir le chemin et guider leurs apprentissages. | ⭐⭐⭐⭐🟊 |
+| [🔗 **docstring** (python roadmap)](https://www.docstring.fr) | Apprenez à coder avec l'accompagnement Docstring. Maîtrisez le langage de programmation PYTHON. | ⭐⭐⭐⭐⭐ |
 
 <br>
 
@@ -693,6 +714,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **speakJS**](https://discord.com/invite/FePZ6VR4) | Une communauté de plus de 16 000 développeurs JavaScript. | ⭐⭐⭐⭐⭐ |
 | [🔗 **Nodeiflux**](https://discord.com/invite/aD42zPx) | Une communauté amicale de développeurs actifs et en herbe. Il s'agit d'un environnement professionnel pour apprendre, partager des connaissances et grandir personnellement et professionnellement. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Reactiflux**](https://discord.gg/jGKhXV26d8) | Une communauté dedié pour les developpeur ReactJS. | ⭐⭐⭐⭐⭐ |
+
 
 <br>
 
