@@ -645,6 +645,8 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **jsonformatter** (json)](https://jsonformatter.curiousconcept.com/) | Validateur JSON | ⭐⭐⭐⭐🟊 |
 | [🔗 **deepscan** (json)](https://deepscan.io/) | DeepScan est un outil d'analyse statique de pointe pour JavaScript. Vous pouvez inspecter l'ensemble de votre code JavaScript de manière exhaustive.
 | ⭐⭐⭐⭐🟊 |
+| [🔗 **ASCII art generator** (cli)](http://patorjk.com/software/taag/#p=display&h=2&f=Ogre&t=transfer-cli) | ASCII art text generator to turn your messages into text art pictures
+| ⭐⭐⭐⭐⭐ |
 
 <br>
 
