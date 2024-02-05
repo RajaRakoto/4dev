@@ -11,7 +11,6 @@ Instant Value - All basic tools included and configured:
 - 🚀 Typescript >= 5.3
 - 🧅 Bun.js >= 1.0.26
 - 🧅 Use Bun as package manager
-- 🧹 ESlint with some initial rules recommendation
 - 🌈 ESM
 - 🧹 ESlint with some initial rules recommendation
 - ✅ Jest or Bun test for fast unit testing and code coverage
