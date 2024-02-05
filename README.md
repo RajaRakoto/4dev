@@ -74,7 +74,7 @@ bun run pkg-upgrade # to upgrade outdated dependencies in interactive mode
 
 You can also check out my other starter projects:
 
-- 🚀 [node-boilerplate](https://github.com/RajaRakoto/bun-boilerplate)
+- 🚀 [node-boilerplate](https://github.com/RajaRakoto/node-boilerplate)
 - 🚀 [next-boilerplate](https://github.com/RajaRakoto/next-boilerplate)
 - 🚀 [react-boilerplate](https://github.com/RajaRakoto/react-boilerplate)
 - 🚀 [quik-boilerplate](https://github.com/RajaRakoto/quik-boilerplate)
