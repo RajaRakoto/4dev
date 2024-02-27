@@ -77,4 +77,4 @@ You can also check out my other starter projects:
 - 🚀 [next-boilerplate](https://github.com/RajaRakoto/next-boilerplate)
 - 🚀 [quik-boilerplate](https://github.com/RajaRakoto/quik-boilerplate)
 - 🚀 [vscode-boilerplate](https://github.com/RajaRakoto/vscode-boilerplate)
-- 🚀 [cli-boilerplate](https://github.com/RajaRakoto/bun-boilerplate)
+- 🚀 [cli-boilerplate](https://github.com/RajaRakoto/cli-boilerplate)
