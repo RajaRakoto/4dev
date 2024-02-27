@@ -35,7 +35,6 @@ To use this template, use the following commands:
 curl -fsSL https://bun.sh/install | bash # if you don't have bun installed
 bun create github.com/RajaRakoto/bun-boilerplate <project-name>
 cd <project-name>
-bun install # to install all dependencies
 bun run pkg-upgrade # to upgrade outdated dependencies in interactive mode
 ```
 
@@ -74,6 +73,8 @@ bun run pkg-upgrade # to upgrade outdated dependencies in interactive mode
 You can also check out my other starter projects:
 
 - 🚀 [node-boilerplate](https://github.com/RajaRakoto/node-boilerplate)
-- 🚀 [next-boilerplate](https://github.com/RajaRakoto/next-boilerplate)
 - 🚀 [react-boilerplate](https://github.com/RajaRakoto/react-boilerplate)
+- 🚀 [next-boilerplate](https://github.com/RajaRakoto/next-boilerplate)
 - 🚀 [quik-boilerplate](https://github.com/RajaRakoto/quik-boilerplate)
+- 🚀 [vscode-boilerplate](https://github.com/RajaRakoto/vscode-boilerplate)
+- 🚀 [cli-boilerplate](https://github.com/RajaRakoto/bun-boilerplate)
