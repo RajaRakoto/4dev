@@ -1,7 +1,7 @@
 /**
  * @author: Raja
- * @description: gruntfile for tasks runner
- * @requires: grunt load-grunt-tasks grunt-contrib-compress
+ * @description: gruntfile for bun boilerplate
+ * @requires: grunt | load-grunt-tasks | grunt-contrib-compress
  */
 module.exports = function (grunt) {
   require('load-grunt-tasks')(grunt);
@@ -118,6 +118,6 @@ module.exports = function (grunt) {
     }
 
     // task resume
-    getTaskResume('~ TASKS ~', myTasksNames, myTasksStatus, 'yellow');
+    getTaskResume('== BUN BOILERPLATE TASKS ==', myTasksNames, myTasksStatus, 'yellow');
   });
 };
