@@ -5,4 +5,4 @@ await Bun.build({
   outdir: './dist',
   minify: true,
   plugins: [dts()],
-});
+}).catch(console.error)
