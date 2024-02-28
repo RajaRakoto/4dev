@@ -27,7 +27,7 @@ Instant Value - All basic tools included and configured:
 
 ---
 
-### 📌 Using 
+### 📌 Using
 
 To use this template, use the following commands:
 
@@ -43,12 +43,12 @@ bun run pkg-upgrade # to upgrade outdated dependencies in interactive mode
 
 ---
 
-### 📌 Scripts 
+### 📌 Scripts
 
 - 📜 `start` - run your application with bun
 - 📜 `start:smol` - run your application with bun and a flag which configures the JavaScriptCore heap size to be smaller and grow slower ...
 - 📜 `start:bin` - run your standalone binary app
-- 📜 `clean` - remove coverage data, prod build, ...
+- 📜 `clean` - remove coverage data, prod, build ...
 - 📜 `dev:watch` - interactive watch mode to automatically transpile source files with bun in development
 - 📜 `dev:hot` - hot reloading of source files with bun in development
 - 📜 `dev:smol:watch` - interactive watch mode to automatically transpile source files with bun in development, while using --smol flag
