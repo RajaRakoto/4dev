@@ -49,6 +49,7 @@ bun run pkg-upgrade # to upgrade outdated dependencies in interactive mode
 - 📜 `start:smol` - run your application with bun and a flag which configures the JavaScriptCore heap size to be smaller and grow slower ...
 - 📜 `start:bin` - run your standalone binary app
 - 📜 `clean` - remove coverage data, prod, build ...
+- 📜 `dev` - execute app in a development environment, useful for seeing normal app behavior without interactive watch mode
 - 📜 `dev:watch` - interactive watch mode to automatically transpile source files with bun in development
 - 📜 `dev:hot` - hot reloading of source files with bun in development
 - 📜 `dev:smol:watch` - interactive watch mode to automatically transpile source files with bun in development, while using --smol flag
