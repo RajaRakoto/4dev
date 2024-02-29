@@ -33,6 +33,7 @@
     "start:smol": "bun --smol dist/index.js",
     "start:bin": "./dist/bun-boilerplate",
     "clean": "rimraf build dist coverage",
+    "dev": "bun run src/index.ts",
     "dev:watch": "bun --watch run src/index.ts",
     "dev:hot": "bun --hot run src/index.ts",
     "dev:smol:watch": "bun --smol --watch run src/index.ts",
