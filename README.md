@@ -71,6 +71,12 @@ bun run pkg-upgrade # to upgrade outdated dependencies in interactive mode
 
 ---
 
+### 📌 Build
+
+When using the **build.js** file in this boilerplate, it's important to note the significance of the **target** option. By default, if the target option is not specified in the **build.js** file, it will be set to `browser`. However, for projects utilizing the `bun.js` runtime environment, it's imperative to explicitly set the target to `bun`. This guarantees compatibility with the `bun` shell environment and prevents unexpected behavior. Furthermore, it's noteworthy that the `target` supports three possible values: `browser`, `bun`, and `node`, providing flexibility in defining the build target according to specific project requirements.
+
+---
+
 ### 📌 Similar
 
 You can also check out my other starter projects:
