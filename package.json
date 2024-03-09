@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/RajaRakoto/bun-boilerplate.git"
   },
+  "homepage": "https://github.com/RajaRakoto/plum#readme",
   "bugs": "https://github.com/RajaRakoto/bun-boilerplate/issues",
   "files": [
     "dist"
@@ -43,15 +44,15 @@
     "build:bin": "bun build --compile --minify --sourcemap src/index.ts --outfile dist/bun-boilerplate",
     "test": "bun test",
     "test:watch": "bun test --watch",
-    "eslint": "eslint . --ext js,ts,js,mts --report-unused-disable-directives --max-warnings 0",
+    "eslint": "eslint . --ext js,cjs,mjs,ts,mts --report-unused-disable-directives --max-warnings 0",
     "prettier": "prettier --config .prettierrc --write .",
     "backup": "grunt backup",
     "pkg-check": "depcheck",
     "pkg-upgrade": "ncu --interactive --format group --packageManager bun",
     "versioning": "ungit",
-    "version-major": "npm version major",
-    "version-minor": "npm version minor",
-    "version-patch": "npm version patch"
+    "npm-version:major": "npm version major",
+    "npm-version:minor": "npm version minor",
+    "npm-version:patch": "npm version patch"
   },
   "dependencies": {
     "tslib": "^2.6.2"
