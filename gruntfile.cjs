@@ -1,5 +1,4 @@
 /**
- * @author: Raja
  * @description: gruntfile for bun boilerplate
  * @requires: grunt | load-grunt-tasks | grunt-contrib-compress
  */
