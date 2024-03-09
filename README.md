@@ -39,7 +39,7 @@ bun run pkg-upgrade # to upgrade outdated dependencies in interactive mode
 ```
 
 > NOTE: I use MIT license for this starter which contains my name and my github profile, don't forget to modify it
-> Similarly, for certain configurations in the package.json file, you need to modify them to tailor them to your project (e.g., name, description, author, keywords, main, repository, ...).
+> Similarly, for certain configurations in the package.json file, you need to modify them to tailor them to your project (e.g: name, description, author, keywords, main, repository, ...).
 
 ---
 
@@ -65,9 +65,9 @@ bun run pkg-upgrade # to upgrade outdated dependencies in interactive mode
 - 📜 `pkg-check` - check useless dependencies with depcheck
 - 📜 `pkg-upgrade` - upgrade outdated dependencies (interactive mode) with npm-check-updates
 - 📜 `versioning` - start ungit server 
-- 📜 `version-major`: Increments the major version number of your project
-- 📜 `version-minor`: Increments the minor version number of your project
-- 📜 `version-patch`: Increments the version patch number of your project
+- 📜 `npm-version:major`: Increments the major version number of your project
+- 📜 `npm-version:minor`: Increments the minor version number of your project
+- 📜 `npm-version:patch`: Increments the version patch number of your project
 
 ---
 
