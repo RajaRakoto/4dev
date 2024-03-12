@@ -32,7 +32,6 @@ Instant Value - All basic tools included and configured:
 To use this template, use the following commands:
 
 ```bash
-curl -fsSL https://bun.sh/install | bash # if you don't have bun installed
 bun create github.com/RajaRakoto/bun-boilerplate <project-name>
 cd <project-name>
 bun run pkg-upgrade # to upgrade outdated dependencies in interactive mode
