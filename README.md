@@ -18,6 +18,7 @@ Instant Value - All basic tools included and configured:
 - 🎨 Prettier to enforce consistent code style
 - ⚙️ EditorConfig for consistent coding style
 - 📦 NPM scripts for common operations
+- 🛠️ Example configuration for GitHub Actions
 - 📝 Simple example of TypeScript code and unit test
 - 🐗 Run tasks with Grunt (example for backup)
 - 🚄 Build faster
