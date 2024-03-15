@@ -8,7 +8,7 @@
   "parserOptions": {
     "project": "tsconfig.json",
     "sourceType": "module",
-    "ecmaVersion": 2020
+    "ecmaVersion": "latest"
   },
   "plugins": ["@typescript-eslint", "jest"],
   "extends": [
@@ -16,6 +16,11 @@
     "plugin:@typescript-eslint/recommended",
     "plugin:jest/recommended",
     "prettier"
+  ],
+  "overrides": [
+    {
+      "files": ["*.{js,cjs,mjs,ts,mts,jsx,tsx}"]
+    }
   ],
   "rules": {
     "@typescript-eslint/explicit-function-return-type": "warn"
