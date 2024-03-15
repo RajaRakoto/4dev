@@ -27,6 +27,15 @@ module.exports = function (grunt) {
         files: [{ src: ['./*', './.*'] }],
         filter: 'isFile',
       },
+      github: {
+        options: {
+          archive: backupsDestination + 'github.tar.gz',
+        },
+        expand: true,
+        cwd: './.github/',
+        src: includeAllFiles,
+        dest: 'github',
+      },
       src: {
         options: {
           archive: backupsDestination + 'src.tar.gz',
@@ -60,6 +69,7 @@ module.exports = function (grunt) {
   // all grunt register tasks
   grunt.registerTask('backup', [
     'compress:main',
+    'compress:github',
     'compress:src',
     'compress:tests',
     'compress:tmp',
@@ -69,7 +79,7 @@ module.exports = function (grunt) {
   const myTasksNames = ['backup'];
 
   // tasks status (description)
-  const myTasksStatus = ['compress: main | src | tests | tmp'];
+  const myTasksStatus = ['compress: main | github | src | tests | tmp'];
 
   // default tasks
   grunt.registerTask('default', () => {
