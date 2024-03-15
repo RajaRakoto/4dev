@@ -27,7 +27,7 @@ Instant Value - All basic tools included and configured:
 
 ---
 
-### 📌 Using
+### 📌 Usage
 
 To use this template, use the following commands:
 
@@ -37,12 +37,15 @@ cd <project-name>
 bun run pkg-upgrade # to upgrade outdated dependencies in interactive mode
 ```
 
-> NOTE: I use MIT license for this starter which contains my name and my github profile, don't forget to modify it
-> Similarly, for certain configurations in the package.json file, you need to modify them to tailor them to your project (e.g: name, description, author, keywords, main, repository, ...).
+> NOTE 1: I employ the `MIT license` for this starter kit, which includes my name and GitHub profile. Please remember to adjust or remove it if deemed unnecessary.
+
+> NOTE 2: In order to help you better understand the structure of this boilerplate, there is a `README.md` file in each subdirectory of src.
+
+> NOTE 3: For certain configurations in the `package.json` file, you need to modify them to tailor them to your project (e.g: name, description, author, keywords, main, repository, ...).
 
 ---
 
-### 📌 Scripts
+### 📌 NPM Scripts
 
 **Start**
 
