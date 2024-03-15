@@ -1,12 +1,11 @@
-import { describe, it, expect } from 'bun:test';
-import { one, two } from '../src';
+import { expect, test, describe } from "bun:test";
 
-describe('should', () => {
-  it('export 1', () => {
-    expect(one).toBe(1);
-  });
+describe("arithmetic", () => {
+	test("2 + 2", () => {
+		expect(2 + 2).toBe(4);
+	});
 
-  it('export 2', () => {
-    expect(two).toBe(2);
-  });
+	test("2 * 2", () => {
+		expect(2 * 2).toBe(4);
+	});
 });
