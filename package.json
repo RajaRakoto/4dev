@@ -6,8 +6,8 @@
   "license": "MIT",
   "type": "module",
   "module": "index.ts",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RajaRakoto/bun-boilerplate.git"
@@ -44,7 +44,7 @@
     "build:bin": "bun build --compile --minify --sourcemap src/index.ts --outfile dist/bun-boilerplate",
     "test": "bun test",
     "test:watch": "bun test --watch",
-    "eslint": "eslint . --ext js,cjs,mjs,ts,mts --report-unused-disable-directives --max-warnings 0",
+    "eslint": "eslint --config .eslintrc --report-unused-disable-directives --max-warnings 0 .",
     "prettier": "prettier --config .prettierrc --write .",
     "backup": "grunt backup",
     "pkg-check": "depcheck",
