@@ -34,9 +34,8 @@
 		"noPropertyAccessFromIndexSignature": true,
 		"noUncheckedIndexedAccess": true,
 		"paths": {
-			"@/*": ["./src/*"],
-		},
-
+			"@/*": ["./src/*"]
+		}
 	},
 	"include": ["*.ts", "**/*.ts"],
 	"exclude": ["node_modules"]
