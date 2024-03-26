@@ -39,7 +39,7 @@
 		"dev:hot": "bun --hot run src/index.ts",
 		"dev:smol:watch": "bun --smol --watch run src/index.ts",
 		"dev:smol:hot": "bun --smol --hot run src/index.ts",
-		"build": "bun run build.js",
+		"build": "bun run clean && bun run build.js",
 		"build:watch": "bun build src/index.ts --outdir dist --watch",
 		"build:bin": "bun build --compile --minify --sourcemap src/index.ts --outfile dist/bun-boilerplate",
 		"test": "bun test",
