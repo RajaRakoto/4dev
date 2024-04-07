@@ -96,5 +96,12 @@
 		"url": "https://bootstrap-vue.org/docs",
 		"description": "Utiliser les composants Bootstrap avec Angular",
 		"note": 4
+	},
+	{
+		"name": "Hamburgers",
+		"keywords": ["menu"],
+		"url": "https://jonsuh.com/hamburgers/",
+		"description": "Hamburgers est une collection de savoureuses icônes de hamburger animées par CSS. La source est également incluse en tant que bibliothèque Sass. Il est modulable et personnalisable, alors préparez votre propre hamburger.",
+		"note": 5
 	}
 ]
