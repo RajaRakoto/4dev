@@ -33,5 +33,68 @@
 		"url": "https://apps.evozi.com/apk-downloader/",
 		"description": "Un site qui permet de télécharger directement des APK dans Playstore",
 		"note": 5
+	},
+	{
+		"name": "GTmetrix",
+		"keywords": ["analysis", "seo"],
+		"url": "https://gtmetrix.com/",
+		"description": "Optimisation de la vitesse et des performances du site Web",
+		"note": 4
+	},
+	{
+		"name": "smalldev.io",
+		"keywords": ["web", "tools"],
+		"url": "https://smalldev.tools/",
+		"description": "Outil gratuit pour les développeurs web pour aider avec Beautify & Minify HTML/CSS/Javascript, et de nombreux autres outils pratiques. Avec une interface délicieuse.",
+		"note": 4
+	},
+	{
+		"name": "Minify",
+		"keywords": ["css", "js"],
+		"url": "https://www.minifier.org/",
+		"description": "Rendez votre site Web plus petit et plus rapide à charger en minimisant le code JS et CSS.",
+		"note": 3
+	},
+	{
+		"name": "snippet-generator",
+		"keywords": ["snippet"],
+		"url": "https://snippet-generator.app/",
+		"description": "Un generateur de snippet pour VScode, sublimetext et atom.",
+		"note": 4
+	},
+	{
+		"name": "shields.io",
+		"keywords": ["badge"],
+		"url": "https://shields.io/",
+		"description": "Créez des badges avec votre propre personnalisation.",
+		"note": 4
+	},
+	{
+		"name": "regex-generator",
+		"keywords": ["regex"],
+		"url": "https://regex-generator.olafneumann.org/",
+		"description": "Generateur de regex",
+		"note": 5
+	},
+	{
+		"name": "jsonformatter",
+		"keywords": ["json"],
+		"url": "https://jsonformatter.curiousconcept.com/",
+		"description": "Validateur JSON",
+		"note": 4
+	},
+	{
+		"name": "deepscan",
+		"keywords": ["json"],
+		"url": "https://deepscan.io/",
+		"description": "DeepScan est un outil d'analyse statique de pointe pour JavaScript. Vous pouvez inspecter l'ensemble de votre code JavaScript de manière exhaustive.",
+		"note": 4
+	},
+	{
+		"name": "ASCII art generator",
+		"keywords": ["cli"],
+		"url": "http://patorjk.com/software/taag/#p=display&h=2&f=Ogre&t=transfer-cli",
+		"description": "ASCII art text generator to turn your messages into text art pictures",
+		"note": 5
 	}
 ]
