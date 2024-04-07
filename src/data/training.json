@@ -1,0 +1,23 @@
+[
+	{
+		"name": "frontendmentor",
+		"keywords": ["project"],
+		"url": "https://www.frontendmentor.io/",
+		"description": "Résolvez des défis HTML, CSS et JavaScript du monde réel tout en travaillant sur des conceptions professionnelles. Rejoignez 330227 développeurs qui construisent des projets, révisent du code et s'entraident pour s'améliorer.",
+		"note": 5
+	},
+	{
+		"name": "javascript30",
+		"keywords": ["project"],
+		"url": "https://javascript30.com/",
+		"description": "30 jours Vanilla JS Coding Challenge, Construisez 30 choses en 30 jours avec 30 tutoriels, Pas de frameworks, Pas de compilateurs, Pas de bibliothèques !",
+		"note": 4
+	},
+	{
+		"name": "30secondsofcode",
+		"keywords": ["project"],
+		"url": "https://www.30secondsofcode.org/",
+		"description": "Parcourez 1107 extraits de snippets code pour tous vos besoins de développement sur 30 secondes de code !",
+		"note": 5
+	}
+]
