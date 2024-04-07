@@ -1,0 +1,23 @@
+[
+	{
+		"name": "sweetalert2",
+		"keywords": ["alert"],
+		"url": "https://sweetalert2.github.io/",
+		"description": "Sweetalert2 fabrique des messages popup plus facilement et jolis.",
+		"note": 5
+	},
+	{
+		"name": "Notiflix",
+		"keywords": ["notif", "alert"],
+		"url": "https://notiflix.github.io",
+		"description": "Bibliothèque JS pour les notifications non bloquantes côté client, les boîtes contextuelles (alert), les indicateurs de chargement (loader), et plus, rend vos projets Web beaucoup mieux",
+		"note": 4
+	},
+	{
+		"name": "Rodal",
+		"keywords": ["notif", "alert"],
+		"url": "https://github.com/chenjiahan/rodal",
+		"description": "Bibliothèque pour creer un modal minimalist",
+		"note": 4
+	}
+]
