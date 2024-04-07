@@ -4,20 +4,18 @@
 <img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/4web.png?raw=true" width="300">
 </div>
 
-<img src="https://github.com/RajaRakoto/github-docs/blob/master/dago.gif?raw=true" width=40>
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/build-by.svg?raw=true)](https://forthebadge.com) 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/for-dago.svg?raw=true)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/build-by.svg?raw=true)](https://forthebadge.com)
+![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![Gitub](https://img.shields.io/badge/-Gitub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff)
 
-<br>
+---
 
-_📨 Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ..._
+📨 Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ...
 
-<br>
+---
 
 | Table des matières |
 | :-- |
-| [🔎 Codebase](#codebase) |
-|  |
 | [🔎 NPM packages](#npm-packages) |
 |  |
 | [🔎 API](#-api) |
@@ -56,52 +54,20 @@ _📨 Vous pouvez également contribuer à ajouter/créer votre propre collectio
 | [🔎 Youtube](#-youtube) |
 | [🔎 Discord server](#-discord-server) |
 
-<br>
-
-**BONUS** -> [Bookmarks 4web](#bookmarks-4web)
-
-<br>
-
-<img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/codebase.png?raw=true" width="80"><br>
-
-## `Codebase`
-
-Collection & creation des codebases qui peuvent vous être utiles ...
-
-</div>
-
-| <center>Collection name</center> | <center>Descriptions</center> |
-| :-- | :-- |
-| 📂 **blinker** | Element de texte clignotant |
-| 📂 **candybutton** | Des boutons animEs en pure CSS |
-| 📂 **card** | Collection of portfolio card |
-| 📂 **carousel** | Collection of carousel |
-| 📂 **cursor** | Custom your cursor with CSS |
-| 📂 **fonts-pack** | Collection of fonts |
-| 📂 **navbar** | Collection of navigation bar |
-| 📂 **notify** | Little notification message with Javascript |
-| 📂 **preloader** | Ajouter un chargement animé à votre page Web |
-| 📂 **progBar** | Collection of progression bar with Javascript |
-| 📂 **swiperJS** (JS library) | Swiper est le curseur tactile mobile gratuit le plus moderne avec des transitions matérielles accélérées et un comportement natif étonnant. |
-| 📂 **switchup** | Faites défiler automatiquement vers le haut de la page en utilisant JavaScript |
-| 📂 **tsparticles** (JS library) | Créez facilement des animations de particules hautement personnalisables et utilisez-les comme arrière-plans animés pour votre site Web |
-| 📂 **typing** | Collection of typing text effect with Javascript |
-| 📂 **vantaJS** (JS library) | 3D & WebGL Background Animations For Your Website. |
-
-<br><br><br>
+---
 
 <div align="center">
-<img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/npm.png?raw=true" width="80"><br>
+<img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/npm.png?raw=true" width="80">
 
-## `NPM packages`
+# NPM packages
 
-Collection des meilleurs packages NPM qui peuvent vous être utiles ...
+Collection des packages populaires qui peuvent vous être utiles ...
 
 </div>
 
-| Package name | Descriptions | Install | Size | Usage |
+| Package name | Description | Install | Size | Usage |
 | :-- | :-- | :-- | :-- | :-- |
-| 📦 **react** | React est une bibliothèque JavaScript pour créer des interfaces utilisateur. | `npm i react` | 300kb | [💡](https://www.npmjs.com/package/react) |
+| 📦 **react** | Le plus populaire des bibliothèques JavaScript pour créer des interfaces utilisateur. | `npm i react` | 300kb | [💡](https://www.npmjs.com/package/react) |
 | 📦 **vite** | Comme son nom l'indique, vite est un builder tres performant permetant de creer des applications React, Vue, Angular, Svelte, ... dans votre environnement de developpement | `npm init vite@latest` | - | [💡](https://vitejs.dev/guide/) |
 | 📦 **create-react-app** | CRA ou Create React App est un outil qui vous aidera a générer un squelette de code pour votre application React. Il embarque un certain nombre d'outils préconfigurés, tels que Webpack, Babel et ESLint, afin de vous garantir la meilleure expérience de développement possible. | `npm i create-react-app` | 300kb | [💡](https://www.npmjs.com/package/create-react-app) |
 | 📦 **express** | Express est le framework Web le plus populaire, le plus rapide et le plus minimaliste pour les backends Node.js. | `npm i express` | 210kb | [💡](https://www.npmjs.com/package/express) |
@@ -153,12 +119,12 @@ Collection des meilleurs packages NPM qui peuvent vous être utiles ...
 | 📦 **react-router-dom** | React router est le bibliotheque React le plus populaire pour creer un routage cotE client avec un documentation riche | `npm i react-router-dom` | - | [💡](https://reactrouter.com/) |
 | 📦 **react-icons** | une collection d'icons pour une application React | `npm i react-icons` | - | [💡](https://github.com/react-icons/react-icons) |
 
-<br><br><br>
+---
 
 <div align="center">
-<img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/link.png?raw=true" width="200"><br>
+<img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/link.png?raw=true" width="200">
 
-## `Links sources`
+# Links sources
 
 Collection des liens dediE au developpement web qui peuvent vous être utiles ...
 
@@ -170,9 +136,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | :-- | :-- | :-- |
 | [🔗 **rapidAPI** (api)](https://rapidapi.com/hub) | Découvrez et connectez-vous à des milliers d'API. | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Animations`
@@ -204,9 +170,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **progressbar.js** (animation - progress - js)](https://mattboldt.com/demos/typed-js/) | Barres de progression réactives et fluides avec des chemins SVG animés. | ⭐⭐⭐⭐🟊 |
 | [🔗 **tingle.js** (animation - modal - js)](https://tingle.robinparisi.com/) | Un plugin modal minimaliste et facile à utiliser écrit en Vanilla JS. | ⭐⭐⭐⭐⭐ |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Avatar`
@@ -217,9 +183,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **getavataaars** (avatar)](https://getavataaars.com/) | Outil de génération Web d'avatars gratuits amusants et colorés par Fang-Pen Lin utilisant la bibliothèque de croquis de Pablo Stanley. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Personas** (avatar)](https://personas.draftbit.com/) | Un générateur d'avatar ludique pour l'ère moderne. | ⭐⭐⭐🟊🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Backgrounds`
@@ -232,9 +198,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **cssgradient** (bg - gradient)](https://cssgradient.io/) | Un générateur de couleur degredE elegant pour des arrière-plans | ⭐⭐⭐⭐🟊 |
 | [🔗 **Hero Patterns** (bg - geometric)](http://www.heropatterns.com) | Une collection de motifs d'arrière-plan SVG reproductibles | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Blog`
@@ -244,9 +210,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **itsfoss** (blog - linux - opensource)](https://itsfoss.com/) | Ceci n'a pas vraiment rien avoir avec le dev web mais pourrai vous servir, avec It's FOSS, vous apprendrez les dernières nouvelles du monde open source. Vous apprendrez également à utiliser efficacement Linux grâce à des didacticiels de premier ordre et à des experts ... | ⭐⭐⭐⭐⭐ |
 | [🔗 **korben** (blog - techno)](https://korben.info/) | Le meilleur site tech (fr) de l'univers visible et invisible. #logiciel #crypto #cybersécurité #linux #astuces ... | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 CSS Frameworks`
@@ -260,7 +226,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Materialize**](https://materializecss.com/) | Un framework front-end responsive moderne basé sur le Material Design. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Bulma**](https://bulma.io/) | Un framework CSS moderne no JS | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 
 #### `📌 Chart`
 
@@ -269,9 +235,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **chart.js** (chart)](https://www.chartjs.org/docs/latest/) | Graphiques JavaScript simples mais flexibles pour les concepteurs et les développeurs | ⭐⭐⭐⭐🟊 |
 | [🔗 **charist** (chart)](http://gionkunz.github.io/chartist-js/getting-started.html/) | Graphiques réactifs simples | ⭐⭐⭐🟊🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Charte graphique (colors)`
@@ -279,7 +245,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 Échantillons de couleurs conformes à la norme Web moderne ...
 
 <div align="center">
-<img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/colors.png?raw=true" width="700"><br>
+<img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/colors.png?raw=true" width="700">---
 </div>
 
 | Liens | Descriptions | Notes |
@@ -290,9 +256,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Duo** (combinaison)](https://duo.alexpate.uk) | Duo est une collection de combinaisons de couleurs que j'ai sélectionnées à partir de projets personnels ou que j'ai rencontrées sur le Web | ⭐⭐⭐⭐🟊 |
 | [🔗 **UI Gradients** (gradient)](https://uigradients.com) | Générateur de couleurs dégradés d'interface utilisateur | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Components & kits`
@@ -314,9 +280,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Angular Material** (component - angular)](https://material.angular.io/guide/getting-started/) | Cadre de composants Angular basé sur Material Design | ⭐⭐⭐⭐🟊 |
 | [🔗 **Angular powered Bootstrap** (component - bootstrap - angular)](https://bootstrap-vue.org/docs) | Utiliser les composants Bootstrap avec Angular | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Convert & Compress & Resize`
@@ -331,9 +297,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **kodeshot** (convert - code)](https://www.kodeshot.net/) | Convertissez votre code source en belles images pour vos articles, tweets, messages, posts... | ⭐⭐⭐⭐🟊 |
 | [🔗 **resize-image** (resize - img)](https://www.iloveimg.com/resize-image) | Redimensionnez JPG, PNG, SVG ou GIF en définissant de nouveaux pixels de hauteur et de largeur. Modifiez les dimensions de l'image en masse. | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Editor`
@@ -355,9 +321,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Stackblitz** (editor)](https://stackblitz.com) | Le playground a la fois rapide et complet pour editer vos projets en ligne | ⭐⭐⭐⭐⭐ |
 | [🔗 **Codesandbox** (editor)](https://codesandbox.io/) | Le playground le plus populaire du moment | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Effects`
@@ -366,9 +332,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | :-- | :-- | :-- |
 | [🔗 **Brumm Shadow Maker** (shadow)](https://shadows.brumm.af/) | Faire une ombre douce | ⭐⭐⭐⭐⭐ |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Extension (chrome)`
@@ -391,9 +357,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 CSSviewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) | Une simple visionneuse de propriétés CSS. | ⭐⭐⭐🟊🟊 |
 | [🔗 Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | Un outil open source et automatisé pour améliorer les performances, la qualité et l'exactitude de vos applications Web. | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Fonts`
@@ -405,9 +371,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Dafont** (font)](https://www.dafont.com) | Archive des polices téléchargeables gratuitement | ⭐⭐⭐⭐🟊 |
 | [🔗 **fontgeneratorguru** (font - maker)](https://www.fontgeneratorguru.com/) | Generateur de font sympa ! | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Icons`
@@ -419,9 +385,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **UXwing** (svg ico)](https://uxwing.com) | Collection d'icone vectorielle bien optimisé | ⭐⭐⭐⭐🟊 |
 | [🔗 **LordIcons** (svg - lottie - ico)](https://lordicon.com/icons) | Collection d'icone animE (svg | lottie) | ⭐⭐⭐⭐⭐ |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Illustrations & Patterns`
@@ -434,9 +400,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Humaaans** (caracters)](https://www.humaaans.com) | De superbes illustrations de personnes capables de se mélanger et de s'assortir | ⭐⭐⭐🟊🟊 |
 | [🔗 **404 Illustration**](https://error404.fun) | Collection d'illustration sur les erreurs 404 d'une page web | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Layout`
@@ -452,9 +418,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **FLEXmalven** (flex)](https://flexbox.help/) | Une cheatsheet de grille flexbox à référencer lorsque vous travaillez avec flexbox | ⭐⭐⭐⭐🟊 |
 | [🔗 **flexboxfroggy** (training)](http://flexboxfroggy.com/#fr) | un jeu où vous aidez Froggy la grenouille et ses amis en écrivant du code flexbox CSS! | ⭐⭐⭐⭐⭐ |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Loaders & spinners`
@@ -464,9 +430,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **CSS Loaders & Spinners** (loader)](https://cssloaders.github.io/) | Il s'agit d'une bibliothèque ayant une collection de différents types de chargeurs CSS, spinners. | ⭐⭐⭐⭐⭐ |
 | [🔗 **SpinKit** (loader)](https://tobiasahlin.com/spinkit/) | Simple CSS Spinners. | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Logos`
@@ -479,9 +445,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Logoideas** (logo - ideas)](https://www.namecheap.com/logo-maker/ideas) | Idee de creation d'un logo | ⭐⭐⭐🟊🟊 |
 | [🔗 **Wix logo** (logo - maker)](https://www.wix.com/logo/maker/esh/dashboard/my-logos?logoId=1e2c6a95-5a0b-4a57-8ca0-1907d69ab990&referralInfo=savedlogos) | Generateur de logo du site wix | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Music & Sound effects`
@@ -491,9 +457,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Mixkit** (music - sound)](https://mixkit.co) | Musique & effet sonore gratuite pour vos projets | ⭐⭐⭐⭐🟊 |
 | [🔗 **Bensound** (music)](https://www.bensound.com/) | Plus de 1,7 million d'images et de vidéos de haute qualité | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Navigation`
@@ -502,9 +468,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | :-- | :-- | :-- |
 | [🔗 **Hamburgers** (menu)](https://jonsuh.com/hamburgers/) | Hamburgers est une collection de savoureuses icônes de hamburger animées par CSS. La source est également incluse en tant que bibliothèque Sass. Il est modulable et personnalisable, alors préparez votre propre hamburger. | ⭐⭐⭐⭐⭐ |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Modal | Notifications`
@@ -515,9 +481,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Notiflix** (notif - alert)](https://notiflix.github.io) | Bibliothèque JS pour les notifications non bloquantes côté client, les boîtes contextuelles (alert), les indicateurs de chargement (loader), et plus, rend vos projets Web beaucoup mieux | ⭐⭐⭐⭐🟊 |
 | [🔗 **Rodal** (notif - alert)](https://github.com/chenjiahan/rodal) | Bibliothèque pour creer un modal minimalist | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Others`
@@ -531,9 +497,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **DevDocs** (all - docs)](https://devdocs.io/) | DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable. | ⭐⭐⭐⭐⭐ |
 | [🔗 **evozi** (android)](https://apps.evozi.com/apk-downloader/) | Un site qui permet de telecharger directement des apk dans playstore | ⭐⭐⭐⭐⭐ |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 PDF`
@@ -543,9 +509,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **iLovePDF** (pdf - tools)](https://www.ilovepdf.com/fr) | Divers outils pour vos fichiers PDF | ⭐⭐⭐⭐🟊 |
 | [🔗 **web2pdf** (pdf - convert)](https://www.web2pdfconvert.com/) | convertir une page web en PDF | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Photos & videos`
@@ -559,9 +525,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Bloggif** (gif - maker)](https://www.bloggif.com/text) | Convertisser un texte en image GIF | ⭐⭐⭐🟊🟊 |
 | [🔗 **onlineOCR** (ocr)](https://www.onlineocr.net/fr/) | Convertisser une image en texte | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Project`
@@ -572,9 +538,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **javascript30** (project)](https://javascript30.com/) | 30 jours Vanilla JS Coding Challenge, Construisez 30 choses en 30 jours avec 30 tutoriels, Pas de frameworks, Pas de compilateurs, Pas de bibliothèques ! | ⭐⭐⭐⭐🟊 |
 | [🔗 **30secondsofcode** (project)](https://www.30secondsofcode.org/) | Parcourez 1107 extraits de snippets code pour tous vos besoins de développement sur 30 secondes de code ! | ⭐⭐⭐⭐⭐ |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Stat`
@@ -584,9 +550,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **stateofcss** (stat)](https://2021.stateofcss.com/fr-FR/) | Statistique CSS et ses technologies. | ⭐⭐⭐⭐⭐ |
 | [🔗 **stateofjs** (stat)](https://2021.stateofjs.com/fr-FR/) | Statistique Javascript et ses technologies. | ⭐⭐⭐⭐⭐ |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 #### `📌 Table`
 
@@ -595,9 +561,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **grid.js** (table - AVR)](https://gridjs.io/docs/index/) | Grid.js est un plugin de tableau HTML gratuit et open-source écrit en TypeScript. Il fonctionne avec la plupart des frameworks JavaScript, y compris React, Angular, Vue et VanillaJs. | ⭐⭐⭐⭐⭐ |
 | [🔗 **DataTables** (table - jquery)](https://datatables.net/) | DataTables est un plug-in jQuery open-source permettant de dynamiser un tableau HTML. Créée par Allan Jardine sous la licence MIT | ⭐⭐⭐⭐⭐ |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 #### `📌 Task runner`
 
@@ -606,9 +572,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **grunt** (task)](https://gruntjs.com/) | Grunt est un outil pour la création de tâches automatisées avec le langage JavaScript (orientE fichier) | ⭐⭐⭐⭐⭐ |
 | [🔗 **gulp** (task)](https://gulpjs.com/) | Tirez parti du gulp et de la flexibilité de JavaScript pour automatiser les workflows lents et répétitifs et les composer dans des pipelines de build efficaces. | ⭐⭐⭐⭐⭐ |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Generator & Template & ideas (html + css + js)`
@@ -625,9 +591,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **buttons ui** (btn - idea)](https://getcssscan.com/css-buttons-examples) | 84 beaux exemples de boutons CSS. | ⭐⭐⭐⭐🟊 |
 | [🔗 **box shadow** (box - idea)](https://getcssscan.com/css-box-shadow-examples) | 91 Beaux exemples de boîte-ombre CSS. | ⭐⭐⭐⭐🟊 |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Tools`
@@ -646,9 +612,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **ASCII art generator** (cli)](http://patorjk.com/software/taag/#p=display&h=2&f=Ogre&t=transfer-cli) | ASCII art text generator to turn your messages into text art pictures |
 | ⭐⭐⭐⭐⭐ |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Hosting`
@@ -660,9 +626,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **netlify (frontend)**](https://www.netlify.com/) | Netlify est à la fois un outil d'hébergement et de création de sites et d'applications web. | ⭐⭐⭐⭐⭐ |
 | [🔗 **ngrok (tunnel)**](https://dashboard.ngrok.com/) | ngrok est un proxy inverse distribué dans le monde entier faisant face à vos services Web s'exécutant dans n'importe quel cloud ou réseau privé, ou sur votre machine. | ⭐⭐⭐⭐⭐ |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Skills & Tuto & Certification & Roadmap`
@@ -683,9 +649,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **roadmap.sh** (roadmap)](https://www.roadmap.sh/) | roadmap.sh est un effort communautaire pour créer des feuilles de route, des guides et d'autres contenus éducatifs pour aider les développeurs à choisir le chemin et guider leurs apprentissages. | ⭐⭐⭐⭐🟊 |
 | [🔗 **docstring** (python roadmap)](https://www.docstring.fr) | Apprenez à coder avec l'accompagnement Docstring. Maîtrisez le langage de programmation PYTHON. | ⭐⭐⭐⭐⭐ |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Youtube`
@@ -703,9 +669,9 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Grafikart** (web - devops)](https://www.youtube.com/c/grafikart/) | Un specialiste en developpement web et devops ... | ⭐⭐⭐⭐⭐ |
 | [🔗 **Simon Dieny** (web - js)](https://www.youtube.com/channel/UCZqq_ow06Husetd9ICEM2gQ) | Un specialiste dans l'eco systeme Javascript (angular - react) ... | ⭐⭐⭐⭐⭐ |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
 
 #### `📌 Discord server`
@@ -718,29 +684,7 @@ Collection des liens dediE au developpement web qui peuvent vous être utiles ..
 | [🔗 **Nodeiflux**](https://discord.com/invite/aD42zPx) | Une communauté amicale de développeurs actifs et en herbe. Il s'agit d'un environnement professionnel pour apprendre, partager des connaissances et grandir personnellement et professionnellement. | ⭐⭐⭐⭐🟊 |
 | [🔗 **Reactiflux**](https://discord.gg/jGKhXV26d8) | Une communauté dedié pour les developpeur ReactJS. | ⭐⭐⭐⭐⭐ |
 
-<br>
+---
 <div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
+    <b><a href="#npm-packages">↥ Back To Top</a></b>
 </div>
-
-### BOOKMARKS 4web
-
-Vous pouvez telecharger le `bookmarks` de `4web`, il vous suffit de copier le code HTML dans le lien ci-dessous dans un fichier HTML puis effectuer l'importation dans votre navigateur preferE ...
-
-<div align="center">
-
-| [Get 4web bookmarks](https://github.com/RajaRakoto/github-docs/blob/master/4web/4web-bookmarks.html) |
-| :-- |
-
-<img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/bookmarks.gif?raw=true" width="700">
-
-> **NOTE**: Ces bookmarks (sur le demo) ne sont peut-être plus à jour, merci de me contacter sur mon adresse mail pour avoir le fichier à jour, c'est juste pour vous montrer comment l'integrer dans votre navigateur
-
-</div>
-
-<br>
-<div align="left">
-    <b><a href="#codebase">↥ Back To Top</a></b>
-</div>
-
-🅴🅽🅹🅾🆈 ❗
