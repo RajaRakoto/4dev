@@ -64,7 +64,7 @@
 	},
 	{
 		"name": "tilt.js",
-		"keywords": ["animation", "hover", "javascript", "jquery"],
+		"keywords": ["animation", "hover", "jquery", "javascript"],
 		"url": "https://github.com/gijsroge/tilt.js/",
 		"description": "Un petit effet d'inclinaison de survol de parallaxe léger à 60+ fps de requestAnimationFrame pour jQuery.",
 		"note": 4
