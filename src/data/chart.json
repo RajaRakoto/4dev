@@ -1,0 +1,16 @@
+[
+	{
+		"name": "chart.js",
+		"keywords": ["chart"],
+		"url": "https://www.chartjs.org/docs/latest/",
+		"description": "Graphiques JavaScript simples mais flexibles pour les concepteurs et les développeurs",
+		"note": 4
+	},
+	{
+		"name": "charist",
+		"keywords": ["chart"],
+		"url": "http://gionkunz.github.io/chartist-js/getting-started.html/",
+		"description": "Graphiques réactifs simples",
+		"note": 3
+	}
+]
