@@ -1,5 +1,5 @@
 /**
- * @description: gruntfile for 4web
+ * @description: gruntfile for 4dev
  * @requires: grunt | load-grunt-tasks | grunt-contrib-compress
  */
 module.exports = function (grunt) {
@@ -128,7 +128,7 @@ module.exports = function (grunt) {
 
 		// task resume
 		getTaskResume(
-			"== 4WEB TASKS ==",
+			"== 4DEV TASKS ==",
 			myTasksNames,
 			myTasksStatus,
 			"yellow",

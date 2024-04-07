@@ -10,10 +10,10 @@
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RajaRakoto/4web.git"
+    "url": "git+https://github.com/RajaRakoto/4dev.git"
   },
-  "homepage": "https://github.com/RajaRakoto/4web#readme",
-  "bugs": "https://github.com/RajaRakoto/4web/issues",
+  "homepage": "https://github.com/RajaRakoto/4dev#readme",
+  "bugs": "https://github.com/RajaRakoto/4dev/issues",
   "files": [
     "dist"
   ],
