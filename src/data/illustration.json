@@ -1,0 +1,37 @@
+[
+	{
+		"name": "ManyPixels",
+		"keywords": ["svg", "png"],
+		"url": "https://www.manypixels.co/",
+		"description": "Collection d'images vectorielles",
+		"note": 4
+	},
+	{
+		"name": "IsoFlat",
+		"keywords": ["flat"],
+		"url": "https://isoflat.com",
+		"description": "Une collection gratuite de ressources graphiques SVG isométriques",
+		"note": 3
+	},
+	{
+		"name": "UnDraw",
+		"keywords": ["caracters"],
+		"url": "https://undraw.co/illustrations",
+		"description": "Des illustrations de personnage open source pour toutes les idées que vous pouvez imaginer et créer (couleur personnalisable)",
+		"note": 4
+	},
+	{
+		"name": "Humaaans",
+		"keywords": ["caracters"],
+		"url": "https://www.humaaans.com",
+		"description": "De superbes illustrations de personnes capables de se mélanger et de s'assortir",
+		"note": 3
+	},
+	{
+		"name": "404 Illustration",
+		"keywords": [],
+		"url": "https://error404.fun",
+		"description": "Collection d'illustration sur les erreurs 404 d'une page web",
+		"note": 4
+	}
+]
