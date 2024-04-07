@@ -1,0 +1,16 @@
+[
+	{
+		"name": "grid.js",
+		"keywords": ["table", "AVR"],
+		"url": "https://gridjs.io/docs/index/",
+		"description": "Grid.js est un plugin de tableau HTML gratuit et open-source écrit en TypeScript. Il fonctionne avec la plupart des frameworks JavaScript, y compris React, Angular, Vue et VanillaJs.",
+		"note": 5
+	},
+	{
+		"name": "DataTables",
+		"keywords": ["table", "jquery"],
+		"url": "https://datatables.net/",
+		"description": "DataTables est un plug-in jQuery open-source permettant de dynamiser un tableau HTML. Créée par Allan Jardine sous la licence MIT",
+		"note": 5
+	}
+]
