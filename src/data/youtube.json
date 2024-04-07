@@ -1,0 +1,72 @@
+[
+	{
+		"name": "cocadmin",
+		"keywords": ["devops", "tips", "hacking"],
+		"url": "https://www.youtube.com/channel/UCVRJ6D343dX-x730MRP8tNw/",
+		"description": "all in one",
+		"note": 5
+	},
+	{
+		"name": "Cookie connecté",
+		"keywords": ["tech", "tips", "devops"],
+		"url": "https://www.youtube.com/channel/UC5cs06DgLFeyLIF_II7lWCQ/",
+		"description": "Chaine de vulgarisation informatique illustrE par des dessins",
+		"note": 4
+	},
+	{
+		"name": "xavki",
+		"keywords": ["devops", "sysadmin"],
+		"url": "https://github.com/priximmo/sommaire-xavki-devops-fr/",
+		"description": "tuto devops complet",
+		"note": 4
+	},
+	{
+		"name": "Khaos Farbauti Ibn Oblivion",
+		"keywords": ["pentest"],
+		"url": "https://www.youtube.com/user/brumadar/",
+		"description": "Chaine tuto pentest & capture the flag",
+		"note": 3
+	},
+	{
+		"name": "Processus Thief",
+		"keywords": ["sysadmin", "pentest"],
+		"url": "https://www.youtube.com/channel/UCqrxDV9EPOlI1YMhzIPed2g/",
+		"description": "Chaine tuto pentest & capture the flag",
+		"note": 4
+	},
+	{
+		"name": "Graven ilvec",
+		"keywords": ["dev", "tips"],
+		"url": "https://www.youtube.com/user/Gravenilvectuto/",
+		"description": "Un jeune passionE de la programmation qui partage ses connaissance dans le domaine ...",
+		"note": 4
+	},
+	{
+		"name": "Pierre Giraud",
+		"keywords": ["web"],
+		"url": "https://www.youtube.com/c/PierreGiraudcom/",
+		"description": "Cours complets et gratuits HTML, CSS, JavaScript, PHP, MySQL, Python, Bootstrap, etc ...",
+		"note": 4
+	},
+	{
+		"name": "From Scratch",
+		"keywords": ["web"],
+		"url": "https://www.youtube.com/c/FromScratchD%C3%A9veloppementWeb/playlists/",
+		"description": "Un specialiste en developpement web ...",
+		"note": 5
+	},
+	{
+		"name": "Grafikart",
+		"keywords": ["web", "devops"],
+		"url": "https://www.youtube.com/c/grafikart/",
+		"description": "Un specialiste en developpement web et devops ...",
+		"note": 5
+	},
+	{
+		"name": "Simon Dieny",
+		"keywords": ["web", "js"],
+		"url": "https://www.youtube.com/channel/UCZqq_ow06Husetd9ICEM2gQ",
+		"description": "Un specialiste dans l'eco systeme Javascript (angular - react) ...",
+		"note": 5
+	}
+]
