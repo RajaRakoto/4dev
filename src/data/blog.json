@@ -1,0 +1,16 @@
+[
+	{
+		"name": "itsfoss",
+		"keywords": ["blog", "linux", "opensource"],
+		"url": "https://itsfoss.com/",
+		"description": "Ceci n'a pas vraiment rien avoir avec le dev web mais pourrai vous servir, avec It's FOSS, vous apprendrez les dernières nouvelles du monde open source. Vous apprendrez également à utiliser efficacement Linux grâce à des didacticiels de premier ordre et à des experts ...",
+		"note": 5
+	},
+	{
+		"name": "korben",
+		"keywords": ["blog", "techno"],
+		"url": "https://korben.info/",
+		"description": "Le meilleur site tech (fr) de l'univers visible et invisible. #logiciel #crypto #cybersécurité #linux #astuces ...",
+		"note": 4
+	}
+]
