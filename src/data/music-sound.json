@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Mixkit",
+		"keywords": ["music", "sound"],
+		"url": "https://mixkit.co",
+		"description": "Musique & effet sonore gratuite pour vos projets",
+		"note": 4
+	},
+	{
+		"name": "Bensound",
+		"keywords": ["music"],
+		"url": "https://www.bensound.com/",
+		"description": "Plus de 1,7 million d'images et de vidéos de haute qualité",
+		"note": 4
+	}
+]
