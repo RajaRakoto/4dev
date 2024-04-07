@@ -1,0 +1,16 @@
+[
+	{
+		"name": "TinyPNG",
+		"keywords": ["compress"],
+		"url": "https://tinypng.com/",
+		"description": "Compression PNG et JPEG intelligente",
+		"note": 4
+	},
+	{
+		"name": "resize-image",
+		"keywords": ["compress", "resize"],
+		"url": "https://www.iloveimg.com/resize-image",
+		"description": "Redimensionnez JPG, PNG, SVG ou GIF en définissant de nouveaux pixels de hauteur et de largeur. Modifiez les dimensions de l'image en masse.",
+		"note": 4
+	}
+]
