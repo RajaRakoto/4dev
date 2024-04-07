@@ -1,0 +1,100 @@
+[
+	{
+		"name": "MUI",
+		"keywords": ["component", "react"],
+		"url": "https://mui.com/getting-started/installation/",
+		"description": "Cadre de composants React basé sur Material Design",
+		"note": 5
+	},
+	{
+		"name": "MDB",
+		"keywords": ["component", "bootstrap", "AVR"],
+		"url": "https://mdbootstrap.com/",
+		"description": "Toolkit open source pour la conception de matériaux de construction avec bootstrap (Angular, Vue, React)",
+		"note": 5
+	},
+	{
+		"name": "Fast",
+		"keywords": ["component", "AVR"],
+		"url": "https://www.fast.design/",
+		"description": "FAST est un ensemble de technologies basées sur des composants Web (Angular, Vue, React) et des normes Web modernes developpE par Microsoft, conçues pour vous aider à relever efficacement certains des défis les plus courants en matière de conception et de développement de sites Web et d'applications.",
+		"note": 4
+	},
+	{
+		"name": "Flowbite",
+		"keywords": ["component", "tailwind"],
+		"url": "https://flowbite.com",
+		"description": "Bibliothèque Open-source des components Tailwind CSS",
+		"note": 4
+	},
+	{
+		"name": "daisyUI",
+		"keywords": ["component", "tailwind"],
+		"url": "https://daisyui.com/",
+		"description": "Tailwind CSS Components",
+		"note": 4
+	},
+	{
+		"name": "Tailblocks",
+		"keywords": ["component", "tailwind"],
+		"url": "https://mertjf.github.io/tailblocks/",
+		"description": "Simple Tailwind CSS Components",
+		"note": 4
+	},
+	{
+		"name": "Creative-tim",
+		"keywords": ["kit", "bootstrap", "AVR"],
+		"url": "https://www.creative-tim.com/",
+		"description": "Kits d'interface utilisateur, modèles et tableaux de bord construits sur Bootstrap, Vue.js, React, Angular, Node.js et Laravel. Rejoignez plus de 1 838 844 créatifs!",
+		"note": 4
+	},
+	{
+		"name": "chakra-UI",
+		"keywords": ["component", "react"],
+		"url": "https://chakra-ui.com/guides/first-steps",
+		"description": "Créez rapidement des applications et des sites Web React accessibles.",
+		"note": 5
+	},
+	{
+		"name": "react-bootstrap",
+		"keywords": ["component", "bootstrap", "react"],
+		"url": "https://react-bootstrap.github.io/getting-started/introduction",
+		"description": "Bootstrap reconstruit pour React. Inclure les composants Bootstrap directement dans votre projet React",
+		"note": 4
+	},
+	{
+		"name": "RNUILib",
+		"keywords": ["component", "reactnative"],
+		"url": "https://wix.github.io/react-native-ui-lib/docs/getting-started/setup",
+		"description": "React Native UI (RNUI) est une bibliothèque d'outils et de composants d'interface utilisateur pour React Native de Wix",
+		"note": 3
+	},
+	{
+		"name": "Vuetify",
+		"keywords": ["component", "vue"],
+		"url": "https://vuetifyjs.com/en/getting-started/installation/",
+		"description": "Cadre de composants Vue basé sur Material Design",
+		"note": 4
+	},
+	{
+		"name": "BootstrapVue",
+		"keywords": ["component", "bootstrap", "vue"],
+		"url": "https://bootstrap-vue.org/docs",
+		"description": "Utiliser les composants Bootstrap avec Vue",
+		"note": 4
+	},
+	{
+		"name": "Angular Material",
+		"keywords": ["component", "angular"],
+		"url": "https://material.angular.io/guide/getting-started/",
+		"description": "Cadre de composants Angular basé sur Material Design",
+		"note": 4
+	},
+	{
+		"name": "Angular powered Bootstrap",
+		"keywords": ["component", "bootstrap", "angular"],
+		"url": "https://bootstrap-vue.org/docs",
+		"description": "Utiliser les composants Bootstrap avec Angular",
+		"note": 4
+	}
+]
