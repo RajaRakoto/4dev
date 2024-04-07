@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Milligrid",
+		"keywords": ["grid"],
+		"url": "http://bencoveney.github.io/Milligrid/",
+		"description": "Milligrid est un system de grille CSS flexbox configurable et facile a apprendre basée sur Milligram",
+		"note": 5
+	},
+	{
+		"name": "CSS Grid Generator",
+		"keywords": ["grid"],
+		"url": "https://cssgrid-generator.netlify.app/",
+		"description": "Un projet open source permettant aux utilisateurs de créer rapidement une mise en page dynamique basée sur la grille CSS.",
+		"note": 4
+	},
+	{
+		"name": "CSS Layout",
+		"keywords": ["pure css"],
+		"url": "https://csslayout.io/",
+		"description": "Une collection de mises en page et de modèles de Web populaires en Pure CSS",
+		"note": 4
+	},
+	{
+		"name": "Generate Postition",
+		"keywords": ["position"],
+		"url": "http://www.generatecss.com/css/position/",
+		"description": "Ce générateur vous permet de positionner facilement des éléments au-dessus d'un autre élément. Cet outil est idéal pour des choses comme le positionnement d'un logo sur un en-tête dans la mise en page d'un site Web ou la création d'une bannière qui se chevauche avec des textes au lieu d'une image.",
+		"note": 3
+	},
+	{
+		"name": "Flexbox help",
+		"keywords": ["flex"],
+		"url": "https://flexbox.help/",
+		"description": "Un generateur de flexbox rapide et facile",
+		"note": 4
+	},
+	{
+		"name": "GRIDmalven",
+		"keywords": ["grid"],
+		"url": "https://flexbox.help/",
+		"description": "Une cheatsheet de grille CSS à référencer lors de la création d'une grille CSS",
+		"note": 4
+	},
+	{
+		"name": "FLEXmalven",
+		"keywords": ["flex"],
+		"url": "https://flexbox.help/",
+		"description": "Une cheatsheet de grille flexbox à référencer lorsque vous travaillez avec flexbox",
+		"note": 4
+	},
+	{
+		"name": "flexboxfroggy",
+		"keywords": ["training"],
+		"url": "http://flexboxfroggy.com/#fr",
+		"description": "un jeu où vous aidez Froggy la grenouille et ses amis en écrivant du code flexbox CSS!",
+		"note": 5
+	}
+]
