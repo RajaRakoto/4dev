@@ -1,35 +1,35 @@
 [
 	{
-		"name": "Pocoloco",
-		"keywords": ["background", "all"],
+		"name": "pocoloco",
+		"keywords": ["background", "generator"],
 		"url": "https://pocoloco.io/",
 		"description": "Générer des arrière-plans dynamiques pour votre site web",
 		"note": 4
 	},
 	{
 		"name": "getwaves",
-		"keywords": ["background", "wave"],
+		"keywords": ["background", "wave", "svg", "generator"],
 		"url": "https://getwaves.io/",
 		"description": "Un générateur d'ondes SVG gratuit pour créer des ondes SVG uniques pour la conception Web",
 		"note": 4
 	},
 	{
-		"name": "Clippy",
-		"keywords": ["background", "polygone"],
+		"name": "clippy",
+		"keywords": ["background", "polygone", "geometric", "css"],
 		"url": "https://bennettfeely.com/clippy/",
 		"description": "Editer une image sous forme de polygone en CSS",
 		"note": 4
 	},
 	{
 		"name": "cssgradient",
-		"keywords": ["background", "gradient"],
+		"keywords": ["background", "gradient", "fluent", "css", "generator"],
 		"url": "https://cssgradient.io/",
 		"description": "Un générateur de couleur degredE elegant pour des arrière-plans",
 		"note": 4
 	},
 	{
 		"name": "Hero Patterns",
-		"keywords": ["background", "geometric"],
+		"keywords": ["background", "geometric", "svg"],
 		"url": "http://www.heropatterns.com",
 		"description": "Une collection de motifs d'arrière-plan SVG reproductibles",
 		"note": 4

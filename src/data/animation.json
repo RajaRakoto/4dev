@@ -1,27 +1,27 @@
 [
 	{
-		"name": "Magic Animations",
+		"name": "magic.css",
 		"keywords": ["animation", "css"],
 		"url": "https://www.minimamente.com/project/magic/",
 		"description": "Une bibliothèques d'animation css avec des effets magiques",
 		"note": 5
 	},
 	{
-		"name": "Animate.css",
+		"name": "animate.css",
 		"keywords": ["animation", "css"],
 		"url": "https://animate.style/",
 		"description": "Just-add-water CSS animations",
 		"note": 4
 	},
 	{
-		"name": "Animista",
+		"name": "animista.css",
 		"keywords": ["animation", "css"],
 		"url": "http://animista.net/",
 		"description": "Animations CSS à la demande",
 		"note": 4
 	},
 	{
-		"name": "Transitions & Transforms",
+		"name": "transitions & transforms",
 		"keywords": ["animation", "transition", "transform", "css"],
 		"url": "https://thoughtbot.com/blog/transitions-and-transforms",
 		"description": "Transitions et transformations CSS pour les débutants",
@@ -70,7 +70,7 @@
 		"note": 4
 	},
 	{
-		"name": "nice-waves",
+		"name": "nice-waves.js",
 		"keywords": ["animation", "background", "javascript"],
 		"url": "https://github.com/gVguy/nice-waves#nice-waves",
 		"description": "Belles vagues animées.",
@@ -91,7 +91,7 @@
 		"note": 5
 	},
 	{
-		"name": "Lightbox2",
+		"name": "lightbox2.js",
 		"keywords": ["animation", "image", "javascript"],
 		"url": "https://lokeshdhakar.com/projects/lightbox2/",
 		"description": "Une petite bibliothèque JS pour superposer des images en haut de la page actuelle",

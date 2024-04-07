@@ -1,49 +1,49 @@
 [
 	{
 		"name": "MUI",
-		"keywords": ["component", "react"],
-		"url": "https://mui.com/getting-started/installation/",
-		"description": "Cadre de composants React basé sur Material Design",
+		"keywords": ["component", "react", "material-design"],
+		"url": "https://mui.com/material-ui/getting-started/",
+		"description": "MUI fournit une bibliothèque simple, personnalisable et accessible de composants React. Suivez votre propre système de conception ou commencez par Material Design.",
 		"note": 5
 	},
 	{
 		"name": "MDB",
-		"keywords": ["component", "bootstrap", "AVR"],
+		"keywords": ["component", "bootstrap", "angular", "react", "vue"],
 		"url": "https://mdbootstrap.com/",
 		"description": "Toolkit open source pour la conception de matériaux de construction avec bootstrap (Angular, Vue, React)",
 		"note": 5
 	},
 	{
-		"name": "Fast",
-		"keywords": ["component", "AVR"],
+		"name": "fast",
+		"keywords": ["component", "angular", "react", "vue"],
 		"url": "https://www.fast.design/",
 		"description": "FAST est un ensemble de technologies basées sur des composants Web (Angular, Vue, React) et des normes Web modernes developpE par Microsoft, conçues pour vous aider à relever efficacement certains des défis les plus courants en matière de conception et de développement de sites Web et d'applications.",
 		"note": 4
 	},
 	{
-		"name": "Flowbite",
-		"keywords": ["component", "tailwind"],
+		"name": "flowbite",
+		"keywords": ["component", "tailwind", "css"],
 		"url": "https://flowbite.com",
 		"description": "Bibliothèque Open-source des components Tailwind CSS",
 		"note": 4
 	},
 	{
 		"name": "daisyUI",
-		"keywords": ["component", "tailwind"],
+		"keywords": ["component", "tailwind", "css"],
 		"url": "https://daisyui.com/",
 		"description": "Tailwind CSS Components",
 		"note": 4
 	},
 	{
-		"name": "Tailblocks",
-		"keywords": ["component", "tailwind"],
+		"name": "tailblocks",
+		"keywords": ["component", "tailwind", "css"],
 		"url": "https://mertjf.github.io/tailblocks/",
 		"description": "Simple Tailwind CSS Components",
 		"note": 4
 	},
 	{
-		"name": "Creative-tim",
-		"keywords": ["kit", "bootstrap", "AVR"],
+		"name": "creative-tim",
+		"keywords": ["component", "bootstrap", "angular", "react", "vue"],
 		"url": "https://www.creative-tim.com/",
 		"description": "Kits d'interface utilisateur, modèles et tableaux de bord construits sur Bootstrap, Vue.js, React, Angular, Node.js et Laravel. Rejoignez plus de 1 838 844 créatifs!",
 		"note": 4
@@ -63,43 +63,43 @@
 		"note": 4
 	},
 	{
-		"name": "RNUILib",
-		"keywords": ["component", "reactnative"],
+		"name": "RNUI",
+		"keywords": ["component", "react-native"],
 		"url": "https://wix.github.io/react-native-ui-lib/docs/getting-started/setup",
 		"description": "React Native UI (RNUI) est une bibliothèque d'outils et de composants d'interface utilisateur pour React Native de Wix",
 		"note": 3
 	},
 	{
-		"name": "Vuetify",
-		"keywords": ["component", "vue"],
+		"name": "vuetify",
+		"keywords": ["component", "vue", "material-design"],
 		"url": "https://vuetifyjs.com/en/getting-started/installation/",
 		"description": "Cadre de composants Vue basé sur Material Design",
 		"note": 4
 	},
 	{
-		"name": "BootstrapVue",
+		"name": "bootstrapVue",
 		"keywords": ["component", "bootstrap", "vue"],
 		"url": "https://bootstrap-vue.org/docs",
 		"description": "Utiliser les composants Bootstrap avec Vue",
 		"note": 4
 	},
 	{
-		"name": "Angular Material",
-		"keywords": ["component", "angular"],
+		"name": "angular material",
+		"keywords": ["component", "angular", "material-design"],
 		"url": "https://material.angular.io/guide/getting-started/",
 		"description": "Cadre de composants Angular basé sur Material Design",
 		"note": 4
 	},
 	{
-		"name": "Angular powered Bootstrap",
+		"name": "angular powered bootstrap",
 		"keywords": ["component", "bootstrap", "angular"],
 		"url": "https://bootstrap-vue.org/docs",
 		"description": "Utiliser les composants Bootstrap avec Angular",
 		"note": 4
 	},
 	{
-		"name": "Hamburgers",
-		"keywords": ["menu"],
+		"name": "hamburgers",
+		"keywords": ["component", "navbar", "css"],
 		"url": "https://jonsuh.com/hamburgers/",
 		"description": "Hamburgers est une collection de savoureuses icônes de hamburger animées par CSS. La source est également incluse en tant que bibliothèque Sass. Il est modulable et personnalisable, alors préparez votre propre hamburger.",
 		"note": 5
