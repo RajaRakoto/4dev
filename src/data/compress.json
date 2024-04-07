@@ -1,7 +1,7 @@
 [
 	{
 		"name": "TinyPNG",
-		"keywords": ["compress"],
+		"keywords": ["compress", "image"],
 		"url": "https://tinypng.com/",
 		"description": "Compression PNG et JPEG intelligente",
 		"note": 4

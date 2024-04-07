@@ -1,21 +1,21 @@
 [
 	{
 		"name": "MUI",
-		"keywords": ["component", "react", "material-design"],
+		"keywords": ["component", "react", "material-design", "css"],
 		"url": "https://mui.com/material-ui/getting-started/",
 		"description": "MUI fournit une bibliothèque simple, personnalisable et accessible de composants React. Suivez votre propre système de conception ou commencez par Material Design.",
 		"note": 5
 	},
 	{
 		"name": "MDB",
-		"keywords": ["component", "bootstrap", "angular", "react", "vue"],
+		"keywords": ["component", "bootstrap", "angular", "react", "vue", "css"],
 		"url": "https://mdbootstrap.com/",
 		"description": "Toolkit open source pour la conception de matériaux de construction avec bootstrap (Angular, Vue, React)",
 		"note": 5
 	},
 	{
 		"name": "fast",
-		"keywords": ["component", "angular", "react", "vue"],
+		"keywords": ["component", "angular", "react", "vue", "css"],
 		"url": "https://www.fast.design/",
 		"description": "FAST est un ensemble de technologies basées sur des composants Web (Angular, Vue, React) et des normes Web modernes developpE par Microsoft, conçues pour vous aider à relever efficacement certains des défis les plus courants en matière de conception et de développement de sites Web et d'applications.",
 		"note": 4
@@ -43,21 +43,21 @@
 	},
 	{
 		"name": "creative-tim",
-		"keywords": ["component", "bootstrap", "angular", "react", "vue"],
+		"keywords": ["component", "bootstrap", "angular", "react", "vue", "css"],
 		"url": "https://www.creative-tim.com/",
 		"description": "Kits d'interface utilisateur, modèles et tableaux de bord construits sur Bootstrap, Vue.js, React, Angular, Node.js et Laravel. Rejoignez plus de 1 838 844 créatifs!",
 		"note": 4
 	},
 	{
 		"name": "chakra-UI",
-		"keywords": ["component", "react"],
+		"keywords": ["component", "react", "css"],
 		"url": "https://chakra-ui.com/guides/first-steps",
 		"description": "Créez rapidement des applications et des sites Web React accessibles.",
 		"note": 5
 	},
 	{
 		"name": "react-bootstrap",
-		"keywords": ["component", "bootstrap", "react"],
+		"keywords": ["component", "bootstrap", "react", "css"],
 		"url": "https://react-bootstrap.github.io/getting-started/introduction",
 		"description": "Bootstrap reconstruit pour React. Inclure les composants Bootstrap directement dans votre projet React",
 		"note": 4
@@ -71,28 +71,28 @@
 	},
 	{
 		"name": "vuetify",
-		"keywords": ["component", "vue", "material-design"],
+		"keywords": ["component", "vue", "material-design", "css"],
 		"url": "https://vuetifyjs.com/en/getting-started/installation/",
 		"description": "Cadre de composants Vue basé sur Material Design",
 		"note": 4
 	},
 	{
 		"name": "bootstrapVue",
-		"keywords": ["component", "bootstrap", "vue"],
+		"keywords": ["component", "bootstrap", "vue", "css"],
 		"url": "https://bootstrap-vue.org/docs",
 		"description": "Utiliser les composants Bootstrap avec Vue",
 		"note": 4
 	},
 	{
 		"name": "angular material",
-		"keywords": ["component", "angular", "material-design"],
+		"keywords": ["component", "angular", "material-design", "css"],
 		"url": "https://material.angular.io/guide/getting-started/",
 		"description": "Cadre de composants Angular basé sur Material Design",
 		"note": 4
 	},
 	{
 		"name": "angular powered bootstrap",
-		"keywords": ["component", "bootstrap", "angular"],
+		"keywords": ["component", "bootstrap", "angular", "css"],
 		"url": "https://bootstrap-vue.org/docs",
 		"description": "Utiliser les composants Bootstrap avec Angular",
 		"note": 4
@@ -103,5 +103,47 @@
 		"url": "https://jonsuh.com/hamburgers/",
 		"description": "Hamburgers est une collection de savoureuses icônes de hamburger animées par CSS. La source est également incluse en tant que bibliothèque Sass. Il est modulable et personnalisable, alors préparez votre propre hamburger.",
 		"note": 5
+	},
+	{
+		"name": "bootstrap",
+		"keywords": ["component", "bootstrap", "css"],
+		"url": "https://getbootstrap.com/",
+		"description": "Bootstrap est une collection d'outils utiles à la création du design de sites et d'applications web. C'est un ensemble qui contient des codes HTML et CSS, des formulaires, boutons, outils de navigation et autres éléments interactifs, ainsi que des extensions JavaScript en option.",
+		"note": 4
+	},
+	{
+		"name": "semantic UI",
+		"keywords": ["component", "css"],
+		"url": "https://semantic-ui.com/introduction/getting-started.html",
+		"description": "Semantic est un cadre de composants d'interface utilisateur basé sur des principes utiles du langage naturel.",
+		"note": 4
+	},
+	{
+		"name": "semantic UI react",
+		"keywords": ["component", "react", "css"],
+		"url": "https://react.semantic-ui.com",
+		"description": "Collection des composants react de semantic ui.",
+		"note": 4
+	},
+	{
+		"name": "tailwind css",
+		"keywords": ["component", "tailwind", "css"],
+		"url": "https://tailwindcss.com/",
+		"description": "Un framework CSS complètement personnalisable, basé sur le principe de classes utilitaires.",
+		"note": 4
+	},
+	{
+		"name": "materialize",
+		"keywords": ["component", "css"],
+		"url": "https://materializecss.com/",
+		"description": "Un framework front-end responsive moderne basé sur le Material Design.",
+		"note": 4
+	},
+	{
+		"name": "bulma",
+		"keywords": ["component", "css"],
+		"url": "https://bulma.io/",
+		"description": "Un framework CSS moderne no JS",
+		"note": 4
 	}
 ]
