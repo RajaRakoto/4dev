@@ -4,41 +4,41 @@
 		"keywords": ["image", "video"],
 		"url": "https://pixabay.com",
 		"description": "Plus de 1,7 million d'images et de vidéos de haute qualité",
-		"note": "⭐⭐⭐⭐⭐"
+		"note": 5
 	},
 	{
 		"name": "Pexels",
 		"keywords": ["image", "video"],
 		"url": "https://www.pexels.com",
 		"description": "La plus grande bibliothèque de vidéos gratuites, offerte par la communauté",
-		"note": "⭐⭐⭐⭐🟊"
+		"note": 4
 	},
 	{
 		"name": "Magdeleine",
 		"keywords": ["image", "theme"],
 		"url": "https://colorcurves.app",
 		"description": "Galerie et photo haute résolution gratuite tous les jours",
-		"note": "⭐⭐⭐⭐🟊"
+		"note": 4
 	},
 	{
 		"name": "giphy",
 		"keywords": ["gif"],
 		"url": "https://giphy.com/stickers/",
 		"description": "Collection d'images GIF",
-		"note": "⭐⭐⭐🟊🟊"
+		"note": 3
 	},
 	{
 		"name": "Bloggif",
 		"keywords": ["gif", "maker"],
 		"url": "https://www.bloggif.com/text",
 		"description": "Convertir un texte en image GIF",
-		"note": "⭐⭐⭐🟊🟊"
+		"note": 3
 	},
 	{
 		"name": "onlineOCR",
 		"keywords": ["ocr"],
 		"url": "https://www.onlineocr.net/fr/",
 		"description": "Convertir une image en texte",
-		"note": "⭐⭐⭐⭐🟊"
+		"note": 4
 	}
 ]
