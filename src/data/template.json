@@ -1,0 +1,58 @@
+[
+	{
+		"name": "HTML5 UP!",
+		"keywords": ["html", "css", "js"],
+		"url": "https://html5up.net",
+		"description": "Thèmes HTML5/CSS3 réactifs très modernes et uniques",
+		"note": 4
+	},
+	{
+		"name": "Bootswatch",
+		"keywords": ["bootstrap"],
+		"url": "https://bootswatch.com",
+		"description": "Collection des thèmes Bootstrap gratuit",
+		"note": 4
+	},
+	{
+		"name": "UI design daily",
+		"keywords": ["figma", "sketch", "photoshop"],
+		"url": "https://www.uidesigndaily.com",
+		"description": "Composants d'interface utilisateur impressionnants de tous types",
+		"note": 4
+	},
+	{
+		"name": "Collect UI",
+		"keywords": ["collection", "idea"],
+		"url": "https://collectui.com/designs",
+		"description": "Inspiration quotidienne collectée à partir des archives quotidiennes de l'interface utilisateur et au-delà. Triés sur le volet et mis à jour quotidiennement.",
+		"note": 5
+	},
+	{
+		"name": "awwwards",
+		"keywords": ["top", "web", "idea"],
+		"url": "https://www.awwwards.com/",
+		"description": "Un site Web qui évalue et collecte les meilleurs sites Web du monde en matière d'interface utilisateur",
+		"note": 4
+	},
+	{
+		"name": "lapa.ninja",
+		"keywords": ["web", "idea"],
+		"url": "https://www.lapa.ninja/",
+		"description": "Meilleure inspiration de page de destination",
+		"note": 4
+	},
+	{
+		"name": "buttons ui",
+		"keywords": ["btn", "idea"],
+		"url": "https://getcssscan.com/css-buttons-examples",
+		"description": "84 beaux exemples de boutons CSS.",
+		"note": 4
+	},
+	{
+		"name": "box shadow",
+		"keywords": ["box", "idea"],
+		"url": "https://getcssscan.com/css-box-shadow-examples",
+		"description": "91 Beaux exemples de boîte-ombre CSS.",
+		"note": 4
+	}
+]
