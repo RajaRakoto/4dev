@@ -50,7 +50,7 @@
 	},
 	{
 		"name": "Minify",
-		"keywords": ["css", "js"],
+		"keywords": ["css", "javascript"],
 		"url": "https://www.minifier.org/",
 		"description": "Rendez votre site Web plus petit et plus rapide à charger en minimisant le code JS et CSS.",
 		"note": 3

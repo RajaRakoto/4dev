@@ -22,7 +22,7 @@
 	},
 	{
 		"name": "remove.bg",
-		"keywords": ["editor", "bg"],
+		"keywords": ["editor", "background"],
 		"url": "https://www.remove.bg/fr/",
 		"description": "Supprimer rapidement les arrière-plans des images",
 		"note": 3
@@ -50,7 +50,7 @@
 	},
 	{
 		"name": "jsBin",
-		"keywords": ["editor", "js"],
+		"keywords": ["editor", "javascript"],
 		"url": "https://jsbin.com/?js,console",
 		"description": "Editeur de code Javascript en ligne",
 		"note": 4
