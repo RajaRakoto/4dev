@@ -1,7 +1,9 @@
-{
-	"name": "rapidAPI",
-	"keywords": ["api"],
-	"url": "https://rapidapi.com/hub",
-	"description": "Découvrez et connectez-vous à des milliers d'API",
-	"note": 4
-}
+[
+	{
+		"name": "rapidAPI",
+		"keywords": ["api"],
+		"url": "https://rapidapi.com/hub",
+		"description": "Découvrez et connectez-vous à des milliers d'API",
+		"note": 4
+	}
+]
