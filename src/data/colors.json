@@ -1,0 +1,37 @@
+[
+	{
+		"name": "ColorHunt",
+		"keywords": ["charte"],
+		"url": "https://colorhunt.co/palettes/popular",
+		"description": "Une plate-forme opensource pour l'inspiration des chartes graphiques avec des milliers de palettes de couleurs tendance triées sur le volet",
+		"note": 5
+	},
+	{
+		"name": "ColorBrewer",
+		"keywords": ["map based"],
+		"url": "https://colorbrewer2.org/#",
+		"description": "Le générateur de palette de couleurs d'origine, prenant également en charge le daltonisme. Probablement la meilleure option scientifiquement",
+		"note": 4
+	},
+	{
+		"name": "ColorCurves",
+		"keywords": ["courbe"],
+		"url": "https://colorcurves.app",
+		"description": "Générateur de palette de couleurs qui utilise des courbes pour générer des palettes de couleurs",
+		"note": 3
+	},
+	{
+		"name": "Duo",
+		"keywords": ["combinaison"],
+		"url": "https://duo.alexpate.uk",
+		"description": "Duo est une collection de combinaisons de couleurs que j'ai sélectionnées à partir de projets personnels ou que j'ai rencontrées sur le Web",
+		"note": 4
+	},
+	{
+		"name": "UI Gradients",
+		"keywords": ["gradient"],
+		"url": "https://uigradients.com",
+		"description": "Générateur de couleurs dégradés d'interface utilisateur",
+		"note": 4
+	}
+]
