@@ -1,7 +1,7 @@
 {
-  "name": "4web",
+  "name": "4dev",
   "version": "1.0.0",
-  "description": "4WEB is a collection of useful resources dedicated to web development 🕸️",
+  "description": "4DEV is a comprehensive toolkit catering to various development needs, with a predominant focus on web development 🛠️",
   "author": "Raja Rakotonirina <raja.rakoto7@gmail.com>",
   "license": "MIT",
   "type": "module",
@@ -18,13 +18,18 @@
     "dist"
   ],
   "keywords": [
+    "mobile",
     "collection",
     "web",
     "tools",
     "frontend",
     "backend",
+    "script",
+    "desktop",
+    "dev",
     "developer-tools",
-    "fullstack"
+    "fullstack",
+    "all-in-one"
   ],
   "engines": {
     "bun": ">= 1.0.26"
