@@ -1,0 +1,107 @@
+[
+	{
+		"name": "Wappalyzer",
+		"keywords": ["chrome", "extension"],
+		"url": "https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg/related",
+		"description": "Wappalyzer est un profileur technologique qui vous montre avec quoi les sites Web sont construits.",
+		"note": "⭐⭐⭐⭐⭐"
+	},
+	{
+		"name": "WhatRuns",
+		"keywords": ["chrome", "extension"],
+		"url": "https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en",
+		"description": "Découvrez ce qui gère un site Web. Frameworks, outils d'analyse, plugins Wordpress, polices - vous l'appelez.",
+		"note": "⭐⭐⭐🟊🟊"
+	},
+	{
+		"name": "React Developer Tools",
+		"keywords": ["chrome", "extension"],
+		"url": "https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi",
+		"description": "Réagissez les outils de débogage aux outils de développement Chrome. Il vous permet d'inspecter les hiérarchies des composants React dans les outils de développement Chrome.",
+		"note": "⭐⭐⭐⭐⭐"
+	},
+	{
+		"name": "Angular DevTools",
+		"keywords": ["chrome", "extension"],
+		"url": "https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh",
+		"description": "Angular DevTools vous permet de comprendre la structure de votre application et de prévisualiser l'état de la directive et des instances de composants.",
+		"note": "⭐⭐⭐⭐⭐"
+	},
+	{
+		"name": "Vue.js devtools",
+		"keywords": ["chrome", "extension"],
+		"url": "https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd",
+		"description": "Comprendre la structure de votre application et de prévisualiser l'état de la directive et des instances de composants Vue.",
+		"note": "⭐⭐⭐⭐⭐"
+	},
+	{
+		"name": "Web Developer",
+		"keywords": ["chrome", "extension"],
+		"url": "https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm",
+		"description": "Ajoute un bouton de barre d'outils avec divers outils de développement Web.",
+		"note": "⭐⭐⭐⭐🟊"
+	},
+	{
+		"name": "Awesome Screenshot & Screen Recorder",
+		"keywords": ["chrome", "extension"],
+		"url": "https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en",
+		"description": "Capture d'écran pleine page et enregistreur d'écran - 2 en 1. Partagez instantanément la vidéo screencast.",
+		"note": "⭐⭐⭐⭐🟊"
+	},
+	{
+		"name": "GoFullPage",
+		"keywords": ["chrome", "extension"],
+		"url": "https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl",
+		"description": "Capturez une capture d'écran de votre page actuelle dans son intégralité et de manière fiable, sans demander d'autorisations supplémentaires !.",
+		"note": "⭐⭐⭐⭐🟊"
+	},
+	{
+		"name": "Responsive Viewer",
+		"keywords": ["chrome", "extension"],
+		"url": "https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en",
+		"description": "Afficher plusieurs écrans une fois, testeur de conception réactive.",
+		"note": "⭐⭐⭐⭐⭐"
+	},
+	{
+		"name": "Pesticide",
+		"keywords": ["chrome", "extension"],
+		"url": "https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi",
+		"description": "Insère le CSS Pesticide dans la page actuelle, décrivant chaque élément HTML pour mieux voir le placement sur la page, utile pour créer des mises en page.",
+		"note": "⭐⭐⭐🟊🟊"
+	},
+	{
+		"name": "Site Palette",
+		"keywords": ["chrome", "extension"],
+		"url": "https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh",
+		"description": "Un outil indispensable pour les concepteurs et les développeurs frontend pour saisir les couleurs de n'importe quel site Web.",
+		"note": "⭐⭐⭐⭐⭐"
+	},
+	{
+		"name": "Imageye",
+		"keywords": ["chrome", "extension"],
+		"url": "https://chrome.google.com/webstore/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm",
+		"description": "Rechercher et télécharger toutes les images d'une page Web. Avec Imageye, vous pouvez trouver, parcourir et télécharger toutes les images présentes dans une page Web.",
+		"note": "⭐⭐⭐⭐⭐"
+	},
+	{
+		"name": "Fake Filler",
+		"keywords": ["chrome", "extension"],
+		"url": "https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo",
+		"description": "Fake Filler un remplisseur de formulaire qui remplit toutes les entrées d'une page avec des données fausses/factices.",
+		"note": "⭐⭐⭐⭐🟊"
+	},
+	{
+		"name": "CSSviewer",
+		"keywords": ["chrome", "extension"],
+		"url": "https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce",
+		"description": "Une simple visionneuse de propriétés CSS.",
+		"note": "⭐⭐⭐🟊🟊"
+	},
+	{
+		"name": "Lighthouse",
+		"keywords": ["chrome", "extension"],
+		"url": "https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk",
+		"description": " Un outil open source et automatisé pour améliorer les performances, la qualité et l'exactitude de vos applications Web.",
+		"note": "⭐⭐⭐⭐⭐"
+	}
+]
