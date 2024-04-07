@@ -1,0 +1,23 @@
+[
+	{
+		"name": "swiper.js",
+		"keywords": ["slider", "angular", "react", "vue", "javascript"],
+		"url": "https://swiperjs.com/get-started/",
+		"description": "Carousel gratuit, elegant et moderne sans jQuery. Disponible pour Vanilla JS et tous les frameworks modernes comme React, Vue, Angular etc...",
+		"note": 5
+	},
+	{
+		"name": "splide.js",
+		"keywords": ["slider", "javascript"],
+		"url": "https://splidejs.com/",
+		"description": "Splide est un slider/carrousel léger, flexible et accessible écrit en TypeScript. Pas de dépendances, pas d'erreurs Lighthouse.",
+		"note": 4
+	},
+	{
+		"name": "slick",
+		"keywords": ["slider", "javascript", "jquery"],
+		"url": "https://kenwheeler.github.io/slick/",
+		"description": "Carrousel entièrement réactif et ultra legere en jQuery",
+		"note": 3
+	}
+]
