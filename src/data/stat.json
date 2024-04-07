@@ -1,0 +1,16 @@
+[
+	{
+		"name": "stateofcss",
+		"keywords": ["stat"],
+		"url": "https://2021.stateofcss.com/fr-FR/",
+		"description": "Statistique CSS et ses technologies.",
+		"note": 5
+	},
+	{
+		"name": "stateofjs",
+		"keywords": ["stat"],
+		"url": "https://2021.stateofjs.com/fr-FR/",
+		"description": "Statistique Javascript et ses technologies.",
+		"note": 5
+	}
+]
