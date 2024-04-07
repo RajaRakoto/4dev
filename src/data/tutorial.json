@@ -1,0 +1,44 @@
+[
+	{
+		"name": "roadmap.sh",
+		"keywords": ["roadmap"],
+		"url": "https://www.roadmap.sh/",
+		"description": "roadmap.sh est un effort communautaire pour créer des feuilles de route, des guides et d'autres contenus éducatifs pour aider les développeurs à choisir le chemin et guider leurs apprentissages.",
+		"note": 4
+	},
+	{
+		"name": "docstring",
+		"keywords": ["python roadmap"],
+		"url": "https://www.docstring.fr",
+		"description": "Apprenez à coder avec l'accompagnement Docstring. Maîtrisez le langage de programmation PYTHON.",
+		"note": 5
+	},
+	{
+		"name": "MDN",
+		"keywords": ["docs", "tuto"],
+		"url": "https://developer.mozilla.org/fr/docs/Web/",
+		"description": "DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable.",
+		"note": 5
+	},
+	{
+		"name": "Grafikart",
+		"keywords": ["web", "devops", "tuto"],
+		"url": "https://grafikart.fr/formations/",
+		"description": "Découvrez une technologie spécifique à travers une série de vidéo qui vous guidera dans votre apprentissage",
+		"note": 5
+	},
+	{
+		"name": "Pierre Giraud",
+		"keywords": ["web", "tuto"],
+		"url": "https://www.pierre-giraud.com/",
+		"description": "Toutes vos ressources sur le développement web, apprenez à coder en HTML, CSS, JavaScript, Python, PHP.",
+		"note": 4
+	},
+	{
+		"name": "Coding Artist",
+		"keywords": ["articles", "design", "tuto"],
+		"url": "https://codingartistweb.com/",
+		"description": "Coding Artist se consacre à vous fournir des didacticiels de codage rapides et simples mais efficaces. Nous fournissons les meilleurs tutoriels sur HTML, CSS et Javascript.",
+		"note": 5
+	}
+]
