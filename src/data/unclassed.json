@@ -1,0 +1,37 @@
+[
+	{
+		"name": "jsDelivr",
+		"keywords": ["search", "engine"],
+		"url": "https://www.jsdelivr.com/",
+		"description": "jsDelivr est un moteur de recherche puissant pour développeur, ce dernier offre des liens qui permet d'accéder rapidement au site officiel, documentation, GitHub ou même télécharger directement un package",
+		"note": 5
+	},
+	{
+		"name": "bootstrap-cheatsheet",
+		"keywords": ["bootstrap", "cheatsheets"],
+		"url": "https://bootstrap-cheatsheet.themeselection.com/index.html",
+		"description": "Une liste interactive des classes, variables et mixins Bootstrap 5. Le seul CheatSheet Bootstrap 5 dont vous aurez besoin.",
+		"note": 4
+	},
+	{
+		"name": "DevHint",
+		"keywords": ["all", "cheatsheets"],
+		"url": "https://devhints.io/",
+		"description": "Une collection de cheatsheets.",
+		"note": 5
+	},
+	{
+		"name": "DevDocs",
+		"keywords": ["all", "docs"],
+		"url": "https://devdocs.io/",
+		"description": "DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable.",
+		"note": 5
+	},
+	{
+		"name": "evozi",
+		"keywords": ["android"],
+		"url": "https://apps.evozi.com/apk-downloader/",
+		"description": "Un site qui permet de télécharger directement des APK dans Playstore",
+		"note": 5
+	}
+]
