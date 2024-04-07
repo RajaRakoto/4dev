@@ -1,0 +1,32 @@
+[
+	{
+		"name": "discord.me",
+		"url": "https://discord.me/servers",
+		"description": "Discord Me est une plate-forme qui connecte les gens avec des serveurs et des bots publics. Nous sommes là pour vous aider à trouver le serveur parfait !",
+		"note": 5
+	},
+	{
+		"name": "grafikart discord",
+		"url": "https://discord.com/invite/rAuuD7Q",
+		"description": "La communautE discord de Grafikart est l'un des serveurs fr le plus actif",
+		"note": 5
+	},
+	{
+		"name": "speakJS",
+		"url": "https://discord.com/invite/FePZ6VR4",
+		"description": "Une communauté de plus de 16 000 développeurs JavaScript.",
+		"note": 5
+	},
+	{
+		"name": "Nodeiflux",
+		"url": "https://discord.com/invite/aD42zPx",
+		"description": "Une communauté amicale de développeurs actifs et en herbe. Il s'agit d'un environnement professionnel pour apprendre, partager des connaissances et grandir personnellement et professionnellement.",
+		"note": 4
+	},
+	{
+		"name": "Reactiflux",
+		"url": "https://discord.gg/jGKhXV26d8",
+		"description": "Une communauté dedié pour les developpeur ReactJS.",
+		"note": 5
+	}
+]
