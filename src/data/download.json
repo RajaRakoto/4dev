@@ -1,0 +1,95 @@
+[
+	{
+		"name": "evozi",
+		"keywords": ["download", "apk", "android"],
+		"url": "https://apps.evozi.com/apk-downloader/",
+		"description": "Un site qui permet de télécharger directement des APK dans Playstore",
+		"note": 5
+	},
+	{
+		"name": "apkpure",
+		"keywords": ["download", "apk", "android"],
+		"url": "https://apkpure.com/",
+		"description": "Un site qui permet de télécharger des APK",
+		"note": 5
+	},
+	{
+		"name": "uptodown",
+		"keywords": ["download", "apk", "android"],
+		"url": "https://uptodown.com",
+		"description": "Un site qui permet de télécharger des APK",
+		"note": 5
+	},
+	{
+		"name": "modyolo",
+		"keywords": ["download", "apk", "android", "mod"],
+		"url": "https://modyolo.com",
+		"description": "Un site qui permet de télécharger des APK modifiés",
+		"note": 5
+	},
+	{
+		"name": "y2mate",
+		"keywords": ["download", "youtube", "video", "audio", "mp4", "mp3"],
+		"url": "https://www.y2mate.com/en19",
+		"description": "Un site qui permet de télécharger des vidéos et des audios de Youtube",
+		"note": 5
+	},
+	{
+		"name": "x2download",
+		"keywords": ["download", "youtube", "video", "audio", "mp4", "mp3"],
+		"url": "https://x2download.com/fr29",
+		"description": "Un site qui permet de télécharger des vidéos et des audios de Youtube",
+		"note": 5
+	},
+	{
+		"name": "playlist downloader",
+		"keywords": [
+			"download",
+			"youtube",
+			"playlist",
+			"video",
+			"audio",
+			"mp4",
+			"mp3"
+		],
+		"url": "https://playlist.downloader.is/",
+		"description": "Un site qui permet de télécharger des playlists de Youtube",
+		"note": 4
+	},
+	{
+		"name": "filehippo",
+		"keywords": ["download", "software", "windows"],
+		"url": "https://filehippo.com/",
+		"description": "Un site qui permet de télécharger des logiciels pour Windows",
+		"note": 4
+	},
+	{
+		"name": "getintopc",
+		"keywords": ["download", "software", "windows"],
+		"url": "https://getintopc.com/",
+		"description": "Un site qui permet de télécharger des logiciels pour Windows",
+		"note": 5
+	},
+	{
+		"name": "commentcamarche",
+		"keywords": [
+			"download",
+			"software",
+			"windows",
+			"mac",
+			"linux",
+			"android",
+			"ios"
+		],
+		"url": "https://www.commentcamarche.net/download/",
+		"description": "Un site qui permet de télécharger des logiciels pour Windows, Mac, Linux, Android et iOS",
+		"note": 5
+	},
+	{
+		"name": "facebook downloader",
+		"keywords": ["download", "facebook", "video"],
+		"url": "https://fdown.net/index.php",
+		"description": "Un site qui permet de télécharger des vidéos de Facebook",
+		"note": 5
+	}
+]
