@@ -92,10 +92,24 @@
 		"note": 5
 	},
 	{
-		"name": "Codesandbox",
+		"name": "codesandbox",
 		"keywords": ["editor", "playground", "ide"],
 		"url": "https://codesandbox.io/",
 		"description": "Le playground le plus populaire du moment",
 		"note": 4
+	},
+	{
+		"name": "canva",
+		"keywords": ["editor", "design", "illustrator", "logo", "image", "video"],
+		"url": "https://www.canva.com/",
+		"description": "Canva est un outil de design graphique en ligne gratuit",
+		"note": 5
+	},
+	{
+		"name": "zety",
+		"keywords": ["editor", "cv", "resume", "job", "illustrator"],
+		"url": "https://zety.fr/",
+		"description": "Créez un CV professionnel en quelques minutes",
+		"note": 5
 	}
 ]
