@@ -1,0 +1,30 @@
+[
+	{
+		"name": "bootstrap-cheatsheet",
+		"keywords": ["docs", "bootstrap", "cheatsheet"],
+		"url": "https://bootstrap-cheatsheet.themeselection.com/index.html",
+		"description": "Une liste interactive des classes, variables et mixins Bootstrap 5. Le seul CheatSheet Bootstrap 5 dont vous aurez besoin.",
+		"note": 4
+	},
+	{
+		"name": "devhint",
+		"keywords": ["docs", "cheatsheet", "collection"],
+		"url": "https://devhints.io/",
+		"description": "Une collection de cheatsheet.",
+		"note": 5
+	},
+	{
+		"name": "devdocs",
+		"keywords": ["docs", "collection"],
+		"url": "https://devdocs.io/",
+		"description": "DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable.",
+		"note": 5
+	},
+	{
+		"name": "jsDelivr",
+		"keywords": ["docs", "search", "cdn", "package"],
+		"url": "https://www.jsdelivr.com/",
+		"description": "jsDelivr est un moteur de recherche puissant pour développeur, ce dernier offre des liens qui permet d'accéder rapidement au site officiel, documentation, GitHub ou même télécharger directement un package",
+		"note": 5
+	}
+]
