@@ -1,0 +1,53 @@
+[
+	{
+		"name": "linkedin",
+		"keywords": [
+			"plateform",
+			"social",
+			"network",
+			"professional",
+			"job",
+			"community"
+		],
+		"url": "https://www.linkedin.com/",
+		"description": "LinkedIn est un réseau social professionnel en ligne créé en 2002 à Mountain View en Californie. Il est lancé en mai 2003. Le site est disponible en français depuis 2007. Le 13 juin 2016, Microsoft annonce le rachat du réseau social pour 26,2 milliards de dollars.",
+		"note": 5
+	},
+	{
+		"name": "discord",
+		"keywords": ["plateform", "chat", "communication", "gaming", "community"],
+		"url": "https://discord.com/",
+		"description": "Discord est une plateforme de VoIP et de messagerie instantanée. Il fonctionne sur les systèmes d’exploitation Windows, macOS, Linux, Android, iOS ainsi que sur les navigateurs web. Il est distribué sous forme de freeware et développé avec une licence propriétaire.",
+		"note": 5
+	},
+	{
+		"name": "slack",
+		"keywords": [
+			"plateform",
+			"project",
+			"management",
+			"organization",
+			"communication",
+			"team",
+			"community"
+		],
+		"url": "https://slack.com/",
+		"description": "Slack est une plateforme de communication collaborative propriétaire créée par Stewart Butterfield. Elle est très utilisée dans le monde professionnel.",
+		"note": 4
+	},
+	{
+		"name": "trello",
+		"keywords": [
+			"plateform",
+			"project",
+			"management",
+			"organization",
+			"communication",
+			"team",
+			"community"
+		],
+		"url": "https://trello.com/",
+		"description": "Trello est un outil de gestion de projet en ligne. Il a été créé par Fog Creek Software en 2011 et a été acquis par Atlassian en janvier 2017.",
+		"note": 5
+	}
+]
