@@ -1,0 +1,30 @@
+[
+	{
+		"name": "minify",
+		"keywords": ["formatter", "minify", "css", "javascript"],
+		"url": "https://www.minifier.org/",
+		"description": "Rendez votre site Web plus petit et plus rapide à charger en minimisant le code JS et CSS.",
+		"note": 3
+	},
+	{
+		"name": "jsonformatter",
+		"keywords": ["formatter", "validator", "json", "javascript"],
+		"url": "https://jsonformatter.curiousconcept.com/",
+		"description": "Validateur JSON",
+		"note": 4
+	},
+	{
+		"name": "smalldev.io",
+		"keywords": [
+			"formatter",
+			"minify",
+			"beautify",
+			"html",
+			"css",
+			"javascript"
+		],
+		"url": "https://smalldev.tools/",
+		"description": "Outil gratuit pour les développeurs web pour aider avec Beautify & Minify HTML/CSS/Javascript, et de nombreux autres outils pratiques. Avec une interface délicieuse.",
+		"note": 4
+	}
+]
