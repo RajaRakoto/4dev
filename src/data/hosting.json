@@ -26,5 +26,40 @@
 		"url": "https://dashboard.ngrok.com/",
 		"description": "ngrok est un proxy inverse distribué dans le monde entier faisant face à vos services Web s'exécutant dans n'importe quel cloud ou réseau privé, ou sur votre machine.",
 		"note": 5
+	},
+	{
+		"name": "pythonanywhere",
+		"keywords": ["hosting", "backend", "python", "django"],
+		"url": "https://www.pythonanywhere.com/",
+		"description": "PythonAnywhere est un service d'hébergement de sites Web qui permet aux utilisateurs d'exécuter des applications Web écrites en langage de programmation Python sur des serveurs distants.",
+		"note": 4
+	},
+	{
+		"name": "vercel",
+		"keywords": ["hosting", "frontend"],
+		"url": "https://vercel.com/",
+		"description": "Vercel est une plateforme de déploiement cloud qui permet aux développeurs de déployer des applications frontales et des fonctions côté serveur sans configuration.",
+		"note": 5
+	},
+	{
+		"name": "aws",
+		"keywords": ["hosting", "backend"],
+		"url": "https://aws.amazon.com/",
+		"description": "Amazon Web Services (AWS) est une plateforme de services cloud proposée par Amazon.",
+		"note": 5
+	},
+	{
+		"name": "o2switch",
+		"keywords": ["hosting", "frontend", "backend"],
+		"url": "https://www.o2switch.fr/",
+		"description": "o2switch est un hébergeur web français.",
+		"note": 4
+	},
+	{
+		"name": "cloudflare",
+		"keywords": ["hosting", "sercurity", "dns"],
+		"url": "https://www.cloudflare.com/",
+		"description": "Cloudflare est une entreprise américaine qui propose des services de réseau de diffusion de contenu, de pare-feu applicatif, de serveur proxy inverse et de DNS distribué.",
+		"note": 5
 	}
 ]
