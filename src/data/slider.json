@@ -14,7 +14,7 @@
 		"note": 4
 	},
 	{
-		"name": "slick",
+		"name": "slick.js",
 		"keywords": ["slider", "jquery", "javascript"],
 		"url": "https://kenwheeler.github.io/slick/",
 		"description": "Carrousel entièrement réactif et ultra legere en jQuery",

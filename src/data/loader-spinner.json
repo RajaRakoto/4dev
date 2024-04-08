@@ -1,14 +1,14 @@
 [
 	{
-		"name": "CSS Loaders & Spinners",
-		"keywords": ["loader"],
+		"name": "css loaders & spinners",
+		"keywords": ["loader", "spinner"],
 		"url": "https://cssloaders.github.io/",
 		"description": "Il s'agit d'une bibliothèque ayant une collection de différents types de chargeurs CSS, spinners.",
 		"note": 5
 	},
 	{
-		"name": "SpinKit",
-		"keywords": ["loader"],
+		"name": "spinkit",
+		"keywords": ["loader", "spinner"],
 		"url": "https://tobiasahlin.com/spinkit/",
 		"description": "Simple CSS Spinners.",
 		"note": 4
