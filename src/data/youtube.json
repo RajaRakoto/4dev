@@ -11,14 +11,14 @@
 			"actu"
 		],
 		"url": "https://www.youtube.com/@cocadmin",
-		"description": "Sysadmin de l'extreme",
+		"description": "Sysadmin de l'extreme.",
 		"note": 5
 	},
 	{
 		"name": "cookie connecté",
 		"keywords": ["youtube", "tutorial", "tips", "actu"],
 		"url": "https://www.youtube.com/@Cookieconnecte",
-		"description": "Mon défi avec cette chaîne est de vous expliquer un sujet complexe de l'informatique ou du numérique en moins de 10 minutes. Le cloud, l'infrastructure et les nouvelles tendances IT sont ma passion et j'ai envie de vous partager mes connaissances.Des dessins simples et des explications concises sont ma méthode pour vous faire digérer l'indigeste. Chaque vidéo est une synthèse sur les concepts clé à retenir d'une notion technique informatique",
+		"description": "Mon défi avec cette chaîne est de vous expliquer un sujet complexe de l'informatique ou du numérique en moins de 10 minutes. Le cloud, l'infrastructure et les nouvelles tendances IT sont ma passion et j'ai envie de vous partager mes connaissances.Des dessins simples et des explications concises sont ma méthode pour vous faire digérer l'indigeste. Chaque vidéo est une synthèse sur les concepts clé à retenir d'une notion technique informatique.",
 		"note": 4
 	},
 	{
@@ -34,14 +34,14 @@
 			"opensource"
 		],
 		"url": "https://github.com/priximmo/sommaire-xavki-devops-fr/",
-		"description": "Des tutoriels et formations gratuites en français pour bien débuter sur des outils linux, devops et opensource. La chaine xavki c'est plus de 1400 vidéos. Cette ensemble de tutoriels représente plus de 500 heures de tutos pour progresser en toute simplicité autour du devops. Vous pouvez vous abonner mais également devenir membre pour disposer sans attendre des vidéos programmées mais en attente de publication (environ 230)",
+		"description": "Des tutoriels et formations gratuites en français pour bien débuter sur des outils linux, devops et opensource. La chaine xavki c'est plus de 1400 vidéos. Cette ensemble de tutoriels représente plus de 500 heures de tutos pour progresser en toute simplicité autour du devops. Vous pouvez vous abonner mais également devenir membre pour disposer sans attendre des vidéos programmées mais en attente de publication (environ 230).",
 		"note": 5
 	},
 	{
 		"name": "khaos farbauti ibn oblivion",
 		"keywords": ["youtube", "tutorial", "tips", "pentest", "hacking"],
 		"url": "https://www.youtube.com/@KhaosFarbautiIbnOblivion",
-		"description": "Chaine tuto pentest & CTF (capture the flag)",
+		"description": "Chaine tuto pentest & CTF (capture the flag).",
 		"note": 3
 	},
 	{
@@ -55,21 +55,21 @@
 			"hacking"
 		],
 		"url": "https://www.youtube.com/@processusthief",
-		"description": "Vous adorez la cybersécurité ? Moi aussi. Alors venez partager votre passion sur la chaîne ! Je n'ai pas la prétention de tout connaître, mais j'essaye de partager au mieux mes connaissances ! Contournement d'antivirus, Passage de certifications, Exploitation de vulnérabilités, on s'attaque à tous les sujets !",
+		"description": "Vous adorez la cybersécurité ? Moi aussi. Alors venez partager votre passion sur la chaîne ! Je n'ai pas la prétention de tout connaître, mais j'essaye de partager au mieux mes connaissances ! Contournement d'antivirus, Passage de certifications, Exploitation de vulnérabilités, on s'attaque à tous les sujets !.",
 		"note": 4
 	},
 	{
 		"name": "graven ilvec",
 		"keywords": ["youtube", "tutorial", "tips", "dev"],
 		"url": "https://www.youtube.com/@Gravenilvectuto",
-		"description": "Passionné par la programmation informatique depuis 7ans+, vous trouverez sur ma chaine des vidéos en lien avec ce sujet",
+		"description": "Passionné par la programmation informatique depuis 7ans+, vous trouverez sur ma chaine des vidéos en lien avec ce sujet.",
 		"note": 4
 	},
 	{
 		"name": "pierre giraud",
 		"keywords": ["youtube", "tutorial", "tips", "dev"],
 		"url": "https://www.youtube.com/@PierreGiraudcom",
-		"description": "Sur cette chaîne, vous trouverez principalement des tutoriels vidéos complets de programmation (HTML, CSS, JavaScript, PhP, MySQL, etc.). Ces tutoriels vous apprendront à coder étape par étape et sont complètements gratuits",
+		"description": "Sur cette chaîne, vous trouverez principalement des tutoriels vidéos complets de programmation (HTML, CSS, JavaScript, PhP, MySQL, etc.). Ces tutoriels vous apprendront à coder étape par étape et sont complètements gratuits.",
 		"note": 4
 	},
 	{
@@ -97,56 +97,56 @@
 		"name": "codeconcept",
 		"keywords": ["youtube", "tutorial", "tips", "dev", "javascript", "actu"],
 		"url": "https://www.youtube.com/@codeconcept",
-		"description": "Cette chaîne va vous permettre de passer de nouveaux paliers en JavaScript Front, Back ou Full Stack plus rapidement. Elle vous permettra également de faire votre veille techno JavaScript",
+		"description": "Cette chaîne va vous permettre de passer de nouveaux paliers en JavaScript Front, Back ou Full Stack plus rapidement. Elle vous permettra également de faire votre veille techno JavaScript.",
 		"note": 4
 	},
 	{
 		"name": "kodaps",
 		"keywords": ["youtube", "tutorial", "tips", "dev", "actu"],
 		"url": "https://www.youtube.com/@kodaps_fr",
-		"description": "Pour moi, après 15 ans de carrière dans les jeux vidéos, coder ce n'est pas seulement un travail. Pour moi, le code est un jeu: un jeu de réflexion, un jeu d'exploration, mais avant tout un jeu de construction. Et ma passion, c'est de partager cette joie de coder",
+		"description": "Pour moi, après 15 ans de carrière dans les jeux vidéos, coder ce n'est pas seulement un travail. Pour moi, le code est un jeu: un jeu de réflexion, un jeu d'exploration, mais avant tout un jeu de construction. Et ma passion, c'est de partager cette joie de coder.",
 		"note": 5
 	},
 	{
 		"name": "_underscore",
 		"keywords": ["youtube", "tips", "actu"],
 		"url": "https://www.youtube.com/@Underscore_",
-		"description": "Le talk-show des passionnés de l'IT",
+		"description": "Le talk-show des passionnés de l'IT.",
 		"note": 5
 	},
 	{
 		"name": "devoxx fr",
 		"keywords": ["youtube", "conference", "tips", "actu"],
 		"url": "https://www.youtube.com/@DevoxxFRvideos",
-		"description": "Devoxx France est une conférence en 2 temps forts, sur 3 jours. La première journée, appelée \"University\", vous permet d'assister à des présentations longues et de participer à des ateliers. Le jeudi et le vendredi, Devoxx France propose d'abord des Keynotes, autour d'orateurs prestigieux, puis ensuite un cycle de 8 conférences, toutes les de 45 mn. Vous pouvez ainsi construire votre propre agenda et suivre différentes sessions selon vos envies",
+		"description": "Devoxx France est une conférence en 2 temps forts, sur 3 jours. La première journée, appelée \"University\", vous permet d'assister à des présentations longues et de participer à des ateliers. Le jeudi et le vendredi, Devoxx France propose d'abord des Keynotes, autour d'orateurs prestigieux, puis ensuite un cycle de 8 conférences, toutes les de 45 mn. Vous pouvez ainsi construire votre propre agenda et suivre différentes sessions selon vos envies.",
 		"note": 5
 	},
 	{
 		"name": "programming with mosh",
 		"keywords": ["youtube", "tutorial", "tips", "dev"],
 		"url": "https://www.youtube.com/@programmingwithmosh",
-		"description": "Hi! I'm Mosh, a software engineer with over 20 years of experience.  I'm all about clear, concise, practical coding tutorials – no fluff, just the good stuff! My courses focus on real-world projects and the skills that will get you hired. I've helped millions of students transform their careers.",
+		"description": "Hi! I'm Mosh, a software engineer with over 20 years of experience.  I'm all about clear, concise, practical coding tutorials – no fluff, just the good stuff! My courses focus on real-world projects and the skills that will get you hired. I've helped millions of students transform their careers..",
 		"note": 5
 	},
 	{
 		"name": "freecodecamp.org",
 		"keywords": ["youtube", "tutorial", "tips", "dev"],
 		"url": "https://www.youtube.com/@freecodecamp",
-		"description": "We're an open source community of busy people who learn to code and build projects for nonprofits",
+		"description": "We're an open source community of busy people who learn to code and build projects for nonprofits.",
 		"note": 5
 	},
 	{
 		"name": "traversy media",
 		"keywords": ["youtube", "tutorial", "tips", "dev"],
 		"url": "https://www.youtube.com/@traversymedia",
-		"description": "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies from the building blocks of HTML, CSS & JavaScript to frontend frameworks like React and Vue to backend technologies like Node.js, Python and PHP",
+		"description": "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies from the building blocks of HTML, CSS & JavaScript to frontend frameworks like React and Vue to backend technologies like Node.js, Python and PHP.",
 		"note": 4
 	},
 	{
 		"name": "net ninja",
 		"keywords": ["youtube", "tutorial", "tips", "dev"],
 		"url": "https://www.youtube.com/@NetNinja",
-		"description": "Black-belt your web development skills. Over 2000 free programming tutorial videos about: Modern JavaScript (beginner to advanced), Node.js, React, Vue.js, Firebase, MongoDB, HTML & CSS, Web Design, Git, GitHub, Python, TypeScript, ES6, Babel, Webpack, PHP, Laravel, MySQL, WordPress, Docker, and more",
+		"description": "Black-belt your web development skills. Over 2000 free programming tutorial videos about: Modern JavaScript (beginner to advanced), Node.js, React, Vue.js, Firebase, MongoDB, HTML & CSS, Web Design, Git, GitHub, Python, TypeScript, ES6, Babel, Webpack, PHP, Laravel, MySQL, WordPress, Docker, and more.",
 		"note": 5
 	}
 ]
