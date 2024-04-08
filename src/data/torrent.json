@@ -1,0 +1,58 @@
+[
+	{
+		"name": "yggtorrent",
+		"keywords": ["torrent", "download"],
+		"url": "https://www.yggtorrent.wtf/",
+		"description": "YggTorrent est un site de téléchargement de Torrent: Films, Séries, Albums, Logiciels, Jeux, etc ...",
+		"note": 5
+	},
+	{
+		"name": "torrent9",
+		"keywords": ["torrent", "download"],
+		"url": "https://www.torrent9.fm/",
+		"description": "Torrent9 permet de télécharger des torrents de films, séries, musique, logiciels et jeux. Accès direct à 30.000 torrents sans inscription et sans ratio !",
+		"note": 5
+	},
+	{
+		"name": "cpasbien",
+		"keywords": ["torrent", "download"],
+		"url": "https://www.cpasbien.to/",
+		"description": "Télécharger des torrents",
+		"note": 4
+	},
+	{
+		"name": "piratebay",
+		"keywords": ["torrent", "download"],
+		"url": "https://thepirate-bay.org/home133",
+		"description": "Download music, movies, games, software and much more. The Pirate Bay is the galaxy's most resilient BitTorrent site.",
+		"note": 5
+	},
+	{
+		"name": "torrentSeeker",
+		"keywords": ["torrent", "search"],
+		"url": "https://torrentz2.eu/",
+		"description": "TorrentSeeker is a powerful torrent search combining results from dozens of torrent search engines.",
+		"note": 5
+	},
+	{
+		"name": "1337x",
+		"keywords": ["torrent", "download"],
+		"url": "https://1337x.to/",
+		"description": "1337x is a search engine to find your favorite torrents.",
+		"note": 4
+	},
+	{
+		"name": "seedr",
+		"keywords": ["torrent", "download", "cloud"],
+		"url": "https://www.seedr.cc/",
+		"description": "Seedr is a secure and anonymous torrent download service that allows you to direct download torrent files anonymously.",
+		"note": 4
+	},
+	{
+		"name": "zbigz",
+		"keywords": ["torrent", "download", "cloud"],
+		"url": "https://zbigz.com/",
+		"description": "ZbigZ is a cloud storage service that lets you download torrents directly from your browser.",
+		"note": 4
+	}
+]
