@@ -1,0 +1,72 @@
+[
+	{
+		"name": "chatGPT",
+		"keywords": ["ai", "gpt", "generative", "model"],
+		"url": "https://chat.openai.com/chat",
+		"description": "Chat with an AI model trained by OpenAI. It can generate human-like text based on the input you provide.",
+		"note": 5
+	},
+	{
+		"name": "perplexity",
+		"keywords": ["ai", "search", "generative", "model", "upload"],
+		"url": "https://perplexity.ai/",
+		"description": "Search for AI models and chat with them. You can also upload your own files to generate text based on them. Perplexity AI unlocks the power of knowledge with information discovery and sharing.",
+		"note": 5
+	},
+	{
+		"name": "phind",
+		"keywords": ["ai", "gpt", "search", "dev", "generative", "model"],
+		"url": "https://www.phind.com/",
+		"description": "Phind is an intelligent answer engine for developers. Focused on helping you solve challenging problems, it uses generative AI to give you the answer you're looking for.",
+		"note": 5
+	},
+	{
+		"name": "claude",
+		"keywords": ["ai", "generative", "model", "upload"],
+		"url": "https://claude.ai/chat",
+		"description": "Claude is a conversational AI that can generate human-like text based on the input you provide. You can also upload your own files to generate text based on them.",
+		"note": 5
+	},
+	{
+		"name": "leonardo ai",
+		"keywords": [
+			"ai",
+			"illustrator",
+			"imagine",
+			"generative",
+			"image",
+			"model"
+		],
+		"url": "https://leonardo.ai/",
+		"description": "Transform your projects with our AI image generator. Generate high-quality, AI generated images with unparalleled speed and style to elevate your creative ...",
+		"note": 5
+	},
+	{
+		"name": "midjourney",
+		"keywords": [
+			"ai",
+			"illustrator",
+			"imagine",
+			"generative",
+			"image",
+			"model"
+		],
+		"url": "https://midjourney.com/",
+		"description": "An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
+		"note": 5
+	},
+	{
+		"name": "mistral ai",
+		"keywords": [
+			"ai",
+			"training",
+			"learning",
+			"finetune",
+			"model",
+			"opensource"
+		],
+		"url": "https://mistral.ai/fr/",
+		"description": "Une IA générative ouverte et portable pour les développeurs et les entreprises.",
+		"note": 5
+	}
+]
