@@ -1,28 +1,28 @@
 [
 	{
-		"name": "render (frontend & backend)",
-		"keywords": ["frontend", "backend"],
+		"name": "render",
+		"keywords": ["hosting", "frontend", "backend"],
 		"url": "https://render.com/",
 		"description": "Render est un cloud unifié pour créer et exécuter toutes vos applications et sites Web avec des certificats TLS gratuits, un CDN mondial, des réseaux privés et des déploiements automatiques à partir de Git.",
 		"note": 5
 	},
 	{
-		"name": "heroku (backend)",
-		"keywords": ["backend"],
+		"name": "heroku",
+		"keywords": ["hosting", "backend"],
 		"url": "https://www.heroku.com/",
 		"description": "Heroku est une entreprise créant des logiciels pour serveur qui permettent le déploiement d'applications web.",
 		"note": 4
 	},
 	{
-		"name": "netlify (frontend)",
-		"keywords": ["frontend"],
+		"name": "netlify",
+		"keywords": ["hosting", "frontend"],
 		"url": "https://www.netlify.com/",
 		"description": "Netlify est à la fois un outil d'hébergement et de création de sites et d'applications web.",
 		"note": 5
 	},
 	{
-		"name": "ngrok (tunnel)",
-		"keywords": ["tunnel"],
+		"name": "ngrok",
+		"keywords": ["hosting", "tunneling", "proxy"],
 		"url": "https://dashboard.ngrok.com/",
 		"description": "ngrok est un proxy inverse distribué dans le monde entier faisant face à vos services Web s'exécutant dans n'importe quel cloud ou réseau privé, ou sur votre machine.",
 		"note": 5

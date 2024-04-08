@@ -1,21 +1,21 @@
 [
 	{
-		"name": "Photopea [photoshop]",
-		"keywords": ["editor", "graphic"],
+		"name": "photopea",
+		"keywords": ["editor", "photoshop"],
 		"url": "https://shadows.brumm.af/",
 		"description": "Un éditeur Photoshop en ligne",
 		"note": 5
 	},
 	{
-		"name": "vectr [illustrator]",
-		"keywords": ["editor", "vector"],
+		"name": "vectr",
+		"keywords": ["editor", "illustrator"],
 		"url": "https://vectr.com/design/",
 		"description": "Logiciel de graphisme vectoriel gratuit",
 		"note": 5
 	},
 	{
 		"name": "fancy-border",
-		"keywords": ["editor", "border"],
+		"keywords": ["editor", "border", "generator"],
 		"url": "https://9elements.github.io/fancy-border-radius/full-control.html/",
 		"description": "Huit valeurs spécifiant border-radius en CSS ( border-radius generator )",
 		"note": 3
@@ -28,22 +28,30 @@
 		"note": 3
 	},
 	{
-		"name": "Blobmaker",
-		"keywords": ["editor", "svg"],
+		"name": "blobmaker",
+		"keywords": ["editor", "svg", "generator"],
 		"url": "https://www.blobmaker.app/",
 		"description": "Blobmaker est un outil de conception générative gratuit qui vous aide à créer rapidement des formes SVG aléatoires, uniques et d'apparence organique.",
 		"note": 4
 	},
 	{
-		"name": "MapInSeconds",
-		"keywords": ["editor", "stat"],
+		"name": "mapInSeconds",
+		"keywords": ["editor", "stat", "map"],
 		"url": "http://mapinseconds.com/#",
 		"description": "Un moyen simple de visualiser vos données avec une carte.",
 		"note": 3
 	},
 	{
 		"name": "codepen",
-		"keywords": ["editor", "frontend"],
+		"keywords": [
+			"editor",
+			"frontend",
+			"playground",
+			"ide",
+			"html",
+			"css",
+			"javascript"
+		],
 		"url": "https://codepen.io/",
 		"description": "CodePen est un environnement de développement social pour les concepteurs et développeurs frontaux. Créez et déployez un site Web, montrez votre travail, créez des scénarios de test pour apprendre et déboguer, et trouvez l'inspiration.",
 		"note": 4
@@ -57,16 +65,9 @@
 	},
 	{
 		"name": "readme.so",
-		"keywords": ["editor", "markdown"],
+		"keywords": ["editor", "markdown", "documentation"],
 		"url": "https://readme.so/fr/editor",
 		"description": "Le moyen le plus simple de créer un fichier README en markdown.",
-		"note": 3
-	},
-	{
-		"name": "iloveimg",
-		"keywords": ["editor", "resize"],
-		"url": "https://www.iloveimg.com/fr/redimensionner-image",
-		"description": "Redimensionnez plusieurs images à la fois !",
 		"note": 3
 	},
 	{
@@ -77,22 +78,22 @@
 		"note": 3
 	},
 	{
-		"name": "BeFunky",
+		"name": "beFunky",
 		"keywords": ["editor", "cartoon"],
 		"url": "https://www.befunky.com/create/photo-to-cartoon",
 		"description": "Cartoon yourself",
 		"note": 3
 	},
 	{
-		"name": "Stackblitz",
-		"keywords": ["editor"],
+		"name": "stackblitz",
+		"keywords": ["editor", "playground", "ide"],
 		"url": "https://stackblitz.com",
 		"description": "Le playground a la fois rapide et complet pour editer vos projets en ligne",
 		"note": 5
 	},
 	{
 		"name": "Codesandbox",
-		"keywords": ["editor"],
+		"keywords": ["editor", "playground", "ide"],
 		"url": "https://codesandbox.io/",
 		"description": "Le playground le plus populaire du moment",
 		"note": 4

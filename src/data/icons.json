@@ -1,28 +1,28 @@
 [
 	{
-		"name": "Fontawesome",
-		"keywords": ["ico", "font"],
+		"name": "fontawesome",
+		"keywords": ["icons", "fonts", "typography", "svg", "css", "sass", "less"],
 		"url": "https://fontawesome.com/start",
 		"description": "Font Awesome est une police d'écriture et un outil d'icônes qui se base sur CSS, LESS et SASS",
 		"note": 5
 	},
 	{
-		"name": "Xicons",
-		"keywords": ["vue", "react", "ico"],
+		"name": "xicons",
+		"keywords": ["icons", "vue", "react"],
 		"url": "https://www.xicons.org/#",
 		"description": "Composants ultra complet SVG Vue/React intégrés à partir de fluentui-system-icons, ionicons, etc ...",
 		"note": 5
 	},
 	{
-		"name": "UXwing",
-		"keywords": ["svg", "ico"],
+		"name": "uxwing",
+		"keywords": ["icons", "svg"],
 		"url": "https://uxwing.com",
 		"description": "Collection d'icone vectorielle bien optimisé",
 		"note": 4
 	},
 	{
-		"name": "LordIcons",
-		"keywords": ["svg", "lottie", "ico"],
+		"name": "lordIcons",
+		"keywords": ["icons", "svg", "lottie"],
 		"url": "https://lordicon.com/icons",
 		"description": "Collection d'icone animé (svg | lottie)",
 		"note": 5

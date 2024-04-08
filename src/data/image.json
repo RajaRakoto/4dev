@@ -1,20 +1,20 @@
 [
 	{
-		"name": "Pixabay",
+		"name": "pixabay",
 		"keywords": ["image", "video"],
 		"url": "https://pixabay.com",
 		"description": "Plus de 1,7 million d'images et de vidéos de haute qualité",
 		"note": 5
 	},
 	{
-		"name": "Pexels",
+		"name": "pexels",
 		"keywords": ["image", "video"],
 		"url": "https://www.pexels.com",
 		"description": "La plus grande bibliothèque de vidéos gratuites, offerte par la communauté",
 		"note": 4
 	},
 	{
-		"name": "Magdeleine",
+		"name": "magdeleine",
 		"keywords": ["image", "theme"],
 		"url": "https://colorcurves.app",
 		"description": "Galerie et photo haute résolution gratuite tous les jours",
@@ -22,21 +22,21 @@
 	},
 	{
 		"name": "giphy",
-		"keywords": ["gif"],
+		"keywords": ["image", "gif", "collection"],
 		"url": "https://giphy.com/stickers/",
 		"description": "Collection d'images GIF",
 		"note": 3
 	},
 	{
-		"name": "Bloggif",
-		"keywords": ["gif", "maker"],
+		"name": "bloggif",
+		"keywords": ["image", "gif", "convert", "generator"],
 		"url": "https://www.bloggif.com/text",
 		"description": "Convertir un texte en image GIF",
 		"note": 3
 	},
 	{
 		"name": "onlineOCR",
-		"keywords": ["ocr"],
+		"keywords": ["image", "ocr", "convert", "generator"],
 		"url": "https://www.onlineocr.net/fr/",
 		"description": "Convertir une image en texte",
 		"note": 4

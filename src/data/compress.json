@@ -12,5 +12,12 @@
 		"url": "https://www.iloveimg.com/resize-image",
 		"description": "Redimensionnez JPG, PNG, SVG ou GIF en définissant de nouveaux pixels de hauteur et de largeur. Modifiez les dimensions de l'image en masse.",
 		"note": 4
+	},
+	{
+		"name": "iloveimg",
+		"keywords": ["compress", "resize"],
+		"url": "https://www.iloveimg.com/fr/redimensionner-image",
+		"description": "Redimensionnez plusieurs images à la fois !",
+		"note": 3
 	}
 ]
