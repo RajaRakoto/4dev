@@ -1,0 +1,30 @@
+[
+	{
+		"name": "freelance-info",
+		"keywords": ["freelance", "job", "professional", "work"],
+		"url": "https://www.freelance-info.fr/",
+		"description": "Plus de 10 000 offres de mission en freelance et d'emploi disponibles partout en France sur Free-Work.",
+		"note": -1
+	},
+	{
+		"name": "5euros",
+		"keywords": ["freelance", "job", "professional", "work"],
+		"url": "https://5euros.com/",
+		"description": "Achetez et vendez des microservices à partir de 5 €",
+		"note": -1
+	},
+	{
+		"name": "upwork",
+		"keywords": ["freelance", "job", "professional", "work"],
+		"url": "https://www.upwork.com/",
+		"description": "Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 40m. Getting started is free. Receive quotes in seconds. Pay for quality. Save Time & Money. 24/7 Support. 60 Second Quotes. 30M+ Trusted Users.",
+		"note": -1
+	},
+	{
+		"name": "hire freelancers",
+		"keywords": ["freelance", "job", "professional", "work"],
+		"url": "https://www.freelancer.com/",
+		"description": "Hire the best freelancers for any job, online.",
+		"note": -1
+	}
+]
