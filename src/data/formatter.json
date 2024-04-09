@@ -26,5 +26,12 @@
 		"url": "https://smalldev.tools/",
 		"description": "Outil gratuit pour les développeurs web pour aider avec Beautify & Minify HTML/CSS/Javascript, et de nombreux autres outils pratiques. Avec une interface délicieuse.",
 		"note": 4
+	},
+	{
+		"name": "prettier",
+		"keywords": ["formatter", "beautify"],
+		"url": "https://prettier.io/",
+		"description": "Prettier est un formateur de code qui prend en charge divers langages de programmation et peut être intégré à de nombreux éditeurs de code.",
+		"note": 5
 	}
 ]
