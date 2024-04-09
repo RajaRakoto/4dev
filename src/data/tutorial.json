@@ -20,7 +20,7 @@
 	},
 	{
 		"name": "docstring",
-		"keywords": ["tutorial", "python", "django", "roadmap"],
+		"keywords": ["tutorial", "python", "django", "roadmap", "docs"],
 		"url": "https://www.docstring.fr",
 		"description": "Apprenez à coder avec l'accompagnement Docstring. Maîtrisez le langage de programmation PYTHON.",
 		"note": 5
