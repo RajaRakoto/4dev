@@ -12,5 +12,12 @@
 		"url": "https://tobiasahlin.com/spinkit/",
 		"description": "Simple CSS Spinners.",
 		"note": 4
+	},
+	{
+		"name": "react-preloaders",
+		"keywords": ["loader", "preloader", "spinner"],
+		"url": "https://github.com/vamosgs/react-preloaders",
+		"description": "React Preloaders is a collection of preloader components for react.",
+		"note": 5
 	}
 ]
