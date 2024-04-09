@@ -12,5 +12,26 @@
 		"url": "https://planetscale.com/",
 		"description": "PlanetScale is a database-as-a-service platform that helps developers build and scale applications without worrying about database management. It is built on top of Vitess, a database clustering system for horizontal scaling of MySQL.",
 		"note": 5
+	},
+	{
+		"name": "faker.js",
+		"keywords": ["database", "faker", "test", "javascript"],
+		"url": "https://www.npmjs.com/package/@faker-js/faker",
+		"description": "Faker.js is a library that generates fake data for you. It is useful for seeding databases, creating fake API responses, and more. It is available for JavaScript and Node.js.",
+		"note": 5
+	},
+	{
+		"name": "sequelize",
+		"keywords": ["database", "sql", "orm", "node", "javascript"],
+		"url": "https://sequelize.org/",
+		"description": "Sequelize is a modern TypeScript and Node.js ORM for Oracle, Postgres, MySQL, MariaDB, SQLite and SQL Server, and more. Featuring solid transaction support, relations, eager and lazy loading, read replication and more.",
+		"note": 5
+	},
+	{
+		"name": "mongoose",
+		"keywords": ["database", "mongodb", "node", "javascript"],
+		"url": "https://mongoosejs.com/",
+		"description": "Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports both promises and callbacks.",
+		"note": 5
 	}
 ]
