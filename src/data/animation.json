@@ -145,5 +145,12 @@
 		"url": "https://tingle.robinparisi.com/",
 		"description": "Un plugin modal minimaliste et facile à utiliser écrit en Vanilla JS.",
 		"note": 5
+	},
+	{
+		"name": "stroll.js",
+		"keywords": ["animation", "scroll", "list", "javascript"],
+		"url": "https://lab.hakim.se/scroll-effects/",
+		"description": "CSS3 list scroll effects",
+		"note": 4
 	}
 ]
