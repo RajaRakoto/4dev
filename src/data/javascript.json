@@ -11,7 +11,7 @@
 		"keywords": ["javascript", "library"],
 		"url": "https://underscorejs.org/",
 		"description": "Underscore.js est une bibliothèque de ceinture utilitaire pour JavaScript qui prend en charge les suspects fonctionnels habituels (each, map, reduce, filter, etc...) sans étendre les objets JavaScript de base.",
-		"note": 5
+		"note": 4
 	},
 	{
 		"name": "debug",
@@ -39,6 +39,20 @@
 		"keywords": ["javascript", "library"],
 		"url": "https://www.npmjs.com/package/dotenv",
 		"description": "Dotenv est un module zéro dépendance qui charge les variables d'environnement d'un fichier .env dans process.env.",
+		"note": 4
+	},
+	{
+		"name": "prompt-sync",
+		"keywords": ["javascript", "library"],
+		"url": "https://www.npmjs.com/package/prompt-sync",
+		"description": "Un prompt simple pour Node.js.",
+		"note": 4
+	},
+	{
+		"name": "fs-extra",
+		"keywords": ["javascript", "library"],
+		"url": "https://www.npmjs.com/package/fs-extra",
+		"description": "fs-extra ajoute des méthodes supplémentaires à l'objet fs de Node.js.",
 		"note": 4
 	}
 ]
