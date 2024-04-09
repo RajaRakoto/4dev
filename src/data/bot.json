@@ -1,0 +1,35 @@
+[
+	{
+		"name": "ampalibe",
+		"keywords": [
+			"bot",
+			"messenger",
+			"facebook",
+			"chatbot",
+			"python",
+			"framework"
+		],
+		"url": "https://ampalibe.readthedocs.io/en/latest/usage.html",
+		"description": "Ampalibe is a Python framework for building Facebook Messenger chatbots.",
+		"note": 5
+	},
+	{
+		"name": "bottender",
+		"keywords": [
+			"bot",
+			"messenger",
+			"whatsapp",
+			"line",
+			"slack",
+			"telegram",
+			"viber",
+			"chatbot",
+			"node",
+			"javascript",
+			"framework"
+		],
+		"url": "https://bottender.js.org/",
+		"description": "Bottender is a framework for building conversational user interfaces.",
+		"note": 5
+	}
+]
