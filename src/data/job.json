@@ -133,5 +133,21 @@
 		"url": "https://www.codeo.mg/",
 		"description": "Nous sommes une agence de freelancing dans le domaine de developpement. Nous offrons des solutions de développement d’applications innovantes et personnalisées pour répondre aux besoins de nos clients.",
 		"note": 0
+	},
+	{
+		"name": "agoramada",
+		"keywords": [
+			"job",
+			"professional",
+			"work",
+			"esn",
+			"startup",
+			"offshore",
+			"madagascar",
+			"docs"
+		],
+		"url": "https://www.agoramada.com/",
+		"description": "Agoramada vous aide à réussir à Madagascar depuis votre mobile: Trouvez Produits, Services, Emplois, Collaborateurs, Clients, Informations, Documentation.",
+		"note": 0
 	}
 ]
