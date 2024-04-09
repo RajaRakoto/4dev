@@ -1,0 +1,44 @@
+[
+	{
+		"name": "react-helmet",
+		"keywords": ["react", "frontend", "manager", "javascript"],
+		"url": "https://www.npmjs.com/package/react-helmet",
+		"description": "A document head manager for React",
+		"note": 5
+	},
+	{
+		"name": "mdb-react-ui-kit",
+		"keywords": [
+			"react",
+			"frontend",
+			"material",
+			"design",
+			"bootstrap",
+			"javascript"
+		],
+		"url": "https://mdbootstrap.com/docs/b5/react/getting-started/installation/",
+		"description": "Material Design for Bootstrap 5 - React UI Kit",
+		"note": 4
+	},
+	{
+		"name": "react-use-cart",
+		"keywords": ["react", "frontend", "cart", "javascript"],
+		"url": "https://www.npmjs.com/package/react-use-cart",
+		"description": "A shopping cart hook for React",
+		"note": 4
+	},
+	{
+		"name": "react-circular-progressbar",
+		"keywords": ["react", "frontend", "progress", "javascript"],
+		"url": "https://github.com/kevinsqi/react-circular-progressbar",
+		"description": "A circular progress bar component for React",
+		"note": 4
+	},
+	{
+		"name": "react-github-calendar",
+		"keywords": ["react", "frontend", "github", "calendar", "javascript"],
+		"url": "https://grubersjoe.github.io/react-github-calendar/",
+		"description": "A GitHub calendar component for React",
+		"note": 4
+	}
+]
