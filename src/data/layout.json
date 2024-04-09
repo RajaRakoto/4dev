@@ -54,5 +54,12 @@
 		"url": "http://flexboxfroggy.com/#fr",
 		"description": "un jeu où vous aidez Froggy la grenouille et ses amis en écrivant du code flexbox CSS!",
 		"note": 5
+	},
+	{
+		"name": "react-responsive",
+		"keywords": ["layout", "responsive", "react", "javascript"],
+		"url": "https://www.npmjs.com/package/react-responsive",
+		"description": "Un composant de media queries pour React",
+		"note": 5
 	}
 ]
