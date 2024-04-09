@@ -1,0 +1,16 @@
+[
+	{
+		"name": "nodemailer",
+		"keywords": ["email", "mail", "smtp", "javascript"],
+		"url": "https://www.npmjs.com/package/nodemailer",
+		"description": "Nodemailer est un module node js qui permet d’envoyer des emails.",
+		"note": 5
+	},
+	{
+		"name": "email-js-react",
+		"keywords": ["email", "mail", "smtp", "react", "javascript"],
+		"url": "https://www.emailjs.com/docs/examples/reactjs/",
+		"description": "EmailJS est un service qui permet d’envoyer des emails directement depuis le client.",
+		"note": 5
+	}
+]
