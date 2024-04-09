@@ -33,5 +33,12 @@
 		"url": "https://snippet-generator.app/",
 		"description": "Un generateur de snippet pour VScode, sublimetext et atom.",
 		"note": 4
+	},
+	{
+		"name": "privacy policy generator",
+		"keywords": ["generator", "privacy", "policy"],
+		"url": "https://app.termsfeed.com/wizard/privacy-policy",
+		"description": "Generateur de politique de confidentialité",
+		"note": 4
 	}
 ]
