@@ -42,13 +42,6 @@
 		"note": 5
 	},
 	{
-		"name": "aws",
-		"keywords": ["hosting", "backend"],
-		"url": "https://aws.amazon.com/",
-		"description": "Amazon Web Services (AWS) est une plateforme de services cloud proposée par Amazon.",
-		"note": 5
-	},
-	{
 		"name": "o2switch",
 		"keywords": ["hosting", "frontend", "backend"],
 		"url": "https://www.o2switch.fr/",
