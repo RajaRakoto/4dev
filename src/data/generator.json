@@ -40,5 +40,19 @@
 		"url": "https://app.termsfeed.com/wizard/privacy-policy",
 		"description": "Generateur de politique de confidentialité",
 		"note": 4
+	},
+	{
+		"name": "yo",
+		"keywords": ["generator", "extension", "vscode", "library", "javascript"],
+		"url": "https://yeoman.io/",
+		"description": "Le générateur Yeoman vous guidera à travers les étapes nécessaires pour créer votre personnalisation ou votre extension en vous demandant les informations requises.",
+		"note": 4
+	},
+	{
+		"name": "uuid",
+		"keywords": ["generator", "id", "identifier", "unique", "javascript"],
+		"url": "https://www.npmjs.com/package/uuid",
+		"description": "Générateur d'identifiant unique universel (UUID)",
+		"note": 5
 	}
 ]
