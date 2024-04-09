@@ -19,5 +19,18 @@
 		"url": "https://www.npmjs.com/package/bcrypt",
 		"description": "bcrypt est un algorithme de hachage de mot de passe.",
 		"note": 5
+	},
+	{
+		"name": "passport",
+		"keywords": [
+			"security",
+			"authentification",
+			"library",
+			"node",
+			"javascript"
+		],
+		"url": "https://www.npmjs.com/package/passport",
+		"description": "Passport est un middleware d'authentification pour Node.js. Il est extrêmement flexible et modulaire et peut être facilement intégré à n'importe quelle application Web basée sur Express.",
+		"note": 5
 	}
 ]
