@@ -1,0 +1,16 @@
+[
+	{
+		"name": "db4free",
+		"keywords": ["database", "sql", "mysql", "free", "test"],
+		"url": "https://www.db4free.net/",
+		"description": "db4free.net provides a testing service for the latest - sometimes even development - version of the MySQL database server. You can easily create a new database for free and start testing. We currently support MySQL 8.0 and MariaDB 10.4.",
+		"note": 4
+	},
+	{
+		"name": "planetScale",
+		"keywords": ["database", "sql", "mysql", "cloud"],
+		"url": "https://planetscale.com/",
+		"description": "PlanetScale is a database-as-a-service platform that helps developers build and scale applications without worrying about database management. It is built on top of Vitess, a database clustering system for horizontal scaling of MySQL.",
+		"note": 5
+	}
+]
