@@ -5,5 +5,26 @@
 		"url": "https://rapidapi.com/hub",
 		"description": "Découvrez et connectez-vous à des milliers d'API",
 		"note": 4
+	},
+	{
+		"name": "mvola",
+		"keywords": ["api", "mvola", "mobilemoney", "madagascar"],
+		"url": "https://www.mvola.mg/devportal/services/configs",
+		"description": "API pour intégrer MVOLA dans vos applications",
+		"note": 4
+	},
+	{
+		"name": "public-apis",
+		"keywords": ["api"],
+		"url": "https://github.com/public-apis/public-apis",
+		"description": "Une liste d'APIs publiques",
+		"note": 5
+	},
+	{
+		"name": "steam-api",
+		"keywords": ["api", "steam"],
+		"url": "http://api.steampowered.com/ISteamApps/GetAppList/v0002/?key=STEAMKEY&format=json",
+		"description": "API pour récupérer la liste des jeux steam",
+		"note": 5
 	}
 ]
