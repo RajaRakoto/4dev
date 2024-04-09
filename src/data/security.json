@@ -1,0 +1,23 @@
+[
+	{
+		"name": "validator",
+		"keywords": ["security", "validator", "library", "javascript"],
+		"url": "https://www.npmjs.com/package/validator",
+		"description": "A library of string validators and sanitizers.",
+		"note": 5
+	},
+	{
+		"name": "yup",
+		"keywords": ["security", "validator", "library", "javascript"],
+		"url": "https://www.npmjs.com/package/yup",
+		"description": "Yup est un constructeur de schéma JavaScript pour l'analyse et la validation de valeurs. Définissez un schéma, transformez une valeur pour qu'elle corresponde, validez la forme d'une valeur existante, ou les deux.",
+		"note": 4
+	},
+	{
+		"name": "bcrypt",
+		"keywords": ["security", "hash", "password", "library", "javascript"],
+		"url": "https://www.npmjs.com/package/bcrypt",
+		"description": "bcrypt est un algorithme de hachage de mot de passe.",
+		"note": 5
+	}
+]
