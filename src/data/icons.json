@@ -26,5 +26,12 @@
 		"url": "https://lordicon.com/icons",
 		"description": "Collection d'icone animé (svg | lottie)",
 		"note": 5
+	},
+	{
+		"name": "react-icons",
+		"keywords": ["icons", "react", "svg", "javascript"],
+		"url": "https://github.com/react-icons/react-icons",
+		"description": "Collection d'icone pour React",
+		"note": 5
 	}
 ]
