@@ -19,5 +19,19 @@
 		"url": "https://kenwheeler.github.io/slick/",
 		"description": "Carrousel entièrement réactif et ultra legere en jQuery",
 		"note": 3
+	},
+	{
+		"name": "react-slick",
+		"keywords": ["slider", "react", "javascript"],
+		"url": "https://www.npmjs.com/package/react-slick",
+		"description": "Carrousel entièrement réactif et ultra legere en React",
+		"note": 3
+	},
+	{
+		"name": "react-multi-carousel",
+		"keywords": ["slider", "react", "javascript"],
+		"url": "https://www.npmjs.com/package/react-multi-carousel",
+		"description": "Carrousel entièrement réactif et ultra legere en React",
+		"note": 3
 	}
 ]
