@@ -1,0 +1,34 @@
+[
+	{
+		"name": "awesome-lottie",
+		"keywords": [
+			"awesome",
+			"collection",
+			"json",
+			"lottie",
+			"image",
+			"javascript"
+		],
+		"url": "https://github.com/LottieFiles/awesome-lottie",
+		"description": "A curated list of awesome for Lottie",
+		"note": 0
+	},
+	{
+		"name": "awesome-pocketbase",
+		"keywords": [
+			"awesome",
+			"collection",
+			"backend",
+			"framework",
+			"baas",
+			"performance",
+			"standalone",
+			"database",
+			"go",
+			"javascript"
+		],
+		"url": "https://github.com/benallfree/awesome-pocketbase/",
+		"description": "A curated list of awesome for Pocketbase",
+		"note": 0
+	}
+]
