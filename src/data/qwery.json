@@ -1,0 +1,31 @@
+[
+	{
+		"name": "tanstack-query",
+		"keywords": [
+			"query",
+			"database",
+			"api",
+			"rest",
+			"async",
+			"tanstack",
+			"javascript"
+		],
+		"url": "https://tanstack.com/query",
+		"description": "tanstack-query is a JavaScript library for querying data from various sources, including REST APIs, GraphQL, and more. It provides a simple and consistent API for fetching and managing data in your applications.",
+		"note": 5
+	},
+	{
+		"name": "react-query-devtools",
+		"keywords": ["query", "debug", "test", "tanstack", "react", "javascript"],
+		"url": "https://www.npmjs.com/package/@tanstack/react-query-devtools",
+		"description": "The React Query Devtools is a browser extension that provides a set of tools for debugging and testing React Query applications. It allows you to inspect the cache, view queries, and more.",
+		"note": 4
+	},
+	{
+		"name": "graphQL",
+		"keywords": ["query", "database", "api", "graph"],
+		"url": "https://graphql.org/",
+		"description": "GraphQL is a query language for your API, and a runtime for executing those queries by using a type system you define for your data. It was developed by Facebook in 2012 and released as an open-source project in 2015.",
+		"note": 5
+	}
+]
