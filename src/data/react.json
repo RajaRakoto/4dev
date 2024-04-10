@@ -40,5 +40,12 @@
 		"url": "https://grubersjoe.github.io/react-github-calendar/",
 		"description": "A GitHub calendar component for React",
 		"note": 4
+	},
+	{
+		"name": "react-countup",
+		"keywords": ["react", "frontend", "count", "javascript"],
+		"url": "https://www.npmjs.com/package/react-countup",
+		"description": "A React component wrapper around CountUp.js",
+		"note": 4
 	}
 ]
