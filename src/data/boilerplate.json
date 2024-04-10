@@ -1,0 +1,79 @@
+[
+	{
+		"name": "vscode-boilerplate",
+		"keywords": [
+			"boilerplate",
+			"vscode",
+			"extension",
+			"template",
+			"starter",
+			"javascript"
+		],
+		"url": "https://github.com/RajaRakoto/vscode-boilerplate",
+		"description": "Minimalistic boilerplate to quick-start VSCode Extension development",
+		"note": 5
+	},
+	{
+		"name": "cli-boilerplate",
+		"keywords": ["boilerplate", "cli", "template", "starter", "javascript"],
+		"url": "https://github.com/RajaRakoto/cli-boilerplate",
+		"description": "Minimalistic boilerplate to quick-start CLI development with Inquirer.js in TypeScript",
+		"note": 5
+	},
+	{
+		"name": "node-boilerplate",
+		"keywords": [
+			"boilerplate",
+			"node",
+			"runtime",
+			"template",
+			"starter",
+			"javascript"
+		],
+		"url": "https://github.com/RajaRakoto/node-boilerplate",
+		"description": "Minimalistic boilerplate to quick-start Node.js development in TypeScript",
+		"note": 5
+	},
+	{
+		"name": "react-boilerplate",
+		"keywords": [
+			"boilerplate",
+			"react",
+			"frontend",
+			"template",
+			"starter",
+			"javascript"
+		],
+		"url": "https://github.com/RajaRakoto/react-boilerplate",
+		"description": "Minimalistic boilerplate to quick-start React.js development in TypeScript, optimized for blazing-fast performance with Bun & Vite",
+		"note": 5
+	},
+	{
+		"name": "next-boilerplate",
+		"keywords": [
+			"boilerplate",
+			"next",
+			"frontend",
+			"template",
+			"starter",
+			"javascript"
+		],
+		"url": "https://github.com/RajaRakoto/next-boilerplate",
+		"description": "Minimalistic boilerplate to quick-start Next.js development in TypeScript, optimized for blazing-fast performance with Bun & Turbopack",
+		"note": 5
+	},
+	{
+		"name": "bun-boilerplate",
+		"keywords": [
+			"boilerplate",
+			"bun",
+			"runtime",
+			"template",
+			"starter",
+			"javascript"
+		],
+		"url": "https://github.com/RajaRakoto/bun-boilerplate",
+		"description": "Minimalistic boilerplate to quick-start Bun.js development in TypeScript",
+		"note": 5
+	}
+]
