@@ -12,5 +12,12 @@
 		"url": "https://www.emailjs.com/docs/examples/reactjs/",
 		"description": "EmailJS est un service qui permet d’envoyer des emails directement depuis le client.",
 		"note": 5
+	},
+	{
+		"name": "brevo",
+		"keywords": ["email", "mail", "smtp", "client", "manager"],
+		"url": "https://www.brevo.com/",
+		"description": "Développez votre activité avec Brevo, la plateforme tout-en-un pour gérer vos relations clients par email, SMS, chat et plus encore.",
+		"note": 4
 	}
 ]
