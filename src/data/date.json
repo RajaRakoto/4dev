@@ -1,0 +1,31 @@
+[
+	{
+		"name": "moment",
+		"keywords": [
+			"date",
+			"time",
+			"parse",
+			"formatter",
+			"calendar",
+			"javascript"
+		],
+		"url": "http://momentjs.com/",
+		"description": "Parse, validate, manipulate, and display dates in JavaScript.",
+		"note": 5
+	},
+	{
+		"name": "moment-timezone",
+		"keywords": [
+			"date",
+			"time",
+			"timezone",
+			"parse",
+			"formatter",
+			"calendar",
+			"javascript"
+		],
+		"url": "https://www.npmjs.com/package/moment-timezone",
+		"description": "Parse and display dates in any timezone.",
+		"note": 5
+	}
+]
