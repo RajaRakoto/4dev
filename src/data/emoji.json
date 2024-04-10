@@ -1,0 +1,16 @@
+[
+	{
+		"name": "node-emoji",
+		"keywords": ["emoji", "collection", "node", "javascript"],
+		"url": "https://www.npmjs.com/package/node-emoji",
+		"description": "Une collection d'emojis pour un projet Node.js",
+		"note": 4
+	},
+	{
+		"name": "unicode",
+		"keywords": ["emoji", "unicode", "collection", "node", "javascript"],
+		"url": "https://apps.timwhitlock.info/emoji/tables/unicode",
+		"description": "Une collection d'emojis et de symboles unicode",
+		"note": 4
+	}
+]
