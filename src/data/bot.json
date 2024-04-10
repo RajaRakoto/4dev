@@ -31,5 +31,20 @@
 		"url": "https://bottender.js.org/",
 		"description": "Bottender is a framework for building conversational user interfaces.",
 		"note": 5
+	},
+	{
+		"name": "react-messenger-customer-chat",
+		"keywords": [
+			"bot",
+			"component",
+			"messenger",
+			"facebook",
+			"chatbot",
+			"react",
+			"javascript"
+		],
+		"url": "https://www.npmjs.com/package/react-messenger-customer-chat",
+		"description": "A Messenger customer chat plugin for React.",
+		"note": 4
 	}
 ]
