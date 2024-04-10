@@ -33,5 +33,19 @@
 		"url": "https://mongoosejs.com/",
 		"description": "Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports both promises and callbacks.",
 		"note": 5
+	},
+	{
+		"name": "js-cookie",
+		"keywords": ["database", "cookie", "javascript"],
+		"url": "https://www.npmjs.com/package/js-cookie",
+		"description": "A simple, lightweight JavaScript API for handling browser cookies.",
+		"note": 4
+	},
+	{
+		"name": "localForage",
+		"keywords": ["database", "sql", "indexeddb", "offline", "javascript"],
+		"url": "https://localforage.github.io/localForage/",
+		"description": "Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.",
+		"note": 4
 	}
 ]
