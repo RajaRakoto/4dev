@@ -54,5 +54,35 @@
 		"url": "https://laravel.com/",
 		"description": "Laravel est un framework PHP élégant et expressif, reconnu pour sa simplicité et sa puissance, offrant une syntaxe propre et intuitive ainsi qu'une multitude de fonctionnalités prêtes à l'emploi telles que l'ORM Eloquent, la gestion des migrations de base de données, le routage fluide, la gestion des sessions, et la sécurité avancée, ce qui en fait un choix populaire pour le développement rapide d'applications web modernes et évolutives.",
 		"note": 5
+	},
+	{
+		"name": "pocketbase",
+		"keywords": [
+			"backend",
+			"framework",
+			"baas",
+			"performance",
+			"standalone",
+			"database",
+			"go",
+			"javascript"
+		],
+		"url": "https://pocketbase.io/",
+		"description": "PocketBase est un outil open source visant à rationaliser le processus de développement en offrant des fonctionnalités essentielles de back-end dans un seul fichier exécutable. Son approche conviviale permet aux développeurs de mettre en œuvre une fonctionnalité dorsale robuste avec un minimum d'installation. Utilisez-le comme application autonome OU comme framework, que vous pouvez étendre via des hooks Go et JavaScript pour créer votre propre backend portable personnalisé.",
+		"note": 5
+	},
+	{
+		"name": "supabase",
+		"keywords": ["backend", "baas", "database", "opensource", "javascript"],
+		"url": "https://supabase.com/",
+		"description": "Supabase est une alternative open source à Firebase, offrant une base de données PostgreSQL en temps réel et une API RESTful, ainsi que des fonctionnalités de gestion des utilisateurs, d'authentification, de stockage de fichiers, et de déclencheurs de base de données, le tout hébergé sur votre propre infrastructure, ce qui en fait une solution idéale pour les applications web modernes nécessitant une base de données performante et évolutive.",
+		"note": 5
+	},
+	{
+		"name": "firebase",
+		"keywords": ["backend", "baas", "database", "google", "javascript"],
+		"url": "https://firebase.google.com/",
+		"description": "Firebase, Inc. est un ensemble de services de cloud computing back-end et de plateformes de développement d'applications fournis par Google. Il héberge des bases de données, des services, l'authentification et l'intégration pour une variété d'applications, notamment Android, iOS, JavaScript, Node.",
+		"note": 5
 	}
 ]
