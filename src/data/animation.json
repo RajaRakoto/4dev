@@ -3,6 +3,7 @@
 		"name": "magic.css",
 		"keywords": ["animation", "css"],
 		"url": "https://www.minimamente.com/project/magic/",
+		"ref": "",
 		"description": "Une bibliothèques d'animation css avec des effets magiques",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "animate.css",
 		"keywords": ["animation", "css"],
 		"url": "https://animate.style/",
+		"ref": "",
 		"description": "Just-add-water CSS animations",
 		"note": 4
 	},
@@ -17,6 +19,7 @@
 		"name": "animista.css",
 		"keywords": ["animation", "css"],
 		"url": "http://animista.net/",
+		"ref": "",
 		"description": "Animations CSS à la demande",
 		"note": 4
 	},
@@ -24,6 +27,7 @@
 		"name": "transitions & transforms",
 		"keywords": ["animation", "transition", "transform", "css"],
 		"url": "https://thoughtbot.com/blog/transitions-and-transforms",
+		"ref": "",
 		"description": "Transitions et transformations CSS pour les débutants",
 		"note": 3
 	},
@@ -31,6 +35,7 @@
 		"name": "kute.js",
 		"keywords": ["animation", "javascript"],
 		"url": "https://thednp.github.io/kute.js/",
+		"ref": "",
 		"description": "KUTE.js est un moteur d'animation (collection de component) JavaScript pour les navigateurs modernes.",
 		"note": 5
 	},
@@ -38,6 +43,7 @@
 		"name": "lax.js",
 		"keywords": ["animation", "scroll", "javascript"],
 		"url": "https://github.com/alexfoxy/laxxx",
+		"ref": "",
 		"description": "Plugin javascript vanille simple et léger pour créer des animations fluides et belles lorsque vous faites défiler",
 		"note": 4
 	},
@@ -45,6 +51,7 @@
 		"name": "wow.js",
 		"keywords": ["animation", "scroll", "javascript"],
 		"url": "https://github.com/graingert/wow/",
+		"ref": "",
 		"description": "Révélez l'animation CSS lorsque vous faites défiler une page",
 		"note": 4
 	},
@@ -52,6 +59,7 @@
 		"name": "rellax.js",
 		"keywords": ["animation", "parallax", "javascript"],
 		"url": "https://dixonandmoe.com/rellax/",
+		"ref": "",
 		"description": "Une bibliothèque de parallaxe javascript vanille ultra légère",
 		"note": 4
 	},
@@ -59,6 +67,7 @@
 		"name": "simpleparallax.js",
 		"keywords": ["animation", "parallax", "javascript"],
 		"url": "https://simpleparallax.com/",
+		"ref": "",
 		"description": "Le moyen le plus simple d'obtenir un effet de parallaxe avec javascript",
 		"note": 4
 	},
@@ -66,6 +75,7 @@
 		"name": "tilt.js",
 		"keywords": ["animation", "hover", "jquery", "javascript"],
 		"url": "https://github.com/gijsroge/tilt.js/",
+		"ref": "",
 		"description": "Un petit effet d'inclinaison de survol de parallaxe léger à 60+ fps de requestAnimationFrame pour jQuery.",
 		"note": 4
 	},
@@ -73,6 +83,7 @@
 		"name": "lightbox2.js",
 		"keywords": ["animation", "image", "javascript"],
 		"url": "https://lokeshdhakar.com/projects/lightbox2/",
+		"ref": "",
 		"description": "Une petite bibliothèque JS pour superposer des images en haut de la page actuelle",
 		"note": 2
 	},
@@ -80,6 +91,7 @@
 		"name": "barba.js",
 		"keywords": ["animation", "transition", "javascript"],
 		"url": "https://barba.js.org/docs/getstarted/intro/",
+		"ref": "",
 		"description": "Barba.js est une petite bibliothèque (7 Ko minifiée et compressée) et facile à utiliser qui vous aide à créer des transitions fluides entre les pages de votre site Web. Il permet à votre site Web de fonctionner comme un SPA (Single Page Application) et aide à réduire le délai entre vos pages, à minimiser les requêtes HTTP du navigateur et à améliorer l'expérience Web de votre utilisateur.",
 		"note": 5
 	},
@@ -87,6 +99,7 @@
 		"name": "granim.js",
 		"keywords": ["animation", "gradient", "javascript"],
 		"url": "https://sarcadass.github.io/granim.js/examples.html",
+		"ref": "",
 		"description": "Créez des animations dégradées fluides et interactives avec cette petite bibliothèque javascript.",
 		"note": 4
 	},
@@ -94,6 +107,7 @@
 		"name": "vivus.js",
 		"keywords": ["animation", "image", "svg", "javascript"],
 		"url": "https://maxwellito.github.io/vivus/",
+		"ref": "",
 		"description": "Vivus est une classe JavaScript légère (sans dépendances) qui vous permet d'animer des SVG, leur donnant l'apparence d'être dessinés.",
 		"note": 4
 	},
@@ -101,6 +115,7 @@
 		"name": "typingSVG",
 		"keywords": ["animation", "image", "svg", "typing"],
 		"url": "https://readme-typing-svg.herokuapp.com/demo/",
+		"ref": "",
 		"description": "SVG personnalisable généré dynamiquement qui donne l'impression de taper et de supprimer du texte.",
 		"note": 4
 	},
@@ -108,6 +123,7 @@
 		"name": "typed.js",
 		"keywords": ["animation", "typing", "javascript"],
 		"url": "https://mattboldt.com/demos/typed-js/",
+		"ref": "",
 		"description": "Une bibliothèque d'animation de frappe (clavier) JavaScript.",
 		"note": 4
 	},
@@ -115,6 +131,7 @@
 		"name": "progressbar.js",
 		"keywords": ["animation", "progress", "javascript"],
 		"url": "https://mattboldt.com/demos/typed-js/",
+		"ref": "",
 		"description": "Barres de progression réactives et fluides avec des chemins SVG animés.",
 		"note": 4
 	},
@@ -122,6 +139,7 @@
 		"name": "tingle.js",
 		"keywords": ["animation", "modal", "javascript"],
 		"url": "https://tingle.robinparisi.com/",
+		"ref": "",
 		"description": "Un plugin modal minimaliste et facile à utiliser écrit en Vanilla JS.",
 		"note": 5
 	},
@@ -129,6 +147,7 @@
 		"name": "stroll.js",
 		"keywords": ["animation", "scroll", "list", "javascript"],
 		"url": "https://lab.hakim.se/scroll-effects/",
+		"ref": "",
 		"description": "CSS3 list scroll effects",
 		"note": 4
 	},
@@ -136,6 +155,7 @@
 		"name": "lottiefiles",
 		"keywords": ["animation", "json", "lottie", "image", "javascript"],
 		"url": "https://lottiefiles.com/",
+		"ref": "",
 		"description": "Bibliothèque d'animations JSON pour les applications web et mobiles",
 		"note": 5
 	},
@@ -143,6 +163,7 @@
 		"name": "lottie-react",
 		"keywords": ["animation", "json", "lottie", "image", "react", "javascript"],
 		"url": "https://github.com/LottieFiles/lottie-react",
+		"ref": "",
 		"description": "Composant React pour les animations Lottie",
 		"note": 4
 	}

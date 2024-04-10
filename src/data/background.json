@@ -3,6 +3,7 @@
 		"name": "pocoloco",
 		"keywords": ["background", "generator"],
 		"url": "https://pocoloco.io/",
+		"ref": "",
 		"description": "Générer des arrière-plans dynamiques pour votre site web",
 		"note": 4
 	},
@@ -10,6 +11,7 @@
 		"name": "getwaves",
 		"keywords": ["background", "wave", "svg", "generator"],
 		"url": "https://getwaves.io/",
+		"ref": "",
 		"description": "Un générateur d'ondes SVG gratuit pour créer des ondes SVG uniques pour la conception Web",
 		"note": 4
 	},
@@ -17,6 +19,7 @@
 		"name": "clippy",
 		"keywords": ["background", "polygone", "geometric", "css"],
 		"url": "https://bennettfeely.com/clippy/",
+		"ref": "",
 		"description": "Editer une image sous forme de polygone en CSS",
 		"note": 4
 	},
@@ -24,6 +27,7 @@
 		"name": "cssgradient",
 		"keywords": ["background", "gradient", "fluent", "css", "generator"],
 		"url": "https://cssgradient.io/",
+		"ref": "",
 		"description": "Un générateur de couleur degredE elegant pour des arrière-plans",
 		"note": 4
 	},
@@ -31,6 +35,7 @@
 		"name": "Hero Patterns",
 		"keywords": ["background", "geometric", "svg"],
 		"url": "http://www.heropatterns.com",
+		"ref": "",
 		"description": "Une collection de motifs d'arrière-plan SVG reproductibles",
 		"note": 4
 	},
@@ -38,6 +43,7 @@
 		"name": "nice-waves.js",
 		"keywords": ["background", "animation", "generator", "javascript"],
 		"url": "https://github.com/gVguy/nice-waves#nice-waves",
+		"ref": "",
 		"description": "Belles vagues animées.",
 		"note": 3
 	},
@@ -45,6 +51,7 @@
 		"name": "particles.js",
 		"keywords": ["background", "animation", "generator", "javascript"],
 		"url": "https://particles.js.org/",
+		"ref": "",
 		"description": "Une bibliothèque légère pour créer des particules",
 		"note": 4
 	},
@@ -52,6 +59,7 @@
 		"name": "react-particles",
 		"keywords": ["background", "animation", "generator", "react", "javascript"],
 		"url": "https://www.npmjs.com/package/react-tsparticles",
+		"ref": "",
 		"description": "Une bibliothèque de particules pour React",
 		"note": 4
 	},
@@ -59,6 +67,7 @@
 		"name": "vanta.js",
 		"keywords": ["background", "animation", "generator", "javascript"],
 		"url": "https://www.vantajs.com/",
+		"ref": "",
 		"description": "Arrière-plans de sites Web animés en quelques lignes de code.",
 		"note": 5
 	}

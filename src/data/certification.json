@@ -3,6 +3,7 @@
 		"name": "freecodecamp",
 		"keywords": ["certification", "skill", "training"],
 		"url": "https://www.freecodecamp.org/learn/",
+		"ref": "",
 		"description": "freeCodeCamp est une organisation à but non lucratif qui se compose d'une plate-forme Web d'apprentissage interactive, d'un forum communautaire en ligne, de salles de discussion, de publications en ligne et d'organisations locales qui ont l'intention d'apprendre à développer des sites Web accessible à tous.",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "codeingame",
 		"keywords": ["certification", "skill", "evaluation", "training"],
 		"url": "https://www.codingame.com/home",
+		"ref": "",
 		"description": "CodinGame est un site consacré à la programmation informatique ludique, proposant d’un côté des casse-têtes de difficulté croissante à résoudre dans l’un des vingt-cinq langages de programmation !",
 		"note": 5
 	},
@@ -17,6 +19,7 @@
 		"name": "codesignal",
 		"keywords": ["certification", "skill", "evaluation", "training"],
 		"url": "https://codesignal.com/",
+		"ref": "",
 		"description": "CodeSignal est une plateforme d'entretien technique et d'évaluation exploitée par la société américaine BrainFights",
 		"note": 5
 	},
@@ -24,6 +27,7 @@
 		"name": "hackerRank",
 		"keywords": ["certification", "skill", "evaluation", "training"],
 		"url": "https://www.hackerrank.com/",
+		"ref": "",
 		"description": "HackerRank est la solution d'évaluation technique et d'entretien à distance leader sur le marché pour le recrutement de développeurs. Apprenez à embaucher des talents techniques de n'importe où !",
 		"note": 5
 	},
@@ -31,6 +35,7 @@
 		"name": "skillvalue",
 		"keywords": ["certification", "skill", "quiz", "training"],
 		"url": "https://www.frontendmentor.io/",
+		"ref": "",
 		"description": "Mettez-vous au défi avec des quiz techniques, choisissez parmi +1000 tests techniques et faites-vous remarquer. Valorisez vos compétences dès maintenant et obtenez un certificationificat !",
 		"note": 4
 	},
@@ -38,6 +43,7 @@
 		"name": "openclassrooms",
 		"keywords": ["certification", "skill", "training"],
 		"url": "https://openclassrooms.com/fr/",
+		"ref": "",
 		"description": "OpenClassrooms est un site web de formation en ligne, créé en 1999 sous le nom de Site du Zéro. Il propose à ses membres des cours certificationifiants et des parcours débouchant sur des métiers en croissance (ideale pour un debutant)",
 		"note": 5
 	},
@@ -45,6 +51,7 @@
 		"name": "w3schools",
 		"keywords": ["certification", "skill", "training"],
 		"url": "https://www.w3schools.com/",
+		"ref": "",
 		"description": "W3Schools est un site web destiné à l'apprentissage en ligne des technologies web. Son contenu inclut des didacticiels et des références relatives à HTML, CSS, JavaScript, JSON, PHP, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX et XML. Il reçoit plus de 10 millions de visiteurs uniques chaque mois.",
 		"note": 4
 	}

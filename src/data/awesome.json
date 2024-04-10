@@ -10,6 +10,7 @@
 			"javascript"
 		],
 		"url": "https://github.com/LottieFiles/awesome-lottie",
+		"ref": "",
 		"description": "A curated list of awesome for Lottie",
 		"note": 0
 	},
@@ -28,6 +29,7 @@
 			"javascript"
 		],
 		"url": "https://github.com/benallfree/awesome-pocketbase/",
+		"ref": "",
 		"description": "A curated list of awesome for Pocketbase",
 		"note": 0
 	},
@@ -42,6 +44,7 @@
 			"project"
 		],
 		"url": "https://github.com/melvin0008/awesome-projects-boilerplates",
+		"ref": "",
 		"description": "A curated list of awesome boilerplates",
 		"note": 0
 	}

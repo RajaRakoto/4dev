@@ -3,6 +3,7 @@
 		"name": "nodemailer",
 		"keywords": ["email", "mail", "smtp", "javascript"],
 		"url": "https://www.npmjs.com/package/nodemailer",
+		"ref": "",
 		"description": "Nodemailer est un module node js qui permet d’envoyer des emails.",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "email-js-react",
 		"keywords": ["email", "mail", "smtp", "react", "javascript"],
 		"url": "https://www.emailjs.com/docs/examples/reactjs/",
+		"ref": "",
 		"description": "EmailJS est un service qui permet d’envoyer des emails directement depuis le client.",
 		"note": 5
 	},
@@ -17,6 +19,7 @@
 		"name": "brevo",
 		"keywords": ["email", "mail", "smtp", "client", "manager"],
 		"url": "https://www.brevo.com/",
+		"ref": "",
 		"description": "Développez votre activité avec Brevo, la plateforme tout-en-un pour gérer vos relations clients par email, SMS, chat et plus encore.",
 		"note": 4
 	}

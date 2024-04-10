@@ -3,6 +3,7 @@
 		"name": "bigheads",
 		"keywords": ["avatar", "profil", "generator"],
 		"url": "https://github.com/RobertBroersma/bigheads/",
+		"ref": "",
 		"description": "Générez facilement des avatars pour vos projets avec Big Heads de Robert Broersma.",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "getavataaars",
 		"keywords": ["avatar", "profil", "generator"],
 		"url": "https://getavataaars.com/",
+		"ref": "",
 		"description": "Outil de génération Web d'avatars gratuits amusants et colorés par Fang-Pen Lin utilisant la bibliothèque de croquis de Pablo Stanley.",
 		"note": 4
 	},
@@ -17,6 +19,7 @@
 		"name": "personas",
 		"keywords": ["avatar", "profil", "generator"],
 		"url": "https://personas.draftbit.com/",
+		"ref": "",
 		"description": "Un générateur d'avatar ludique pour l'ère moderne.",
 		"note": 3
 	}

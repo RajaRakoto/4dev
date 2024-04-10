@@ -10,6 +10,7 @@
 			"javascript"
 		],
 		"url": "https://github.com/RajaRakoto/vscode-boilerplate",
+		"ref": "",
 		"description": "Minimalistic boilerplate to quick-start VSCode Extension development",
 		"note": 5
 	},
@@ -17,6 +18,7 @@
 		"name": "cli-boilerplate",
 		"keywords": ["boilerplate", "cli", "template", "starter", "javascript"],
 		"url": "https://github.com/RajaRakoto/cli-boilerplate",
+		"ref": "",
 		"description": "Minimalistic boilerplate to quick-start CLI development with Inquirer.js in TypeScript",
 		"note": 5
 	},
@@ -31,6 +33,7 @@
 			"javascript"
 		],
 		"url": "https://github.com/RajaRakoto/node-boilerplate",
+		"ref": "",
 		"description": "Minimalistic boilerplate to quick-start Node.js development in TypeScript",
 		"note": 5
 	},
@@ -45,6 +48,7 @@
 			"javascript"
 		],
 		"url": "https://github.com/RajaRakoto/react-boilerplate",
+		"ref": "",
 		"description": "Minimalistic boilerplate to quick-start React.js development in TypeScript, optimized for blazing-fast performance with Bun & Vite",
 		"note": 5
 	},
@@ -59,6 +63,7 @@
 			"javascript"
 		],
 		"url": "https://github.com/RajaRakoto/next-boilerplate",
+		"ref": "",
 		"description": "Minimalistic boilerplate to quick-start Next.js development in TypeScript, optimized for blazing-fast performance with Bun & Turbopack",
 		"note": 5
 	},
@@ -73,6 +78,7 @@
 			"javascript"
 		],
 		"url": "https://github.com/RajaRakoto/bun-boilerplate",
+		"ref": "",
 		"description": "Minimalistic boilerplate to quick-start Bun.js development in TypeScript",
 		"note": 5
 	}

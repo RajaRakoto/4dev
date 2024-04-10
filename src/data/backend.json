@@ -3,6 +3,7 @@
 		"name": "node.js",
 		"keywords": ["backend", "runtime", "javascript"],
 		"url": "https://nodejs.org/",
+		"ref": "",
 		"description": "Node.js est un environnement d'exécution JavaScript côté serveur, basé sur le moteur JavaScript V8 de Chrome. Il utilise un modèle d'E/S asynchrone et événementiel, ce qui le rend léger et efficace. Node.js est utilisé pour créer des applications web et des API côté serveur en JavaScript.",
 		"note": 4
 	},
@@ -10,6 +11,7 @@
 		"name": "deno",
 		"keywords": ["backend", "runtime", "javascript"],
 		"url": "https://deno.land/",
+		"ref": "",
 		"description": "Deno est un environnement d'exécution JavaScript côté serveur, créé par Ryan Dahl, le créateur de Node.js. Deno est construit sur les meilleures idées de Node.js, mais en corrigeant ses erreurs et en améliorant ses fonctionnalités. Deno est sécurisé par défaut, ne nécessite pas de gestionnaire de paquets tiers et est livré avec un ensemble de fonctionnalités intégrées.",
 		"note": 5
 	},
@@ -17,6 +19,7 @@
 		"name": "bun.js",
 		"keywords": ["backend", "runtime", "javascript"],
 		"url": "https://bun.sh/",
+		"ref": "",
 		"description": "Bun est un runtime JavaScript, un gestionnaire de packages, un exécuteur de tests et un bundler construit à partir de zéro à l'aide du langage de programmation Zig. Il a été conçu par Jarred Sumner pour remplacer Node.js. Bun est rapide, sécurisé et facile à utiliser.",
 		"note": 5
 	},
@@ -24,6 +27,7 @@
 		"name": "low latency runtime (llrt)",
 		"keywords": ["backend", "runtime", "javascript"],
 		"url": "https://github.com/awslabs/llrt",
+		"ref": "",
 		"description": "LLRT (Low Latency Runtime) est un runtime JavaScript expérimental et léger conçu pour répondre à la demande croissante d'applications sans serveur rapides et efficaces.",
 		"note": 4
 	},
@@ -31,6 +35,7 @@
 		"name": "express",
 		"keywords": ["backend", "framework", "javascript"],
 		"url": "https://expressjs.com/",
+		"ref": "",
 		"description": "Express.js est un framework minimaliste et flexible pour Node.js, permettant de créer des applications web et des API de manière rapide et efficace en fournissant des fonctionnalités de routage simples, des gestionnaires de requêtes et de réponses, ainsi que des modules middleware extensibles, offrant ainsi aux développeurs un contrôle total sur la configuration et le comportement de leurs serveurs HTTP, tout en favorisant une approche légère et non intrusive pour le développement côté serveur.",
 		"note": 5
 	},
@@ -38,6 +43,7 @@
 		"name": "nest.js",
 		"keywords": ["backend", "framework", "angular", "javascript"],
 		"url": "https://nestjs.com/",
+		"ref": "",
 		"description": "Nest.js est un framework Node.js progressif et extensible, inspiré de Angular, qui permet de construire des applications backend efficaces et modulaires en utilisant TypeScript, offrant une architecture basée sur les modules, une injection de dépendances robuste, et une intégration transparente avec des bibliothèques tierces, favorisant ainsi une écriture de code propre et maintenable pour les développeurs.",
 		"note": 5
 	},
@@ -45,6 +51,7 @@
 		"name": "symfony",
 		"keywords": ["backend", "framework", "php"],
 		"url": "https://symfony.com/",
+		"ref": "",
 		"description": "Symfony est un framework PHP robuste et hautement modulaire, qui favorise le développement rapide et la maintenabilité des applications web complexes grâce à son architecture flexible basée sur des composants réutilisables, une gestion avancée des dépendances via Composer, des fonctionnalités étendues telles que la gestion des sessions, l'authentification, et la validation des données, ainsi qu'une communauté active et un écosystème de bundles permettant d'étendre facilement ses fonctionnalités de base.",
 		"note": 5
 	},
@@ -52,6 +59,7 @@
 		"name": "laravel",
 		"keywords": ["backend", "framework", "php"],
 		"url": "https://laravel.com/",
+		"ref": "",
 		"description": "Laravel est un framework PHP élégant et expressif, reconnu pour sa simplicité et sa puissance, offrant une syntaxe propre et intuitive ainsi qu'une multitude de fonctionnalités prêtes à l'emploi telles que l'ORM Eloquent, la gestion des migrations de base de données, le routage fluide, la gestion des sessions, et la sécurité avancée, ce qui en fait un choix populaire pour le développement rapide d'applications web modernes et évolutives.",
 		"note": 5
 	},
@@ -68,6 +76,7 @@
 			"javascript"
 		],
 		"url": "https://pocketbase.io/",
+		"ref": "",
 		"description": "PocketBase est un outil open source visant à rationaliser le processus de développement en offrant des fonctionnalités essentielles de back-end dans un seul fichier exécutable. Son approche conviviale permet aux développeurs de mettre en œuvre une fonctionnalité dorsale robuste avec un minimum d'installation. Utilisez-le comme application autonome OU comme framework, que vous pouvez étendre via des hooks Go et JavaScript pour créer votre propre backend portable personnalisé.",
 		"note": 5
 	},
@@ -75,6 +84,7 @@
 		"name": "supabase",
 		"keywords": ["backend", "baas", "database", "opensource", "javascript"],
 		"url": "https://supabase.com/",
+		"ref": "",
 		"description": "Supabase est une alternative open source à Firebase, offrant une base de données PostgreSQL en temps réel et une API RESTful, ainsi que des fonctionnalités de gestion des utilisateurs, d'authentification, de stockage de fichiers, et de déclencheurs de base de données, le tout hébergé sur votre propre infrastructure, ce qui en fait une solution idéale pour les applications web modernes nécessitant une base de données performante et évolutive.",
 		"note": 5
 	},
@@ -82,6 +92,7 @@
 		"name": "firebase",
 		"keywords": ["backend", "baas", "database", "google", "javascript"],
 		"url": "https://firebase.google.com/",
+		"ref": "",
 		"description": "Firebase, Inc. est un ensemble de services de cloud computing back-end et de plateformes de développement d'applications fournis par Google. Il héberge des bases de données, des services, l'authentification et l'intégration pour une variété d'applications, notamment Android, iOS, JavaScript, Node.",
 		"note": 5
 	}

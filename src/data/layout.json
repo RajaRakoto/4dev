@@ -3,6 +3,7 @@
 		"name": "milligrid",
 		"keywords": ["layout", "grid", "flexbox", "css"],
 		"url": "http://bencoveney.github.io/Milligrid/",
+		"ref": "",
 		"description": "Milligrid est un system de grille CSS flexbox configurable et facile a apprendre basée sur Milligram",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "css grid generator",
 		"keywords": ["layout", "grid", "css", "generator"],
 		"url": "https://cssgrid-generator.netlify.app/",
+		"ref": "",
 		"description": "Un projet open source permettant aux utilisateurs de créer rapidement une mise en page dynamique basée sur la grille CSS.",
 		"note": 4
 	},
@@ -17,6 +19,7 @@
 		"name": "css layout",
 		"keywords": ["layout", "collection", "css"],
 		"url": "https://csslayout.io/",
+		"ref": "",
 		"description": "Une collection de mises en page et de modèles de Web populaires en Pure CSS",
 		"note": 4
 	},
@@ -24,6 +27,7 @@
 		"name": "generate position",
 		"keywords": ["layout", "position", "generator"],
 		"url": "http://www.generatecss.com/css/position/",
+		"ref": "",
 		"description": "Ce générateur vous permet de positionner facilement des éléments au-dessus d'un autre élément. Cet outil est idéal pour des choses comme le positionnement d'un logo sur un en-tête dans la mise en page d'un site Web ou la création d'une bannière qui se chevauche avec des textes au lieu d'une image.",
 		"note": 3
 	},
@@ -31,6 +35,7 @@
 		"name": "flexbox help",
 		"keywords": ["layout", "flexbox", "generator"],
 		"url": "https://flexbox.help/",
+		"ref": "",
 		"description": "Un generateur de flexbox rapide et facile",
 		"note": 4
 	},
@@ -38,6 +43,7 @@
 		"name": "grid malven",
 		"keywords": ["layout", "grid", "css"],
 		"url": "https://grid.malven.co/",
+		"ref": "",
 		"description": "Une cheatsheet de grille CSS à référencer lors de la création d'une grille CSS",
 		"note": 4
 	},
@@ -45,6 +51,7 @@
 		"name": "flex malven",
 		"keywords": ["layout", "flex", "css"],
 		"url": "https://flexbox.malven.co/",
+		"ref": "",
 		"description": "Une cheatsheet de flexbox à référencer lorsque vous travaillez avec flexbox",
 		"note": 4
 	},
@@ -52,6 +59,7 @@
 		"name": "flexboxfroggy",
 		"keywords": ["layout", "flex", "training", "css"],
 		"url": "http://flexboxfroggy.com/#fr",
+		"ref": "",
 		"description": "un jeu où vous aidez Froggy la grenouille et ses amis en écrivant du code flexbox CSS!",
 		"note": 5
 	},
@@ -59,6 +67,7 @@
 		"name": "react-responsive",
 		"keywords": ["layout", "responsive", "react", "javascript"],
 		"url": "https://www.npmjs.com/package/react-responsive",
+		"ref": "",
 		"description": "Un composant de media queries pour React",
 		"note": 5
 	}

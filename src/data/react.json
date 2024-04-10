@@ -3,6 +3,7 @@
 		"name": "react-helmet",
 		"keywords": ["react", "frontend", "manager", "javascript"],
 		"url": "https://www.npmjs.com/package/react-helmet",
+		"ref": "",
 		"description": "A document head manager for React",
 		"note": 5
 	},
@@ -17,6 +18,7 @@
 			"javascript"
 		],
 		"url": "https://mdbootstrap.com/docs/b5/react/getting-started/installation/",
+		"ref": "",
 		"description": "Material Design for Bootstrap 5 - React UI Kit",
 		"note": 4
 	},
@@ -24,6 +26,7 @@
 		"name": "react-use-cart",
 		"keywords": ["react", "frontend", "cart", "javascript"],
 		"url": "https://www.npmjs.com/package/react-use-cart",
+		"ref": "",
 		"description": "A shopping cart hook for React",
 		"note": 4
 	},
@@ -31,6 +34,7 @@
 		"name": "react-circular-progressbar",
 		"keywords": ["react", "frontend", "progress", "javascript"],
 		"url": "https://github.com/kevinsqi/react-circular-progressbar",
+		"ref": "",
 		"description": "A circular progress bar component for React",
 		"note": 4
 	},
@@ -38,6 +42,7 @@
 		"name": "react-github-calendar",
 		"keywords": ["react", "frontend", "github", "calendar", "javascript"],
 		"url": "https://grubersjoe.github.io/react-github-calendar/",
+		"ref": "",
 		"description": "A GitHub calendar component for React",
 		"note": 4
 	},
@@ -45,6 +50,7 @@
 		"name": "react-countup",
 		"keywords": ["react", "frontend", "count", "javascript"],
 		"url": "https://www.npmjs.com/package/react-countup",
+		"ref": "",
 		"description": "A React component wrapper around CountUp.js",
 		"note": 4
 	},
@@ -52,6 +58,7 @@
 		"name": "react-under-construction",
 		"keywords": ["react", "frontend", "construction", "404", "javascript"],
 		"url": "https://www.npmjs.com/package/react-under-construction",
+		"ref": "",
 		"description": "A React component for under construction pages",
 		"note": 4
 	}

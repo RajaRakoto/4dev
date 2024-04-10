@@ -3,6 +3,7 @@
 		"name": "contabo",
 		"keywords": ["vps", "server", "hosting"],
 		"url": "https://contabo.com/en/vps/",
+		"ref": "",
 		"description": "We offer high quality Virtual Private Servers with the best price-to-performance ratio (featuring NVMe SSDs, and a truckload of RAM and traffic) so you can build more for less.",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "kimsufi",
 		"keywords": ["vps", "server", "hosting"],
 		"url": "https://www.kimsufi.com/fr/vps/",
+		"ref": "",
 		"description": "Grâce à nos serveurs VPS pas chers, vous hébergez vos sites internet et applications web à moindre coût tout en bénéficiant d’une flexibilité et d’une disponibilité matérielle garanties. L’accès root de votre machine virtuelle vous permet de gérer sa configuration et de contrôler au mieux vos ressources pour en ajouter si l’évolution de votre projet le nécessite.",
 		"note": 4
 	},
@@ -17,6 +19,7 @@
 		"name": "sitebunker",
 		"keywords": ["vps", "server", "hosting"],
 		"url": "https://sitebunker.net/vps-servers/",
+		"ref": "",
 		"description": "Choose from VPS Server packages below with dedicated resources and unlimited traffic or we can customize a package for your needs.",
 		"note": 4
 	}

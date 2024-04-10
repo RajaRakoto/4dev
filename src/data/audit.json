@@ -3,6 +3,7 @@
 		"name": "deepscan",
 		"keywords": ["audit", "scan", "debug"],
 		"url": "https://deepscan.io/",
+		"ref": "",
 		"description": "DeepScan est un outil d'analyse statique de pointe pour JavaScript. Vous pouvez inspecter l'ensemble de votre code JavaScript de manière exhaustive.",
 		"note": 4
 	},
@@ -10,6 +11,7 @@
 		"name": "GTmetrix",
 		"keywords": ["audit", "test", "performance"],
 		"url": "https://gtmetrix.com/",
+		"ref": "",
 		"description": "Optimisation de la vitesse et des performances du site Web",
 		"note": 4
 	}

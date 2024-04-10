@@ -3,6 +3,7 @@
 		"name": "fontawesome",
 		"keywords": ["fonts", "typography", "icons", "svg", "css", "sass", "less"],
 		"url": "https://fontawesome.com/start",
+		"ref": "",
 		"description": "Font Awesome est une police d'écriture et un outil d'icônes qui se base sur CSS, LESS et SASS",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "google fonts",
 		"keywords": ["fonts", "typography", "google"],
 		"url": "https://fonts.google.com",
+		"ref": "",
 		"description": "Bibliothèque d'environ 1000 familles de polices sous licence gratuite",
 		"note": 5
 	},
@@ -17,6 +19,7 @@
 		"name": "dafont",
 		"keywords": ["fonts", "typography"],
 		"url": "https://www.dafont.com",
+		"ref": "",
 		"description": "Archive des polices téléchargeables gratuitement",
 		"note": 4
 	},
@@ -24,6 +27,7 @@
 		"name": "fontgeneratorguru",
 		"keywords": ["fonts", "typography", "generator"],
 		"url": "https://www.fontgeneratorguru.com/",
+		"ref": "",
 		"description": "Generateur de font sympa !",
 		"note": 4
 	}

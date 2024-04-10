@@ -3,6 +3,7 @@
 		"name": "rapidAPI",
 		"keywords": ["api"],
 		"url": "https://rapidapi.com/hub",
+		"ref": "",
 		"description": "Découvrez et connectez-vous à des milliers d'API",
 		"note": 4
 	},
@@ -10,6 +11,7 @@
 		"name": "mvola",
 		"keywords": ["api", "mvola", "mobilemoney", "madagascar"],
 		"url": "https://www.mvola.mg/devportal/services/configs",
+		"ref": "",
 		"description": "API pour intégrer MVOLA dans vos applications",
 		"note": 4
 	},
@@ -17,6 +19,7 @@
 		"name": "public-apis",
 		"keywords": ["api"],
 		"url": "https://github.com/public-apis/public-apis",
+		"ref": "",
 		"description": "Une liste d'APIs publiques",
 		"note": 5
 	},
@@ -24,6 +27,7 @@
 		"name": "steam-api",
 		"keywords": ["api", "steam", "rest"],
 		"url": "http://api.steampowered.com/ISteamApps/GetAppList/v0002/?key=STEAMKEY&format=json",
+		"ref": "",
 		"description": "API pour récupérer la liste des jeux steam",
 		"note": 5
 	},
@@ -31,6 +35,7 @@
 		"name": "json-server",
 		"keywords": ["api", "rest", "server", "faker", "test"],
 		"url": "https://github.com/typicode/json-server",
+		"ref": "",
 		"description": "Obtenez une fausse API REST complète sans codage en moins de 30 secondes",
 		"note": 5
 	}

@@ -3,6 +3,7 @@
 		"name": "dockerhub",
 		"keywords": ["devops", "docker", "registry"],
 		"url": "https://hub.docker.com/",
+		"ref": "",
 		"description": "Docker Hub is the world's easiest way to create, manage, and deliver your teams' container applications.",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "play-with-docker",
 		"keywords": ["devops", "docker", "playground"],
 		"url": "https://labs.play-with-docker.com/",
+		"ref": "",
 		"description": "Play with Docker is a project that allows you to test Docker commands in a matter of seconds. It gives you the experience of having a free Alpine Linux Virtual Machine in the cloud where you can build and run Docker containers and even create clusters.",
 		"note": 5
 	},
@@ -17,6 +19,7 @@
 		"name": "azure devops",
 		"keywords": ["devops", "microsoft", "cloud"],
 		"url": "https://dev.azure.com/",
+		"ref": "",
 		"description": "Microsoft Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services",
 		"note": 5
 	},
@@ -24,6 +27,7 @@
 		"name": "aws",
 		"keywords": ["devops", "amazon", "cloud"],
 		"url": "https://aws.amazon.com/",
+		"ref": "",
 		"description": "Amazon Web Services (AWS) est une plateforme de services cloud proposée par Amazon.",
 		"note": 5
 	},
@@ -41,6 +45,7 @@
 			"javascript"
 		],
 		"url": "https://fluentci.io/",
+		"ref": "",
 		"description": "Unleash the power of CI/CD with Dagger and Deno (TypeScript): choose from pre-built pipelines or craft your own, and watch your code soar!"
 	}
 ]

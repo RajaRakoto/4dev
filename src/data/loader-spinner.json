@@ -3,6 +3,7 @@
 		"name": "css loaders & spinners",
 		"keywords": ["loader", "spinner"],
 		"url": "https://cssloaders.github.io/",
+		"ref": "",
 		"description": "Il s'agit d'une bibliothèque ayant une collection de différents types de chargeurs CSS, spinners.",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "spinkit",
 		"keywords": ["loader", "spinner"],
 		"url": "https://tobiasahlin.com/spinkit/",
+		"ref": "",
 		"description": "Simple CSS Spinners.",
 		"note": 4
 	},
@@ -17,6 +19,7 @@
 		"name": "react-preloaders",
 		"keywords": ["loader", "preloader", "spinner"],
 		"url": "https://github.com/vamosgs/react-preloaders",
+		"ref": "",
 		"description": "React Preloaders is a collection of preloader components for react.",
 		"note": 5
 	}

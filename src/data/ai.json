@@ -3,6 +3,7 @@
 		"name": "chatGPT",
 		"keywords": ["ai", "gpt", "generative", "model"],
 		"url": "https://chat.openai.com/chat",
+		"ref": "",
 		"description": "Chat with an AI model trained by OpenAI. It can generate human-like text based on the input you provide.",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "perplexity",
 		"keywords": ["ai", "search", "generative", "model", "upload"],
 		"url": "https://perplexity.ai/",
+		"ref": "",
 		"description": "Search for AI models and chat with them. You can also upload your own files to generate text based on them. Perplexity AI unlocks the power of knowledge with information discovery and sharing.",
 		"note": 5
 	},
@@ -17,6 +19,7 @@
 		"name": "phind",
 		"keywords": ["ai", "gpt", "search", "dev", "generative", "model"],
 		"url": "https://www.phind.com/",
+		"ref": "",
 		"description": "Phind is an intelligent answer engine for developers. Focused on helping you solve challenging problems, it uses generative AI to give you the answer you're looking for.",
 		"note": 5
 	},
@@ -24,6 +27,7 @@
 		"name": "claude",
 		"keywords": ["ai", "generative", "model", "upload"],
 		"url": "https://claude.ai/chat",
+		"ref": "",
 		"description": "Claude is a conversational AI that can generate human-like text based on the input you provide. You can also upload your own files to generate text based on them.",
 		"note": 5
 	},
@@ -38,6 +42,7 @@
 			"model"
 		],
 		"url": "https://leonardo.ai/",
+		"ref": "",
 		"description": "Transform your projects with our AI image generator. Generate high-quality, AI generated images with unparalleled speed and style to elevate your creative ...",
 		"note": 5
 	},
@@ -52,6 +57,7 @@
 			"model"
 		],
 		"url": "https://midjourney.com/",
+		"ref": "",
 		"description": "An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
 		"note": 5
 	},
@@ -68,6 +74,7 @@
 			"telegram"
 		],
 		"url": "https://t.me/freemidjourney",
+		"ref": "",
 		"description": "Midjourney Free is a Telegram bot that generates AI images for free. You can use it to generate high-quality, AI-generated images with unparalleled speed and style.",
 		"note": 4
 	},
@@ -82,6 +89,7 @@
 			"opensource"
 		],
 		"url": "https://mistral.ai/fr/",
+		"ref": "",
 		"description": "Une IA générative ouverte et portable pour les développeurs et les entreprises.",
 		"note": 5
 	},
@@ -89,6 +97,7 @@
 		"name": "prompt collection",
 		"keywords": ["ai", "gpt", "prompt", "collection"],
 		"url": "https://www.prompt-collection.com/",
+		"ref": "",
 		"description": "Welcome to the “Awesome ChatGPT Prompts” repository! This is a collection of prompt examples to be used with the ChatGPT model.",
 		"note": 5
 	},
@@ -96,6 +105,7 @@
 		"name": "text to speech - google",
 		"keywords": ["ai", "text", "speech", "google"],
 		"url": "https://cloud.google.com/text-to-speech?hl=fr",
+		"ref": "",
 		"description": "Convert text to speech with Google's Text-to-Speech API. You can use this API to generate human-like speech from text.",
 		"note": 5
 	},
@@ -103,6 +113,7 @@
 		"name": "speech to text - google",
 		"keywords": ["ai", "speech", "text", "google"],
 		"url": "https://cloud.google.com/speech-to-text",
+		"ref": "",
 		"description": "Convert speech to text with Google's Speech-to-Text API. You can use this API to transcribe audio into text.",
 		"note": 5
 	},
@@ -110,6 +121,7 @@
 		"name": "speechtexter",
 		"keywords": ["ai", "speech", "text", "transcribe"],
 		"url": "https://www.speechtexter.com/",
+		"ref": "",
 		"description": "SpeechTexter is a free online speech recognition software that converts your speech to text",
 		"note": 5
 	},
@@ -124,6 +136,7 @@
 			"generative"
 		],
 		"url": "https://www.summarize.tech/",
+		"ref": "",
 		"description": "Summarize AI is a tool that can summarize YouTube videos to text. It uses AI to generate a summary of the video's content.",
 		"note": 5
 	},
@@ -131,6 +144,7 @@
 		"name": "upscale-image",
 		"keywords": ["ai", "image", "upscale", "enhance"],
 		"url": "https://www.iloveimg.com/upscale-image",
+		"ref": "",
 		"description": "Upscale your images with AI. Enhance the quality of your images using AI technology.",
 		"note": 5
 	},
@@ -138,6 +152,7 @@
 		"name": "doctransgpt",
 		"keywords": ["ai", "gpt", "translator", "pdf"],
 		"url": "https://doctransgpt.com/",
+		"ref": "",
 		"description": "Translate PDFs with AI. DoctransGPT is a tool that can translate PDFs using AI technology.",
 		"note": 4
 	},
@@ -145,6 +160,7 @@
 		"name": "logo ai",
 		"keywords": ["ai", "logo", "design", "illustrator", "generative"],
 		"url": "https://www.logoai.com/",
+		"ref": "",
 		"description": "Let AI-powered logo maker generate your new logo and create a brand identity design you love.",
 		"note": 4
 	},
@@ -152,6 +168,7 @@
 		"name": "project IDX",
 		"keywords": ["ai", "editor", "ide", "code", "cloud", "fullstack"],
 		"url": "https://projectidx.com/",
+		"ref": "",
 		"description": "Project IDX est un espace de travail entièrement basé sur le Web pour le développement d'applications full-stack, doté de la dernière IA générative (optimisée par Codey et PaLM 2)."
 	}
 ]

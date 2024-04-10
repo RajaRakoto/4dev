@@ -3,6 +3,7 @@
 		"name": "discord.me",
 		"keywords": ["discord", "search", "community"],
 		"url": "https://discord.me/servers",
+		"ref": "",
 		"description": "Discord Me est une plate-forme qui connecte les gens avec des serveurs et des bots publics. Nous sommes là pour vous aider à trouver le serveur parfait !",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "grafikart",
 		"keywords": ["discord", "community"],
 		"url": "https://discord.com/invite/rAuuD7Q",
+		"ref": "",
 		"description": "La communautE discord de Grafikart est l'un des serveurs fr le plus actif",
 		"note": 5
 	},
@@ -17,6 +19,7 @@
 		"name": "speakJS",
 		"keywords": ["discord", "community", "javascript"],
 		"url": "https://discord.com/invite/FePZ6VR4",
+		"ref": "",
 		"description": "Une communauté de plus de 16 000 développeurs JavaScript.",
 		"note": 5
 	},
@@ -24,6 +27,7 @@
 		"name": "nodeiflux",
 		"keywords": ["discord", "community", "runtime", "node", "javascript"],
 		"url": "https://discord.com/invite/aD42zPx",
+		"ref": "",
 		"description": "Une communauté amicale de développeurs actifs et en herbe. Il s'agit d'un environnement professionnel pour apprendre, partager des connaissances et grandir personnellement et professionnellement.",
 		"note": 4
 	},
@@ -31,6 +35,7 @@
 		"name": "reactiflux",
 		"keywords": ["discord", "community", "react", "javascript"],
 		"url": "https://discord.gg/jGKhXV26d8",
+		"ref": "",
 		"description": "Une communauté dedié pour les developpeur ReactJS.",
 		"note": 5
 	},
@@ -38,6 +43,7 @@
 		"name": "fluent CI - community",
 		"keywords": ["discord", "community", "fluent", "ci", "cd", "devops"],
 		"url": "https://discord.gg/u8tmTBNQPW",
+		"ref": "",
 		"description": "Fluent CI est un serveur Discord pour les développeurs qui veulent discuter de CI/CD et de devops.",
 		"note": 5
 	},
@@ -45,6 +51,7 @@
 		"name": "qwik",
 		"keywords": ["discord", "community", "qwik", "javascript"],
 		"url": "https://discord.com/invite/eDrWHeqnnQ",
+		"ref": "",
 		"description": "Une communauté de développeurs JavaScript qui se concentre sur le nouveau framework Qwik.",
 		"note": 5
 	},
@@ -52,6 +59,7 @@
 		"name": "devcord",
 		"keywords": ["discord", "community", "dev"],
 		"url": "https://discord.com/invite/devcord",
+		"ref": "",
 		"description": "DevCord est une communauté de développeurs qui se concentre sur le partage de connaissances et l'entraide.",
 		"note": 5
 	},
@@ -59,6 +67,7 @@
 		"name": "bun",
 		"keywords": ["discord", "community", "runtime", "bun", "javascript"],
 		"url": "https://discord.gg/bun-876711213126520882",
+		"ref": "",
 		"description": "Une communauté de développeurs JavaScript passionnés sur le nouveau runtime Bun.",
 		"note": 5
 	}

@@ -3,6 +3,7 @@
 		"name": "lodash",
 		"keywords": ["javascript"],
 		"url": "https://lodash.com/",
+		"ref": "",
 		"description": "Bibliothèque JavaScript qui fournit des fonctions utilitaires pour la programmation fonctionnelle.",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "underscore",
 		"keywords": ["javascript"],
 		"url": "https://underscorejs.org/",
+		"ref": "",
 		"description": "Underscore.js est une bibliothèque de ceinture utilitaire pour JavaScript qui prend en charge les suspects fonctionnels habituels (each, map, reduce, filter, etc...) sans étendre les objets JavaScript de base.",
 		"note": 4
 	},
@@ -17,6 +19,7 @@
 		"name": "debug",
 		"keywords": ["javascript"],
 		"url": "https://www.npmjs.com/package/debug",
+		"ref": "",
 		"description": "Un petit utilitaire de débogage JavaScript inspiré de la technique de débogage du noyau Node.js, fonctionne dans Node.js et les navigateurs Web.",
 		"note": 4
 	},
@@ -24,6 +27,7 @@
 		"name": "browserify",
 		"keywords": ["javascript"],
 		"url": "http://browserify.org/",
+		"ref": "",
 		"description": "Browserify est un outil qui vous permet d'écrire des modules Node.js qui peuvent être utilisés dans les navigateurs.",
 		"note": 4
 	},
@@ -31,6 +35,7 @@
 		"name": "nodemon",
 		"keywords": ["javascript"],
 		"url": "https://nodemon.io/",
+		"ref": "",
 		"description": "nodemon est un utilitaire qui surveille les modifications dans les fichiers et redémarre automatiquement le serveur.",
 		"note": 4
 	},
@@ -38,6 +43,7 @@
 		"name": "dotenv",
 		"keywords": ["javascript"],
 		"url": "https://www.npmjs.com/package/dotenv",
+		"ref": "",
 		"description": "Dotenv est un module zéro dépendance qui charge les variables d'environnement d'un fichier .env dans process.env.",
 		"note": 4
 	},
@@ -45,6 +51,7 @@
 		"name": "prompt-sync",
 		"keywords": ["javascript"],
 		"url": "https://www.npmjs.com/package/prompt-sync",
+		"ref": "",
 		"description": "Un prompt simple pour Node.js.",
 		"note": 4
 	},
@@ -52,6 +59,7 @@
 		"name": "fs-extra",
 		"keywords": ["javascript"],
 		"url": "https://www.npmjs.com/package/fs-extra",
+		"ref": "",
 		"description": "fs-extra ajoute des méthodes supplémentaires à l'objet fs de Node.js.",
 		"note": 4
 	},
@@ -59,6 +67,7 @@
 		"name": "execa",
 		"keywords": ["javascript", "cli", "process"],
 		"url": "https://www.npmjs.com/package/execa",
+		"ref": "",
 		"description": "Exécutez des commandes dans un processus enfant",
 		"note": 5
 	},
@@ -66,6 +75,7 @@
 		"name": "file-saver",
 		"keywords": ["javascript", "file"],
 		"url": "https://www.npmjs.com/package/file-saver",
+		"ref": "",
 		"description": "Enregistrez des fichiers facilement dans le navigateur.",
 		"note": 4
 	}

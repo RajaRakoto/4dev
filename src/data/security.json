@@ -3,6 +3,7 @@
 		"name": "validator",
 		"keywords": ["security", "validator", "javascript"],
 		"url": "https://www.npmjs.com/package/validator",
+		"ref": "",
 		"description": "A library of string validators and sanitizers.",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "yup",
 		"keywords": ["security", "validator", "javascript"],
 		"url": "https://www.npmjs.com/package/yup",
+		"ref": "",
 		"description": "Yup est un constructeur de schéma JavaScript pour l'analyse et la validation de valeurs. Définissez un schéma, transformez une valeur pour qu'elle corresponde, validez la forme d'une valeur existante, ou les deux.",
 		"note": 4
 	},
@@ -17,6 +19,7 @@
 		"name": "bcrypt",
 		"keywords": ["security", "hash", "password", "javascript"],
 		"url": "https://www.npmjs.com/package/bcrypt",
+		"ref": "",
 		"description": "bcrypt est un algorithme de hachage de mot de passe.",
 		"note": 5
 	},
@@ -24,6 +27,7 @@
 		"name": "passport",
 		"keywords": ["security", "authentification", "node", "javascript"],
 		"url": "https://www.npmjs.com/package/passport",
+		"ref": "",
 		"description": "Passport est un middleware d'authentification pour Node.js. Il est extrêmement flexible et modulaire et peut être facilement intégré à n'importe quelle application Web basée sur Express.",
 		"note": 5
 	}

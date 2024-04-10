@@ -3,6 +3,7 @@
 		"name": "mocha",
 		"keywords": ["test", "framework", "unit", "javascript"],
 		"url": "https://mochajs.org/",
+		"ref": "",
 		"description": "Mocha est un framework de test JavaScript flexible et puissant, utilisé principalement pour tester des applications Node.js et des applications front-end avec une syntaxe simple et expressive. Il offre une suite complète d'outils pour écrire et exécuter des tests, supporte les styles de test asynchrones et synchrones, et permet l'utilisation de diverses bibliothèques d'assertions pour vérifier les comportements attendus, offrant ainsi aux développeurs un moyen efficace de garantir la qualité et la fiabilité de leur code.",
 		"note": 4
 	},
@@ -10,6 +11,7 @@
 		"name": "jest",
 		"keywords": ["test", "framework", "unit", "javascript"],
 		"url": "https://jestjs.io/",
+		"ref": "",
 		"description": "Jest est un framework de test JavaScript moderne, convivial et performant, principalement utilisé pour tester des applications Node.js et des applications front-end. Avec sa configuration zéro, sa facilité d'utilisation et son intégration transparente avec Babel, TypeScript et d'autres outils populaires, Jest permet aux développeurs d'écrire des tests de manière rapide et efficace, tout en offrant des fonctionnalités avancées telles que le mocking automatique, les snapshots et une exécution parallèle, garantissant ainsi une expérience de test agréable et efficace.",
 		"note": 5
 	}

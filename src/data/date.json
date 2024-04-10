@@ -10,6 +10,7 @@
 			"javascript"
 		],
 		"url": "http://momentjs.com/",
+		"ref": "",
 		"description": "Parse, validate, manipulate, and display dates in JavaScript.",
 		"note": 5
 	},
@@ -25,6 +26,7 @@
 			"javascript"
 		],
 		"url": "https://www.npmjs.com/package/moment-timezone",
+		"ref": "",
 		"description": "Parse and display dates in any timezone.",
 		"note": 5
 	}

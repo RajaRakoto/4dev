@@ -3,6 +3,7 @@
 		"name": "stateofcss",
 		"keywords": ["stat", "css"],
 		"url": "https://2021.stateofcss.com/fr-FR/",
+		"ref": "",
 		"description": "Statistique CSS et ses technologies.",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "stateofjs",
 		"keywords": ["stat", "javascript"],
 		"url": "https://2021.stateofjs.com/fr-FR/",
+		"ref": "",
 		"description": "Statistique Javascript et ses technologies.",
 		"note": 5
 	}

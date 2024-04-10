@@ -3,6 +3,7 @@
 		"name": "swiper.js",
 		"keywords": ["slider", "angular", "react", "vue", "javascript"],
 		"url": "https://swiperjs.com/get-started/",
+		"ref": "",
 		"description": "Carousel gratuit, elegant et moderne sans jQuery. Disponible pour Vanilla JS et tous les frameworks modernes comme React, Vue, Angular etc...",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "splide.js",
 		"keywords": ["slider", "javascript"],
 		"url": "https://splidejs.com/",
+		"ref": "",
 		"description": "Splide est un slider/carrousel léger, flexible et accessible écrit en TypeScript. Pas de dépendances, pas d'erreurs Lighthouse.",
 		"note": 4
 	},
@@ -17,6 +19,7 @@
 		"name": "slick.js",
 		"keywords": ["slider", "jquery", "javascript"],
 		"url": "https://kenwheeler.github.io/slick/",
+		"ref": "",
 		"description": "Carrousel entièrement réactif et ultra legere en jQuery",
 		"note": 3
 	},
@@ -24,6 +27,7 @@
 		"name": "react-slick",
 		"keywords": ["slider", "react", "javascript"],
 		"url": "https://www.npmjs.com/package/react-slick",
+		"ref": "",
 		"description": "Carrousel entièrement réactif et ultra legere en React",
 		"note": 3
 	},
@@ -31,6 +35,7 @@
 		"name": "react-multi-carousel",
 		"keywords": ["slider", "react", "javascript"],
 		"url": "https://www.npmjs.com/package/react-multi-carousel",
+		"ref": "",
 		"description": "Carrousel entièrement réactif et ultra legere en React",
 		"note": 3
 	}

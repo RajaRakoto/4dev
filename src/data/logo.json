@@ -3,6 +3,7 @@
 		"name": "logomakr",
 		"keywords": ["logo", "maker"],
 		"url": "https://logomakr.com/app",
+		"ref": "",
 		"description": "Application web de creation d'un logo",
 		"note": 4
 	},
@@ -10,6 +11,7 @@
 		"name": "SVGporn",
 		"keywords": ["logo", "search", "collection", "svg"],
 		"url": "https://svgporn.com/#search=web",
+		"ref": "",
 		"description": "Plus de 1000 logos SVG de haute qualité",
 		"note": 4
 	},
@@ -17,6 +19,7 @@
 		"name": "logoSearch",
 		"keywords": ["logo", "search", "collection", "svg"],
 		"url": "https://logosear.ch/search.html?q=",
+		"ref": "",
 		"description": "Moteur de recherche avec plus de 200 000 logos SVG indexés",
 		"note": 3
 	},
@@ -24,6 +27,7 @@
 		"name": "logoideas",
 		"keywords": ["logo", "idea", "maker"],
 		"url": "https://www.namecheap.com/logo-maker/ideas",
+		"ref": "",
 		"description": "Idee de creation d'un logo",
 		"note": 3
 	},
@@ -31,6 +35,7 @@
 		"name": "wix logo",
 		"keywords": ["logo", "maker", "generator"],
 		"url": "https://www.wix.com/logo/maker/esh/dashboard/my-logos?logoId=1e2c6a95-5a0b-4a57-8ca0-1907d69ab990&referralInfo=savedlogos",
+		"ref": "",
 		"description": "Generateur de logo du site wix",
 		"note": 4
 	}

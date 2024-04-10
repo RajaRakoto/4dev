@@ -3,6 +3,7 @@
 		"name": "react-bootstrap-accordion",
 		"keywords": ["accordion", "react", "frontend", "bootstrap", "javascript"],
 		"url": "https://github.com/awran5/react-bootstrap-accordion",
+		"ref": "",
 		"description": "A simple accordion component for React using Bootstrap styles.",
 		"note": 3
 	},
@@ -10,6 +11,7 @@
 		"name": "react-accessible-accordion",
 		"keywords": ["accordion", "react", "frontend", "javascript"],
 		"url": "https://github.com/springload/react-accessible-accordion",
+		"ref": "",
 		"description": "A simple accordion component for React using ARIA attributes.",
 		"note": 4
 	}

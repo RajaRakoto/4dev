@@ -3,6 +3,7 @@
 		"name": "wix",
 		"keywords": ["generator"],
 		"url": "https://fr.wix.com/",
+		"ref": "",
 		"description": "Wix est une plateforme en ligne de type SaaS qui permet de créer des sites web en HTML5 et leur version mobile.",
 		"note": 4
 	},
@@ -10,6 +11,7 @@
 		"name": "ASCII art generator",
 		"keywords": ["generator", "ascii", "art"],
 		"url": "http://patorjk.com/software/taag/#p=display&h=2&f=Ogre&t=transfer-cli",
+		"ref": "",
 		"description": "ASCII art text generator to turn your messages into text art pictures",
 		"note": 5
 	},
@@ -17,6 +19,7 @@
 		"name": "regex-generator",
 		"keywords": ["generator", "regex", "regular", "expression"],
 		"url": "https://regex-generator.olafneumann.org/",
+		"ref": "",
 		"description": "Generateur de regex",
 		"note": 5
 	},
@@ -24,6 +27,7 @@
 		"name": "shields.io",
 		"keywords": ["generator", "badge"],
 		"url": "https://shields.io/",
+		"ref": "",
 		"description": "Créez des badges avec votre propre personnalisation.",
 		"note": 4
 	},
@@ -31,6 +35,7 @@
 		"name": "snippet-generator",
 		"keywords": ["generator", "snippet", "vscode", "sublimetext", "atom"],
 		"url": "https://snippet-generator.app/",
+		"ref": "",
 		"description": "Un generateur de snippet pour VScode, sublimetext et atom.",
 		"note": 4
 	},
@@ -38,6 +43,7 @@
 		"name": "privacy policy generator",
 		"keywords": ["generator", "privacy", "policy"],
 		"url": "https://app.termsfeed.com/wizard/privacy-policy",
+		"ref": "",
 		"description": "Generateur de politique de confidentialité",
 		"note": 4
 	},
@@ -45,6 +51,7 @@
 		"name": "yo",
 		"keywords": ["generator", "extension", "vscode", "javascript"],
 		"url": "https://yeoman.io/",
+		"ref": "",
 		"description": "Le générateur Yeoman vous guidera à travers les étapes nécessaires pour créer votre personnalisation ou votre extension en vous demandant les informations requises.",
 		"note": 4
 	},
@@ -52,6 +59,7 @@
 		"name": "uuid",
 		"keywords": ["generator", "id", "identifier", "unique", "javascript"],
 		"url": "https://www.npmjs.com/package/uuid",
+		"ref": "",
 		"description": "Générateur d'identifiant unique universel (UUID)",
 		"note": 5
 	},
@@ -70,6 +78,7 @@
 			"javascript"
 		],
 		"url": "https://dev.to/icflorescu/pocketbaseuml-2ci5",
+		"ref": "",
 		"description": "PocketBaseUML est un générateur de diagrammes UML gratuit et open source pour PocketBase.",
 		"note": 5
 	},
@@ -85,6 +94,7 @@
 			"gradient"
 		],
 		"url": "https://fffuel.co/",
+		"ref": "",
 		"description": "fffuel est une collection d'outils de couleur et de générateurs SVG gratuits pour les dégradés, les motifs, les textures, les formes et les arrière-plans.",
 		"note": 5
 	},
@@ -92,6 +102,7 @@
 		"name": "border-radius",
 		"keywords": ["generator", "border", "radius", "css"],
 		"url": "https://9elements.github.io/fancy-border-radius/full-control.html",
+		"ref": "",
 		"description": "Un générateur de bordure CSS pour les coins arrondis.",
 		"note": 5
 	}

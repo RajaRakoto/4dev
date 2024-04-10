@@ -3,6 +3,7 @@
 		"name": "inquirer.js",
 		"keywords": ["cli", "prompt", "collection", "javascript"],
 		"url": "https://www.npmjs.com/package/inquirer",
+		"ref": "",
 		"description": "Une collection de prompts pour les interfaces en ligne de commande.",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "figlet",
 		"keywords": ["cli", "ascii", "art", "text", "javascript"],
 		"url": "https://www.npmjs.com/package/figlet",
+		"ref": "",
 		"description": "Créez des textes ASCII à partir de chaînes de caractères",
 		"note": 5
 	},
@@ -17,6 +19,7 @@
 		"name": "ora",
 		"keywords": ["cli", "spinner", "loader", "node", "javascript"],
 		"url": "https://www.npmjs.com/package/ora",
+		"ref": "",
 		"description": "Un spinner élégant pour les interfaces en ligne de commande",
 		"note": 5
 	},
@@ -24,6 +27,7 @@
 		"name": "chalk",
 		"keywords": ["cli", "color", "text", "node", "javascript"],
 		"url": "https://www.npmjs.com/package/chalk",
+		"ref": "",
 		"description": "Ajoutez des couleurs à vos textes dans la console",
 		"note": 5
 	}

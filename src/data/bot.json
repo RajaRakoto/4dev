@@ -10,6 +10,7 @@
 			"framework"
 		],
 		"url": "https://ampalibe.readthedocs.io/en/latest/usage.html",
+		"ref": "",
 		"description": "Ampalibe is a Python framework for building Facebook Messenger chatbots.",
 		"note": 5
 	},
@@ -29,6 +30,7 @@
 			"framework"
 		],
 		"url": "https://bottender.js.org/",
+		"ref": "",
 		"description": "Bottender is a framework for building conversational user interfaces.",
 		"note": 5
 	},
@@ -44,6 +46,7 @@
 			"javascript"
 		],
 		"url": "https://www.npmjs.com/package/react-messenger-customer-chat",
+		"ref": "",
 		"description": "A Messenger customer chat plugin for React.",
 		"note": 4
 	}

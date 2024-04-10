@@ -3,6 +3,7 @@
 		"name": "vertopal",
 		"keywords": ["convert"],
 		"url": "https://www.vertopal.com/",
+		"ref": "",
 		"description": "Plate-forme en ligne gratuite pour convertir des fichiers informatiques vers une variété de formats de fichiers.",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "fsymbols",
 		"keywords": ["convert", "font", "generator"],
 		"url": "https://fsymbols.com/generators/",
+		"ref": "",
 		"description": "font generator",
 		"note": 3
 	},
@@ -17,6 +19,7 @@
 		"name": "fontmeme",
 		"keywords": ["convert", "font", "signature"],
 		"url": "https://fontmeme.com/fr/polices-de-signature/",
+		"ref": "",
 		"description": "Convertir un texte en police de signature",
 		"note": 3
 	},
@@ -24,6 +27,7 @@
 		"name": "ASCIIart",
 		"keywords": ["convert", "ascii", "art"],
 		"url": "https://manytools.org/hacker-tools/convert-images-to-ascii-art/",
+		"ref": "",
 		"description": "Convert Images to Ascii Art",
 		"note": 2
 	},
@@ -31,6 +35,7 @@
 		"name": "kodeshot",
 		"keywords": ["convert", "code", "image"],
 		"url": "https://www.kodeshot.net/",
+		"ref": "",
 		"description": "Convertissez votre code source en belles images pour vos articles, tweets, messages, posts...",
 		"note": 4
 	}

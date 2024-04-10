@@ -3,6 +3,7 @@
 		"name": "react.js",
 		"keywords": ["frontend", "library", "ui", "javascript"],
 		"url": "https://react.dev/",
+		"ref": "",
 		"description": "React est une bibliothèque JavaScript puissante et flexible, conçue pour simplifier la création d'interfaces utilisateur interactives et dynamiques. En mettant l'accent sur la composabilité et la réutilisabilité des composants, React permet aux développeurs de construire des applications web évolutives avec une logique clairement séparée du rendu. Son approche déclarative, basée sur la création de composants réactifs, facilite la gestion de l'état de l'application et offre des performances optimisées grâce à sa virtual DOM.",
 		"note": 5
 	},
@@ -10,6 +11,7 @@
 		"name": "vue.js",
 		"keywords": ["frontend", "framework", "ui", "javascript"],
 		"url": "https://vuejs.org/",
+		"ref": "",
 		"description": "Vue.js est un framework JavaScript progressif et open-source, conçu pour créer des interfaces utilisateur interactives et dynamiques grâce à sa structure simple et flexible, offrant une approche réactive basée sur des composants réutilisables et une gestion efficace de l'état de l'application, tout en intégrant harmonieusement avec d'autres bibliothèques ou projets existants.",
 		"note": 5
 	},
@@ -17,6 +19,7 @@
 		"name": "angular",
 		"keywords": ["frontend", "framework", "ui", "javascript"],
 		"url": "https://angular.io/",
+		"ref": "",
 		"description": "Angular est un framework de développement web open-source, basé sur TypeScript, conçu par Google. Il permet de créer des applications web dynamiques et évolutives en utilisant des composants réutilisables et une architecture orientée composants, offrant ainsi un haut niveau de performance et de maintenabilité grâce à son système de liaison de données bidirectionnelle et sa gestion efficace de l'état de l'application.",
 		"note": 5
 	},
@@ -24,6 +27,7 @@
 		"name": "svelte.js",
 		"keywords": ["frontend", "framework", "ui", "javascript"],
 		"url": "https://svelte.dev/",
+		"ref": "",
 		"description": "Svelte est un framework JavaScript novateur qui se distingue par sa compilation à la construction, permettant de générer du code optimisé et performant à partir de composants déclaratifs, sans nécessiter de bibliothèque d'exécution à l'exécution. Grâce à sa syntaxe simple et expressive, Svelte offre une approche efficace pour créer des applications web réactives et évolutives, tout en minimisant la taille du bundle et en améliorant les performances.",
 		"note": 5
 	},
@@ -31,6 +35,7 @@
 		"name": "solid.js",
 		"keywords": ["frontend", "library", "ui", "javascript"],
 		"url": "https://www.solidjs.com/",
+		"ref": "",
 		"description": "Solid est une bibliothèque JavaScript performante et réactive, conçue pour créer des interfaces utilisateur dynamiques et évolutives en utilisant une approche déclarative basée sur des composants réactifs. En se concentrant sur la réactivité et la performance, Solid offre une alternative légère et efficace aux frameworks traditionnels, tout en offrant une expérience de développement fluide et intuitive.",
 		"note": 5
 	},
@@ -38,6 +43,7 @@
 		"name": "qwik",
 		"keywords": ["frontend", "framework", "ui", "javascript"],
 		"url": "https://qwik.dev/",
+		"ref": "",
 		"description": "Qwik est un nouveau type de framework qui peut être repris (pas d'exécution JS hâtive et pas d'hydratation), conçu pour la périphérie et familier aux développeurs React.",
 		"note": 5
 	},
@@ -45,6 +51,7 @@
 		"name": "next.js",
 		"keywords": ["frontend", "framework", "ui", "javascript"],
 		"url": "https://nextjs.org/",
+		"ref": "",
 		"description": "Next.js est un framework JavaScript open-source basé sur React, développé pour simplifier la création d'applications web évolutives et performantes en offrant un rendu côté serveur, un routage automatique, la prise en charge du Server-Side Rendering (SSR) et du Static Site Generation (SSG), ainsi qu'une gestion intuitive des données et une intégration transparente avec des technologies comme TypeScript, CSS-in-JS et GraphQL, permettant aux développeurs de concevoir des applications modernes avec une efficacité accrue et une meilleure expérience utilisateur.",
 		"note": 5
 	},
@@ -52,6 +59,7 @@
 		"name": "nuxt.js",
 		"keywords": ["frontend", "framework", "ui", "javascript"],
 		"url": "https://nuxtjs.org/",
+		"ref": "",
 		"description": "Nuxt.js est un framework JavaScript basé sur Vue.js, conçu pour simplifier le développement d'applications web universelles en offrant une structure prédéfinie, un rendu côté serveur, le routage automatique, une gestion transparente de la SSR (Server-Side Rendering) et du SSG (Static Site Generation), ainsi qu'une intégration aisée des technologies modernes telles que Vuex et Vue Router, permettant ainsi aux développeurs de se concentrer sur la création de fonctionnalités sans se soucier des aspects techniques complexes de la configuration.",
 		"note": 5
 	}

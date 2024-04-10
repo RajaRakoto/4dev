@@ -3,6 +3,7 @@
 		"name": "db4free",
 		"keywords": ["database", "sql", "mysql", "free", "test"],
 		"url": "https://www.db4free.net/",
+		"ref": "",
 		"description": "db4free.net provides a testing service for the latest - sometimes even development - version of the MySQL database server. You can easily create a new database for free and start testing. We currently support MySQL 8.0 and MariaDB 10.4.",
 		"note": 4
 	},
@@ -10,6 +11,7 @@
 		"name": "planetScale",
 		"keywords": ["database", "sql", "mysql", "cloud"],
 		"url": "https://planetscale.com/",
+		"ref": "",
 		"description": "PlanetScale is a database-as-a-service platform that helps developers build and scale applications without worrying about database management. It is built on top of Vitess, a database clustering system for horizontal scaling of MySQL.",
 		"note": 5
 	},
@@ -17,6 +19,7 @@
 		"name": "faker.js",
 		"keywords": ["database", "faker", "test", "javascript"],
 		"url": "https://www.npmjs.com/package/@faker-js/faker",
+		"ref": "",
 		"description": "Faker.js is a library that generates fake data for you. It is useful for seeding databases, creating fake API responses, and more. It is available for JavaScript and Node.js.",
 		"note": 5
 	},
@@ -24,6 +27,7 @@
 		"name": "sequelize",
 		"keywords": ["database", "sql", "orm", "node", "javascript"],
 		"url": "https://sequelize.org/",
+		"ref": "",
 		"description": "Sequelize is a modern TypeScript and Node.js ORM for Oracle, Postgres, MySQL, MariaDB, SQLite and SQL Server, and more. Featuring solid transaction support, relations, eager and lazy loading, read replication and more.",
 		"note": 5
 	},
@@ -31,6 +35,7 @@
 		"name": "mongoose",
 		"keywords": ["database", "mongodb", "node", "javascript"],
 		"url": "https://mongoosejs.com/",
+		"ref": "",
 		"description": "Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports both promises and callbacks.",
 		"note": 5
 	},
@@ -38,6 +43,7 @@
 		"name": "js-cookie",
 		"keywords": ["database", "cookie", "javascript"],
 		"url": "https://www.npmjs.com/package/js-cookie",
+		"ref": "",
 		"description": "A simple, lightweight JavaScript API for handling browser cookies.",
 		"note": 4
 	},
@@ -45,6 +51,7 @@
 		"name": "localForage",
 		"keywords": ["database", "sql", "indexeddb", "offline", "javascript"],
 		"url": "https://localforage.github.io/localForage/",
+		"ref": "",
 		"description": "Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.",
 		"note": 4
 	}
