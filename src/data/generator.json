@@ -43,7 +43,7 @@
 	},
 	{
 		"name": "yo",
-		"keywords": ["generator", "extension", "vscode", "library", "javascript"],
+		"keywords": ["generator", "extension", "vscode", "javascript"],
 		"url": "https://yeoman.io/",
 		"description": "Le générateur Yeoman vous guidera à travers les étapes nécessaires pour créer votre personnalisation ou votre extension en vous demandant les informations requises.",
 		"note": 4

@@ -164,7 +164,7 @@
 	},
 	{
 		"name": "picocss",
-		"keywords": ["component", "frontend", "library", "html", "css"],
+		"keywords": ["component", "frontend", "html", "css"],
 		"url": "https://picocss.com/",
 		"description": "Pico.css est une bibliothèque CSS minimaliste et légère, conçue pour simplifier le stylage des applications web en offrant une collection de classes prédéfinies pour les éléments HTML courants, permettant ainsi aux développeurs de personnaliser rapidement et facilement l'apparence de leur site sans avoir à écrire de CSS personnalisé. Avec sa taille réduite et sa simplicité d'utilisation, Pico.css est idéal pour les projets nécessitant une approche minimaliste et efficace du design.",
 		"note": 4
