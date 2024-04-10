@@ -47,5 +47,12 @@
 		"url": "https://www.npmjs.com/package/react-countup",
 		"description": "A React component wrapper around CountUp.js",
 		"note": 4
+	},
+	{
+		"name": "react-under-construction",
+		"keywords": ["react", "frontend", "construction", "404", "javascript"],
+		"url": "https://www.npmjs.com/package/react-under-construction",
+		"description": "A React component for under construction pages",
+		"note": 4
 	}
 ]
