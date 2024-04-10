@@ -33,5 +33,33 @@
 		"url": "http://www.heropatterns.com",
 		"description": "Une collection de motifs d'arrière-plan SVG reproductibles",
 		"note": 4
+	},
+	{
+		"name": "nice-waves.js",
+		"keywords": ["background", "animation", "generator", "javascript"],
+		"url": "https://github.com/gVguy/nice-waves#nice-waves",
+		"description": "Belles vagues animées.",
+		"note": 3
+	},
+	{
+		"name": "particles.js",
+		"keywords": ["background", "animation", "generator", "javascript"],
+		"url": "https://particles.js.org/",
+		"description": "Une bibliothèque légère pour créer des particules",
+		"note": 4
+	},
+	{
+		"name": "react-particles",
+		"keywords": ["background", "animation", "generator", "react", "javascript"],
+		"url": "https://www.npmjs.com/package/react-tsparticles",
+		"description": "Une bibliothèque de particules pour React",
+		"note": 4
+	},
+	{
+		"name": "vanta.js",
+		"keywords": ["background", "animation", "generator", "javascript"],
+		"url": "https://www.vantajs.com/",
+		"description": "Arrière-plans de sites Web animés en quelques lignes de code.",
+		"note": 5
 	}
 ]

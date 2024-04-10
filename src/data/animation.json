@@ -70,27 +70,6 @@
 		"note": 4
 	},
 	{
-		"name": "nice-waves.js",
-		"keywords": ["animation", "background", "javascript"],
-		"url": "https://github.com/gVguy/nice-waves#nice-waves",
-		"description": "Belles vagues animées.",
-		"note": 3
-	},
-	{
-		"name": "particles.js",
-		"keywords": ["animation", "background", "javascript"],
-		"url": "https://particles.js.org/",
-		"description": "Une bibliothèque légère pour créer des particules",
-		"note": 4
-	},
-	{
-		"name": "vanta.js",
-		"keywords": ["animation", "background", "javascript"],
-		"url": "https://www.vantajs.com/",
-		"description": "Arrière-plans de sites Web animés en quelques lignes de code.",
-		"note": 5
-	},
-	{
 		"name": "lightbox2.js",
 		"keywords": ["animation", "image", "javascript"],
 		"url": "https://lokeshdhakar.com/projects/lightbox2/",
@@ -151,6 +130,20 @@
 		"keywords": ["animation", "scroll", "list", "javascript"],
 		"url": "https://lab.hakim.se/scroll-effects/",
 		"description": "CSS3 list scroll effects",
+		"note": 4
+	},
+	{
+		"name": "lottiefiles",
+		"keywords": ["animation", "json", "lottie", "image", "javascript"],
+		"url": "https://lottiefiles.com/",
+		"description": "Bibliothèque d'animations JSON pour les applications web et mobiles",
+		"note": 5
+	},
+	{
+		"name": "lottie-react",
+		"keywords": ["animation", "json", "lottie", "image", "react", "javascript"],
+		"url": "https://github.com/LottieFiles/lottie-react",
+		"description": "Composant React pour les animations Lottie",
 		"note": 4
 	}
 ]
