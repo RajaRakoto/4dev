@@ -1,0 +1,23 @@
+[
+	{
+		"name": "redux-toolkit",
+		"keywords": ["state-manager", "react", "javascript"],
+		"url": "https://redux-toolkit.js.org/",
+		"description": "The official, opinionated, batteries-included toolset for efficient Redux development",
+		"note": 4
+	},
+	{
+		"name": "zustand",
+		"keywords": ["state-manager", "react", "javascript"],
+		"url": "https://zustand-demo.pmnd.rs/",
+		"description": "Bear necessities for state management in React",
+		"note": 5
+	},
+	{
+		"name": "recoil.js",
+		"keywords": ["state-manager", "react", "javascript"],
+		"url": "https://recoiljs.org/",
+		"description": "Minimal et tout comme React. Recoil fonctionne et pense comme React. Ajoutez-le à votre application et obtenez un état partagé rapide et flexible.",
+		"note": 4
+	}
+]
