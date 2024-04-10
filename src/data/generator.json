@@ -54,5 +54,38 @@
 		"url": "https://www.npmjs.com/package/uuid",
 		"description": "Générateur d'identifiant unique universel (UUID)",
 		"note": 5
+	},
+	{
+		"name": "pocketbase-uml",
+		"keywords": [
+			"generator",
+			"uml",
+			"backend",
+			"framework",
+			"baas",
+			"performance",
+			"standalone",
+			"database",
+			"go",
+			"javascript"
+		],
+		"url": "https://dev.to/icflorescu/pocketbaseuml-2ci5",
+		"description": "PocketBaseUML est un générateur de diagrammes UML gratuit et open source pour PocketBase.",
+		"note": 5
+	},
+	{
+		"name": "fffuel",
+		"keywords": [
+			"generator",
+			"illustrator",
+			"image",
+			"background",
+			"svg",
+			"texture",
+			"gradient"
+		],
+		"url": "https://fffuel.co/",
+		"description": "fffuel est une collection d'outils de couleur et de générateurs SVG gratuits pour les dégradés, les motifs, les textures, les formes et les arrière-plans.",
+		"note": 5
 	}
 ]
