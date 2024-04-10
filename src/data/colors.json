@@ -33,5 +33,12 @@
 		"url": "https://uigradients.com",
 		"description": "Générateur de couleurs dégradés d'interface utilisateur",
 		"note": 4
+	},
+	{
+		"name": "coolors",
+		"keywords": ["colors", "palette", "generator"],
+		"url": "https://coolors.co",
+		"description": "Générateur de palette de couleurs avec des fonctionnalités de personnalisation avancées",
+		"note": 4
 	}
 ]
