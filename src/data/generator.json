@@ -87,5 +87,12 @@
 		"url": "https://fffuel.co/",
 		"description": "fffuel est une collection d'outils de couleur et de générateurs SVG gratuits pour les dégradés, les motifs, les textures, les formes et les arrière-plans.",
 		"note": 5
+	},
+	{
+		"name": "border-radius",
+		"keywords": ["generator", "border", "radius", "css"],
+		"url": "https://9elements.github.io/fancy-border-radius/full-control.html",
+		"description": "Un générateur de bordure CSS pour les coins arrondis.",
+		"note": 5
 	}
 ]
