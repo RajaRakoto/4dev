@@ -22,9 +22,16 @@
 	},
 	{
 		"name": "steam-api",
-		"keywords": ["api", "steam"],
+		"keywords": ["api", "steam", "rest"],
 		"url": "http://api.steampowered.com/ISteamApps/GetAppList/v0002/?key=STEAMKEY&format=json",
 		"description": "API pour récupérer la liste des jeux steam",
+		"note": 5
+	},
+	{
+		"name": "json-server",
+		"keywords": ["api", "rest", "server", "faker", "test"],
+		"url": "https://github.com/typicode/json-server",
+		"description": "Obtenez une fausse API REST complète sans codage en moins de 30 secondes",
 		"note": 5
 	}
 ]
