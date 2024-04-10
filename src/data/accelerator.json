@@ -1,0 +1,9 @@
+[
+	{
+		"name": "gpu.js",
+		"keywords": ["accelerator", "gpu", "enhance", "performance", "javascript"],
+		"url": "https://github.com/gpujs/gpu.js",
+		"description": "GPU Accelerated JavaScript",
+		"note": 5
+	}
+]
