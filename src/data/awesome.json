@@ -30,5 +30,19 @@
 		"url": "https://github.com/benallfree/awesome-pocketbase/",
 		"description": "A curated list of awesome for Pocketbase",
 		"note": 0
+	},
+	{
+		"name": "awesome-boilerplate",
+		"keywords": [
+			"awesome",
+			"collection",
+			"boilerplate",
+			"starter",
+			"template",
+			"project"
+		],
+		"url": "https://github.com/melvin0008/awesome-projects-boilerplates",
+		"description": "A curated list of awesome boilerplates",
+		"note": 0
 	}
 ]
