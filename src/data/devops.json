@@ -26,5 +26,21 @@
 		"url": "https://aws.amazon.com/",
 		"description": "Amazon Web Services (AWS) est une plateforme de services cloud proposée par Amazon.",
 		"note": 5
+	},
+	{
+		"name": "fluent ci",
+		"keywords": [
+			"devops",
+			"ci",
+			"cd",
+			"automation",
+			"workflow",
+			"pipeline",
+			"rust",
+			"deno",
+			"javascript"
+		],
+		"url": "https://fluentci.io/",
+		"description": "Unleash the power of CI/CD with Dagger and Deno (TypeScript): choose from pre-built pipelines or craft your own, and watch your code soar!"
 	}
 ]
