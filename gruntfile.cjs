@@ -127,11 +127,6 @@ module.exports = function (grunt) {
 		}
 
 		// task resume
-		getTaskResume(
-			"== 4DEV TASKS ==",
-			myTasksNames,
-			myTasksStatus,
-			"yellow",
-		);
+		getTaskResume("== 4DEV TASKS ==", myTasksNames, myTasksStatus, "yellow");
 	});
 };

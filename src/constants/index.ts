@@ -27,11 +27,11 @@ export const badge = `
 
 ![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![Gitub](https://img.shields.io/badge/-Gitub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff)
 `;
-export const message = `${emojiMessage} Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ...`
+export const message = `${emojiMessage} Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ...`;
 
 // others
 export const backToTop = `
 <div align="left">
     <b><a href="#table-des-matières">↥ Back To Top</a></b>
 </div>
-`
+`;
