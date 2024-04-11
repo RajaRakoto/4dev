@@ -1,0 +1,25 @@
+[
+	{
+		"name": "react-timer-hook",
+		"keywords": [
+			"react",
+			"timer",
+			"counter",
+			"component",
+			"hook",
+			"javascript"
+		],
+		"url": "https://www.npmjs.com/package/react-timer-hook",
+		"ref": "",
+		"description": "Le hook de minuterie React est un hook de React personnalisé, conçu pour gérer la minuterie, le chronomètre et la logique/état temporel dans votre composant React.",
+		"note": 4
+	},
+	{
+		"name": "react-countdown-circle-timer",
+		"keywords": ["react", "timer", "counter", "component", "javascript"],
+		"url": "https://www.npmjs.com/package/react-countdown-circle-timer",
+		"ref": "",
+		"description": "Un composant de minuterie de compte à rebours circulaire pour React.",
+		"note": 4
+	}
+]

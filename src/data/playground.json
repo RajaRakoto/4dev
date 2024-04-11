@@ -1,0 +1,35 @@
+[
+	{
+		"name": "codepen",
+		"keywords": [
+			"playground",
+			"frontend",
+			"editor",
+			"cloud",
+			"ide",
+			"html",
+			"css",
+			"javascript"
+		],
+		"url": "https://codepen.io/",
+		"ref": "",
+		"description": "CodePen est un environnement de développement social pour les concepteurs et développeurs frontaux. Créez et déployez un site Web, montrez votre travail, créez des scénarios de test pour apprendre et déboguer, et trouvez l'inspiration.",
+		"note": 4
+	},
+	{
+		"name": "stackblitz",
+		"keywords": ["playground", "editor", "ide", "cloud"],
+		"url": "https://stackblitz.com",
+		"ref": "",
+		"description": "Le playground a la fois rapide et complet pour editer vos projets en ligne",
+		"note": 5
+	},
+	{
+		"name": "codesandbox",
+		"keywords": ["playground", "editor", "ide", "cloud"],
+		"url": "https://codesandbox.io/",
+		"ref": "",
+		"description": "Le playground le plus populaire du moment",
+		"note": 4
+	}
+]
