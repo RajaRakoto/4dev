@@ -166,5 +166,13 @@
 		"ref": "",
 		"description": "Composant React pour les animations Lottie",
 		"note": 4
+	},
+	{
+		"name": "hover.css",
+		"keywords": ["animation", "hover", "collection", "effect", "css"],
+		"url": "https://ianlunn.github.io/Hover/",
+		"ref": "",
+		"description": "Une collection de CSS3 hover effets",
+		"note": 4
 	}
 ]

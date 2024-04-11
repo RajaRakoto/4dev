@@ -8,6 +8,14 @@
 		"note": 5
 	},
 	{
+		"name": "evite.js",
+		"keywords": ["builder", "bundle", "electron", "javascript"],
+		"url": "https://evitejs.dev/",
+		"ref": "",
+		"description": "Outils de construction Electron de nouvelle génération basés sur Vite.js",
+		"note": 4
+	},
+	{
 		"name": "webpack",
 		"keywords": ["builder", "bundle", "javascript"],
 		"url": "https://webpack.js.org/",

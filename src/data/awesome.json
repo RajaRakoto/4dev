@@ -47,5 +47,13 @@
 		"ref": "",
 		"description": "A curated list of awesome boilerplates",
 		"note": 0
+	},
+	{
+		"name": "awesome-vite",
+		"keywords": ["awesome", "collection", "builder", "bundle", "javascript"],
+		"url": "https://github.com/vitejs/awesome-vite",
+		"ref": "",
+		"description": "A curated list of awesome for Vite.js",
+		"note": 0
 	}
 ]

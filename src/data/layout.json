@@ -70,5 +70,13 @@
 		"ref": "",
 		"description": "Un composant de media queries pour React",
 		"note": 5
+	},
+	{
+		"name": "layoutit",
+		"keywords": ["layout", "grid", "bootstrap", "generator"],
+		"url": "https://www.layoutit.com/build",
+		"ref": "",
+		"description": "Un générateur de grille Bootstrap pour créer des mises en page personnalisées rapidement",
+		"note": 4
 	}
 ]

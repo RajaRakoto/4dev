@@ -38,5 +38,13 @@
 		"ref": "",
 		"description": "Generateur de logo du site wix",
 		"note": 4
+	},
+	{
+		"name": "favicon-converter",
+		"keywords": ["favicon", "converter", "generator"],
+		"url": "https://favicon.io/favicon-converter/",
+		"ref": "",
+		"description": "Convertir une image en favicon",
+		"note": 4
 	}
 ]

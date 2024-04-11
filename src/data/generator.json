@@ -8,9 +8,17 @@
 		"note": 4
 	},
 	{
-		"name": "ASCII art generator",
+		"name": "ASCII art generator 1",
 		"keywords": ["generator", "ascii", "art"],
 		"url": "http://patorjk.com/software/taag/#p=display&h=2&f=Ogre&t=transfer-cli",
+		"ref": "",
+		"description": "ASCII art text generator to turn your messages into text art pictures",
+		"note": 5
+	},
+	{
+		"name": "ASCII art generator 2",
+		"keywords": ["generator", "ascii", "art"],
+		"url": "https://manytools.org/hacker-tools/convert-images-to-ascii-art",
 		"ref": "",
 		"description": "ASCII art text generator to turn your messages into text art pictures",
 		"note": 5
@@ -104,6 +112,54 @@
 		"url": "https://9elements.github.io/fancy-border-radius/full-control.html",
 		"ref": "",
 		"description": "Un générateur de bordure CSS pour les coins arrondis.",
+		"note": 5
+	},
+	{
+		"name": "brumm shadow maker",
+		"keywords": ["generator", "effect", "shadow"],
+		"url": "https://shadows.brumm.af/",
+		"ref": "",
+		"description": "Faire une ombre douce",
+		"note": 5
+	},
+	{
+		"name": "nanoid",
+		"keywords": ["generator", "id", "identifier", "unique", "javascript"],
+		"url": "https://www.npmjs.com/package/nanoid",
+		"ref": "",
+		"description": "Générateur d'identifiant unique",
+		"note": 5
+	},
+	{
+		"name": "pc builder",
+		"keywords": ["generator", "pc", "build", "idea"],
+		"url": "https://pcpartpicker.com/list/",
+		"ref": "",
+		"description": "Créez votre propre PC en fonction de vos besoins et de votre budget.",
+		"note": 4
+	},
+	{
+		"name": "meme generator",
+		"keywords": ["generator", "meme"],
+		"url": "https://imgflip.com/memegenerator",
+		"ref": "",
+		"description": "Créez des memes en ligne",
+		"note": 4
+	},
+	{
+		"name": "fontsign",
+		"keywords": ["generator", "font", "typography", "signature"],
+		"url": "https://fontmeme.com/fr/polices-de-signature/",
+		"ref": "",
+		"description": "Générateur de signature a partir de polices",
+		"note": 4
+	},
+	{
+		"name": "sassdoc",
+		"keywords": ["generator", "documentation", "sass"],
+		"url": "https://github.com/SassDoc/sassdoc",
+		"ref": "",
+		"description": "Générateur de documentation pour un projet utilisant Sass",
 		"note": 5
 	}
 ]

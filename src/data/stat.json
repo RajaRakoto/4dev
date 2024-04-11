@@ -14,5 +14,21 @@
 		"ref": "",
 		"description": "Statistique Javascript et ses technologies.",
 		"note": 5
+	},
+	{
+		"name": "npmtrends",
+		"keywords": ["stat", "versus", "npm", "package", "javascript"],
+		"url": "https://npmtrends.com/)",
+		"ref": "",
+		"description": "Comparez le nombre de téléchargements de packages au fil du temps",
+		"note": 4
+	},
+	{
+		"name": "cloc",
+		"keywords": ["stat", "dev", "counter", "reporter"],
+		"url": "https://github.com/kentcdodds/cloc",
+		"ref": "",
+		"description": "Count line of code",
+		"note": 4
 	}
 ]

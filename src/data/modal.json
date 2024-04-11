@@ -8,6 +8,14 @@
 		"note": 5
 	},
 	{
+		"name": "sweetalert2-react",
+		"keywords": ["modal", "alert", "react", "javascript"],
+		"url": "https://github.com/sweetalert2/sweetalert2-react-content",
+		"ref": "",
+		"description": "Sweetalert2 pour React",
+		"note": 5
+	},
+	{
 		"name": "notiflix",
 		"keywords": ["modal", "alert", "javascript"],
 		"url": "https://notiflix.github.io",

@@ -126,5 +126,54 @@
 		"ref": "",
 		"description": "Créez un CV professionnel en quelques minutes",
 		"note": 5
+	},
+	{
+		"name": "lucidchart",
+		"keywords": [
+			"editor",
+			"diagram",
+			"chart",
+			"organization",
+			"presentation",
+			"management",
+			"team",
+			"generator"
+		],
+		"url": "https://lucid.app/documents#/documents?folder_id=recent",
+		"ref": "",
+		"description": "Lucidchart est un espace de travail visuel et collaboratif permettant de créer des diagrammes.",
+		"note": 5
+	},
+	{
+		"name": "excalidraw",
+		"keywords": [
+			"editor",
+			"drawing",
+			"organization",
+			"presentation",
+			"management",
+			"team",
+			"generator"
+		],
+		"url": "https://excalidraw.com/",
+		"ref": "",
+		"description": "Excalidraw est un outil de tableau blanc collaboratif virtuel qui vous permet de dessiner facilement des diagrammes qui ressemblent à des dessins dessinés à la main.",
+		"note": 5
+	},
+	{
+		"nam": "remove background",
+		"keywords": ["editor", "remover", "background", "image", "png"],
+		"url": "https://www.remove.bg/",
+		"ref": "",
+		"description": "Supprimer l'arrière-plan d'une image en 5 secondes",
+		"note": 4
+	},
+	{
+		"name": "Boxy SVG",
+		"keywords": ["editor", "illustrator", "svg", "image"],
+		"url": "https://boxy-svg.com/app",
+		"ref": "",
+		"description": "Un éditeur SVG en ligne",
+		"note": 4
 	}
 ]
