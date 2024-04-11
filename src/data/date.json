@@ -3,7 +3,7 @@
 		"name": "moment",
 		"keywords": [
 			"date",
-			"time",
+			"timer",
 			"parse",
 			"formatter",
 			"calendar",
@@ -18,7 +18,7 @@
 		"name": "moment-timezone",
 		"keywords": [
 			"date",
-			"time",
+			"timer",
 			"timezone",
 			"parse",
 			"formatter",
