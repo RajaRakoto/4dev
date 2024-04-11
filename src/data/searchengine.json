@@ -1,0 +1,18 @@
+[
+	{
+		"name": "meilisearch",
+		"keywords": ["searchengine", "performance", "database", "rust"],
+		"url": "https://github.com/meilisearch/meilisearch",
+		"ref": "",
+		"description": "Une API de recherche ultra-rapide qui s'intègre facilement à vos applications, sites Web et flux de travail",
+		"note": 5
+	},
+	{
+		"name": "elasticsearch",
+		"keywords": ["searchengine", "performance", "database"],
+		"url": "https://www.elastic.co/fr/elasticsearch",
+		"ref": "",
+		"description": "Elasticsearch est un moteur de recherche et d'analyse RESTful distribué, conçu pour répondre à une multitude de cas d'utilisation. Et leur liste ne cesse de s'enrichir. Véritable clé de voûte de la Suite Elastic, il centralise le stockage de vos données et assure une recherche ultra-rapide, une très grande pertinence et des analyses aussi puissantes que scalables.",
+		"note": 5
+	}
+]

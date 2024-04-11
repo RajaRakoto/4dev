@@ -1,0 +1,33 @@
+[
+	{
+		"name": "react-infinite-scroll-component",
+		"keywords": [
+			"lazyloading",
+			"scroll",
+			"query",
+			"performance",
+			"react",
+			"javascript"
+		],
+		"url": "https://www.npmjs.com/package/react-infinite-scroll-component",
+		"ref": "",
+		"description": "A component to make infinite scroll easy in React",
+		"note": 4
+	},
+	{
+		"name": "infinite-queries",
+		"keywords": [
+			"lazyloading",
+			"tanstack",
+			"scroll",
+			"query",
+			"performance",
+			"react",
+			"javascript"
+		],
+		"url": "https://tanstack.com/query/v4/docs/react/guides/infinite-queries",
+		"ref": "https://www.youtube.com/watch?v=Ns5wBs-HAzc",
+		"description": "A guide to make infinite scroll easy in React with Tanstack",
+		"note": 5
+	}
+]

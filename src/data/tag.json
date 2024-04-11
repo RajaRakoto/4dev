@@ -1,0 +1,18 @@
+[
+	{
+		"name": "react-tag-input-component",
+		"keywords": ["tag", "input", "component", "react", "javascript"],
+		"url": "https://www.npmjs.com/package/react-tag-input-component",
+		"ref": "",
+		"description": "lightweight component for tag(s) input",
+		"note": 5
+	},
+	{
+		"name": "react-tagsinput",
+		"keywords": ["tag", "input", "component", "react", "javascript"],
+		"url": "https://www.npmjs.com/package/react-tagsinput",
+		"ref": "",
+		"description": "Highly customizable React component for inputing tags",
+		"note": 5
+	}
+]

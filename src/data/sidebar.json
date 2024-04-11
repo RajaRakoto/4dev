@@ -1,0 +1,18 @@
+[
+	{
+		"name": "react-pro-sidebar",
+		"keywords": ["sidebar", "component", "frontend", "react", "javascript"],
+		"url": "https://github.com/azouaoui-med/react-pro-sidebar",
+		"ref": "",
+		"description": "React Pro Sidebar fournit un ensemble de composants permettant de créer une navigation latérale de haut niveau et personnalisable",
+		"note": 4
+	},
+	{
+		"name": "react-sidebar",
+		"keywords": ["sidebar", "component", "frontend", "react", "javascript"],
+		"url": "https://github.com/balloob/react-sidebar",
+		"ref": "",
+		"description": "Un composant de sidebar pour React",
+		"note": 4
+	}
+]
