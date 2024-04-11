@@ -11,7 +11,7 @@
 		"name": "email-js-react",
 		"keywords": ["email", "mail", "smtp", "react", "javascript"],
 		"url": "https://www.emailjs.com/docs/examples/reactjs/",
-		"ref": "",
+		"ref": "https://blog.devgenius.io/set-up-emailjs-in-react-app-from-scratch-42e669efc22a | https://dev.to/ethand91/using-emailjs-to-send-emails-from-the-frontend-ka9",
 		"description": "EmailJS est un service qui permet d’envoyer des emails directement depuis le client.",
 		"note": 5
 	},
@@ -19,7 +19,7 @@
 		"name": "brevo",
 		"keywords": ["email", "mail", "smtp", "client", "manager"],
 		"url": "https://www.brevo.com/",
-		"ref": "",
+		"ref": "https://mailtrap.io/blog/react-contact-form/",
 		"description": "Développez votre activité avec Brevo, la plateforme tout-en-un pour gérer vos relations clients par email, SMS, chat et plus encore.",
 		"note": 4
 	}

@@ -3,7 +3,7 @@
 		"name": "node-emoji",
 		"keywords": ["emoji", "collection", "node", "javascript"],
 		"url": "https://www.npmjs.com/package/node-emoji",
-		"ref": "",
+		"ref": "https://emojipedia.org/",
 		"description": "Une collection d'emojis pour un projet Node.js",
 		"note": 4
 	},
