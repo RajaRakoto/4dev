@@ -174,5 +174,13 @@
 		"ref": "",
 		"description": "Une collection de CSS3 hover effets",
 		"note": 4
+	},
+	{
+		"name": "sample typing svg",
+		"keywords": ["animation", "typing", "svg"],
+		"url": "https://readme-typing-svg.herokuapp.com/demo/",
+		"ref": "",
+		"description": "SVG personnalisable généré dynamiquement qui donne l'impression de taper et de supprimer du texte.",
+		"note": 4
 	}
 ]

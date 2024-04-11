@@ -38,5 +38,13 @@
 		"ref": "",
 		"description": "Obtenez une fausse API REST complète sans codage en moins de 30 secondes",
 		"note": 5
+	},
+	{
+		"name": "google-translate-api",
+		"keywords": ["api", "google", "translate"],
+		"url": "https://github.com/matheuss/google-translate-api",
+		"ref": "",
+		"description": "Une API gratuite et illimitée pour Google Translate",
+		"note": 3
 	}
 ]

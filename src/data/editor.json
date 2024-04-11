@@ -1,5 +1,21 @@
 [
 	{
+		"name": "figma",
+		"keywords": [
+			"editor",
+			"design",
+			"ui",
+			"ux",
+			"illustrator",
+			"logo",
+			"image"
+		],
+		"url": "https://www.figma.com/",
+		"ref": "",
+		"description": "Figma est un outil de design d'interface utilisateur basé sur le Web",
+		"note": 5
+	},
+	{
 		"name": "photopea",
 		"keywords": ["editor", "photoshop"],
 		"url": "https://shadows.brumm.af/",
@@ -48,22 +64,6 @@
 		"note": 3
 	},
 	{
-		"name": "codepen",
-		"keywords": [
-			"editor",
-			"frontend",
-			"playground",
-			"ide",
-			"html",
-			"css",
-			"javascript"
-		],
-		"url": "https://codepen.io/",
-		"ref": "",
-		"description": "CodePen est un environnement de développement social pour les concepteurs et développeurs frontaux. Créez et déployez un site Web, montrez votre travail, créez des scénarios de test pour apprendre et déboguer, et trouvez l'inspiration.",
-		"note": 4
-	},
-	{
 		"name": "jsBin",
 		"keywords": ["editor", "javascript"],
 		"url": "https://jsbin.com/?js,console",
@@ -94,22 +94,6 @@
 		"ref": "",
 		"description": "Cartoon yourself",
 		"note": 3
-	},
-	{
-		"name": "stackblitz",
-		"keywords": ["editor", "playground", "ide"],
-		"url": "https://stackblitz.com",
-		"ref": "",
-		"description": "Le playground a la fois rapide et complet pour editer vos projets en ligne",
-		"note": 5
-	},
-	{
-		"name": "codesandbox",
-		"keywords": ["editor", "playground", "ide"],
-		"url": "https://codesandbox.io/",
-		"ref": "",
-		"description": "Le playground le plus populaire du moment",
-		"note": 4
 	},
 	{
 		"name": "canva",
@@ -174,6 +158,46 @@
 		"url": "https://boxy-svg.com/app",
 		"ref": "",
 		"description": "Un éditeur SVG en ligne",
+		"note": 4
+	},
+	{
+		"name": "react-draft-wysiwyg",
+		"keywords": ["editor", "text", "react", "wysiwyg", "quill", "javascript"],
+		"url": "https://github.com/jpuri/react-draft-wysiwyg#readme) - [docs](https://jpuri.github.io/react-draft-wysiwyg/#/docs",
+		"ref": "",
+		"description": "Un éditeur de texte riche WYSIWYG pour React",
+		"note": 4
+	},
+	{
+		"name": "quill.js",
+		"keywords": ["editor", "text", "wysiwyg", "quill", "javascript"],
+		"url": "https://quilljs.com/",
+		"ref": "",
+		"description": "Your powerful rich text editor.",
+		"note": 4
+	},
+	{
+		"name": "react-quill",
+		"keywords": ["editor", "text", "wysiwyg", "quill", "react", "javascript"],
+		"url": "https://www.npmjs.com/package/react-quill",
+		"ref": "",
+		"description": "A Quill component for React.",
+		"note": 4
+	},
+	{
+		"name": "quill-delta-to-html",
+		"keywords": [
+			"editor",
+			"converter",
+			"text",
+			"wysiwyg",
+			"quill",
+			"html",
+			"javascript"
+		],
+		"url": "https://github.com/nozer/quill-delta-to-html#readme",
+		"ref": "",
+		"description": "Convert Quill delta to HTML",
 		"note": 4
 	}
 ]
