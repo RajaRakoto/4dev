@@ -1,7 +1,16 @@
 [
 	{
 		"name": "fontawesome",
-		"keywords": ["icons", "fonts", "typography", "svg", "css", "sass", "less"],
+		"keywords": [
+			"icons",
+			"fonts",
+			"typography",
+			"collection",
+			"svg",
+			"css",
+			"sass",
+			"less"
+		],
 		"url": "https://fontawesome.com/start",
 		"ref": "",
 		"description": "Font Awesome est une police d'écriture et un outil d'icônes qui se base sur CSS, LESS et SASS",
@@ -9,7 +18,7 @@
 	},
 	{
 		"name": "xicons",
-		"keywords": ["icons", "vue", "react"],
+		"keywords": ["icons", "collection", "quick", "vue", "react"],
 		"url": "https://www.xicons.org/#",
 		"ref": "",
 		"description": "Composants ultra complet SVG Vue/React intégrés à partir de fluentui-system-icons, ionicons, etc ...",
@@ -17,7 +26,7 @@
 	},
 	{
 		"name": "uxwing",
-		"keywords": ["icons", "svg"],
+		"keywords": ["icons", "collection", "svg"],
 		"url": "https://uxwing.com",
 		"ref": "",
 		"description": "Collection d'icone vectorielle bien optimisé",
@@ -25,7 +34,7 @@
 	},
 	{
 		"name": "lordIcons",
-		"keywords": ["icons", "svg", "lottie"],
+		"keywords": ["icons", "collection", "svg", "lottie"],
 		"url": "https://lordicon.com/icons",
 		"ref": "",
 		"description": "Collection d'icone animé (svg | lottie)",
@@ -33,10 +42,26 @@
 	},
 	{
 		"name": "react-icons",
-		"keywords": ["icons", "react", "svg", "javascript"],
+		"keywords": ["icons", "collection", "react", "svg", "javascript"],
 		"url": "https://github.com/react-icons/react-icons",
 		"ref": "",
 		"description": "Collection d'icone pour React",
+		"note": 5
+	},
+	{
+		"name": "mui-icons",
+		"keywords": ["icons", "collection", "mui", "material", "svg"],
+		"url": "https://mui.com/material-ui/material-icons/",
+		"ref": "",
+		"description": "Collection d'icone pour Material UI",
+		"note": 5
+	},
+	{
+		"name": "devicons",
+		"keywords": ["icons", "collection", "dev", "svg"],
+		"url": "https://devicon.dev/",
+		"ref": "",
+		"description": "Collection d'icone pour les développeurs",
 		"note": 5
 	}
 ]

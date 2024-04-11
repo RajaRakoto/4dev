@@ -1,7 +1,7 @@
 [
 	{
 		"name": "css loaders & spinners",
-		"keywords": ["loader", "spinner"],
+		"keywords": ["loader", "spinner", "css"],
 		"url": "https://cssloaders.github.io/",
 		"ref": "",
 		"description": "Il s'agit d'une bibliothèque ayant une collection de différents types de chargeurs CSS, spinners.",
@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "spinkit",
-		"keywords": ["loader", "spinner"],
+		"keywords": ["loader", "spinner", "css"],
 		"url": "https://tobiasahlin.com/spinkit/",
 		"ref": "",
 		"description": "Simple CSS Spinners.",
@@ -17,10 +17,26 @@
 	},
 	{
 		"name": "react-preloaders",
-		"keywords": ["loader", "preloader", "spinner"],
+		"keywords": ["loader", "preloader", "spinner", "react", "javascript"],
 		"url": "https://github.com/vamosgs/react-preloaders",
 		"ref": "",
 		"description": "React Preloaders is a collection of preloader components for react.",
 		"note": 5
+	},
+	{
+		"name": "react-loader-spinner",
+		"keywords": ["loader", "spinner", "react", "javascript"],
+		"url": "https://mhnpd.github.io/react-loader-spinner/",
+		"ref": "",
+		"description": "Stylish Spinners for Your ReactJS Applications",
+		"note": 4
+	},
+	{
+		"name": "react-loading-screen",
+		"keywords": ["loader", "spinner", "react", "javascript"],
+		"url": "https://www.npmjs.com/package/react-loading-screen",
+		"ref": "",
+		"description": "Un écran de chargement React. Peut être utilisé comme économiseur d'écran pour le téléchargement initial de l'application ou comme écran de surcharge pour les promesses.",
+		"note": 4
 	}
 ]

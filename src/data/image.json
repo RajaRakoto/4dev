@@ -33,7 +33,7 @@
 	},
 	{
 		"name": "bloggif",
-		"keywords": ["image", "gif", "convert", "generator"],
+		"keywords": ["image", "gif", "converter", "generator"],
 		"url": "https://www.bloggif.com/text",
 		"ref": "",
 		"description": "Convertir un texte en image GIF",
@@ -41,7 +41,7 @@
 	},
 	{
 		"name": "onlineOCR",
-		"keywords": ["image", "ocr", "convert", "generator"],
+		"keywords": ["image", "ocr", "converter", "generator"],
 		"url": "https://www.onlineocr.net/fr/",
 		"ref": "",
 		"description": "Convertir une image en texte",

@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "web2pdf",
-		"keywords": ["pdf", "convert"],
+		"keywords": ["pdf", "converter"],
 		"url": "https://www.web2pdfconvert.com/",
 		"ref": "",
 		"description": "Convertir une page web en PDF",
