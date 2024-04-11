@@ -29,5 +29,22 @@
 		"ref": "https://www.youtube.com/watch?v=Ns5wBs-HAzc",
 		"description": "A guide to make infinite scroll easy in React with Tanstack",
 		"note": 5
+	},
+	{
+		"name": "react-loading-skeleton",
+		"keywords": [
+			"lazyloading",
+			"skeleton",
+			"animation",
+			"query",
+			"ux",
+			"ui",
+			"react",
+			"javascript"
+		],
+		"url": "https://www.npmjs.com/package/react-loading-skeleton",
+		"ref": "",
+		"description": "Créez de superbes squelettes de chargement animés qui s'adaptent automatiquement à votre application.",
+		"note": 4
 	}
 ]

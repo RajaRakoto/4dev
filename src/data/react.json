@@ -61,5 +61,13 @@
 		"ref": "",
 		"description": "A React component for under construction pages",
 		"note": 4
+	},
+	{
+		"name": "react-share",
+		"keywords": ["react", "frontend", "social", "javascript"],
+		"url": "https://www.npmjs.com/package/react-share",
+		"ref": "",
+		"description": "Boutons de partage sur les réseaux sociaux et nombre de partages pour vos applications React.",
+		"note": 5
 	}
 ]

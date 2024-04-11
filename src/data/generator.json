@@ -161,5 +161,13 @@
 		"ref": "",
 		"description": "Générateur de documentation pour un projet utilisant Sass",
 		"note": 5
+	},
+	{
+		"name": "persona maker",
+		"keywords": ["generator", "persona", "user"],
+		"url": "https://www.hubspot.fr/make-my-persona",
+		"ref": "",
+		"description": "Générateur de persona",
+		"note": 4
 	}
 ]

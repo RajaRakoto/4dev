@@ -1,21 +1,5 @@
 [
 	{
-		"name": "validator",
-		"keywords": ["security", "validator", "javascript"],
-		"url": "https://www.npmjs.com/package/validator",
-		"ref": "",
-		"description": "A library of string validators and sanitizers.",
-		"note": 5
-	},
-	{
-		"name": "yup",
-		"keywords": ["security", "validator", "javascript"],
-		"url": "https://www.npmjs.com/package/yup",
-		"ref": "",
-		"description": "Yup est un constructeur de schéma JavaScript pour l'analyse et la validation de valeurs. Définissez un schéma, transformez une valeur pour qu'elle corresponde, validez la forme d'une valeur existante, ou les deux.",
-		"note": 4
-	},
-	{
 		"name": "bcrypt",
 		"keywords": ["security", "hash", "password", "javascript"],
 		"url": "https://www.npmjs.com/package/bcrypt",
@@ -30,5 +14,37 @@
 		"ref": "",
 		"description": "Passport est un middleware d'authentification pour Node.js. Il est extrêmement flexible et modulaire et peut être facilement intégré à n'importe quelle application Web basée sur Express.",
 		"note": 5
+	},
+	{
+		"name": "urlvoid",
+		"keywords": ["security", "url", "scan"],
+		"url": "https://www.urlvoid.com/",
+		"ref": "",
+		"description": "URLVoid est un service en ligne qui permet aux utilisateurs de scanner un site Web pour détecter les logiciels malveillants et les activités de phishing.",
+		"note": 5
+	},
+	{
+		"name": "owasp-password-strength-test",
+		"keywords": ["security", "password", "validator", "test"],
+		"url": "https://github.com/nowsecure/owasp-password-strength-test",
+		"ref": "",
+		"description": "OWASP Password Strength Test est un outil qui permet de tester la force des mots de passe en fonction des critères de l'OWASP.",
+		"note": 5
+	},
+	{
+		"name": "bad-words",
+		"keywords": ["security", "filter", "validator", "test"],
+		"url": "https://www.npmjs.com/package/bad-words",
+		"ref": "",
+		"description": "Bad Words est un filtre de mots qui permet de filtrer les mots offensants.",
+		"note": 4
+	},
+	{
+		"name": "french-badwords-list",
+		"keywords": ["security", "filter", "collection", "validator", "test"],
+		"url": "https://www.npmjs.com/package/french-badwords-list",
+		"ref": "",
+		"description": "Liste de mots interdits en français.",
+		"note": 4
 	}
 ]
