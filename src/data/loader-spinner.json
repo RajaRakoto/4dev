@@ -16,11 +16,11 @@
 		"note": 4
 	},
 	{
-		"name": "react-preloaders",
+		"name": "react-preloaders2",
 		"keywords": ["loader", "preloader", "spinner", "react", "javascript"],
-		"url": "https://github.com/vamosgs/react-preloaders",
-		"ref": "",
-		"description": "React Preloaders is a collection of preloader components for react.",
+		"url": "https://www.npmjs.com/package/react-preloaders2",
+		"ref": "https://github.com/vamosgs/react-preloaders",
+		"description": "Ce projet est un fork de vamosgs.github.io/react-preloaders corrigeant un bug lié à la duplication de React dans les dernières versions de React.",
 		"note": 5
 	},
 	{
