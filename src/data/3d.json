@@ -1,0 +1,247 @@
+[
+	{
+		"name": "sketchfab",
+		"keywords": ["3d", "model", "collection", "sharing", "download"],
+		"url": "https://sketchfab.com/",
+		"ref": "",
+		"description": "Sketchfab ouvre une nouvelle ère de créativité en permettant à quiconque de publier et de trouver facilement du contenu 3D en ligne. Avec une communauté de millions de créateurs",
+		"note": 5
+	},
+	{
+		"name": "polyheaven",
+		"keywords": ["3d", "model", "collection", "sharing", "download"],
+		"url": "https://polyhaven.com/",
+		"ref": "",
+		"description": "Poly Haven est une bibliothèque de textures et de modèles 3D de haute qualité. Tous les fichiers sont publiés sous la licence CC0, ce qui signifie que vous pouvez les utiliser dans des projets personnels ou commerciaux sans avoir à donner de crédit.",
+		"note": 5
+	},
+	{
+		"name": "mixamo",
+		"keywords": [
+			"3d",
+			"animation",
+			"model",
+			"collection",
+			"sharing",
+			"download"
+		],
+		"url": "https://www.mixamo.com/",
+		"ref": "",
+		"description": "Mixamo est un service d'animation en ligne qui permet de personnaliser et d'animer des personnages 3D. Mixamo propose des animations prêtes à l'emploi pour les personnages 3D, ce qui permet de gagner du temps et de l'argent.",
+		"note": 5
+	},
+	{
+		"name": "turboSquid",
+		"keywords": ["3d", "model", "collection", "sharing", "download"],
+		"url": "https://www.turbosquid.com/",
+		"ref": "",
+		"description": "TurboSquid est un marché en ligne pour les modèles 3D, les textures et les fichiers 3D. TurboSquid propose des modèles 3D de haute qualité pour les jeux, les films, la publicité et la visualisation architecturale.",
+		"note": 4
+	},
+	{
+		"name": "react-three-fiber",
+		"keywords": ["3d", "webgl", "threejs", "r3f", "react", "javascript"],
+		"url": "https://github.com/pmndrs/react-three-fiber",
+		"ref": "",
+		"description": "React Three Fiber est une bibliothèque de rendu 3D pour React. Il permet de créer des applications 3D interactives en utilisant React et Three.js.",
+		"note": 5
+	},
+	{
+		"name": "react-three-rapier",
+		"keywords": [
+			"3d",
+			"physics",
+			"webgl",
+			"threejs",
+			"r3f",
+			"react",
+			"javascript"
+		],
+		"url": "https://github.com/pmndrs/react-three-rapier",
+		"ref": "https://codesandbox.io/s/rapier-character-controller-0b5o7u?file=/src/Player.jsx",
+		"description": "React Three Rapier est une bibliothèque de physique 3D pour React Three Fiber. Il permet de simuler des corps rigides, des corps mous, des joints, des contraintes et des collisions dans un environnement 3D.",
+		"note": 4
+	},
+	{
+		"name": "react-three-cannon",
+		"keywords": [
+			"3d",
+			"physics",
+			"webgl",
+			"threejs",
+			"r3f",
+			"react",
+			"javascript"
+		],
+		"url": "https://github.com/pmndrs/use-cannon/blob/master/packages/react-three-cannon/README.md",
+		"ref": "",
+		"description": "Hook React pour cannon-es. Utilisez-le en combinaison avec React-Three-Fiber",
+		"note": 4
+	},
+	{
+		"name": "camera-controls",
+		"keywords": ["3d", "camera", "webgl", "threejs", "javascript"],
+		"url": "https://yomotsu.github.io/camera-controls/",
+		"ref": "",
+		"description": "Contrôles de caméra pour Three.js",
+		"note": 4
+	},
+	{
+		"name": "react-three-editor",
+		"keywords": [
+			"3d",
+			"editor",
+			"webgl",
+			"threejs",
+			"r3f",
+			"react",
+			"javascript"
+		],
+		"url": "https://github.com/pmndrs/react-three-editor",
+		"ref": "",
+		"description": "Un éditeur 3D pour React Three Fiber",
+		"note": 4
+	},
+	{
+		"name": "three.js editor",
+		"keywords": ["3d", "editor", "webgl", "threejs", "javascript"],
+		"url": "https://threejs.org/editor/",
+		"ref": "",
+		"description": "Un éditeur 3D en ligne pour Three.js",
+		"note": 5
+	},
+	{
+		"name": "theatre.js",
+		"keywords": ["3d", "motion", "webgl", "threejs", "javascript"],
+		"url": "https://github.com/theatre-js/theatre",
+		"ref": "",
+		"description": "Motion design editor for the web",
+		"note": 4
+	},
+	{
+		"name": "triplex",
+		"keywords": ["3d", "webgl", "threejs", "r3f", "react", "javascript"],
+		"url": "https://github.com/try-triplex/triplex",
+		"ref": "",
+		"description": "L'IDE visuel React Three Fiber.",
+		"note": 4
+	},
+	{
+		"name": "gltf to r3f",
+		"keywords": [
+			"3d",
+			"generator",
+			"converter",
+			"component",
+			"webgl",
+			"threejs",
+			"r3f",
+			"react",
+			"javascript"
+		],
+		"url": "https://gltf.pmnd.rs/",
+		"ref": "",
+		"description": "Convertir des fichiers glTF en composants React Three Fiber",
+		"note": 5
+	},
+	{
+		"name": "gltfjsx cli",
+		"keywords": [
+			"3d",
+			"cli",
+			"generator",
+			"converter",
+			"component",
+			"webgl",
+			"threejs",
+			"r3f",
+			"react",
+			"javascript"
+		],
+		"url": "https://github.com/pmndrs/gltfjsx",
+		"ref": "",
+		"description": "Turns GLTFs into JSX components",
+		"note": 5
+	},
+	{
+		"name": "shap-e",
+		"keywords": ["3d", "generator", "ai", "model", "openai", "download"],
+		"url": "https://github.com/openai/shap-e#usage",
+		"ref": "",
+		"description": "Générez des objets 3D conditionnés sur du texte ou des images",
+		"note": 4
+	},
+	{
+		"name": "three.js",
+		"keywords": ["3d", "webgl", "threejs", "javascript"],
+		"url": "https://threejs.org/",
+		"ref": "",
+		"description": "Three.js est une bibliothèque JavaScript qui permet de créer des animations 3D en temps réel dans un navigateur web. Elle est basée sur WebGL et permet de créer des scènes 3D interactives.",
+		"note": 5
+	},
+	{
+		"name": "draco",
+		"keywords": [
+			"3d",
+			"compress",
+			"performance",
+			"webgl",
+			"threejs",
+			"google",
+			"c++",
+			"javascript"
+		],
+		"url": "https://github.com/google/draco",
+		"ref": "",
+		"description": "Draco est une bibliothèque permettant de compresser et décompresser des maillages géométriques 3D et des nuages ​​de points. Il est destiné à améliorer le stockage et la transmission des graphiques 3D.",
+		"note": 4
+	},
+	{
+		"name": "r3f-perf",
+		"keywords": [
+			"3d",
+			"performance",
+			"webgl",
+			"threejs",
+			"r3f",
+			"react",
+			"javascript"
+		],
+		"url": "https://github.com/utsuboco/r3f-perf",
+		"ref": "https://threejs.org/examples/#webgl_animation_keyframes",
+		"description": "Surveillez facilement vos performances ThreeJS.",
+		"note": 4
+	},
+	{
+		"name": "react-three-drei",
+		"keywords": [
+			"3d",
+			"collection",
+			"webgl",
+			"threejs",
+			"r3f",
+			"react",
+			"javascript"
+		],
+		"url": "https://github.com/pmndrs/drei",
+		"ref": "",
+		"description": "Collection de composants utilitaires pour React Three Fiber",
+		"note": 5
+	},
+	{
+		"name": "model-viewer",
+		"keywords": ["3d", "editor", "webgl"],
+		"url": "https://github.com/playcanvas/model-viewer",
+		"ref": "",
+		"description": "3D model viewer supporting glTF 2.0 and PLY (3d Gaussian Splats)",
+		"note": 4
+	},
+	{
+		"name": "monstermash",
+		"keywords": ["3d", "2d", "ai", "generator", "drawing", "model", "download"],
+		"url": "https://monstermash.zone/#",
+		"ref": "",
+		"description": "Monster Mash est un nouvel outil de modélisation et d'animation basé sur des croquis",
+		"note": 4
+	}
+]
