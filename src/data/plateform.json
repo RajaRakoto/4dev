@@ -53,5 +53,39 @@
 		"ref": "",
 		"description": "Trello est un outil de gestion de projet en ligne. Il a été créé par Fog Creek Software en 2011 et a été acquis par Atlassian en janvier 2017.",
 		"note": 5
+	},
+	{
+		"name": "dribbble",
+		"keywords": [
+			"plateform",
+			"design",
+			"frontend",
+			"ux",
+			"ui",
+			"idea",
+			"community",
+			"sharing"
+		],
+		"url": "https://dribbble.com/",
+		"ref": "",
+		"description": "Dribbble est une plateforme de partage de créations graphiques. Les utilisateurs peuvent partager des captures d'écran de leurs travaux en cours ou terminés, les commenter et les aimer.",
+		"note": 5
+	},
+	{
+		"name": "smashing magazine",
+		"keywords": [
+			"plateform",
+			"design",
+			"frontend",
+			"ux",
+			"ui",
+			"idea",
+			"community",
+			"sharing"
+		],
+		"url": "https://www.smashingmagazine.com/",
+		"ref": "",
+		"description": "Magazine on CSS, JavaScript, front-end, accessibility, UX and design. For developers, designers and front-end engineers.    ",
+		"note": 4
 	}
 ]
