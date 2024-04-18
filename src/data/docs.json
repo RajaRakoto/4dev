@@ -1,7 +1,26 @@
 [
 	{
+		"name": "MDN Web Docs",
+		"keywords": [
+			"docs",
+			"training",
+			"tutorial",
+			"reference",
+			"frontend",
+			"backend",
+			"fullstack",
+			"html",
+			"css",
+			"javascript"
+		],
+		"url": "https://developer.mozilla.org/fr/",
+		"ref": "",
+		"description": "La référence pour tout ce qui concerne le développement Web",
+		"note": 5
+	},
+	{
 		"name": "bootstrap-cheatsheet",
-		"keywords": ["docs", "bootstrap", "cheatsheet"],
+		"keywords": ["docs", "training", "tutorial", "bootstrap", "cheatsheet"],
 		"url": "https://bootstrap-cheatsheet.themeselection.com/index.html",
 		"ref": "",
 		"description": "Une liste interactive des classes, variables et mixins Bootstrap 5. Le seul CheatSheet Bootstrap 5 dont vous aurez besoin.",
@@ -9,7 +28,7 @@
 	},
 	{
 		"name": "devhint",
-		"keywords": ["docs", "cheatsheet", "collection"],
+		"keywords": ["docs", "training", "tutorial", "cheatsheet", "collection"],
 		"url": "https://devhints.io/",
 		"ref": "",
 		"description": "Une collection de cheatsheet.",
@@ -17,7 +36,7 @@
 	},
 	{
 		"name": "devdocs",
-		"keywords": ["docs", "collection"],
+		"keywords": ["docs", "training", "tutorial", "collection"],
 		"url": "https://devdocs.io/",
 		"ref": "",
 		"description": "DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable.",
@@ -29,6 +48,264 @@
 		"url": "https://www.jsdelivr.com/",
 		"ref": "",
 		"description": "jsDelivr est un moteur de recherche puissant pour développeur, ce dernier offre des liens qui permet d'accéder rapidement au site officiel, documentation, GitHub ou même télécharger directement un package",
+		"note": 5
+	},
+	{
+		"name": "33-concepts-js",
+		"keywords": [
+			"docs",
+			"training",
+			"tutorial",
+			"tutorial",
+			"collection",
+			"algorithm",
+			"pattern",
+			"javascript"
+		],
+		"url": "https://github.com/robinmetral/33-concepts-js",
+		"ref": "",
+		"description": "33 concepts que chaque développeur JavaScript devrait connaître.",
+		"note": 5
+	},
+	{
+		"name": "fullstack-nodejs",
+		"keywords": [
+			"docs",
+			"training",
+			"tutorial",
+			"fullstack",
+			"node",
+			"javascript"
+		],
+		"url": "https://morioh.com/a/7e75bc6e5041/nodejs-developer-roadmap-master-nodejs-by-following-this-roadmap",
+		"ref": "",
+		"description": "Un guide complet pour devenir un développeur Fullstack Node.js",
+		"note": 5
+	},
+	{
+		"name": "typescript-node-series",
+		"keywords": [
+			"docs",
+			"tutorial",
+			"training",
+			"tutorial",
+			"node",
+			"javascript"
+		],
+		"url": "https://github.com/muneer-ahmed-khan/typescript-node-series",
+		"ref": "",
+		"description": "Une série de tutoriels pour apprendre à utiliser TypeScript avec Node.js",
+		"note": 5
+	},
+	{
+		"name": "30secondsofcode",
+		"keywords": [
+			"docs",
+			"collection",
+			"training",
+			"tutorial",
+			"tutorial",
+			"algorithm",
+			"pattern",
+			"snippet"
+		],
+		"url": "https://www.30secondsofcode.org/",
+		"ref": "",
+		"description": "Une collection de design patterns, astuces et snippets utiles pour résoudre des problèmes",
+		"note": 5
+	},
+	{
+		"name": "wtfjs",
+		"keywords": ["docs", "training", "tutorial", "javascript"],
+		"url": "https://github.com/denysdovhan/wtfjs/blob/master/README-fr-fr.md",
+		"ref": "",
+		"description": "Des explications sur les bizarreries de JavaScript",
+		"note": 5
+	},
+	{
+		"name": "node-best-practices",
+		"keywords": [
+			"docs",
+			"training",
+			"tutorial",
+			"pattern",
+			"node",
+			"javascript"
+		],
+		"url": "https://github.com/goldbergyoni/nodebestpractices/blob/master/README.french.md",
+		"ref": "",
+		"description": "Les meilleures pratiques pour Node.js",
+		"note": 5
+	},
+	{
+		"name": "javascript-algorithms",
+		"keywords": [
+			"docs",
+			"training",
+			"tutorial",
+			"algorithm",
+			"pattern",
+			"javascript"
+		],
+		"url": "https://github.com/trekhleb/javascript-algorithms/blob/master/README.fr-FR.md",
+		"ref": "",
+		"description": "Des implémentations d'algorithmes et de structures de données en JavaScript",
+		"note": 5
+	},
+	{
+		"name": "javascript-questions",
+		"keywords": ["docs", "training", "tutorial", "javascript", "qcm"],
+		"url": "https://github.com/lydiahallie/javascript-questions/blob/master/fr-FR/README_fr-FR.md",
+		"ref": "",
+		"description": "Une liste de questions JavaScript pour tester vos connaissances",
+		"note": 5
+	},
+	{
+		"name": "bad-habits-react",
+		"keywords": ["docs", "training", "tutorial", "react", "javascript"],
+		"url": "https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41",
+		"ref": "",
+		"description": "Les mauvaises habitudes des développeurs React de niveau intermédiaire",
+		"note": 4
+	},
+	{
+		"name": "react-bits",
+		"keywords": [
+			"docs",
+			"training",
+			"tutorial",
+			"pattern",
+			"react",
+			"javascript"
+		],
+		"url": "https://vasanthk.gitbooks.io/react-bits/content/",
+		"ref": "",
+		"description": "A compilation of React Patterns, techniques, tips and tricks.",
+		"note": 5
+	},
+	{
+		"name": "frontend-checklist",
+		"keywords": [
+			"docs",
+			"frontend",
+			"test",
+			"audit",
+			"pattern",
+			"performance",
+			"seo",
+			"security",
+			"html",
+			"css",
+			"javascript"
+		],
+		"url": "https://frontendchecklist.io/",
+		"ref": "https://github.com/thedaviddias/Front-End-Checklist",
+		"description": "La liste de contrôle Front-End est une liste exhaustive des éléments que vous devez vérifier avant de lancer votre site Web en production.",
+		"note": 5
+	},
+	{
+		"name": "the-book-of-secret-knowledge",
+		"keywords": [
+			"docs",
+			"awesome",
+			"training",
+			"tutorial",
+			"collection",
+			"reference"
+		],
+		"url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+		"ref": "",
+		"description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+		"note": 5
+	},
+	{
+		"name": "best-practices",
+		"keywords": [
+			"docs",
+			"training",
+			"tutorial",
+			"tutorial",
+			"pattern",
+			"frontend",
+			"backend",
+			"fullstack",
+			"reference"
+		],
+		"url": "https://github.com/cnumr/best-practices",
+		"ref": "",
+		"description": "115 bonnes pratiques d'écoconception Web",
+		"note": 5
+	},
+	{
+		"name": "waytolearnx",
+		"keywords": [
+			"docs",
+			"training",
+			"tutorial",
+			"collection",
+			"reference",
+			"qcm"
+		],
+		"url": "https://waytolearnx.com/",
+		"ref": "",
+		"description": "Apprenez les compétences techniques dont vous aurais besoin pour le travail que vous souhaitez. En tant que leader de l'éducation en ligne et de l'apprentissage en ligne, nous vous aidons à acquérir les compétences dont vous avez besoin pour réussir.",
+		"note": 5
+	},
+	{
+		"name": "web-applications",
+		"keywords": [
+			"docs",
+			"training",
+			"tutorial",
+			"frontend",
+			"backend",
+			"fullstack"
+		],
+		"url": "https://www.robinwieruch.de/web-applications/",
+		"ref": "",
+		"description": "Connaitre tout les concepts de base d'une application web",
+		"note": 5
+	},
+	{
+		"name": "css-flexbox",
+		"keywords": ["docs", "training", "tutorial", "css", "flexbox"],
+		"url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+		"ref": "",
+		"description": "Un guide complet pour apprendre à utiliser Flexbox",
+		"note": 5
+	},
+	{
+		"name": "component-party",
+		"keywords": [
+			"docs",
+			"training",
+			"tutorial",
+			"collection",
+			"component",
+			"react",
+			"vue",
+			"angular",
+			"svelte",
+			"javascript"
+		],
+		"url": "https://component-party.dev/",
+		"ref": "https://github.com/matschik/component-party.dev",
+		"description": "Présentation des frameworks JS de composants Web par leur syntaxe et leurs fonctionnalités",
+		"note": 5
+	},
+	{
+		"name": "js-127-patterns",
+		"keywords": [
+			"docs",
+			"training",
+			"tutorial",
+			"collection",
+			"pattern",
+			"javascript"
+		],
+		"url": "https://morioh.com/a/a76bc7d72226/127-useful-javascript-snippets-you-can-understand-in-30-seconds",
+		"ref": "",
+		"description": "127 patterns JavaScript utiles",
 		"note": 5
 	}
 ]
