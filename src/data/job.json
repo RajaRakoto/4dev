@@ -159,5 +159,13 @@
 		"ref": "",
 		"description": "Agoramada vous aide à réussir à Madagascar depuis votre mobile: Trouvez Produits, Services, Emplois, Collaborateurs, Clients, Informations, Documentation.",
 		"note": 0
+	},
+	{
+		"name": "inside the mind of a recruiter",
+		"keywords": ["job", "docs", "professional", "work", "madagascar"],
+		"url": "https://insidemr.vercel.app/",
+		"ref": "",
+		"description": "Tsy ataotao foana ny fitadiavana asa, misy fitsipika mipetraka izay tokony arahina izy ireny. Matetika ny olona efa manan-traikefa amin'ny tontolon'ny Asa no manoro antsika izany (ireo zokintsika, ireo mpampiasa ary ireo namana efa miasa).",
+		"note": 5
 	}
 ]

@@ -69,5 +69,13 @@
 		"ref": "",
 		"description": "Boutons de partage sur les réseaux sociaux et nombre de partages pour vos applications React.",
 		"note": 5
+	},
+	{
+		"name": "beautiful-react-hooks",
+		"keywords": ["react", "frontend", "collection", "hooks", "javascript"],
+		"url": "https://github.com/antonioru/beautiful-react-hooks",
+		"ref": "",
+		"description": "Une collection de hooks React utiles pour vos projets",
+		"note": 5
 	}
 ]

@@ -1,27 +1,7 @@
 [
 	{
-		"name": "roadmap.sh",
-		"keywords": [
-			"tutorial",
-			"roadmap",
-			"frontend",
-			"backend",
-			"fullstack",
-			"devops",
-			"mobile",
-			"desktop",
-			"design",
-			"data",
-			"security"
-		],
-		"url": "https://www.roadmap.sh/",
-		"ref": "",
-		"description": "roadmap.sh est un effort communautaire pour créer des feuilles de route, des guides et d'autres contenus éducatifs pour aider les développeurs à choisir le chemin et guider leurs apprentissages.",
-		"note": 4
-	},
-	{
 		"name": "docstring",
-		"keywords": ["tutorial", "python", "django", "roadmap", "docs"],
+		"keywords": ["tutorial", "python", "django", "docs"],
 		"url": "https://www.docstring.fr",
 		"ref": "",
 		"description": "Apprenez à coder avec l'accompagnement Docstring. Maîtrisez le langage de programmation PYTHON.",

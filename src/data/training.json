@@ -13,14 +13,14 @@
 		"url": "https://javascript30.com/",
 		"ref": "",
 		"description": "30 jours Vanilla JS Coding Challenge, Construisez 30 choses en 30 jours avec 30 tutoriels, Pas de frameworks, Pas de compilateurs, Pas de bibliothèques !",
-		"note": 4
+		"note": 5
 	},
 	{
-		"name": "30secondsofcode",
-		"keywords": ["training", "snippet", "pattern", "javascript"],
-		"url": "https://www.30secondsofcode.org/",
+		"name": "app-ideas",
+		"keywords": ["training", "frontend", "backend", "fullstack"],
+		"url": "https://github.com/florinpop17/app-ideas",
 		"ref": "",
-		"description": "Parcourez 1107 extraits de snippets code pour tous vos besoins de développement sur 30 secondes de code !",
+		"description": "Une collection d'idées d'applications qui peuvent être utilisées pour améliorer vos compétences en codage.",
 		"note": 5
 	}
 ]

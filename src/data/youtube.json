@@ -166,5 +166,13 @@
 		"ref": "",
 		"description": "Black-belt your web development skills. Over 2000 free programming tutorial videos about: Modern JavaScript (beginner to advanced), Node.js, React, Vue.js, Firebase, MongoDB, HTML & CSS, Web Design, Git, GitHub, Python, TypeScript, ES6, Babel, Webpack, PHP, Laravel, MySQL, WordPress, Docker, and more.",
 		"note": 5
+	},
+	{
+		"name": "theprimetime",
+		"keywords": ["youtube", "tutorial", "tips", "dev"],
+		"url": "https://www.youtube.com/@ThePrimeTimeagen",
+		"ref": "",
+		"description": "This is a place for all the things that are awesome on stream.",
+		"note": 5
 	}
 ]

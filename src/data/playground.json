@@ -31,5 +31,13 @@
 		"ref": "",
 		"description": "Le playground le plus populaire du moment",
 		"note": 4
+	},
+	{
+		"name": "dartpad",
+		"keywords": ["playground", "editor", "ide", "cloud", "dart"],
+		"url": "https://dartpad.dev/",
+		"ref": "",
+		"description": "Le playground pour le langage Dart",
+		"note": 4
 	}
 ]
