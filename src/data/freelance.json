@@ -1,7 +1,7 @@
 [
 	{
 		"name": "freelance-info",
-		"keywords": ["freelance", "job", "professional", "work"],
+		"keywords": ["freelance", "remote", "job", "professional", "work"],
 		"url": "https://www.freelance-info.fr/",
 		"ref": "",
 		"description": "Plus de 10 000 offres de mission en freelance et d'emploi disponibles partout en France sur Free-Work.",
@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "5euros",
-		"keywords": ["freelance", "job", "professional", "work"],
+		"keywords": ["freelance", "remote", "job", "professional", "work"],
 		"url": "https://5euros.com/",
 		"ref": "",
 		"description": "Achetez et vendez des microservices à partir de 5 €",
@@ -17,7 +17,7 @@
 	},
 	{
 		"name": "upwork",
-		"keywords": ["freelance", "job", "professional", "work"],
+		"keywords": ["freelance", "remote", "job", "professional", "work"],
 		"url": "https://www.upwork.com/",
 		"ref": "",
 		"description": "Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 40m. Getting started is free. Receive quotes in seconds. Pay for quality. Save Time & Money. 24/7 Support. 60 Second Quotes. 30M+ Trusted Users.",
@@ -25,10 +25,252 @@
 	},
 	{
 		"name": "hire freelancers",
-		"keywords": ["freelance", "job", "professional", "work"],
+		"keywords": ["freelance", "remote", "job", "professional", "work"],
 		"url": "https://www.freelancer.com/",
 		"ref": "",
 		"description": "Hire the best freelancers for any job, online.",
+		"note": -1
+	},
+	{
+		"name": "fiveer",
+		"keywords": ["freelance", "remote", "job", "professional", "work"],
+		"url": "https://www.fiverr.com/",
+		"ref": "",
+		"description": "Find the perfect freelance services for your business",
+		"note": -1
+	},
+	{
+		"name": "indeed",
+		"keywords": ["freelance", "remote", "job", "professional", "work"],
+		"url": "https://www.indeed.fr/",
+		"ref": "",
+		"description": "Trouvez des offres d'emploi sur Indeed, le moteur de recherche d'emploi le plus complet. En une seule recherche, Indeed vous donne accès à des millions d'offres de milliers de sites carrières et de job boards.",
+		"note": -1
+	},
+	{
+		"name": "toptal",
+		"keywords": ["freelance", "remote", "job", "professional", "work"],
+		"url": "https://www.toptal.com/",
+		"ref": "",
+		"description": "Toptal is an exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world. Top companies hire Toptal freelancers for their most important projects.",
+		"note": -1
+	},
+	{
+		"name": "flexjobs",
+		"keywords": ["freelance", "remote", "job", "professional", "work"],
+		"url": "https://www.flexjobs.com/",
+		"ref": "",
+		"description": "The #1 job site to find remote jobs - no ads, scams, or junk. Find your next flexible, hybrid, or work from home job.",
+		"note": -1
+	},
+	{
+		"name": "freelancer",
+		"keywords": ["freelance", "remote", "job", "professional", "work"],
+		"url": "https://www.freelancer.com/",
+		"ref": "",
+		"description": "Hire the best freelancers for any job, online.",
+		"note": -1
+	},
+	{
+		"name": "guru",
+		"keywords": ["freelance", "remote", "job", "professional", "work"],
+		"url": "https://www.guru.com/",
+		"ref": "",
+		"description": "Work with the best freelance talent from around the world on our secure, flexible and cost-effective platform.",
+		"note": -1
+	},
+	{
+		"name": "codeable",
+		"keywords": [
+			"freelance",
+			"remote",
+			"job",
+			"professional",
+			"work",
+			"dev",
+			"wordpress"
+		],
+		"url": "https://codeable.io/",
+		"ref": "",
+		"description": "Codeable is the only WordPress freelancer platform. We match customers to the best WordPress experts. We help customers solve any WordPress problem.",
+		"note": -1
+	},
+	{
+		"name": "gun.io",
+		"keywords": [
+			"freelance",
+			"remote",
+			"job",
+			"professional",
+			"work",
+			"dev",
+			"design"
+		],
+		"url": "https://gun.io/",
+		"ref": "",
+		"description": "Hire the top 2% of freelance developers and designers.",
+		"note": -1
+	},
+	{
+		"name": "gigster",
+		"keywords": ["freelance", "remote", "job", "professional", "work", "dev"],
+		"url": "https://gigster.com/",
+		"ref": "",
+		"description": "Gigster is the fastest and easiest way to build custom software solutions. New technology expertise delivered on demand. Visit us now.",
+		"note": -1
+	},
+	{
+		"name": "yeeply",
+		"keywords": ["freelance", "remote", "job", "professional", "work", "dev"],
+		"url": "https://www.yeeply.com/fr/",
+		"ref": "",
+		"description": "Nous aidons les entreprises à trouver les meilleurs talents techniques à distance pour les projets digitaux. Projets de développement de logiciel, applications mobiles, sites web, Enterprise Performance Management (EPM), Intelligence Artificielle (IA), Blockchain, Robotic Process Automation (RPA) et toutes sortes de solutions numériques.",
+		"note": -1
+	},
+	{
+		"name": "10x management",
+		"keywords": ["freelance", "remote", "job", "professional", "work", "dev"],
+		"url": "https://www.10xmanagement.com/",
+		"ref": "",
+		"description": "10x Management finds the world's best freelance coders, programmers, and other technology talent so you can hire them at a moment's notice.",
+		"note": -1
+	},
+	{
+		"name": "youteam",
+		"keywords": ["freelance", "remote", "job", "professional", "work", "dev"],
+		"url": "https://youteam.io/",
+		"ref": "",
+		"description": "Two weeks to recalibrate your team: with YouTeam, effortlessly ramp up or streamline, accessing the unique network of 50,000+ top talents from Europe and Latin America.",
+		"note": -1
+	},
+	{
+		"name": "99designs",
+		"keywords": [
+			"freelance",
+			"remote",
+			"job",
+			"professional",
+			"work",
+			"design"
+		],
+		"url": "https://99designs.fr/",
+		"ref": "",
+		"description": "La plateforme créative internationale qui permet aux designers et aux clients de travailler ensemble pour créer des designs qu'ils adorent.",
+		"note": -1
+	},
+	{
+		"name": "behance",
+		"keywords": [
+			"freelance",
+			"remote",
+			"job",
+			"professional",
+			"work",
+			"design"
+		],
+		"url": "https://www.behance.net/",
+		"ref": "",
+		"description": "Behance is the world's largest creative network for showcasing and discovering creative work",
+		"note": -1
+	},
+	{
+		"name": "designhill",
+		"keywords": [
+			"freelance",
+			"remote",
+			"job",
+			"professional",
+			"work",
+			"design"
+		],
+		"url": "https://www.designhill.com/",
+		"ref": "",
+		"description": "World's #1 Creative Marketplace that allows businesses & individuals alike to source high-quality designs & buy products created by 150K+ global designers/artists",
+		"note": -1
+	},
+	{
+		"name": "designcrowd",
+		"keywords": [
+			"freelance",
+			"remote",
+			"job",
+			"professional",
+			"work",
+			"design"
+		],
+		"url": "https://www.designcrowd.fr/",
+		"ref": "",
+		"description": "Un monde de design. Des graphistes professionnels indépendants du monde entier prêts à réaliser votre logo, le site internet, la carte de visite & bien plus !",
+		"note": -1
+	},
+	{
+		"name": "coroflot",
+		"keywords": [
+			"freelance",
+			"remote",
+			"job",
+			"professional",
+			"work",
+			"design"
+		],
+		"url": "https://www.coroflot.com/",
+		"ref": "",
+		"description": "Coroflot is where designers are found and hired: companies post opportunities and search for creative candidates, designers apply to jobs and post portfolios of their work.",
+		"note": -1
+	},
+	{
+		"name": "crowdspring",
+		"keywords": [
+			"freelance",
+			"remote",
+			"job",
+			"professional",
+			"work",
+			"dev",
+			"design"
+		],
+		"url": "https://www.crowdspring.com/",
+		"ref": "",
+		"description": "Le marché le plus fiable au monde pour la conception graphique, y compris la conception de logos, la conception de sites Web, la conception de produits et le nom de votre entreprise.",
+		"note": -1
+	},
+	{
+		"name": "working not working",
+		"keywords": [
+			"freelance",
+			"remote",
+			"job",
+			"professional",
+			"work",
+			"design"
+		],
+		"url": "https://workingnotworking.com/",
+		"ref": "",
+		"description": "Embauchez les meilleurs talents créatifs. Nous donnons aux gens (qui embauchent) ce qu'ils veulent. Nous aimons les recruteurs. Le sentiment est mutuel.",
+		"note": -1
+	},
+	{
+		"name": "SEOclerks",
+		"keywords": ["freelance", "remote", "job", "professional", "work", "seo"],
+		"url": "https://www.seoclerk.com/",
+		"ref": "",
+		"description": "The largest SEO Marketplace on the planet.",
+		"note": -1
+	},
+	{
+		"name": "problogger",
+		"keywords": ["freelance", "remote", "job", "professional", "work", "seo"],
+		"url": "https://problogger.com",
+		"ref": "",
+		"description": "Depuis 2004, ProBlogger est le refuge des blogueurs souhaitant créer et développer leurs blogs, puis devenir professionnels pour gagner de l'argent en bloguant.",
+		"note": -1
+	},
+	{
+		"name": "clearvoice",
+		"keywords": ["freelance", "remote", "job", "professional", "work", "seo"],
+		"url": "https://www.clearvoice.com/",
+		"ref": "",
+		"description": "Créer du contenu qui génère des résultats demande du temps et de la concentration. Contrairement aux agences de création de contenu traditionnelles, ClearVoice est votre partenaire, fournissant un contenu flexible et transparent.",
 		"note": -1
 	}
 ]
