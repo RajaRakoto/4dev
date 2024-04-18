@@ -4,7 +4,7 @@
 		"keywords": ["3d", "model", "collection", "sharing", "download"],
 		"url": "https://sketchfab.com/",
 		"ref": "",
-		"description": "Sketchfab ouvre une nouvelle ère de créativité en permettant à quiconque de publier et de trouver facilement du contenu 3D en ligne. Avec une communauté de millions de créateurs",
+		"description": "Sketchfab ouvre une nouvelle ère de créativité en permettant à quiconque de publier et de trouver facilement du contenu 3D en ligne. Avec une communauté de millions de créateurs.",
 		"note": 5
 	},
 	{
@@ -75,15 +75,7 @@
 		],
 		"url": "https://github.com/pmndrs/use-cannon/blob/master/packages/react-three-cannon/README.md",
 		"ref": "",
-		"description": "Hook React pour cannon-es. Utilisez-le en combinaison avec React-Three-Fiber",
-		"note": 4
-	},
-	{
-		"name": "camera-controls",
-		"keywords": ["3d", "camera", "webgl", "threejs", "javascript"],
-		"url": "https://yomotsu.github.io/camera-controls/",
-		"ref": "",
-		"description": "Contrôles de caméra pour Three.js",
+		"description": "Hook React pour cannon-es. Utilisez la physique 3D dans React Three Fiber.",
 		"note": 4
 	},
 	{
@@ -99,7 +91,15 @@
 		],
 		"url": "https://github.com/pmndrs/react-three-editor",
 		"ref": "",
-		"description": "Un éditeur 3D pour React Three Fiber",
+		"description": "Un éditeur 3D pour React Three Fiber.",
+		"note": 4
+	},
+	{
+		"name": "camera-controls",
+		"keywords": ["3d", "camera", "webgl", "threejs", "javascript"],
+		"url": "https://yomotsu.github.io/camera-controls/",
+		"ref": "",
+		"description": "Contrôles de caméra pour Three.js.",
 		"note": 4
 	},
 	{
@@ -107,7 +107,7 @@
 		"keywords": ["3d", "editor", "webgl", "threejs", "javascript"],
 		"url": "https://threejs.org/editor/",
 		"ref": "",
-		"description": "Un éditeur 3D en ligne pour Three.js",
+		"description": "Un éditeur 3D en ligne pour Three.js.",
 		"note": 5
 	},
 	{
@@ -115,7 +115,7 @@
 		"keywords": ["3d", "motion", "webgl", "threejs", "javascript"],
 		"url": "https://github.com/theatre-js/theatre",
 		"ref": "",
-		"description": "Motion design editor for the web",
+		"description": "Editeur motion design pour le web.",
 		"note": 4
 	},
 	{
@@ -123,7 +123,7 @@
 		"keywords": ["3d", "webgl", "threejs", "r3f", "react", "javascript"],
 		"url": "https://github.com/try-triplex/triplex",
 		"ref": "",
-		"description": "L'IDE visuel React Three Fiber.",
+		"description": "L'editeur 3D pour React Three Fiber.",
 		"note": 4
 	},
 	{
@@ -141,7 +141,7 @@
 		],
 		"url": "https://gltf.pmnd.rs/",
 		"ref": "",
-		"description": "Convertir des fichiers glTF en composants React Three Fiber",
+		"description": "Convertir des fichiers glTF en composants React Three Fiber.",
 		"note": 5
 	},
 	{
@@ -160,7 +160,7 @@
 		],
 		"url": "https://github.com/pmndrs/gltfjsx",
 		"ref": "",
-		"description": "Turns GLTFs into JSX components",
+		"description": "Turns GLTFs into JSX components.",
 		"note": 5
 	},
 	{
@@ -168,7 +168,7 @@
 		"keywords": ["3d", "generator", "ai", "model", "openai", "download"],
 		"url": "https://github.com/openai/shap-e#usage",
 		"ref": "",
-		"description": "Générez des objets 3D conditionnés sur du texte ou des images",
+		"description": "Générez des objets 3D conditionnés sur du texte ou des images.",
 		"note": 4
 	},
 	{
@@ -225,7 +225,7 @@
 		],
 		"url": "https://github.com/pmndrs/drei",
 		"ref": "",
-		"description": "Collection de composants utilitaires pour React Three Fiber",
+		"description": "Collection de composants utilitaires pour React Three Fiber.",
 		"note": 5
 	},
 	{
@@ -233,7 +233,7 @@
 		"keywords": ["3d", "editor", "webgl"],
 		"url": "https://github.com/playcanvas/model-viewer",
 		"ref": "",
-		"description": "3D model viewer supporting glTF 2.0 and PLY (3d Gaussian Splats)",
+		"description": "3D model viewer supporting glTF 2.0 and PLY (3d Gaussian Splats).",
 		"note": 4
 	},
 	{
@@ -241,7 +241,7 @@
 		"keywords": ["3d", "2d", "ai", "generator", "drawing", "model", "download"],
 		"url": "https://monstermash.zone/#",
 		"ref": "",
-		"description": "Monster Mash est un nouvel outil de modélisation et d'animation basé sur des croquis",
+		"description": "Monster Mash est un nouvel outil de modélisation et d'animation basé sur des croquis.",
 		"note": 4
 	}
 ]
