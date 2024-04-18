@@ -1,5 +1,13 @@
 [
 	{
+		"name": "awesome",
+		"keywords": ["awesome", "collection", "list"],
+		"url": "https://github.com/sindresorhus/awesome",
+		"ref": "",
+		"description": "Awesome lists about all kinds of interesting topics",
+		"note": 0
+	},
+	{
 		"name": "awesome-lottie",
 		"keywords": [
 			"awesome",
@@ -54,6 +62,133 @@
 		"url": "https://github.com/vitejs/awesome-vite",
 		"ref": "",
 		"description": "A curated list of awesome for Vite.js",
+		"note": 0
+	},
+	{
+		"name": "awesome-threejs",
+		"keywords": [
+			"awesome",
+			"collection",
+			"3d",
+			"webgl",
+			"threejs",
+			"javascript"
+		],
+		"url": "https://github.com/AxiomeCG/awesome-threejs",
+		"ref": "",
+		"description": "A curated list of awesome for Three.js",
+		"note": 0
+	},
+	{
+		"name": "awesome-react",
+		"keywords": ["awesome", "collection", "react", "library", "javascript"],
+		"url": "https://github.com/enaqx/awesome-react",
+		"ref": "",
+		"description": "A curated list of awesome for React",
+		"note": 0
+	},
+	{
+		"name": "awesome-vue",
+		"keywords": ["awesome", "collection", "vue", "framework", "javascript"],
+		"url": "https://github.com/vuejs/awesome-vue",
+		"ref": "",
+		"description": "A curated list of awesome for Vue",
+		"note": 0
+	},
+	{
+		"name": "awesome-angular",
+		"keywords": ["awesome", "collection", "angular", "framework", "javascript"],
+		"url": "https://github.com/PatrickJS/awesome-angular",
+		"ref": "",
+		"description": "A curated list of awesome for Angular",
+		"note": 0
+	},
+	{
+		"name": "awesome-svelte",
+		"keywords": ["awesome", "collection", "svelte", "framework", "javascript"],
+		"url": "https://github.com/TheComputerM/awesome-svelte",
+		"ref": "",
+		"description": "A curated list of awesome for Svelte",
+		"note": 0
+	},
+	{
+		"name": "awesome-sass",
+		"keywords": ["awesome", "collection", "sass"],
+		"url": "https://github.com/Famolus/awesome-sass",
+		"ref": "",
+		"description": "A curated list of awesome for Sass",
+		"note": 0
+	},
+	{
+		"name": "awesome-tailwind",
+		"keywords": ["awesome", "collection", "tailwind", "css"],
+		"url": "https://github.com/aniftyco/awesome-tailwindcss",
+		"ref": "",
+		"description": "A curated list of awesome for Tailwind CSS",
+		"note": 0
+	},
+	{
+		"name": "awesome-bootstrap",
+		"keywords": ["awesome", "collection", "bootstrap", "css"],
+		"url": "https://github.com/therebelrobot/awesome-bootstrap",
+		"ref": "",
+		"description": "A curated list of awesome for Bootstrap",
+		"note": 0
+	},
+	{
+		"name": "awesome-figma",
+		"keywords": [
+			"awesome",
+			"collection",
+			"figma",
+			"design",
+			"ui",
+			"ux",
+			"illustrator"
+		],
+		"url": "https://github.com/react-figma/awesome-figma",
+		"ref": "",
+		"description": "A curated list of awesome for Figma",
+		"note": 0
+	},
+	{
+		"name": "awesome-html",
+		"keywords": ["awesome", "collection", "html"],
+		"url": "https://github.com/diegocard/awesome-html5",
+		"ref": "",
+		"description": "A curated list of awesome for HTML",
+		"note": 0
+	},
+	{
+		"name": "awesome-css",
+		"keywords": ["awesome", "collection", "css"],
+		"url": "https://github.com/awesome-css-group/awesome-css",
+		"ref": "",
+		"description": "A curated list of awesome for CSS",
+		"note": 0
+	},
+	{
+		"name": "awesome-linux",
+		"keywords": ["awesome", "collection", "linux", "unix", "os", "software"],
+		"url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
+		"ref": "",
+		"description": "A curated list of awesome for Linux",
+		"note": 0
+	},
+	{
+		"name": "awesome-cheatsheets",
+		"keywords": ["awesome", "collection", "cheatsheet", "reference"],
+		"url": "https://github.com/LeCoupa/awesome-cheatsheets",
+		"ref": "",
+		"description": "A curated list of awesome cheatsheets",
+		"note": 0
+	},
+	{
+		"name": "awesome-flutter",
+		"keywords": ["awesome", "collection", "flutter", "framework", "dart"],
+		"url": "https://github.com/Solido/awesome-flutter",
+		"ref": "",
+		"description": "A curated list of awesome for Flutter",
 		"note": 0
 	}
 ]
