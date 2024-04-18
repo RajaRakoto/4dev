@@ -170,5 +170,13 @@
 		"url": "https://projectidx.com/",
 		"ref": "",
 		"description": "Project IDX est un espace de travail entièrement basé sur le Web pour le développement d'applications full-stack, doté de la dernière IA générative (optimisée par Codey et PaLM 2)."
+	},
+	{
+		"name": "yuka",
+		"keywords": ["ai", "3d", "engine", "pathfinding", "javascript"],
+		"url": "https://mugen87.github.io/yuka/",
+		"ref": "",
+		"description": "Yuka est un moteur d'intelligence artificielle pour les jeux 3D. Il est conçu pour gérer des personnages non joueurs (PNJ) dans des environnements 3D complexes.",
+		"note": 4
 	}
 ]

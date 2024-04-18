@@ -30,5 +30,45 @@
 		"ref": "",
 		"description": "Ajoutez des couleurs à vos textes dans la console",
 		"note": 5
+	},
+	{
+		"name": "zsh-codex",
+		"keywords": [
+			"cli",
+			"linux",
+			"terminal",
+			"zsh",
+			"shell",
+			"ai",
+			"generative",
+			"sysadmin",
+			"openai",
+			"gpt",
+			"devops"
+		],
+		"url": "https://github.com/tom-doerr/zsh_codex",
+		"ref": "",
+		"description": "Il s'agit d'un plugin ZSH qui vous permet d'utiliser le Codex AI d'OpenAI dans la ligne de commande.",
+		"note": 4
+	},
+	{
+		"name": "plz-cli",
+		"keywords": [
+			"cli",
+			"linux",
+			"terminal",
+			"zsh",
+			"shell",
+			"ai",
+			"generative",
+			"sysadmin",
+			"openai",
+			"gpt",
+			"devops"
+		],
+		"url": "https://github.com/m1guelpf/plz-cli",
+		"ref": "",
+		"description": "Copilot for your terminal",
+		"note": 4
 	}
 ]

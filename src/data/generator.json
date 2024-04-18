@@ -169,5 +169,53 @@
 		"ref": "",
 		"description": "Générateur de persona",
 		"note": 4
+	},
+	{
+		"name": "flutterflow",
+		"keywords": ["generator", "flutter", "component", "ui", "ux", "dart"],
+		"url": "https://flutterflow.io/",
+		"ref": "",
+		"description": "Générateur de composants Flutter",
+		"note": 5
+	},
+	{
+		"name": "anima",
+		"keywords": [
+			"generator",
+			"figma",
+			"design",
+			"tailwind",
+			"ui",
+			"ux",
+			"html",
+			"css",
+			"react",
+			"vue",
+			"javascript"
+		],
+		"url": "https://www.animaapp.com/",
+		"ref": "",
+		"description": "Créez des prototypes réactifs, exportez du HTML et du CSS, React ou Vue, ou publiez des sites Web en direct à partir de votre conception. Utilisez Anima pour Figma gratuitement",
+		"note": 5
+	},
+	{
+		"name": "function12",
+		"keywords": [
+			"generator",
+			"figma",
+			"design",
+			"tailwind",
+			"ui",
+			"ux",
+			"html",
+			"css",
+			"react",
+			"vue",
+			"javascript"
+		],
+		"url": "https://fn12.com/",
+		"ref": "",
+		"description": "Obtenez le code, copiez et collez simplement qui convertit automatiquement les conceptions Figma en code frontend",
+		"note": 5
 	}
 ]
