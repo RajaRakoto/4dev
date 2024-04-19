@@ -1,6 +1,9 @@
 // dev
 export const DEVMODE = true;
 
+// path
+export const dataPath = "src/data";
+
 // notes
 export const note1 = "⭐🟊🟊🟊🟊";
 export const note2 = "⭐⭐🟊🟊🟊";
