@@ -9,10 +9,10 @@
 	},
 	{
 		"name": "kimsufi",
-		"keywords": ["vps", "server", "hosting"],
+		"keywords": ["vps", "server", "hosting", "fr"],
 		"url": "https://www.kimsufi.com/fr/vps/",
 		"ref": "",
-		"description": "With our cheap VPS servers, you host your websites and web applications at a lower cost while benefiting from guaranteed hardware flexibility and availability. The root access of your virtual machine allows you to manage its configuration and control your resources to add more if the evolution of your project requires it.",
+		"description": "Avec nos serveurs VPS pas chers, vous hébergez vos sites web et applications web à moindre coût tout en bénéficiant d'une flexibilité et d'une disponibilité matérielles garanties. L'accès root de votre machine virtuelle vous permet de gérer sa configuration et de contrôler vos ressources pour en ajouter davantage si l'évolution de votre projet le nécessite.",
 		"note": 4
 	},
 	{

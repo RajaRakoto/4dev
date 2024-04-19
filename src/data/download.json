@@ -88,11 +88,12 @@
 			"mac",
 			"linux",
 			"android",
-			"ios"
+			"ios",
+			"fr"
 		],
 		"url": "https://www.commentcamarche.net/download/",
 		"ref": "",
-		"description": "A website that allows you to download software for Windows, Mac, Linux, Android, and iOS.",
+		"description": "Site de téléchargement de logiciels pour Windows, Mac, Linux, Android et iOS.",
 		"note": 5
 	},
 	{

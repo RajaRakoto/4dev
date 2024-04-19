@@ -105,10 +105,10 @@
 	},
 	{
 		"name": "zety",
-		"keywords": ["editor", "cv", "resume", "job", "illustrator"],
+		"keywords": ["editor", "cv", "resume", "job", "illustrator", "fr"],
 		"url": "https://zety.fr/",
 		"ref": "",
-		"description": "Create a professional CV in minutes.",
+		"description": "Creer un CV professionnel en ligne.",
 		"note": 5
 	},
 	{
@@ -153,7 +153,7 @@
 		"note": 4
 	},
 	{
-		"name": "Boxy SVG",
+		"name": "boxy SVG",
 		"keywords": ["editor", "illustrator", "svg", "image"],
 		"url": "https://boxy-svg.com/app",
 		"ref": "",

@@ -41,10 +41,10 @@
 	},
 	{
 		"name": "openclassrooms",
-		"keywords": ["certification", "skill", "training"],
+		"keywords": ["certification", "skill", "training", "fr"],
 		"url": "https://openclassrooms.com/fr/",
 		"ref": "",
-		"description": "OpenClassrooms is an online training website, created in 1999 under the name Site du Zéro. It offers its members certifying courses and paths leading to growing careers (ideal for beginners).",
+		"description": "OpenClassrooms est un site de formation en ligne, créé en 1999 sous le nom de Site du Zéro. Il propose à ses membres des cours certifiants et des parcours menant à des carrières en pleine croissance (idéal pour les débutants).",
 		"note": 5
 	},
 	{

@@ -1,7 +1,7 @@
 [
 	{
 		"name": "freelance-info",
-		"keywords": ["freelance", "remote", "job", "professional", "work"],
+		"keywords": ["freelance", "remote", "job", "professional", "work", "fr"],
 		"url": "https://www.freelance-info.fr/",
 		"ref": "",
 		"description": "Plus de 10 000 offres de mission en freelance et d'emploi disponibles partout en France sur Free-Work.",
@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "5euros",
-		"keywords": ["freelance", "remote", "job", "professional", "work"],
+		"keywords": ["freelance", "remote", "job", "professional", "work", "fr"],
 		"url": "https://5euros.com/",
 		"ref": "",
 		"description": "Achetez et vendez des microservices à partir de 5 €",
@@ -41,7 +41,7 @@
 	},
 	{
 		"name": "indeed",
-		"keywords": ["freelance", "remote", "job", "professional", "work"],
+		"keywords": ["freelance", "remote", "job", "professional", "work", "fr"],
 		"url": "https://www.indeed.fr/",
 		"ref": "",
 		"description": "Trouvez des offres d'emploi sur Indeed, le moteur de recherche d'emploi le plus complet. En une seule recherche, Indeed vous donne accès à des millions d'offres de milliers de sites carrières et de job boards.",
@@ -121,7 +121,15 @@
 	},
 	{
 		"name": "yeeply",
-		"keywords": ["freelance", "remote", "job", "professional", "work", "dev"],
+		"keywords": [
+			"freelance",
+			"remote",
+			"job",
+			"professional",
+			"work",
+			"dev",
+			"fr"
+		],
 		"url": "https://www.yeeply.com/fr/",
 		"ref": "",
 		"description": "Nous aidons les entreprises à trouver les meilleurs talents techniques à distance pour les projets digitaux. Projets de développement de logiciel, applications mobiles, sites web, Enterprise Performance Management (EPM), Intelligence Artificielle (IA), Blockchain, Robotic Process Automation (RPA) et toutes sortes de solutions numériques.",
@@ -151,7 +159,8 @@
 			"job",
 			"professional",
 			"work",
-			"design"
+			"design",
+			"fr"
 		],
 		"url": "https://99designs.fr/",
 		"ref": "",
@@ -196,7 +205,8 @@
 			"job",
 			"professional",
 			"work",
-			"design"
+			"design",
+			"fr"
 		],
 		"url": "https://www.designcrowd.fr/",
 		"ref": "",
@@ -231,7 +241,7 @@
 		],
 		"url": "https://www.crowdspring.com/",
 		"ref": "",
-		"description": "Le marché le plus fiable au monde pour la conception graphique, y compris la conception de logos, la conception de sites Web, la conception de produits et le nom de votre entreprise.",
+		"description": "The world's most trusted marketplace for graphic design, including logo design, web design, product design and your company name.",
 		"note": -1
 	},
 	{
@@ -246,7 +256,7 @@
 		],
 		"url": "https://workingnotworking.com/",
 		"ref": "",
-		"description": "Embauchez les meilleurs talents créatifs. Nous donnons aux gens (qui embauchent) ce qu'ils veulent. Nous aimons les recruteurs. Le sentiment est mutuel.",
+		"description": "Hire the best creative talent. We give people (who hire) what they want. We love recruiters. The feeling is mutual.",
 		"note": -1
 	},
 	{
@@ -262,7 +272,7 @@
 		"keywords": ["freelance", "remote", "job", "professional", "work", "seo"],
 		"url": "https://problogger.com",
 		"ref": "",
-		"description": "Depuis 2004, ProBlogger est le refuge des blogueurs souhaitant créer et développer leurs blogs, puis devenir professionnels pour gagner de l'argent en bloguant.",
+		"description": "Since 2004, ProBlogger has been the home for bloggers wanting to create and grow their blogs, and then go professional to make money blogging.",
 		"note": -1
 	},
 	{
@@ -270,7 +280,7 @@
 		"keywords": ["freelance", "remote", "job", "professional", "work", "seo"],
 		"url": "https://www.clearvoice.com/",
 		"ref": "",
-		"description": "Créer du contenu qui génère des résultats demande du temps et de la concentration. Contrairement aux agences de création de contenu traditionnelles, ClearVoice est votre partenaire, fournissant un contenu flexible et transparent.",
+		"description": "We take the hassle out of content production. Whether you need access to vetted creators or a fully managed content team, ClearVoice has the solution for you!",
 		"note": -1
 	}
 ]

@@ -1,10 +1,10 @@
 [
 	{
 		"name": "yggtorrent",
-		"keywords": ["torrent", "download"],
+		"keywords": ["torrent", "download", "fr"],
 		"url": "https://www.yggtorrent.wtf/",
 		"ref": "",
-		"description": "YggTorrent is a torrent download site: Movies, Series, Albums, Software, Games, etc ...",
+		"description": "YggTorrent est un site de téléchargement de torrent : Films, Séries, Albums, Logiciels, Jeux, etc...",
 		"note": 5
 	},
 	{
@@ -17,10 +17,10 @@
 	},
 	{
 		"name": "cpasbien",
-		"keywords": ["torrent", "download"],
+		"keywords": ["torrent", "download", "fr"],
 		"url": "https://www.cpasbien.to/",
 		"ref": "",
-		"description": "Download torrents.",
+		"description": "Telecharger des torrents de films, séries, musique, logiciels et jeux.",
 		"note": 4
 	},
 	{

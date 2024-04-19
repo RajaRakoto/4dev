@@ -8,7 +8,8 @@
 			"sysadmin",
 			"devops",
 			"hacking",
-			"actu"
+			"actu",
+			"fr"
 		],
 		"url": "https://www.youtube.com/@cocadmin",
 		"ref": "",
@@ -17,7 +18,7 @@
 	},
 	{
 		"name": "cookie connecté",
-		"keywords": ["youtube", "tutorial", "tips", "actu"],
+		"keywords": ["youtube", "tutorial", "tips", "actu", "fr"],
 		"url": "https://www.youtube.com/@Cookieconnecte",
 		"ref": "",
 		"description": "Mon défi avec cette chaîne est de vous expliquer un sujet complexe de l'informatique ou du numérique en moins de 10 minutes. Le cloud, l'infrastructure et les nouvelles tendances IT sont ma passion et j'ai envie de vous partager mes connaissances.Des dessins simples et des explications concises sont ma méthode pour vous faire digérer l'indigeste. Chaque vidéo est une synthèse sur les concepts clé à retenir d'une notion technique informatique.",
@@ -33,7 +34,8 @@
 			"devops",
 			"gnu",
 			"linux",
-			"opensource"
+			"opensource",
+			"fr"
 		],
 		"url": "https://github.com/priximmo/sommaire-xavki-devops-fr/",
 		"ref": "",
@@ -42,7 +44,7 @@
 	},
 	{
 		"name": "khaos farbauti ibn oblivion",
-		"keywords": ["youtube", "tutorial", "tips", "pentest", "hacking"],
+		"keywords": ["youtube", "tutorial", "tips", "pentest", "hacking", "fr"],
 		"url": "https://www.youtube.com/@KhaosFarbautiIbnOblivion",
 		"ref": "",
 		"description": "Chaine tuto pentest & CTF (capture the flag).",
@@ -56,7 +58,8 @@
 			"tips",
 			"sysadmin",
 			"pentest",
-			"hacking"
+			"hacking",
+			"fr"
 		],
 		"url": "https://www.youtube.com/@processusthief",
 		"ref": "",
@@ -65,7 +68,7 @@
 	},
 	{
 		"name": "graven ilvec",
-		"keywords": ["youtube", "tutorial", "tips", "dev"],
+		"keywords": ["youtube", "tutorial", "tips", "dev", "fr"],
 		"url": "https://www.youtube.com/@Gravenilvectuto",
 		"ref": "",
 		"description": "Passionné par la programmation informatique depuis 7ans+, vous trouverez sur ma chaine des vidéos en lien avec ce sujet.",
@@ -73,7 +76,7 @@
 	},
 	{
 		"name": "pierre giraud",
-		"keywords": ["youtube", "tutorial", "tips", "dev"],
+		"keywords": ["youtube", "tutorial", "tips", "dev", "fr"],
 		"url": "https://www.youtube.com/@PierreGiraudcom",
 		"ref": "",
 		"description": "Sur cette chaîne, vous trouverez principalement des tutoriels vidéos complets de programmation (HTML, CSS, JavaScript, PhP, MySQL, etc.). Ces tutoriels vous apprendront à coder étape par étape et sont complètements gratuits.",
@@ -81,7 +84,7 @@
 	},
 	{
 		"name": "from scratch",
-		"keywords": ["youtube", "tutorial", "tips", "dev"],
+		"keywords": ["youtube", "tutorial", "tips", "dev", "fr"],
 		"url": "https://www.youtube.com/@FromScratchDeveloppementWeb",
 		"ref": "",
 		"description": "Un specialiste en developpement web ...",
@@ -89,7 +92,7 @@
 	},
 	{
 		"name": "grafikart",
-		"keywords": ["youtube", "tutorial", "tips", "dev"],
+		"keywords": ["youtube", "tutorial", "tips", "dev", "fr"],
 		"url": "https://www.youtube.com/@grafikart/",
 		"ref": "",
 		"description": "Retrouvez un concentré du web autour du monde du développement web et du graphisme ... Formez vous et améliorez vos compétences à travers près de 161 heures de formation vidéo ...",
@@ -97,7 +100,7 @@
 	},
 	{
 		"name": "simon dieny",
-		"keywords": ["youtube", "tutorial", "tips", "dev"],
+		"keywords": ["youtube", "tutorial", "tips", "dev", "fr"],
 		"url": "https://www.youtube.com/@codeursenior",
 		"ref": "",
 		"description": "Un specialiste (senior) dans l'eco systeme Javascript (angular - react) ...",
@@ -105,7 +108,15 @@
 	},
 	{
 		"name": "codeconcept",
-		"keywords": ["youtube", "tutorial", "tips", "dev", "javascript", "actu"],
+		"keywords": [
+			"youtube",
+			"tutorial",
+			"tips",
+			"dev",
+			"javascript",
+			"actu",
+			"fr"
+		],
 		"url": "https://www.youtube.com/@codeconcept",
 		"ref": "",
 		"description": "Cette chaîne va vous permettre de passer de nouveaux paliers en JavaScript Front, Back ou Full Stack plus rapidement. Elle vous permettra également de faire votre veille techno JavaScript.",
@@ -113,7 +124,7 @@
 	},
 	{
 		"name": "kodaps",
-		"keywords": ["youtube", "tutorial", "tips", "dev", "actu"],
+		"keywords": ["youtube", "tutorial", "tips", "dev", "actu", "fr"],
 		"url": "https://www.youtube.com/@kodaps_fr",
 		"ref": "",
 		"description": "Pour moi, après 15 ans de carrière dans les jeux vidéos, coder ce n'est pas seulement un travail. Pour moi, le code est un jeu: un jeu de réflexion, un jeu d'exploration, mais avant tout un jeu de construction. Et ma passion, c'est de partager cette joie de coder.",
@@ -121,7 +132,7 @@
 	},
 	{
 		"name": "_underscore",
-		"keywords": ["youtube", "tips", "actu"],
+		"keywords": ["youtube", "tips", "actu", "fr"],
 		"url": "https://www.youtube.com/@Underscore_",
 		"ref": "",
 		"description": "Le talk-show des passionnés de l'IT.",
@@ -129,7 +140,7 @@
 	},
 	{
 		"name": "devoxx fr",
-		"keywords": ["youtube", "conference", "tips", "actu"],
+		"keywords": ["youtube", "conference", "tips", "actu", "fr"],
 		"url": "https://www.youtube.com/@DevoxxFRvideos",
 		"ref": "",
 		"description": "Devoxx France est une conférence en 2 temps forts, sur 3 jours. La première journée, appelée \"University\", vous permet d'assister à des présentations longues et de participer à des ateliers. Le jeudi et le vendredi, Devoxx France propose d'abord des Keynotes, autour d'orateurs prestigieux, puis ensuite un cycle de 8 conférences, toutes les de 45 mn. Vous pouvez ainsi construire votre propre agenda et suivre différentes sessions selon vos envies.",

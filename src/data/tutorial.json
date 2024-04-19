@@ -17,18 +17,18 @@
 	},
 	{
 		"name": "grafikart",
-		"keywords": ["tutorial"],
+		"keywords": ["tutorial", "fr"],
 		"url": "https://grafikart.fr/formations/",
 		"ref": "",
-		"description": "Discover a specific technology through a series of videos that will guide you in your learning process.",
+		"description": "Découvrez une technologie précise à travers une série de vidéos qui vous guideront dans votre apprentissage.",
 		"note": 5
 	},
 	{
 		"name": "pierre giraud",
-		"keywords": ["tutorial"],
+		"keywords": ["tutorial", "fr"],
 		"url": "https://www.pierre-giraud.com/",
 		"ref": "",
-		"description": "All your resources on web development, learn to code in HTML, CSS, JavaScript, Python, PHP.",
+		"description": "Toutes vos ressources sur le développement web, apprenez à coder en HTML, CSS, JavaScript, Python, PHP.",
 		"note": 4
 	},
 	{
