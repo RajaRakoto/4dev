@@ -4,7 +4,7 @@
 		"keywords": ["test", "framework", "unit", "javascript"],
 		"url": "https://mochajs.org/",
 		"ref": "",
-		"description": "Mocha est un framework de test JavaScript flexible et puissant, utilisé principalement pour tester des applications Node.js et des applications front-end avec une syntaxe simple et expressive. Il offre une suite complète d'outils pour écrire et exécuter des tests, supporte les styles de test asynchrones et synchrones, et permet l'utilisation de diverses bibliothèques d'assertions pour vérifier les comportements attendus, offrant ainsi aux développeurs un moyen efficace de garantir la qualité et la fiabilité de leur code.",
+		"description": "Mocha is a flexible and powerful JavaScript testing framework, primarily used for testing Node.js applications and front-end applications with a simple and expressive syntax. It provides a comprehensive set of tools for writing and running tests, supports both asynchronous and synchronous test styles, and allows the use of various assertion libraries to verify expected behaviors, thereby providing developers with an effective way to ensure the quality and reliability of their code.",
 		"note": 4
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["test", "framework", "unit", "javascript"],
 		"url": "https://jestjs.io/",
 		"ref": "",
-		"description": "Jest est un framework de test JavaScript moderne, convivial et performant, principalement utilisé pour tester des applications Node.js et des applications front-end. Avec sa configuration zéro, sa facilité d'utilisation et son intégration transparente avec Babel, TypeScript et d'autres outils populaires, Jest permet aux développeurs d'écrire des tests de manière rapide et efficace, tout en offrant des fonctionnalités avancées telles que le mocking automatique, les snapshots et une exécution parallèle, garantissant ainsi une expérience de test agréable et efficace.",
+		"description": "Jest is a modern, developer-friendly, and performant JavaScript testing framework, primarily used for testing Node.js and front-end applications. With its zero-configuration setup, ease of use, and seamless integration with Babel, TypeScript, and other popular tools, Jest enables developers to write tests quickly and efficiently, while offering advanced features such as automatic mocking, snapshots, and parallel execution, ensuring a pleasant and efficient testing experience.",
 		"note": 5
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["test", "keyboard", "hardware"],
 		"url": "https://www.onlinemictest.com/fr/keyboard-test/",
 		"ref": "",
-		"description": "Keyboard Test est un outil en ligne simple et pratique qui permet de tester les touches du clavier d'un ordinateur en temps réel.",
+		"description": "Keyboard Test is a simple and convenient online tool that allows you to test the keys of a computer keyboard in real-time.",
 		"note": 4
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["test", "npm", "package", "registry", "proxy"],
 		"url": "https://github.com/verdaccio/verdaccio",
 		"ref": "https://dev.to/one-beyond/different-approaches-to-testing-your-own-packages-locally-verdaccio-5hd8",
-		"description": "Verdaccio est un serveur de registre de packages npm open-source qui permet de gérer des packages privés localement, en les stockant dans un cache local et en les publiant sur un serveur local. Il offre une solution simple et efficace pour tester des packages npm localement, en permettant aux développeurs de les installer, de les publier et de les gérer de manière transparente, sans avoir à les publier sur le registre public npm.",
+		"description": "Verdaccio is an open-source npm package registry server that allows managing private packages locally by storing them in a local cache and publishing them to a local server. It offers a simple and effective solution for testing npm packages locally, allowing developers to install, publish, and manage them seamlessly without having to publish them to the public npm registry.",
 		"note": 5
 	}
 ]

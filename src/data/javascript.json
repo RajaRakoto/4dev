@@ -4,7 +4,7 @@
 		"keywords": ["javascript"],
 		"url": "https://lodash.com/",
 		"ref": "",
-		"description": "Bibliothèque JavaScript qui fournit des fonctions utilitaires pour la programmation fonctionnelle.",
+		"description": "JavaScript library that provides utility functions for functional programming.",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["javascript"],
 		"url": "https://underscorejs.org/",
 		"ref": "",
-		"description": "Underscore.js est une bibliothèque de ceinture utilitaire pour JavaScript qui prend en charge les suspects fonctionnels habituels (each, map, reduce, filter, etc...) sans étendre les objets JavaScript de base.",
+		"description": "Underscore.js is a utility-belt library for JavaScript that supports the usual suspects (each, map, reduce, filter, etc...) without extending JavaScript's core objects.",
 		"note": 4
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["javascript"],
 		"url": "https://www.npmjs.com/package/debug",
 		"ref": "",
-		"description": "Un petit utilitaire de débogage JavaScript inspiré de la technique de débogage du noyau Node.js, fonctionne dans Node.js et les navigateurs Web.",
+		"description": "A tiny JavaScript debugging utility modeled after Node.js core's debugging technique.",
 		"note": 4
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["javascript"],
 		"url": "http://browserify.org/",
 		"ref": "",
-		"description": "Browserify est un outil qui vous permet d'écrire des modules Node.js qui peuvent être utilisés dans les navigateurs.",
+		"description": "Browserify is a tool that allows you to write Node.js-style modules that compile for use in the browser.",
 		"note": 4
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["javascript"],
 		"url": "https://nodemon.io/",
 		"ref": "",
-		"description": "nodemon est un utilitaire qui surveille les modifications dans les fichiers et redémarre automatiquement le serveur.",
+		"description": "nodemon is a utility that monitors for changes in files and automatically restarts the server.",
 		"note": 4
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["javascript"],
 		"url": "https://www.npmjs.com/package/dotenv",
 		"ref": "",
-		"description": "Dotenv est un module zéro dépendance qui charge les variables d'environnement d'un fichier .env dans process.env.",
+		"description": "Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.",
 		"note": 4
 	},
 	{
@@ -52,7 +52,7 @@
 		"keywords": ["javascript"],
 		"url": "https://www.npmjs.com/package/prompt-sync",
 		"ref": "",
-		"description": "Un prompt simple pour Node.js.",
+		"description": "A simple prompt for Node.js.",
 		"note": 4
 	},
 	{
@@ -60,7 +60,7 @@
 		"keywords": ["javascript"],
 		"url": "https://www.npmjs.com/package/fs-extra",
 		"ref": "",
-		"description": "fs-extra ajoute des méthodes supplémentaires à l'objet fs de Node.js.",
+		"description": "fs-extra adds file system methods that aren't included in the native fs module.",
 		"note": 4
 	},
 	{
@@ -68,7 +68,7 @@
 		"keywords": ["javascript", "cli", "process"],
 		"url": "https://www.npmjs.com/package/execa",
 		"ref": "",
-		"description": "Exécutez des commandes dans un processus enfant",
+		"description": "Run commands in a child process",
 		"note": 5
 	},
 	{
@@ -76,7 +76,7 @@
 		"keywords": ["javascript", "file"],
 		"url": "https://www.npmjs.com/package/file-saver",
 		"ref": "",
-		"description": "Enregistrez des fichiers facilement dans le navigateur.",
+		"description": "Save files easily in the browser.",
 		"note": 4
 	}
 ]

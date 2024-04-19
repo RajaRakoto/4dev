@@ -2,7 +2,7 @@
 	{
 		"name": "linkedin",
 		"keywords": [
-			"plateform",
+			"platform",
 			"social",
 			"network",
 			"professional",
@@ -11,21 +11,21 @@
 		],
 		"url": "https://www.linkedin.com/",
 		"ref": "",
-		"description": "LinkedIn est un réseau social professionnel en ligne créé en 2002 à Mountain View en Californie. Il est lancé en mai 2003. Le site est disponible en français depuis 2007. Le 13 juin 2016, Microsoft annonce le rachat du réseau social pour 26,2 milliards de dollars.",
+		"description": "LinkedIn is an online professional social network created in 2002 in Mountain View, California. It was launched in May 2003. The site has been available in French since 2007. On June 13, 2016, Microsoft announced the acquisition of the social network for $26.2 billion.",
 		"note": 5
 	},
 	{
 		"name": "discord",
-		"keywords": ["plateform", "chat", "communication", "gaming", "community"],
+		"keywords": ["platform", "chat", "communication", "gaming", "community"],
 		"url": "https://discord.com/",
 		"ref": "",
-		"description": "Discord est une plateforme de VoIP et de messagerie instantanée. Il fonctionne sur les systèmes d’exploitation Windows, macOS, Linux, Android, iOS ainsi que sur les navigateurs web. Il est distribué sous forme de freeware et développé avec une licence propriétaire.",
+		"description": "Discord is a VoIP and instant messaging platform. It works on Windows, macOS, Linux, Android, iOS, and web browsers. It is distributed as freeware and developed with proprietary license.",
 		"note": 5
 	},
 	{
 		"name": "slack",
 		"keywords": [
-			"plateform",
+			"platform",
 			"project",
 			"management",
 			"organization",
@@ -35,13 +35,13 @@
 		],
 		"url": "https://slack.com/",
 		"ref": "",
-		"description": "Slack est une plateforme de communication collaborative propriétaire créée par Stewart Butterfield. Elle est très utilisée dans le monde professionnel.",
+		"description": "Slack is a proprietary collaborative communication platform created by Stewart Butterfield. It is widely used in the professional world.",
 		"note": 4
 	},
 	{
 		"name": "trello",
 		"keywords": [
-			"plateform",
+			"platform",
 			"project",
 			"management",
 			"organization",
@@ -51,13 +51,13 @@
 		],
 		"url": "https://trello.com/",
 		"ref": "",
-		"description": "Trello est un outil de gestion de projet en ligne. Il a été créé par Fog Creek Software en 2011 et a été acquis par Atlassian en janvier 2017.",
+		"description": "Trello is an online project management tool. It was created by Fog Creek Software in 2011 and was acquired by Atlassian in January 2017.",
 		"note": 5
 	},
 	{
 		"name": "dribbble",
 		"keywords": [
-			"plateform",
+			"platform",
 			"design",
 			"frontend",
 			"ux",
@@ -68,13 +68,13 @@
 		],
 		"url": "https://dribbble.com/",
 		"ref": "",
-		"description": "Dribbble est une plateforme de partage de créations graphiques. Les utilisateurs peuvent partager des captures d'écran de leurs travaux en cours ou terminés, les commenter et les aimer.",
+		"description": "Dribbble is a platform for sharing graphic creations. Users can share screenshots of their ongoing or completed work, comment on them, and like them.",
 		"note": 5
 	},
 	{
 		"name": "smashing magazine",
 		"keywords": [
-			"plateform",
+			"platform",
 			"design",
 			"frontend",
 			"ux",
@@ -85,7 +85,7 @@
 		],
 		"url": "https://www.smashingmagazine.com/",
 		"ref": "",
-		"description": "Magazine on CSS, JavaScript, front-end, accessibility, UX and design. For developers, designers and front-end engineers.    ",
+		"description": "Magazine on CSS, JavaScript, front-end, accessibility, UX, and design. For developers, designers, and front-end engineers.",
 		"note": 4
 	}
 ]

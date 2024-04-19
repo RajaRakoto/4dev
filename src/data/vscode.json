@@ -4,7 +4,7 @@
 		"keywords": ["vscode", "extension", "manager", "generator", "javascript"],
 		"url": "https://www.npmjs.com/package/vsce",
 		"ref": "",
-		"description": "VS Code Extension Manager",
+		"description": "VS Code Extension Manager.",
 		"note": 5
 	}
 ]

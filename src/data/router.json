@@ -4,7 +4,7 @@
 		"keywords": ["router", "react", "javascript"],
 		"url": "https://reactrouter.com/",
 		"ref": "https://github.com/remix-run/react-router/tree/dev/examples",
-		"description": "React router est le bibliotheque React le plus populaire pour creer un routage cotE client avec un documentation riche",
+		"description": "React router is the most popular React library for creating client-side routing with rich documentation",
 		"note": 5
 	}
 ]

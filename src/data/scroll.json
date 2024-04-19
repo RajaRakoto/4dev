@@ -11,7 +11,7 @@
 		],
 		"url": "https://www.npmjs.com/package/react-scroll",
 		"ref": "",
-		"description": "Composant React pour animer le défilement vertical",
+		"description": "React component to animate vertical scrolling.",
 		"note": 4
 	},
 	{
@@ -26,7 +26,7 @@
 			"javascript"
 		],
 		"url": "https://www.npmjs.com/package/react-scroll-up-button",
-		"description": "Composant React pour un bouton de défilement fixe vers le haut. Le composant contient tout le code nécessaire pour faire défiler vers le haut de la page (ou la position souhaitée) en utilisant Easing Effect.",
+		"description": "React component for a fixed scroll-up button. The component contains all the necessary code to scroll to the top of the page (or desired position) using Easing Effect.",
 		"note": 4
 	}
 ]

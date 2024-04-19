@@ -12,7 +12,7 @@
 		"keywords": ["validator", "security", "javascript"],
 		"url": "https://github.com/validatorjs/validator.js",
 		"ref": "",
-		"description": "String validation and sanitization",
+		"description": "String validation and sanitization.",
 		"note": 5
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["validator", "security", "javascript"],
 		"url": "https://www.npmjs.com/package/yup",
 		"ref": "",
-		"description": "Yup est un constructeur de schéma JavaScript pour l'analyse et la validation de valeurs. Définissez un schéma, transformez une valeur pour qu'elle corresponde, validez la forme d'une valeur existante, ou les deux.",
+		"description": "Yup is a JavaScript schema builder for value parsing and validation. Define a schema, transform a value to match, validate the shape of an existing value, or both.",
 		"note": 4
 	}
 ]

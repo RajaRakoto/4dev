@@ -4,7 +4,7 @@
 		"keywords": ["video", "image"],
 		"url": "https://pixabay.com",
 		"ref": "",
-		"description": "Plus de 1,7 million d'images et de vidéos de haute qualité",
+		"description": "Over 1.7 million high-quality images and videos.",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["video", "image"],
 		"url": "https://www.pexels.com",
 		"ref": "",
-		"description": "La plus grande bibliothèque de vidéos gratuites, offerte par la communauté",
+		"description": "The largest library of free videos, provided by the community.",
 		"note": 4
 	}
 ]

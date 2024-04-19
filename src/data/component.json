@@ -4,7 +4,7 @@
 		"keywords": ["component", "frontend", "react", "material-design", "css"],
 		"url": "https://mui.com/material-ui/getting-started/",
 		"ref": "",
-		"description": "MUI fournit une bibliothèque simple, personnalisable et accessible de composants React. Suivez votre propre système de conception ou commencez par Material Design.",
+		"description": "MUI provides a simple, customizable, and accessible library of React components. Follow your own design system or start with Material Design.",
 		"note": 5
 	},
 	{
@@ -20,7 +20,7 @@
 		],
 		"url": "https://mdbootstrap.com/",
 		"ref": "",
-		"description": "Toolkit open source pour la conception de matériaux de construction avec bootstrap (Angular, Vue, React)",
+		"description": "Open-source toolkit for material design with bootstrap (Angular, Vue, React).",
 		"note": 5
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["component", "frontend", "angular", "react", "vue", "css"],
 		"url": "https://www.fast.design/",
 		"ref": "",
-		"description": "FAST est un ensemble de technologies basées sur des composants Web (Angular, Vue, React) et des normes Web modernes developpE par Microsoft, conçues pour vous aider à relever efficacement certains des défis les plus courants en matière de conception et de développement de sites Web et d'applications.",
+		"description": "FAST is a set of web component-based technologies (Angular, Vue, React) and modern web standards developed by Microsoft, designed to help you efficiently address some of the most common challenges in web design and development.",
 		"note": 4
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["component", "frontend", "tailwind", "css"],
 		"url": "https://flowbite.com",
 		"ref": "",
-		"description": "Bibliothèque Open-source des components Tailwind CSS",
+		"description": "Open-source library of Tailwind CSS components.",
 		"note": 4
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["component", "frontend", "tailwind", "css"],
 		"url": "https://daisyui.com/",
 		"ref": "",
-		"description": "Tailwind CSS Components",
+		"description": "Tailwind CSS Components.",
 		"note": 4
 	},
 	{
@@ -52,7 +52,7 @@
 		"keywords": ["component", "frontend", "tailwind", "css"],
 		"url": "https://mertjf.github.io/tailblocks/",
 		"ref": "",
-		"description": "Simple Tailwind CSS Components",
+		"description": "Simple Tailwind CSS Components.",
 		"note": 4
 	},
 	{
@@ -68,7 +68,7 @@
 		],
 		"url": "https://www.creative-tim.com/",
 		"ref": "",
-		"description": "Kits d'interface utilisateur, modèles et tableaux de bord construits sur Bootstrap, Vue.js, React, Angular, Node.js et Laravel. Rejoignez plus de 1 838 844 créatifs!",
+		"description": "UI kits, templates, and dashboards built on Bootstrap, Vue.js, React, Angular, Node.js, and Laravel. Join over 1,838,844 creatives!",
 		"note": 4
 	},
 	{
@@ -76,7 +76,7 @@
 		"keywords": ["component", "frontend", "react", "css"],
 		"url": "https://chakra-ui.com/guides/first-steps",
 		"ref": "",
-		"description": "Créez rapidement des applications et des sites Web React accessibles.",
+		"description": "Quickly build accessible React applications and websites.",
 		"note": 5
 	},
 	{
@@ -84,7 +84,7 @@
 		"keywords": ["component", "frontend", "bootstrap", "react", "css"],
 		"url": "https://react-bootstrap.github.io/getting-started/introduction",
 		"ref": "",
-		"description": "Bootstrap reconstruit pour React. Inclure les composants Bootstrap directement dans votre projet React",
+		"description": "Bootstrap rebuilt for React. Include Bootstrap components directly in your React project.",
 		"note": 4
 	},
 	{
@@ -92,7 +92,7 @@
 		"keywords": ["component", "frontend", "react-native", "mobile"],
 		"url": "https://wix.github.io/react-native-ui-lib/docs/getting-started/setup",
 		"ref": "",
-		"description": "React Native UI (RNUI) est une bibliothèque d'outils et de composants d'interface utilisateur pour React Native de Wix",
+		"description": "React Native UI (RNUI) is a library of UI tools and components for React Native from Wix.",
 		"note": 3
 	},
 	{
@@ -100,7 +100,7 @@
 		"keywords": ["component", "frontend", "vue", "material-design", "css"],
 		"url": "https://vuetifyjs.com/en/getting-started/installation/",
 		"ref": "",
-		"description": "Cadre de composants Vue basé sur Material Design",
+		"description": "Vue component framework based on Material Design.",
 		"note": 4
 	},
 	{
@@ -108,7 +108,7 @@
 		"keywords": ["component", "frontend", "bootstrap", "vue", "css"],
 		"url": "https://bootstrap-vue.org/docs",
 		"ref": "",
-		"description": "Utiliser les composants Bootstrap avec Vue",
+		"description": "Use Bootstrap components with Vue.",
 		"note": 4
 	},
 	{
@@ -116,7 +116,7 @@
 		"keywords": ["component", "frontend", "angular", "material-design", "css"],
 		"url": "https://material.angular.io/guide/getting-started/",
 		"ref": "",
-		"description": "Cadre de composants Angular basé sur Material Design",
+		"description": "Angular component framework based on Material Design.",
 		"note": 4
 	},
 	{
@@ -124,7 +124,7 @@
 		"keywords": ["component", "frontend", "bootstrap", "angular", "css"],
 		"url": "https://bootstrap-vue.org/docs",
 		"ref": "",
-		"description": "Utiliser les composants Bootstrap avec Angular",
+		"description": "Use Bootstrap components with Angular.",
 		"note": 4
 	},
 	{
@@ -132,7 +132,7 @@
 		"keywords": ["component", "frontend", "navbar", "css"],
 		"url": "https://jonsuh.com/hamburgers/",
 		"ref": "",
-		"description": "Hamburgers est une collection de savoureuses icônes de hamburger animées par CSS. La source est également incluse en tant que bibliothèque Sass. Il est modulable et personnalisable, alors préparez votre propre hamburger.",
+		"description": "Hamburgers is a collection of tasty hamburger icons animated by CSS. The source is also included as a Sass library. It's scalable and customizable, so make your own burger.",
 		"note": 5
 	},
 	{
@@ -140,7 +140,7 @@
 		"keywords": ["component", "frontend", "bootstrap", "css"],
 		"url": "https://getbootstrap.com/",
 		"ref": "",
-		"description": "Bootstrap est une collection d'outils utiles à la création du design de sites et d'applications web. C'est un ensemble qui contient des codes HTML et CSS, des formulaires, boutons, outils de navigation et autres éléments interactifs, ainsi que des extensions JavaScript en option.",
+		"description": "Bootstrap is a collection of useful tools for creating web design. It's a set that contains HTML and CSS code, forms, buttons, navigation tools, and other interactive elements, as well as optional JavaScript extensions.",
 		"note": 4
 	},
 	{
@@ -148,7 +148,7 @@
 		"keywords": ["component", "frontend", "css"],
 		"url": "https://semantic-ui.com/introduction/getting-started.html",
 		"ref": "",
-		"description": "Semantic est un cadre de composants d'interface utilisateur basé sur des principes utiles du langage naturel.",
+		"description": "Semantic is a UI component framework based on useful principles from natural language.",
 		"note": 4
 	},
 	{
@@ -156,7 +156,7 @@
 		"keywords": ["component", "frontend", "react", "css"],
 		"url": "https://react.semantic-ui.com",
 		"ref": "",
-		"description": "Collection des composants react de semantic ui.",
+		"description": "Collection of semantic UI React components.",
 		"note": 4
 	},
 	{
@@ -164,7 +164,7 @@
 		"keywords": ["component", "frontend", "tailwind", "css"],
 		"url": "https://tailwindcss.com/",
 		"ref": "",
-		"description": "Un framework CSS complètement personnalisable, basé sur le principe de classes utilitaires.",
+		"description": "A fully customizable CSS framework, based on the principle of utility classes.",
 		"note": 4
 	},
 	{
@@ -172,7 +172,7 @@
 		"keywords": ["component", "frontend", "css"],
 		"url": "https://materializecss.com/",
 		"ref": "",
-		"description": "Un framework front-end responsive moderne basé sur le Material Design.",
+		"description": "A modern responsive front-end framework based on Material Design.",
 		"note": 4
 	},
 	{
@@ -180,7 +180,7 @@
 		"keywords": ["component", "frontend", "css"],
 		"url": "https://bulma.io/",
 		"ref": "",
-		"description": "Un framework CSS moderne no JS",
+		"description": "A modern CSS framework with no JS.",
 		"note": 4
 	},
 	{
@@ -188,7 +188,7 @@
 		"keywords": ["component", "frontend", "html", "css"],
 		"url": "https://picocss.com/",
 		"ref": "",
-		"description": "Pico.css est une bibliothèque CSS minimaliste et légère, conçue pour simplifier le stylage des applications web en offrant une collection de classes prédéfinies pour les éléments HTML courants, permettant ainsi aux développeurs de personnaliser rapidement et facilement l'apparence de leur site sans avoir à écrire de CSS personnalisé. Avec sa taille réduite et sa simplicité d'utilisation, Pico.css est idéal pour les projets nécessitant une approche minimaliste et efficace du design.",
+		"description": "Pico.css is a minimalist and lightweight CSS library, designed to simplify web application styling by offering a collection of pre-defined classes for common HTML elements, allowing developers to quickly and easily customize their site's appearance without having to write custom CSS. With its small size and ease of use, Pico.css is ideal for projects requiring a minimalist and efficient design approach.",
 		"note": 4
 	}
 ]

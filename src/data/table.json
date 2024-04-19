@@ -4,7 +4,7 @@
 		"keywords": ["table", "angular", "react", "vue", "javascript"],
 		"url": "https://gridjs.io/docs/index/",
 		"ref": "",
-		"description": "Grid.js est un plugin de tableau HTML gratuit et open-source écrit en TypeScript. Il fonctionne avec la plupart des frameworks JavaScript, y compris React, Angular, Vue et VanillaJs.",
+		"description": "Grid.js is a free and open-source HTML table plugin written in TypeScript. It works with most JavaScript frameworks, including React, Angular, Vue, and VanillaJs.",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["table", "jquery", "javascript"],
 		"url": "https://datatables.net/",
 		"ref": "",
-		"description": "DataTables est un plug-in jQuery open-source permettant de dynamiser un tableau HTML. Créée par Allan Jardine sous la licence MIT",
+		"description": "DataTables is an open-source jQuery plugin for enhancing an HTML table. Created by Allan Jardine under the MIT license.",
 		"note": 5
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["table", "tanstack", "react", "javascript"],
 		"url": "https://react-table.tanstack.com/",
 		"ref": "",
-		"description": "React Table est une bibliothèque de tableaux légère et extensible pour React. Il est conçu pour vous aider à créer des tableaux de données simples ou complexes en React rapidement.",
+		"description": "React Table is a lightweight, extensible table library for React. It's designed to help you build simple or complex data tables in React quickly.",
 		"note": 5
 	}
 ]

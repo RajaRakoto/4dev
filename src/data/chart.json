@@ -4,15 +4,15 @@
 		"keywords": ["chart", "javascript"],
 		"url": "https://www.chartjs.org/docs/latest/",
 		"ref": "",
-		"description": "Graphiques JavaScript simples mais flexibles pour les concepteurs et les développeurs",
+		"description": "Simple but flexible JavaScript charts for designers and developers.",
 		"note": 4
 	},
 	{
-		"name": "charist.js",
+		"name": "chartist.js",
 		"keywords": ["chart", "javascript"],
 		"url": "http://gionkunz.github.io/chartist-js/getting-started.html/",
 		"ref": "",
-		"description": "Graphiques réactifs simples",
+		"description": "Simple responsive charts.",
 		"note": 3
 	}
 ]

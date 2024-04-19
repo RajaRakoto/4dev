@@ -4,7 +4,7 @@
 		"keywords": ["formatter", "minify", "css", "javascript"],
 		"url": "https://www.minifier.org/",
 		"ref": "",
-		"description": "Rendez votre site Web plus petit et plus rapide à charger en minimisant le code JS et CSS.",
+		"description": "Make your website smaller and faster to load by minifying JS and CSS code.",
 		"note": 3
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["formatter", "validator", "json", "javascript"],
 		"url": "https://jsonformatter.curiousconcept.com/",
 		"ref": "",
-		"description": "Validateur JSON",
+		"description": "JSON Validator.",
 		"note": 4
 	},
 	{
@@ -27,7 +27,7 @@
 		],
 		"url": "https://smalldev.tools/",
 		"ref": "",
-		"description": "Outil gratuit pour les développeurs web pour aider avec Beautify & Minify HTML/CSS/Javascript, et de nombreux autres outils pratiques. Avec une interface délicieuse.",
+		"description": "Free web developer tool to help with Beautify & Minify HTML/CSS/JavaScript, and many other handy tools. With a delightful interface.",
 		"note": 4
 	},
 	{
@@ -35,7 +35,7 @@
 		"keywords": ["formatter", "beautify"],
 		"url": "https://prettier.io/",
 		"ref": "",
-		"description": "Prettier est un formateur de code qui prend en charge divers langages de programmation et peut être intégré à de nombreux éditeurs de code.",
+		"description": "Prettier is a code formatter that supports various programming languages and can be integrated with many code editors.",
 		"note": 5
 	}
 ]

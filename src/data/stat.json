@@ -4,7 +4,7 @@
 		"keywords": ["stat", "css"],
 		"url": "https://2021.stateofcss.com/fr-FR/",
 		"ref": "",
-		"description": "Statistique CSS et ses technologies.",
+		"description": "CSS and its technologies statistics.",
 		"note": 5
 	},
 	{
@@ -12,15 +12,15 @@
 		"keywords": ["stat", "javascript"],
 		"url": "https://2021.stateofjs.com/fr-FR/",
 		"ref": "",
-		"description": "Statistique Javascript et ses technologies.",
+		"description": "JavaScript and its technologies statistics.",
 		"note": 5
 	},
 	{
 		"name": "npmtrends",
 		"keywords": ["stat", "versus", "npm", "package", "javascript"],
-		"url": "https://npmtrends.com/)",
+		"url": "https://npmtrends.com/",
 		"ref": "",
-		"description": "Comparez le nombre de téléchargements de packages au fil du temps",
+		"description": "Compare the number of package downloads over time.",
 		"note": 4
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["stat", "dev", "counter", "reporter"],
 		"url": "https://github.com/kentcdodds/cloc",
 		"ref": "",
-		"description": "Count line of code",
+		"description": "Count lines of code.",
 		"note": 4
 	}
 ]

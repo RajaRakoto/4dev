@@ -4,7 +4,7 @@
 		"keywords": ["audit", "scan", "debug"],
 		"url": "https://deepscan.io/",
 		"ref": "",
-		"description": "DeepScan est un outil d'analyse statique de pointe pour JavaScript. Vous pouvez inspecter l'ensemble de votre code JavaScript de manière exhaustive.",
+		"description": "DeepScan is an advanced static analysis tool for JavaScript. You can inspect all of your JavaScript code thoroughly.",
 		"note": 4
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["audit", "test", "performance"],
 		"url": "https://gtmetrix.com/",
 		"ref": "",
-		"description": "Optimisation de la vitesse et des performances du site Web",
+		"description": "Optimizing website speed and performance.",
 		"note": 4
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["audit", "test", "performance", "debug", "google"],
 		"url": "https://pagespeed.web.dev",
 		"ref": "",
-		"description": "PageSpeed Insights analyse le contenu d'une page Web, puis génère des suggestions pour accélérer le chargement de cette page.",
+		"description": "PageSpeed Insights analyzes the content of a web page, then generates suggestions to speed up the loading of that page.",
 		"note": 5
 	},
 	{
@@ -35,7 +35,7 @@
 		],
 		"url": "https://legacy.reactjs.org/docs/perf.html",
 		"ref": "",
-		"description": "React Perf est un outil de profilage pour les applications React. Il est installé en tant que package npm et peut être utilisé pour profiler des applications React écrites avec des classes ou des fonctions.",
+		"description": "React Perf is a profiling tool for React applications. It is installed as an npm package and can be used to profile React applications written with classes or functions.",
 		"note": 4
 	}
 ]

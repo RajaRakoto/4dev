@@ -67,7 +67,7 @@
 		"keywords": ["react", "frontend", "social", "javascript"],
 		"url": "https://www.npmjs.com/package/react-share",
 		"ref": "",
-		"description": "Boutons de partage sur les réseaux sociaux et nombre de partages pour vos applications React.",
+		"description": "Share buttons for social networks and share count for your React applications.",
 		"note": 5
 	},
 	{
@@ -75,7 +75,7 @@
 		"keywords": ["react", "frontend", "collection", "hooks", "javascript"],
 		"url": "https://github.com/antonioru/beautiful-react-hooks",
 		"ref": "",
-		"description": "Une collection de hooks React utiles pour vos projets",
+		"description": "A collection of useful React hooks for your projects",
 		"note": 5
 	}
 ]

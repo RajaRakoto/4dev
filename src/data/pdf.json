@@ -4,7 +4,7 @@
 		"keywords": ["pdf", "tools"],
 		"url": "https://www.ilovepdf.com/fr",
 		"ref": "",
-		"description": "Divers outils pour vos fichiers PDF",
+		"description": "Various tools for your PDF files",
 		"note": 4
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["pdf", "converter"],
 		"url": "https://www.web2pdfconvert.com/",
 		"ref": "",
-		"description": "Convertir une page web en PDF",
+		"description": "Convert web pages to PDF",
 		"note": 4
 	}
 ]

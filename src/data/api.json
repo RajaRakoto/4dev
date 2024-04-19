@@ -4,7 +4,7 @@
 		"keywords": ["api"],
 		"url": "https://rapidapi.com/hub",
 		"ref": "",
-		"description": "Découvrez et connectez-vous à des milliers d'API",
+		"description": "Discover and connect to thousands of APIs.",
 		"note": 4
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["api", "mvola", "mobilemoney", "madagascar"],
 		"url": "https://www.mvola.mg/devportal/services/configs",
 		"ref": "",
-		"description": "API pour intégrer MVOLA dans vos applications",
+		"description": "API to integrate MVOLA into your applications.",
 		"note": 4
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["api"],
 		"url": "https://github.com/public-apis/public-apis",
 		"ref": "",
-		"description": "Une liste d'APIs publiques",
+		"description": "A list of public APIs.",
 		"note": 5
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["api", "steam", "rest"],
 		"url": "http://api.steampowered.com/ISteamApps/GetAppList/v0002/?key=STEAMKEY&format=json",
 		"ref": "",
-		"description": "API pour récupérer la liste des jeux steam",
+		"description": "API to retrieve the list of steam games.",
 		"note": 5
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["api", "rest", "server", "faker", "test"],
 		"url": "https://github.com/typicode/json-server",
 		"ref": "",
-		"description": "Obtenez une fausse API REST complète sans codage en moins de 30 secondes",
+		"description": "Get a complete fake REST API without coding in less than 30 seconds.",
 		"note": 5
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["api", "google", "translate"],
 		"url": "https://github.com/matheuss/google-translate-api",
 		"ref": "",
-		"description": "Une API gratuite et illimitée pour Google Translate",
+		"description": "A free and unlimited API for Google Translate.",
 		"note": 3
 	}
 ]

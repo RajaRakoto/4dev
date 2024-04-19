@@ -4,7 +4,7 @@
 		"keywords": ["template", "html", "css"],
 		"url": "https://html5up.net",
 		"ref": "",
-		"description": "Thèmes HTML5/CSS3 réactifs très modernes et uniques",
+		"description": "Very modern and unique responsive HTML5/CSS3 themes.",
 		"note": 4
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["template", "bootstrap", "collection"],
 		"url": "https://bootswatch.com",
 		"ref": "",
-		"description": "Collection des thèmes Bootstrap gratuit",
+		"description": "Collection of free Bootstrap themes.",
 		"note": 4
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["template", "component", "figma", "sketch", "photoshop"],
 		"url": "https://www.uidesigndaily.com",
 		"ref": "",
-		"description": "Composants d'interface utilisateur impressionnants de tous types",
+		"description": "Awesome UI components of all kinds.",
 		"note": 4
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["template", "collection", "idea"],
 		"url": "https://collectui.com/designs",
 		"ref": "",
-		"description": "Inspiration quotidienne collectée à partir des archives quotidiennes de l'interface utilisateur et au-delà. Triés sur le volet et mis à jour quotidiennement.",
+		"description": "Daily inspiration collected from daily UI archives and beyond. Handpicked and updated daily.",
 		"note": 5
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["template", "top", "idea"],
 		"url": "https://www.awwwards.com/",
 		"ref": "",
-		"description": "Un site Web qui évalue et collecte les meilleurs sites Web du monde en matière d'interface utilisateur",
+		"description": "A website that evaluates and collects the best websites in the world in terms of UI.",
 		"note": 4
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["template", "idea"],
 		"url": "https://www.lapa.ninja/",
 		"ref": "",
-		"description": "Meilleure inspiration de page de destination",
+		"description": "Best landing page inspiration.",
 		"note": 4
 	},
 	{
@@ -52,7 +52,7 @@
 		"keywords": ["template", "collection", "button", "idea", "css"],
 		"url": "https://getcssscan.com/css-buttons-examples",
 		"ref": "",
-		"description": "84 beaux exemples de boutons CSS.",
+		"description": "84 beautiful examples of CSS buttons.",
 		"note": 4
 	},
 	{
@@ -60,7 +60,7 @@
 		"keywords": ["template", "effect", "shaddow", "idea", "css"],
 		"url": "https://getcssscan.com/css-box-shadow-examples",
 		"ref": "",
-		"description": "91 Beaux exemples de boîte-ombre CSS.",
+		"description": "91 Beautiful examples of CSS box-shadow.",
 		"note": 4
 	}
 ]

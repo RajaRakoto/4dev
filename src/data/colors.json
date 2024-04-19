@@ -4,7 +4,7 @@
 		"keywords": ["colors", "idea"],
 		"url": "https://colorhunt.co/palettes/popular",
 		"ref": "",
-		"description": "Une plate-forme opensource pour l'inspiration des chartes graphiques avec des milliers de palettes de couleurs tendance triées sur le volet",
+		"description": "An open-source platform for color scheme inspiration with thousands of curated trendy color palettes.",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["colors", "map", "generator"],
 		"url": "https://colorbrewer2.org/#",
 		"ref": "",
-		"description": "Le générateur de palette de couleurs d'origine, prenant également en charge le daltonisme. Probablement la meilleure option scientifiquement",
+		"description": "The original color palette generator, also supporting colorblindness. Arguably the best scientifically.",
 		"note": 4
 	},
 	{
@@ -20,15 +20,15 @@
 		"keywords": ["colors", "curve", "generator"],
 		"url": "https://colorcurves.app",
 		"ref": "",
-		"description": "Générateur de palette de couleurs qui utilise des courbes pour générer des palettes de couleurs",
+		"description": "Color palette generator that uses curves to generate color schemes.",
 		"note": 3
 	},
 	{
 		"name": "duo",
-		"keywords": ["colors", "combinaison", "idea"],
+		"keywords": ["colors", "combination", "idea"],
 		"url": "https://duo.alexpate.uk",
 		"ref": "",
-		"description": "Duo est une collection de combinaisons de couleurs que j'ai sélectionnées à partir de projets personnels ou que j'ai rencontrées sur le Web",
+		"description": "Duo is a collection of color combinations I've curated from personal projects or found across the web.",
 		"note": 4
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["colors", "gradient", "generator"],
 		"url": "https://uigradients.com",
 		"ref": "",
-		"description": "Générateur de couleurs dégradés d'interface utilisateur",
+		"description": "User interface gradients color generator.",
 		"note": 4
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["colors", "palette", "generator"],
 		"url": "https://coolors.co",
 		"ref": "",
-		"description": "Générateur de palette de couleurs avec des fonctionnalités de personnalisation avancées",
+		"description": "Color palette generator with advanced customization features.",
 		"note": 4
 	}
 ]

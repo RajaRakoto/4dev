@@ -4,7 +4,7 @@
 		"keywords": ["download", "apk", "android"],
 		"url": "https://apps.evozi.com/apk-downloader/",
 		"ref": "",
-		"description": "Un site qui permet de télécharger directement des APK dans Playstore",
+		"description": "A website that allows you to download APKs directly from the Play Store.",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["download", "apk", "android"],
 		"url": "https://apkpure.com/",
 		"ref": "",
-		"description": "Un site qui permet de télécharger des APK",
+		"description": "A website that allows you to download APKs.",
 		"note": 5
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["download", "apk", "android"],
 		"url": "https://uptodown.com",
 		"ref": "",
-		"description": "Un site qui permet de télécharger des APK",
+		"description": "A website that allows you to download APKs.",
 		"note": 5
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["download", "apk", "android", "mod"],
 		"url": "https://modyolo.com",
 		"ref": "",
-		"description": "Un site qui permet de télécharger des APK modifiés",
+		"description": "A website that allows you to download modified APKs.",
 		"note": 5
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["download", "youtube", "video", "audio", "mp4", "mp3"],
 		"url": "https://www.y2mate.com/en19",
 		"ref": "",
-		"description": "Un site qui permet de télécharger des vidéos et des audios de Youtube",
+		"description": "A website that allows you to download videos and audios from YouTube.",
 		"note": 5
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["download", "youtube", "video", "audio", "mp4", "mp3"],
 		"url": "https://x2download.com/fr29",
 		"ref": "",
-		"description": "Un site qui permet de télécharger des vidéos et des audios de Youtube",
+		"description": "A website that allows you to download videos and audios from YouTube.",
 		"note": 5
 	},
 	{
@@ -60,7 +60,7 @@
 		],
 		"url": "https://playlist.downloader.is/",
 		"ref": "",
-		"description": "Un site qui permet de télécharger des playlists de Youtube",
+		"description": "A website that allows you to download YouTube playlists.",
 		"note": 4
 	},
 	{
@@ -68,7 +68,7 @@
 		"keywords": ["download", "software", "windows"],
 		"url": "https://filehippo.com/",
 		"ref": "",
-		"description": "Un site qui permet de télécharger des logiciels pour Windows",
+		"description": "A website that allows you to download software for Windows.",
 		"note": 4
 	},
 	{
@@ -76,7 +76,7 @@
 		"keywords": ["download", "software", "windows"],
 		"url": "https://getintopc.com/",
 		"ref": "",
-		"description": "Un site qui permet de télécharger des logiciels pour Windows",
+		"description": "A website that allows you to download software for Windows.",
 		"note": 5
 	},
 	{
@@ -92,7 +92,7 @@
 		],
 		"url": "https://www.commentcamarche.net/download/",
 		"ref": "",
-		"description": "Un site qui permet de télécharger des logiciels pour Windows, Mac, Linux, Android et iOS",
+		"description": "A website that allows you to download software for Windows, Mac, Linux, Android, and iOS.",
 		"note": 5
 	},
 	{
@@ -100,7 +100,7 @@
 		"keywords": ["download", "facebook", "video"],
 		"url": "https://fdown.net/index.php",
 		"ref": "",
-		"description": "Un site qui permet de télécharger des vidéos de Facebook",
+		"description": "A website that allows you to download videos from Facebook.",
 		"note": 5
 	}
 ]

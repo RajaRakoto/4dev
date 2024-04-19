@@ -4,7 +4,7 @@
 		"keywords": ["blog", "gnu", "linux", "opensource"],
 		"url": "https://itsfoss.com/",
 		"ref": "",
-		"description": "Ceci n'a pas vraiment rien avoir avec le dev web mais pourrai vous servir, avec It's FOSS, vous apprendrez les dernières nouvelles du monde open source. Vous apprendrez également à utiliser efficacement Linux grâce à des didacticiels de premier ordre et à des experts ...",
+		"description": "This doesn't really have anything to do with web dev but could serve you, with It's FOSS, you'll learn the latest news from the open-source world. You'll also learn how to effectively use Linux through top-notch tutorials and experts ...",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["blog", "techno"],
 		"url": "https://korben.info/",
 		"ref": "",
-		"description": "Le meilleur site tech (fr) de l'univers visible et invisible, #logiciel #crypto #cybersécurité #linux #astuces ...",
+		"description": "The best tech site (fr) in the visible and invisible universe, #software #crypto #cybersecurity #linux #tips ...",
 		"note": 4
 	}
 ]

@@ -4,7 +4,7 @@
 		"keywords": ["backend", "runtime", "javascript"],
 		"url": "https://nodejs.org/",
 		"ref": "",
-		"description": "Node.js est un environnement d'exécution JavaScript côté serveur, basé sur le moteur JavaScript V8 de Chrome. Il utilise un modèle d'E/S asynchrone et événementiel, ce qui le rend léger et efficace. Node.js est utilisé pour créer des applications web et des API côté serveur en JavaScript.",
+		"description": "Node.js is a server-side JavaScript runtime environment, based on Chrome's V8 JavaScript engine. It uses an asynchronous, event-driven I/O model, making it lightweight and efficient. Node.js is used for building web applications and server-side APIs in JavaScript.",
 		"note": 4
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["backend", "runtime", "javascript"],
 		"url": "https://deno.land/",
 		"ref": "",
-		"description": "Deno est un environnement d'exécution JavaScript côté serveur, créé par Ryan Dahl, le créateur de Node.js. Deno est construit sur les meilleures idées de Node.js, mais en corrigeant ses erreurs et en améliorant ses fonctionnalités. Deno est sécurisé par défaut, ne nécessite pas de gestionnaire de paquets tiers et est livré avec un ensemble de fonctionnalités intégrées.",
+		"description": "Deno is a server-side JavaScript runtime environment created by Ryan Dahl, the creator of Node.js. Deno is built on the best ideas of Node.js but fixes its mistakes and improves its features. Deno is secure by default, requires no third-party package manager, and comes with a built-in set of features.",
 		"note": 5
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["backend", "runtime", "javascript"],
 		"url": "https://bun.sh/",
 		"ref": "",
-		"description": "Bun est un runtime JavaScript, un gestionnaire de packages, un exécuteur de tests et un bundler construit à partir de zéro à l'aide du langage de programmation Zig. Il a été conçu par Jarred Sumner pour remplacer Node.js. Bun est rapide, sécurisé et facile à utiliser.",
+		"description": "Bun is a JavaScript runtime, package manager, test runner, and bundler built from scratch using the Zig programming language. It was designed by Jarred Sumner to replace Node.js. Bun is fast, secure, and easy to use.",
 		"note": 5
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["backend", "runtime", "javascript"],
 		"url": "https://github.com/awslabs/llrt",
 		"ref": "",
-		"description": "LLRT (Low Latency Runtime) est un runtime JavaScript expérimental et léger conçu pour répondre à la demande croissante d'applications sans serveur rapides et efficaces.",
+		"description": "LLRT (Low Latency Runtime) is an experimental lightweight JavaScript runtime designed to meet the growing demand for fast and efficient serverless applications.",
 		"note": 4
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["backend", "framework", "javascript"],
 		"url": "https://expressjs.com/",
 		"ref": "",
-		"description": "Express.js est un framework minimaliste et flexible pour Node.js, permettant de créer des applications web et des API de manière rapide et efficace en fournissant des fonctionnalités de routage simples, des gestionnaires de requêtes et de réponses, ainsi que des modules middleware extensibles, offrant ainsi aux développeurs un contrôle total sur la configuration et le comportement de leurs serveurs HTTP, tout en favorisant une approche légère et non intrusive pour le développement côté serveur.",
+		"description": "Express.js is a minimalist and flexible framework for Node.js, allowing for fast and efficient creation of web applications and APIs by providing simple routing, request, and response handlers, as well as extensible middleware modules, giving developers complete control over server configuration and behavior, while promoting a lightweight and unobtrusive approach to server-side development.",
 		"note": 5
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["backend", "framework", "angular", "javascript"],
 		"url": "https://nestjs.com/",
 		"ref": "",
-		"description": "Nest.js est un framework Node.js progressif et extensible, inspiré de Angular, qui permet de construire des applications backend efficaces et modulaires en utilisant TypeScript, offrant une architecture basée sur les modules, une injection de dépendances robuste, et une intégration transparente avec des bibliothèques tierces, favorisant ainsi une écriture de code propre et maintenable pour les développeurs.",
+		"description": "Nest.js is a progressive and extensible Node.js framework, inspired by Angular, that allows for building efficient and modular backend applications using TypeScript, offering a module-based architecture, robust dependency injection, and seamless integration with third-party libraries, thus promoting clean and maintainable code writing for developers.",
 		"note": 5
 	},
 	{
@@ -52,7 +52,7 @@
 		"keywords": ["backend", "framework", "php"],
 		"url": "https://symfony.com/",
 		"ref": "",
-		"description": "Symfony est un framework PHP robuste et hautement modulaire, qui favorise le développement rapide et la maintenabilité des applications web complexes grâce à son architecture flexible basée sur des composants réutilisables, une gestion avancée des dépendances via Composer, des fonctionnalités étendues telles que la gestion des sessions, l'authentification, et la validation des données, ainsi qu'une communauté active et un écosystème de bundles permettant d'étendre facilement ses fonctionnalités de base.",
+		"description": "Symfony is a robust and highly modular PHP framework, promoting rapid development and maintainability of complex web applications through its flexible component-based architecture, advanced dependency management via Composer, extensive features such as session management, authentication, and data validation, as well as an active community and bundle ecosystem allowing for easy extension of its core functionalities.",
 		"note": 5
 	},
 	{
@@ -60,7 +60,7 @@
 		"keywords": ["backend", "framework", "php"],
 		"url": "https://laravel.com/",
 		"ref": "",
-		"description": "Laravel est un framework PHP élégant et expressif, reconnu pour sa simplicité et sa puissance, offrant une syntaxe propre et intuitive ainsi qu'une multitude de fonctionnalités prêtes à l'emploi telles que l'ORM Eloquent, la gestion des migrations de base de données, le routage fluide, la gestion des sessions, et la sécurité avancée, ce qui en fait un choix populaire pour le développement rapide d'applications web modernes et évolutives.",
+		"description": "Laravel is an elegant and expressive PHP framework, known for its simplicity and power, offering clean and intuitive syntax as well as a plethora of out-of-the-box features such as the Eloquent ORM, database migrations management, smooth routing, session management, and advanced security, making it a popular choice for rapid development of modern and scalable web applications.",
 		"note": 5
 	},
 	{
@@ -77,7 +77,7 @@
 		],
 		"url": "https://pocketbase.io/",
 		"ref": "",
-		"description": "PocketBase est un outil open source visant à rationaliser le processus de développement en offrant des fonctionnalités essentielles de back-end dans un seul fichier exécutable. Son approche conviviale permet aux développeurs de mettre en œuvre une fonctionnalité dorsale robuste avec un minimum d'installation. Utilisez-le comme application autonome OU comme framework, que vous pouvez étendre via des hooks Go et JavaScript pour créer votre propre backend portable personnalisé.",
+		"description": "PocketBase is an open-source tool aimed at streamlining the development process by providing essential backend features in a single executable file. Its user-friendly approach allows developers to implement a robust backend functionality with minimal setup. Use it as a standalone application OR as a framework, which you can extend via Go and JavaScript hooks to create your own portable custom backend.",
 		"note": 5
 	},
 	{
@@ -85,7 +85,7 @@
 		"keywords": ["backend", "baas", "database", "opensource", "javascript"],
 		"url": "https://supabase.com/",
 		"ref": "",
-		"description": "Supabase est une alternative open source à Firebase, offrant une base de données PostgreSQL en temps réel et une API RESTful, ainsi que des fonctionnalités de gestion des utilisateurs, d'authentification, de stockage de fichiers, et de déclencheurs de base de données, le tout hébergé sur votre propre infrastructure, ce qui en fait une solution idéale pour les applications web modernes nécessitant une base de données performante et évolutive.",
+		"description": "Supabase is an open-source alternative to Firebase, offering a real-time PostgreSQL database and RESTful API, along with user management, authentication, file storage, and database triggers features, all hosted on your own infrastructure, making it an ideal solution for modern web applications requiring a performant and scalable database.",
 		"note": 5
 	},
 	{
@@ -93,7 +93,7 @@
 		"keywords": ["backend", "baas", "database", "google", "javascript"],
 		"url": "https://firebase.google.com/",
 		"ref": "",
-		"description": "Firebase, Inc. est un ensemble de services de cloud computing back-end et de plateformes de développement d'applications fournis par Google. Il héberge des bases de données, des services, l'authentification et l'intégration pour une variété d'applications, notamment Android, iOS, JavaScript, Node.",
+		"description": "Firebase, Inc. is a set of cloud computing backend services and application development platforms provided by Google. It hosts databases, services, authentication, and integration for a variety of applications, including Android, iOS, JavaScript, Node.",
 		"note": 5
 	}
 ]

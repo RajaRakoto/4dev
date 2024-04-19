@@ -4,15 +4,15 @@
 		"keywords": ["security", "hash", "password", "javascript"],
 		"url": "https://www.npmjs.com/package/bcrypt",
 		"ref": "",
-		"description": "bcrypt est un algorithme de hachage de mot de passe.",
+		"description": "bcrypt is a password hashing algorithm.",
 		"note": 5
 	},
 	{
 		"name": "passport",
-		"keywords": ["security", "authentification", "node", "javascript"],
+		"keywords": ["security", "authentication", "node", "javascript"],
 		"url": "https://www.npmjs.com/package/passport",
 		"ref": "",
-		"description": "Passport est un middleware d'authentification pour Node.js. Il est extrêmement flexible et modulaire et peut être facilement intégré à n'importe quelle application Web basée sur Express.",
+		"description": "Passport is an authentication middleware for Node.js. It is extremely flexible and modular and can be easily integrated into any Express-based web application.",
 		"note": 5
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["security", "url", "scan"],
 		"url": "https://www.urlvoid.com/",
 		"ref": "",
-		"description": "URLVoid est un service en ligne qui permet aux utilisateurs de scanner un site Web pour détecter les logiciels malveillants et les activités de phishing.",
+		"description": "URLVoid is an online service that allows users to scan a website to detect malware and phishing activities.",
 		"note": 5
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["security", "password", "validator", "test"],
 		"url": "https://github.com/nowsecure/owasp-password-strength-test",
 		"ref": "",
-		"description": "OWASP Password Strength Test est un outil qui permet de tester la force des mots de passe en fonction des critères de l'OWASP.",
+		"description": "OWASP Password Strength Test is a tool that tests password strength based on OWASP criteria.",
 		"note": 5
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["security", "filter", "validator", "test"],
 		"url": "https://www.npmjs.com/package/bad-words",
 		"ref": "",
-		"description": "Bad Words est un filtre de mots qui permet de filtrer les mots offensants.",
+		"description": "Bad Words is a word filter that allows filtering offensive words.",
 		"note": 4
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["security", "filter", "collection", "validator", "test"],
 		"url": "https://www.npmjs.com/package/french-badwords-list",
 		"ref": "",
-		"description": "Liste de mots interdits en français.",
+		"description": "List of forbidden words in French.",
 		"note": 4
 	}
 ]

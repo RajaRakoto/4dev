@@ -28,7 +28,7 @@
 		"keywords": ["generator", "regex", "regular", "expression"],
 		"url": "https://regex-generator.olafneumann.org/",
 		"ref": "",
-		"description": "Generateur de regex",
+		"description": "Regex generator",
 		"note": 5
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["generator", "badge"],
 		"url": "https://shields.io/",
 		"ref": "",
-		"description": "Créez des badges avec votre propre personnalisation.",
+		"description": "Create badges with your own customization.",
 		"note": 4
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["generator", "snippet", "vscode", "sublimetext", "atom"],
 		"url": "https://snippet-generator.app/",
 		"ref": "",
-		"description": "Un generateur de snippet pour VScode, sublimetext et atom.",
+		"description": "A snippet generator for VScode, sublimetext and atom.",
 		"note": 4
 	},
 	{
@@ -52,7 +52,7 @@
 		"keywords": ["generator", "privacy", "policy"],
 		"url": "https://app.termsfeed.com/wizard/privacy-policy",
 		"ref": "",
-		"description": "Generateur de politique de confidentialité",
+		"description": "Privacy policy generator",
 		"note": 4
 	},
 	{
@@ -60,7 +60,7 @@
 		"keywords": ["generator", "extension", "vscode", "javascript"],
 		"url": "https://yeoman.io/",
 		"ref": "",
-		"description": "Le générateur Yeoman vous guidera à travers les étapes nécessaires pour créer votre personnalisation ou votre extension en vous demandant les informations requises.",
+		"description": "Yeoman generator will guide you through the necessary steps to create your customization or extension by asking you for the required information.",
 		"note": 4
 	},
 	{
@@ -68,7 +68,7 @@
 		"keywords": ["generator", "id", "identifier", "unique", "javascript"],
 		"url": "https://www.npmjs.com/package/uuid",
 		"ref": "",
-		"description": "Générateur d'identifiant unique universel (UUID)",
+		"description": " Universal Unique Identifier (UUID) generator",
 		"note": 5
 	},
 	{
@@ -87,7 +87,7 @@
 		],
 		"url": "https://dev.to/icflorescu/pocketbaseuml-2ci5",
 		"ref": "",
-		"description": "PocketBaseUML est un générateur de diagrammes UML gratuit et open source pour PocketBase.",
+		"description": "PocketBaseUML is a free and open-source UML diagram generator for PocketBase.",
 		"note": 5
 	},
 	{
@@ -103,7 +103,7 @@
 		],
 		"url": "https://fffuel.co/",
 		"ref": "",
-		"description": "fffuel est une collection d'outils de couleur et de générateurs SVG gratuits pour les dégradés, les motifs, les textures, les formes et les arrière-plans.",
+		"description": "fffuel is a collection of free color tools and SVG generators for gradients, patterns, textures, shapes, and backgrounds.",
 		"note": 5
 	},
 	{
@@ -111,7 +111,7 @@
 		"keywords": ["generator", "border", "radius", "css"],
 		"url": "https://9elements.github.io/fancy-border-radius/full-control.html",
 		"ref": "",
-		"description": "Un générateur de bordure CSS pour les coins arrondis.",
+		"description": "A CSS border generator for rounded corners.",
 		"note": 5
 	},
 	{
@@ -119,7 +119,7 @@
 		"keywords": ["generator", "effect", "shadow"],
 		"url": "https://shadows.brumm.af/",
 		"ref": "",
-		"description": "Faire une ombre douce",
+		"description": "Create a soft shadow.",
 		"note": 5
 	},
 	{
@@ -127,7 +127,7 @@
 		"keywords": ["generator", "id", "identifier", "unique", "javascript"],
 		"url": "https://www.npmjs.com/package/nanoid",
 		"ref": "",
-		"description": "Générateur d'identifiant unique",
+		"description": "Unique identifier generator.",
 		"note": 5
 	},
 	{
@@ -135,7 +135,7 @@
 		"keywords": ["generator", "pc", "build", "idea"],
 		"url": "https://pcpartpicker.com/list/",
 		"ref": "",
-		"description": "Créez votre propre PC en fonction de vos besoins et de votre budget.",
+		"description": "Build your own PC based on your needs and budget.",
 		"note": 4
 	},
 	{
@@ -143,7 +143,7 @@
 		"keywords": ["generator", "meme"],
 		"url": "https://imgflip.com/memegenerator",
 		"ref": "",
-		"description": "Créez des memes en ligne",
+		"description": "Create memes online.",
 		"note": 4
 	},
 	{
@@ -151,7 +151,7 @@
 		"keywords": ["generator", "font", "typography", "signature"],
 		"url": "https://fontmeme.com/fr/polices-de-signature/",
 		"ref": "",
-		"description": "Générateur de signature a partir de polices",
+		"description": "Signature generator from fonts.",
 		"note": 4
 	},
 	{
@@ -159,7 +159,7 @@
 		"keywords": ["generator", "documentation", "sass"],
 		"url": "https://github.com/SassDoc/sassdoc",
 		"ref": "",
-		"description": "Générateur de documentation pour un projet utilisant Sass",
+		"description": "Documentation generator for a project using Sass.",
 		"note": 5
 	},
 	{
@@ -167,7 +167,7 @@
 		"keywords": ["generator", "persona", "user"],
 		"url": "https://www.hubspot.fr/make-my-persona",
 		"ref": "",
-		"description": "Générateur de persona",
+		"description": "Persona generator.",
 		"note": 4
 	},
 	{
@@ -175,7 +175,7 @@
 		"keywords": ["generator", "flutter", "component", "ui", "ux", "dart"],
 		"url": "https://flutterflow.io/",
 		"ref": "",
-		"description": "Générateur de composants Flutter",
+		"description": "Flutter component generator.",
 		"note": 5
 	},
 	{
@@ -195,7 +195,7 @@
 		],
 		"url": "https://www.animaapp.com/",
 		"ref": "",
-		"description": "Créez des prototypes réactifs, exportez du HTML et du CSS, React ou Vue, ou publiez des sites Web en direct à partir de votre conception. Utilisez Anima pour Figma gratuitement",
+		"description": "Create responsive prototypes, export HTML and CSS, React or Vue, or publish live websites from your design. Use Anima for Figma for free.",
 		"note": 5
 	},
 	{
@@ -215,7 +215,7 @@
 		],
 		"url": "https://fn12.com/",
 		"ref": "",
-		"description": "Obtenez le code, copiez et collez simplement qui convertit automatiquement les conceptions Figma en code frontend",
+		"description": "Get the code, simply copy and paste that automatically converts Figma designs into frontend code.",
 		"note": 5
 	}
 ]

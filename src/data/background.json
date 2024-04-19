@@ -4,7 +4,7 @@
 		"keywords": ["background", "generator"],
 		"url": "https://pocoloco.io/",
 		"ref": "",
-		"description": "Générer des arrière-plans dynamiques pour votre site web",
+		"description": "Generate dynamic backgrounds for your website.",
 		"note": 4
 	},
 	{
@@ -12,15 +12,15 @@
 		"keywords": ["background", "wave", "svg", "generator"],
 		"url": "https://getwaves.io/",
 		"ref": "",
-		"description": "Un générateur d'ondes SVG gratuit pour créer des ondes SVG uniques pour la conception Web",
+		"description": "A free SVG wave generator to create unique SVG waves for web design.",
 		"note": 4
 	},
 	{
 		"name": "clippy",
-		"keywords": ["background", "polygone", "geometric", "css"],
+		"keywords": ["background", "polygon", "geometric", "css"],
 		"url": "https://bennettfeely.com/clippy/",
 		"ref": "",
-		"description": "Editer une image sous forme de polygone en CSS",
+		"description": "Edit an image as a polygon in CSS.",
 		"note": 4
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["background", "gradient", "fluent", "css", "generator"],
 		"url": "https://cssgradient.io/",
 		"ref": "",
-		"description": "Un générateur de couleur degredE elegant pour des arrière-plans",
+		"description": "An elegant gradient color generator for backgrounds.",
 		"note": 4
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["background", "geometric", "svg"],
 		"url": "http://www.heropatterns.com",
 		"ref": "",
-		"description": "Une collection de motifs d'arrière-plan SVG reproductibles",
+		"description": "A collection of reproducible SVG background patterns.",
 		"note": 4
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["background", "animation", "generator", "javascript"],
 		"url": "https://github.com/gVguy/nice-waves#nice-waves",
 		"ref": "",
-		"description": "Belles vagues animées.",
+		"description": "Beautiful animated waves.",
 		"note": 3
 	},
 	{
@@ -52,7 +52,7 @@
 		"keywords": ["background", "animation", "generator", "javascript"],
 		"url": "https://particles.js.org/",
 		"ref": "",
-		"description": "Une bibliothèque légère pour créer des particules",
+		"description": "A lightweight library to create particles.",
 		"note": 4
 	},
 	{
@@ -60,7 +60,7 @@
 		"keywords": ["background", "animation", "generator", "react", "javascript"],
 		"url": "https://www.npmjs.com/package/react-tsparticles",
 		"ref": "",
-		"description": "Une bibliothèque de particules pour React",
+		"description": "A particle library for React.",
 		"note": 4
 	},
 	{
@@ -68,7 +68,7 @@
 		"keywords": ["background", "animation", "generator", "javascript"],
 		"url": "https://www.vantajs.com/",
 		"ref": "",
-		"description": "Arrière-plans de sites Web animés en quelques lignes de code.",
+		"description": "Animated website backgrounds in just a few lines of code.",
 		"note": 5
 	}
 ]

@@ -4,7 +4,7 @@
 		"keywords": ["cli", "prompt", "collection", "javascript"],
 		"url": "https://www.npmjs.com/package/inquirer",
 		"ref": "",
-		"description": "Une collection de prompts pour les interfaces en ligne de commande.",
+		"description": "A collection of prompts for command-line interfaces.",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["cli", "ascii", "art", "text", "javascript"],
 		"url": "https://www.npmjs.com/package/figlet",
 		"ref": "",
-		"description": "Créez des textes ASCII à partir de chaînes de caractères",
+		"description": "Create ASCII art from text strings.",
 		"note": 5
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["cli", "spinner", "loader", "node", "javascript"],
 		"url": "https://www.npmjs.com/package/ora",
 		"ref": "",
-		"description": "Un spinner élégant pour les interfaces en ligne de commande",
+		"description": "An elegant spinner for command-line interfaces.",
 		"note": 5
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["cli", "color", "text", "node", "javascript"],
 		"url": "https://www.npmjs.com/package/chalk",
 		"ref": "",
-		"description": "Ajoutez des couleurs à vos textes dans la console",
+		"description": "Add colors to your text in the console.",
 		"note": 5
 	},
 	{
@@ -48,7 +48,7 @@
 		],
 		"url": "https://github.com/tom-doerr/zsh_codex",
 		"ref": "",
-		"description": "Il s'agit d'un plugin ZSH qui vous permet d'utiliser le Codex AI d'OpenAI dans la ligne de commande.",
+		"description": "This is a ZSH plugin that allows you to use the OpenAI Codex AI in the command line.",
 		"note": 4
 	},
 	{
@@ -68,7 +68,7 @@
 		],
 		"url": "https://github.com/m1guelpf/plz-cli",
 		"ref": "",
-		"description": "Copilot for your terminal",
+		"description": "Copilot for your terminal.",
 		"note": 4
 	}
 ]

@@ -4,7 +4,7 @@
 		"keywords": ["hosting", "frontend", "backend"],
 		"url": "https://render.com/",
 		"ref": "",
-		"description": "Render est un cloud unifié pour créer et exécuter toutes vos applications et sites Web avec des certificats TLS gratuits, un CDN mondial, des réseaux privés et des déploiements automatiques à partir de Git.",
+		"description": "Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, private networks, and automatic deployments from Git.",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["hosting", "backend"],
 		"url": "https://www.heroku.com/",
 		"ref": "",
-		"description": "Heroku est une entreprise créant des logiciels pour serveur qui permettent le déploiement d'applications web.",
+		"description": "Heroku is a company that creates server software enabling deployment of web applications.",
 		"note": 4
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["hosting", "frontend"],
 		"url": "https://www.netlify.com/",
 		"ref": "",
-		"description": "Netlify est à la fois un outil d'hébergement et de création de sites et d'applications web.",
+		"description": "Netlify is both a hosting tool and a platform for building websites and web applications.",
 		"note": 5
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["hosting", "tunneling", "proxy"],
 		"url": "https://dashboard.ngrok.com/",
 		"ref": "",
-		"description": "ngrok est un proxy inverse distribué dans le monde entier faisant face à vos services Web s'exécutant dans n'importe quel cloud ou réseau privé, ou sur votre machine.",
+		"description": "ngrok is a globally distributed reverse proxy facing your web services running in any cloud or private network, or on your machine.",
 		"note": 5
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["hosting", "backend", "python", "django"],
 		"url": "https://www.pythonanywhere.com/",
 		"ref": "",
-		"description": "PythonAnywhere est un service d'hébergement de sites Web qui permet aux utilisateurs d'exécuter des applications Web écrites en langage de programmation Python sur des serveurs distants.",
+		"description": "PythonAnywhere is a web hosting service that allows users to run web applications written in the Python programming language on remote servers.",
 		"note": 4
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["hosting", "frontend"],
 		"url": "https://vercel.com/",
 		"ref": "",
-		"description": "Vercel est une plateforme de déploiement cloud qui permet aux développeurs de déployer des applications frontales et des fonctions côté serveur sans configuration.",
+		"description": "Vercel is a cloud deployment platform that enables developers to deploy front-end applications and serverless functions with zero configuration.",
 		"note": 5
 	},
 	{
@@ -52,7 +52,7 @@
 		"keywords": ["hosting", "frontend", "backend"],
 		"url": "https://www.o2switch.fr/",
 		"ref": "",
-		"description": "o2switch est un hébergeur web français.",
+		"description": "o2switch is a French web host.",
 		"note": 4
 	},
 	{
@@ -60,7 +60,7 @@
 		"keywords": ["hosting", "sercurity", "dns"],
 		"url": "https://www.cloudflare.com/",
 		"ref": "",
-		"description": "Cloudflare est une entreprise américaine qui propose des services de réseau de diffusion de contenu, de pare-feu applicatif, de serveur proxy inverse et de DNS distribué.",
+		"description": "Cloudflare is an American company providing content delivery network services, DDoS mitigation, internet security, and distributed domain name server services.",
 		"note": 5
 	}
 ]

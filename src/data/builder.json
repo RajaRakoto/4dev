@@ -4,7 +4,7 @@
 		"keywords": ["builder", "bundle", "javascript"],
 		"url": "https://vitejs.dev/",
 		"ref": "",
-		"description": "Vite est un outil de développement rapide pour les applications web modernes, conçu pour offrir une expérience de développement fluide et efficace en utilisant la compilation à la volée (on-demand compilation) et le serveur de développement intégré, permettant ainsi de réduire les temps de compilation et de rechargement, tout en offrant une prise en charge native des modules ES6, des plugins et des outils de construction, facilitant ainsi la création d'applications web performantes et évolutives.",
+		"description": "Vite is a fast development tool for modern web applications, designed to provide a smooth and efficient development experience using on-demand compilation and integrated development server, thereby reducing compilation and reload times, while offering native support for ES6 modules, plugins, and build tools, making it easy to create high-performance and scalable web applications.",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["builder", "bundle", "electron", "javascript"],
 		"url": "https://evitejs.dev/",
 		"ref": "",
-		"description": "Outils de construction Electron de nouvelle génération basés sur Vite.js",
+		"description": "Next-generation Electron build tools based on Vite.js",
 		"note": 4
 	},
 	{
@@ -20,15 +20,15 @@
 		"keywords": ["builder", "bundle", "javascript"],
 		"url": "https://webpack.js.org/",
 		"ref": "",
-		"description": "Webpack est un outil de construction (bundling) et de compilation de modules JavaScript, conçu pour simplifier le processus de développement en regroupant et en optimisant les fichiers source de l'application, tout en offrant une gestion avancée des dépendances, des loaders et des plugins, permettant ainsi de créer des bundles optimisés pour le déploiement en production.",
+		"description": "Webpack is a module bundling and compilation tool designed to simplify the development process by bundling and optimizing the application's source files, while offering advanced dependency management, loaders, and plugins, enabling the creation of optimized bundles for deployment in production.",
 		"note": 4
 	},
 	{
 		"name": "turbopack",
-		"keywords": ["builder", "bundle", "javascript"],
+		"keywords": ["builder", "bundle", "javascript", "rust"],
 		"url": "https://turbopack.dev/",
 		"ref": "",
-		"description": "Le successeur de Webpack alimenté par Rust. Turbopack est un bundler incrémentiel optimisé pour JavaScript et TypeScript, écrit en Rust.",
+		"description": "Webpack's successor powered by Rust. Turbopack is an incremental bundler optimized for JavaScript and TypeScript, written in Rust.",
 		"note": 5
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["builder", "bundle", "react", "javascript"],
 		"url": "https://create-react-app.dev/",
 		"ref": "",
-		"description": "Create React App est un outil de création d'applications React prêt à l'emploi, conçu pour simplifier le processus de configuration et de démarrage d'un nouveau projet en fournissant une structure de base, des scripts de démarrage et de construction, ainsi qu'une intégration transparente avec des outils populaires tels que Babel, ESLint et Prettier, permettant ainsi aux développeurs de se concentrer sur la création de fonctionnalités sans se soucier des aspects techniques de la configuration.",
+		"description": "Create React App is a ready-to-use React application creation tool, designed to simplify the process of setting up and starting a new project by providing a basic structure, startup and build scripts, as well as seamless integration with popular tools such as Babel, ESLint, and Prettier, allowing developers to focus on creating features without worrying about the technical aspects of configuration.",
 		"note": 4
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["builder", "bundle", "javascript"],
 		"url": "https://esbuild.github.io/",
 		"ref": "",
-		"description": "esbuild est un outil de construction rapide et efficace pour les applications web modernes, conçu pour offrir des temps de compilation ultra-rapides et une prise en charge native des modules ES6, tout en offrant une intégration transparente avec des outils de construction et des plugins, permettant ainsi de créer des bundles optimisés pour le déploiement en production.",
+		"description": "esbuild is a fast and efficient build tool for modern web applications, designed to provide ultra-fast compilation times and native support for ES6 modules, while offering seamless integration with build tools and plugins, enabling the creation of optimized bundles for deployment in production.",
 		"note": 5
 	}
 ]

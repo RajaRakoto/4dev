@@ -4,7 +4,7 @@
 		"keywords": ["modal", "alert", "javascript"],
 		"url": "https://sweetalert2.github.io/",
 		"ref": "",
-		"description": "Sweetalert2 fabrique des messages popup plus facilement et jolis.",
+		"description": "Sweetalert2 makes popup messages easier and prettier.",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["modal", "alert", "react", "javascript"],
 		"url": "https://github.com/sweetalert2/sweetalert2-react-content",
 		"ref": "",
-		"description": "Sweetalert2 pour React",
+		"description": "Sweetalert2 for React.",
 		"note": 5
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["modal", "alert", "javascript"],
 		"url": "https://notiflix.github.io",
 		"ref": "",
-		"description": "Bibliothèque JS pour les notifications non bloquantes côté client, les boîtes contextuelles (alert), les indicateurs de chargement (loader), et plus, rend vos projets Web beaucoup mieux",
+		"description": "JS library for non-blocking client-side notifications, pop-up boxes (alert), loading indicators (loader), and more, makes your web projects much better.",
 		"note": 4
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["modal", "alert", "javascript"],
 		"url": "https://github.com/chenjiahan/rodal",
 		"ref": "",
-		"description": "Bibliothèque pour creer un modal minimalist",
+		"description": "Library to create a minimalist modal.",
 		"note": 4
 	}
 ]

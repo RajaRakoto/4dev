@@ -4,7 +4,7 @@
 		"keywords": ["chrome", "extension", "scan", "analyse"],
 		"url": "https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg/related",
 		"ref": "",
-		"description": "Wappalyzer est un profileur technologique qui vous montre avec quoi les sites Web sont construits.",
+		"description": "Wappalyzer is a technological profiler that shows you what websites are built with.",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["chrome", "extension", "scan", "analyse"],
 		"url": "https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en",
 		"ref": "",
-		"description": "Découvrez ce qui gère un site Web. Frameworks, outils d'analyse, plugins Wordpress, polices - vous l'appelez.",
+		"description": "Find out what runs a website. Frameworks, analytics tools, WordPress plugins, fonts - you name it.",
 		"note": 3
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["chrome", "extension", "react", "debug"],
 		"url": "https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi",
 		"ref": "",
-		"description": "Réagissez les outils de débogage aux outils de développement Chrome. Il vous permet d'inspecter les hiérarchies des composants React dans les outils de développement Chrome.",
+		"description": "React debugging tools to Chrome's development tools. It allows you to inspect React component hierarchies in Chrome's development tools.",
 		"note": 5
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["chrome", "extension", "angular", "debug"],
 		"url": "https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh",
 		"ref": "",
-		"description": "Angular DevTools vous permet de comprendre la structure de votre application et de prévisualiser l'état de la directive et des instances de composants.",
+		"description": "Angular DevTools allows you to understand your application's structure and preview the state of directive and component instances.",
 		"note": 5
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["chrome", "extension", "vue", "debug"],
 		"url": "https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd",
 		"ref": "",
-		"description": "Comprendre la structure de votre application et de prévisualiser l'état de la directive et des instances de composants Vue.",
+		"description": "Understand your application's structure and preview the state of Vue directive and component instances.",
 		"note": 5
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["chrome", "extension", "responsive", "design", "debug"],
 		"url": "https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en",
 		"ref": "",
-		"description": "Afficher plusieurs écrans une fois, testeur de conception réactive.",
+		"description": "View multiple screens at once, responsive design tester.",
 		"note": 5
 	},
 	{
@@ -52,7 +52,7 @@
 		"keywords": ["chrome", "extension", "layout", "debug"],
 		"url": "https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi",
 		"ref": "",
-		"description": "Insère le CSS Pesticide dans la page actuelle, décrivant chaque élément HTML pour mieux voir le placement sur la page, utile pour créer des mises en page.",
+		"description": "Injects CSS Pesticide into the current page, outlining each HTML element to better see placement on the page, useful for creating layouts.",
 		"note": 3
 	},
 	{
@@ -60,7 +60,7 @@
 		"keywords": ["chrome", "extension", "color", "design"],
 		"url": "https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh",
 		"ref": "",
-		"description": "Un outil indispensable pour les concepteurs et les développeurs frontend pour saisir les couleurs de n'importe quel site Web.",
+		"description": "A must-have tool for frontend designers and developers to grab colors from any website.",
 		"note": 5
 	},
 	{
@@ -68,7 +68,7 @@
 		"keywords": ["chrome", "extension", "image", "download"],
 		"url": "https://chrome.google.com/webstore/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm",
 		"ref": "",
-		"description": "Rechercher et télécharger toutes les images d'une page Web. Avec Imageye, vous pouvez trouver, parcourir et télécharger toutes les images présentes dans une page Web.",
+		"description": "Search and download all images from a web page. With Imageye, you can find, browse, and download all images present on a web page.",
 		"note": 5
 	},
 	{
@@ -76,7 +76,7 @@
 		"keywords": ["chrome", "extension", "form", "generator"],
 		"url": "https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo",
 		"ref": "",
-		"description": "Fake Filler un remplisseur de formulaire qui remplit toutes les entrées d'une page avec des données fausses/factices.",
+		"description": "Fake Filler is a form filler that fills all inputs on a page with fake data.",
 		"note": 4
 	},
 	{
@@ -84,7 +84,7 @@
 		"keywords": ["chrome", "extension", "css", "debug"],
 		"url": "https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce",
 		"ref": "",
-		"description": "Une simple visionneuse de propriétés CSS.",
+		"description": "A simple CSS property viewer.",
 		"note": 3
 	},
 	{
@@ -92,7 +92,7 @@
 		"keywords": ["chrome", "extension", "performance", "audit"],
 		"url": "https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk",
 		"ref": "",
-		"description": " Un outil open source et automatisé pour améliorer les performances, la qualité et l'exactitude de vos applications Web.",
+		"description": "An open-source, automated tool for improving the performance, quality, and correctness of your web apps.",
 		"note": 5
 	},
 	{
@@ -100,7 +100,7 @@
 		"keywords": ["chrome", "extension", "bootstrap", "grid", "generator"],
 		"url": "https://chrome.google.com/webstore/detail/bootstrap-grid-generator/hnhmbddaldgbmknmobkokdjmgchclohp?hl=fr",
 		"ref": "",
-		"description": "Générateur de grille Bootstrap",
+		"description": "Bootstrap grid generator.",
 		"note": 5
 	},
 	{
@@ -108,7 +108,7 @@
 		"keywords": ["chrome", "extension", "privacy", "clean"],
 		"url": "https://chromewebstore.google.com/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod?hl=fr",
 		"ref": "",
-		"description": "Click&Clean est une extension gratuite pour Chrome qui vous aide à protéger votre vie privée en effaçant vos traces de navigation.",
+		"description": "Click&Clean is a free Chrome extension that helps you protect your privacy by erasing your browsing traces.",
 		"note": 5
 	},
 	{
@@ -116,7 +116,7 @@
 		"keywords": ["chrome", "extension", "measure", "pixel"],
 		"url": "https://chromewebstore.google.com/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj",
 		"ref": "",
-		"description": "Dimensions est un outil de mesure qui vous permet de connaître les dimensions de n'importe quel élément sur votre écran.",
+		"description": "Dimensions is a measurement tool that lets you know the dimensions of any element on your screen.",
 		"note": 5
 	},
 	{
@@ -124,7 +124,7 @@
 		"keywords": ["chrome", "extension", "color", "picker"],
 		"url": "https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka",
 		"ref": "",
-		"description": "Eye Dropper est une extension Chrome qui vous permet de choisir une couleur dans n'importe quelle page Web et de la copier dans votre presse-papiers.",
+		"description": "Eye Dropper is a Chrome extension that allows you to pick a color from any web page and copy it to your clipboard.",
 		"note": 5
 	},
 	{
@@ -132,7 +132,7 @@
 		"keywords": ["chrome", "extension", "security", "privacy"],
 		"url": "https://chromewebstore.google.com/detail/franceverif-s%C3%A9curit%C3%A9-en-l/mhkejggchhilmabpicojddgaahkkgoln?hl=fr",
 		"ref": "",
-		"description": "FranceVerif est une extension qui vous permet de vérifier la sécurité des sites Web que vous visitez.",
+		"description": "FranceVerif is an extension that allows you to check the security of the websites you visit.",
 		"note": 5
 	},
 	{
@@ -140,7 +140,7 @@
 		"keywords": ["chrome", "extension", "html", "audit"],
 		"url": "https://chromewebstore.google.com/detail/html-validator/mpbelhhnfhfjnaehkcnnaknldmnocglk",
 		"ref": "",
-		"description": "Valideur HTML",
+		"description": "HTML Validator.",
 		"note": 5
 	},
 	{
@@ -148,7 +148,7 @@
 		"keywords": ["chrome", "extension", "data", "scrap"],
 		"url": "https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah",
 		"ref": "",
-		"description": "Instant Data Scraper est un outil pour extraire des données de pages Web et les enregistrer sous forme de feuilles de calcul.",
+		"description": "Instant Data Scraper is a tool to extract data from web pages and save it as spreadsheets.",
 		"note": 5
 	},
 	{
@@ -156,7 +156,7 @@
 		"keywords": ["chrome", "extension", "redux", "debug"],
 		"url": "https://chromewebstore.google.com/detail/redux-devtools-next/oamphgegmigmlgkdnijmeomjenbmkbdg",
 		"ref": "",
-		"description": "Facilite le débogage de vos applications utilisant Redux.",
+		"description": "Facilitates debugging of your applications using Redux.",
 		"note": 5
 	},
 	{
@@ -164,7 +164,7 @@
 		"keywords": ["chrome", "extension", "adblock", "privacy"],
 		"url": "https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm",
 		"ref": "",
-		"description": "uBlock Origin est une extension de navigateur gratuite et open-source qui se concentre sur la personnalisation de votre expérience de navigation.",
+		"description": "uBlock Origin is a free and open-source browser extension that focuses on customizing your browsing experience.",
 		"note": 5
 	},
 	{
@@ -172,7 +172,7 @@
 		"keywords": ["chrome", "extension", "tools", "web", "debug"],
 		"url": "https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm",
 		"ref": "",
-		"description": "Ajoute un bouton de barre d'outils avec divers outils de développement Web.",
+		"description": "Adds a toolbar button with various web development tools.",
 		"note": 5
 	},
 	{
@@ -180,7 +180,7 @@
 		"keywords": ["chrome", "extension", "dark", "theme"],
 		"url": "https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh",
 		"ref": "",
-		"description": "Dark Reader crée un thème sombre pour chaque site Web.",
+		"description": "Dark Reader creates a dark theme for every website.",
 		"note": 5
 	},
 	{
@@ -188,7 +188,7 @@
 		"keywords": ["chrome", "extension", "screenshot"],
 		"url": "https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl",
 		"ref": "",
-		"description": "Capture d'écran de la page entière en un seul clic.",
+		"description": "Capture full-page screenshots in one click.",
 		"note": 5
 	},
 	{
@@ -196,7 +196,7 @@
 		"keywords": ["chrome", "extension", "read", "text"],
 		"url": "https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp",
 		"ref": "",
-		"description": "Lisez à haute voix le texte que vous sélectionnez.",
+		"description": "Read aloud the text you select.",
 		"note": 5
 	},
 	{
@@ -204,7 +204,7 @@
 		"keywords": ["chrome", "extension", "gpt", "summarize"],
 		"url": "https://chrome.google.com/webstore/detail/readergpt-chatgpt-based-we/ldjgkphjgjgkogkgnjgjgjgjgjgjgjgj",
 		"ref": "",
-		"description": "Résumez n'importe quelle page Web en un clic avec GPT-3.",
+		"description": "Summarize any web page with GPT-3 in one click.",
 		"note": 5
 	}
 ]

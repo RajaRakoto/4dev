@@ -4,7 +4,7 @@
 		"keywords": ["logo", "maker"],
 		"url": "https://logomakr.com/app",
 		"ref": "",
-		"description": "Application web de creation d'un logo",
+		"description": "Web application for creating a logo.",
 		"note": 4
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["logo", "search", "collection", "svg"],
 		"url": "https://svgporn.com/#search=web",
 		"ref": "",
-		"description": "Plus de 1000 logos SVG de haute qualité",
+		"description": "Over 1000 high-quality SVG logos.",
 		"note": 4
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["logo", "search", "collection", "svg"],
 		"url": "https://logosear.ch/search.html?q=",
 		"ref": "",
-		"description": "Moteur de recherche avec plus de 200 000 logos SVG indexés",
+		"description": "Search engine with over 200,000 indexed SVG logos.",
 		"note": 3
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["logo", "idea", "maker"],
 		"url": "https://www.namecheap.com/logo-maker/ideas",
 		"ref": "",
-		"description": "Idee de creation d'un logo",
+		"description": "Logo creation idea.",
 		"note": 3
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["logo", "maker", "generator"],
 		"url": "https://www.wix.com/logo/maker/esh/dashboard/my-logos?logoId=1e2c6a95-5a0b-4a57-8ca0-1907d69ab990&referralInfo=savedlogos",
 		"ref": "",
-		"description": "Generateur de logo du site wix",
+		"description": "Logo generator from the wix site.",
 		"note": 4
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["favicon", "converter", "generator"],
 		"url": "https://favicon.io/favicon-converter/",
 		"ref": "",
-		"description": "Convertir une image en favicon",
+		"description": "Convert an image to a favicon.",
 		"note": 4
 	}
 ]

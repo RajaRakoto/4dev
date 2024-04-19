@@ -4,7 +4,7 @@
 		"keywords": ["compress", "image"],
 		"url": "https://tinypng.com/",
 		"ref": "",
-		"description": "Compression PNG et JPEG intelligente",
+		"description": "Intelligent PNG and JPEG compression.",
 		"note": 4
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["compress", "resize"],
 		"url": "https://www.iloveimg.com/resize-image",
 		"ref": "",
-		"description": "Redimensionnez JPG, PNG, SVG ou GIF en définissant de nouveaux pixels de hauteur et de largeur. Modifiez les dimensions de l'image en masse.",
+		"description": "Resize JPG, PNG, SVG, or GIF by setting new height and width pixels. Bulk edit image dimensions.",
 		"note": 4
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["compress", "resize"],
 		"url": "https://www.iloveimg.com/fr/redimensionner-image",
 		"ref": "",
-		"description": "Redimensionnez plusieurs images à la fois !",
+		"description": "Resize multiple images at once!",
 		"note": 3
 	}
 ]

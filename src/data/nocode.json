@@ -4,7 +4,7 @@
 		"keywords": ["nocode", "frontend", "cms", "ui", "generator"],
 		"url": "https://builder.io",
 		"ref": "",
-		"description": "Builder.io est un CMS visuel sans tête. Considérez-le comme un CMS par drag-drop qui s'intègre à votre base de code existante, vous permettant, à vous et à votre équipe, de modifier du contenu sans avoir à écrire de code.",
+		"description": "Builder.io is a headless visual CMS. Think of it as a drag-drop CMS that integrates with your existing codebase, allowing you and your team to edit content without having to write code.",
 		"note": 5
 	}
 ]

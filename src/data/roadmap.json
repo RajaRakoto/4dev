@@ -17,7 +17,7 @@
 		],
 		"url": "https://www.roadmap.sh/",
 		"ref": "",
-		"description": "roadmap.sh est un effort communautaire pour créer des feuilles de route, des guides et d'autres contenus éducatifs pour aider les développeurs à choisir le chemin et guider leurs apprentissages.",
+		"description": "roadmap.sh is a community effort to create roadmaps, guides, and other educational content to help developers choose their path and guide their learning.",
 		"note": 5
 	},
 	{
@@ -25,7 +25,7 @@
 		"keywords": ["roadmap", "3d", "webgl"],
 		"url": "https://github.com/oziw/3D-Web-Roadmap",
 		"ref": "",
-		"description": "Un guide pour apprendre la 3D sur le web.",
+		"description": "A guide to learning 3D on the web.",
 		"note": 4
 	},
 	{
@@ -33,7 +33,7 @@
 		"keywords": ["roadmap", "frontend", "react", "javascript"],
 		"url": "https://github.com/adam-golab/react-developer-roadmap",
 		"ref": "",
-		"description": "Un guide pour devenir un développeur React.",
+		"description": "A guide to becoming a React developer.",
 		"note": 4
 	}
 ]

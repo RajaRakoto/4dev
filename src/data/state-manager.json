@@ -20,7 +20,7 @@
 		"keywords": ["state-manager", "react", "javascript"],
 		"url": "https://recoiljs.org/",
 		"ref": "",
-		"description": "Minimal et tout comme React. Recoil fonctionne et pense comme React. Ajoutez-le à votre application et obtenez un état partagé rapide et flexible.",
+		"description": "Minimal and like React. Recoil works and thinks like React. Add it to your app and get fast and flexible shared state.",
 		"note": 4
 	}
 ]

@@ -90,7 +90,7 @@
 		],
 		"url": "https://mistral.ai/fr/",
 		"ref": "",
-		"description": "Une IA générative ouverte et portable pour les développeurs et les entreprises.",
+		"description": "A generative AI, open and portable, for developers and businesses.",
 		"note": 5
 	},
 	{
@@ -122,7 +122,7 @@
 		"keywords": ["ai", "speech", "text", "transcribe"],
 		"url": "https://www.speechtexter.com/",
 		"ref": "",
-		"description": "SpeechTexter is a free online speech recognition software that converts your speech to text",
+		"description": "SpeechTexter is a free online speech recognition software that converts your speech to text.",
 		"note": 5
 	},
 	{
@@ -169,14 +169,14 @@
 		"keywords": ["ai", "editor", "ide", "code", "cloud", "fullstack"],
 		"url": "https://projectidx.com/",
 		"ref": "",
-		"description": "Project IDX est un espace de travail entièrement basé sur le Web pour le développement d'applications full-stack, doté de la dernière IA générative (optimisée par Codey et PaLM 2)."
+		"description": "Project IDX is a fully web-based workspace for full-stack application development, powered by the latest generative AI (optimized by Codey and PaLM 2)."
 	},
 	{
 		"name": "yuka",
 		"keywords": ["ai", "3d", "engine", "pathfinding", "javascript"],
 		"url": "https://mugen87.github.io/yuka/",
 		"ref": "",
-		"description": "Yuka est un moteur d'intelligence artificielle pour les jeux 3D. Il est conçu pour gérer des personnages non joueurs (PNJ) dans des environnements 3D complexes.",
+		"description": "Yuka is an artificial intelligence engine for 3D games. It's designed to handle non-player characters (NPCs) in complex 3D environments.",
 		"note": 4
 	}
 ]

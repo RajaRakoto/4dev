@@ -4,7 +4,7 @@
 		"keywords": ["emoji", "collection", "node", "javascript"],
 		"url": "https://www.npmjs.com/package/node-emoji",
 		"ref": "https://emojipedia.org/",
-		"description": "Une collection d'emojis pour un projet Node.js",
+		"description": "A collection of emojis for a Node.js project.",
 		"note": 4
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["emoji", "unicode", "collection", "node", "javascript"],
 		"url": "https://apps.timwhitlock.info/emoji/tables/unicode",
 		"ref": "",
-		"description": "Une collection d'emojis et de symboles unicode",
+		"description": "A collection of emojis and unicode symbols.",
 		"note": 4
 	}
 ]

@@ -4,7 +4,7 @@
 		"keywords": ["certification", "skill", "training"],
 		"url": "https://www.freecodecamp.org/learn/",
 		"ref": "",
-		"description": "freeCodeCamp est une organisation à but non lucratif qui se compose d'une plate-forme Web d'apprentissage interactive, d'un forum communautaire en ligne, de salles de discussion, de publications en ligne et d'organisations locales qui ont l'intention d'apprendre à développer des sites Web accessible à tous.",
+		"description": "FreeCodeCamp is a non-profit organization consisting of an interactive web learning platform, an online community forum, chat rooms, online publications, and local organizations that aim to teach web development accessible to all.",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["certification", "skill", "evaluation", "training"],
 		"url": "https://www.codingame.com/home",
 		"ref": "",
-		"description": "CodinGame est un site consacré à la programmation informatique ludique, proposant d’un côté des casse-têtes de difficulté croissante à résoudre dans l’un des vingt-cinq langages de programmation !",
+		"description": "CodinGame is a website dedicated to playful computer programming, offering on one side puzzles of increasing difficulty to solve in one of the twenty-five programming languages !",
 		"note": 5
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["certification", "skill", "evaluation", "training"],
 		"url": "https://codesignal.com/",
 		"ref": "",
-		"description": "CodeSignal est une plateforme d'entretien technique et d'évaluation exploitée par la société américaine BrainFights",
+		"description": "CodeSignal is a technical interview and assessment platform operated by the American company BrainFights.",
 		"note": 5
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["certification", "skill", "evaluation", "training"],
 		"url": "https://www.hackerrank.com/",
 		"ref": "",
-		"description": "HackerRank est la solution d'évaluation technique et d'entretien à distance leader sur le marché pour le recrutement de développeurs. Apprenez à embaucher des talents techniques de n'importe où !",
+		"description": "HackerRank is the market-leading remote technical assessment and interview solution for developer hiring. Learn to hire technical talent from anywhere !",
 		"note": 5
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["certification", "skill", "quiz", "training"],
 		"url": "https://www.frontendmentor.io/",
 		"ref": "",
-		"description": "Mettez-vous au défi avec des quiz techniques, choisissez parmi +1000 tests techniques et faites-vous remarquer. Valorisez vos compétences dès maintenant et obtenez un certificationificat !",
+		"description": "Challenge yourself with technical quizzes, choose from +1000 technical tests and get noticed. Showcase your skills now and get a certification !",
 		"note": 4
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["certification", "skill", "training"],
 		"url": "https://openclassrooms.com/fr/",
 		"ref": "",
-		"description": "OpenClassrooms est un site web de formation en ligne, créé en 1999 sous le nom de Site du Zéro. Il propose à ses membres des cours certificationifiants et des parcours débouchant sur des métiers en croissance (ideale pour un debutant)",
+		"description": "OpenClassrooms is an online training website, created in 1999 under the name Site du Zéro. It offers its members certifying courses and paths leading to growing careers (ideal for beginners).",
 		"note": 5
 	},
 	{
@@ -52,7 +52,7 @@
 		"keywords": ["certification", "skill", "training"],
 		"url": "https://www.w3schools.com/",
 		"ref": "",
-		"description": "W3Schools est un site web destiné à l'apprentissage en ligne des technologies web. Son contenu inclut des didacticiels et des références relatives à HTML, CSS, JavaScript, JSON, PHP, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX et XML. Il reçoit plus de 10 millions de visiteurs uniques chaque mois.",
+		"description": "W3Schools is a website for online learning of web technologies. Its content includes tutorials and references related to HTML, CSS, JavaScript, JSON, PHP, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX, and XML. It receives over 10 million unique visitors per month.",
 		"note": 4
 	}
 ]

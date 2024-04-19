@@ -4,7 +4,7 @@
 		"keywords": ["email", "mail", "smtp", "javascript"],
 		"url": "https://www.npmjs.com/package/nodemailer",
 		"ref": "",
-		"description": "Nodemailer est un module node js qui permet d’envoyer des emails.",
+		"description": "Nodemailer is a node.js module that allows you to send emails.",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["email", "mail", "smtp", "react", "javascript"],
 		"url": "https://www.emailjs.com/docs/examples/reactjs/",
 		"ref": "https://blog.devgenius.io/set-up-emailjs-in-react-app-from-scratch-42e669efc22a | https://dev.to/ethand91/using-emailjs-to-send-emails-from-the-frontend-ka9",
-		"description": "EmailJS est un service qui permet d’envoyer des emails directement depuis le client.",
+		"description": "EmailJS is a service that allows you to send emails directly from the client.",
 		"note": 5
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["email", "mail", "smtp", "client", "manager"],
 		"url": "https://www.brevo.com/",
 		"ref": "https://mailtrap.io/blog/react-contact-form/",
-		"description": "Développez votre activité avec Brevo, la plateforme tout-en-un pour gérer vos relations clients par email, SMS, chat et plus encore.",
+		"description": "Grow your business with Brevo, the all-in-one platform to manage your client relationships via email, SMS, chat, and more.",
 		"note": 4
 	}
 ]

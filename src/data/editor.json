@@ -12,7 +12,7 @@
 		],
 		"url": "https://www.figma.com/",
 		"ref": "",
-		"description": "Figma est un outil de design d'interface utilisateur basé sur le Web",
+		"description": "Figma is a web-based user interface design tool.",
 		"note": 5
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["editor", "photoshop"],
 		"url": "https://shadows.brumm.af/",
 		"ref": "",
-		"description": "Un éditeur Photoshop en ligne",
+		"description": "An online Photoshop editor.",
 		"note": 5
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["editor", "illustrator"],
 		"url": "https://vectr.com/design/",
 		"ref": "",
-		"description": "Logiciel de graphisme vectoriel gratuit",
+		"description": "Free vector graphics software.",
 		"note": 5
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["editor", "border", "generator"],
 		"url": "https://9elements.github.io/fancy-border-radius/full-control.html/",
 		"ref": "",
-		"description": "Huit valeurs spécifiant border-radius en CSS ( border-radius generator )",
+		"description": "Eight values specifying border-radius in CSS ( border-radius generator ).",
 		"note": 3
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["editor", "background"],
 		"url": "https://www.remove.bg/fr/",
 		"ref": "",
-		"description": "Supprimer rapidement les arrière-plans des images",
+		"description": "Quickly remove image backgrounds.",
 		"note": 3
 	},
 	{
@@ -52,7 +52,7 @@
 		"keywords": ["editor", "svg", "generator"],
 		"url": "https://www.blobmaker.app/",
 		"ref": "",
-		"description": "Blobmaker est un outil de conception générative gratuit qui vous aide à créer rapidement des formes SVG aléatoires, uniques et d'apparence organique.",
+		"description": "Blobmaker is a free generative design tool that helps you quickly create random, unique, organic-looking SVG shapes.",
 		"note": 4
 	},
 	{
@@ -60,7 +60,7 @@
 		"keywords": ["editor", "stat", "map"],
 		"url": "http://mapinseconds.com/#",
 		"ref": "",
-		"description": "Un moyen simple de visualiser vos données avec une carte.",
+		"description": "An easy way to visualize your data with a map.",
 		"note": 3
 	},
 	{
@@ -68,7 +68,7 @@
 		"keywords": ["editor", "javascript"],
 		"url": "https://jsbin.com/?js,console",
 		"ref": "",
-		"description": "Editeur de code Javascript en ligne",
+		"description": "Online JavaScript code editor.",
 		"note": 4
 	},
 	{
@@ -76,7 +76,7 @@
 		"keywords": ["editor", "markdown", "documentation"],
 		"url": "https://readme.so/fr/editor",
 		"ref": "",
-		"description": "Le moyen le plus simple de créer un fichier README en markdown.",
+		"description": "The easiest way to create a README file in markdown.",
 		"note": 3
 	},
 	{
@@ -84,7 +84,7 @@
 		"keywords": ["editor", "collage"],
 		"url": "https://www.myposter.fr/collage-photo",
 		"ref": "",
-		"description": "Collage photo",
+		"description": "Photo collage.",
 		"note": 3
 	},
 	{
@@ -92,7 +92,7 @@
 		"keywords": ["editor", "cartoon"],
 		"url": "https://www.befunky.com/create/photo-to-cartoon",
 		"ref": "",
-		"description": "Cartoon yourself",
+		"description": "Cartoon yourself.",
 		"note": 3
 	},
 	{
@@ -100,7 +100,7 @@
 		"keywords": ["editor", "design", "illustrator", "logo", "image", "video"],
 		"url": "https://www.canva.com/",
 		"ref": "",
-		"description": "Canva est un outil de design graphique en ligne gratuit",
+		"description": "Canva is a free online graphic design tool.",
 		"note": 5
 	},
 	{
@@ -108,7 +108,7 @@
 		"keywords": ["editor", "cv", "resume", "job", "illustrator"],
 		"url": "https://zety.fr/",
 		"ref": "",
-		"description": "Créez un CV professionnel en quelques minutes",
+		"description": "Create a professional CV in minutes.",
 		"note": 5
 	},
 	{
@@ -125,7 +125,7 @@
 		],
 		"url": "https://lucid.app/documents#/documents?folder_id=recent",
 		"ref": "",
-		"description": "Lucidchart est un espace de travail visuel et collaboratif permettant de créer des diagrammes.",
+		"description": "Lucidchart is a visual and collaborative workspace for creating diagrams.",
 		"note": 5
 	},
 	{
@@ -141,15 +141,15 @@
 		],
 		"url": "https://excalidraw.com/",
 		"ref": "",
-		"description": "Excalidraw est un outil de tableau blanc collaboratif virtuel qui vous permet de dessiner facilement des diagrammes qui ressemblent à des dessins dessinés à la main.",
+		"description": "Excalidraw is a collaborative virtual whiteboard tool that allows you to easily draw diagrams that look like hand-drawn sketches.",
 		"note": 5
 	},
 	{
-		"nam": "remove background",
+		"name": "remove background",
 		"keywords": ["editor", "remover", "background", "image", "png"],
 		"url": "https://www.remove.bg/",
 		"ref": "",
-		"description": "Supprimer l'arrière-plan d'une image en 5 secondes",
+		"description": "Remove image background in 5 seconds.",
 		"note": 4
 	},
 	{
@@ -157,7 +157,7 @@
 		"keywords": ["editor", "illustrator", "svg", "image"],
 		"url": "https://boxy-svg.com/app",
 		"ref": "",
-		"description": "Un éditeur SVG en ligne",
+		"description": "An online SVG editor.",
 		"note": 4
 	},
 	{
@@ -165,7 +165,7 @@
 		"keywords": ["editor", "text", "react", "wysiwyg", "quill", "javascript"],
 		"url": "https://github.com/jpuri/react-draft-wysiwyg#readme) - [docs](https://jpuri.github.io/react-draft-wysiwyg/#/docs",
 		"ref": "",
-		"description": "Un éditeur de texte riche WYSIWYG pour React",
+		"description": "A rich text WYSIWYG editor for React.",
 		"note": 4
 	},
 	{
@@ -197,7 +197,7 @@
 		],
 		"url": "https://github.com/nozer/quill-delta-to-html#readme",
 		"ref": "",
-		"description": "Convert Quill delta to HTML",
+		"description": "Convert Quill delta to HTML.",
 		"note": 4
 	}
 ]

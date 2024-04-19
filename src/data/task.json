@@ -4,7 +4,7 @@
 		"keywords": ["task", "runner", "javascript"],
 		"url": "https://gruntjs.com/",
 		"ref": "",
-		"description": "Grunt est un outil pour la création de tâches automatisées avec le langage JavaScript (orienté fichier)",
+		"description": "Grunt is a tool for automating tasks with JavaScript (file-oriented).",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["task", "runner", "javascript"],
 		"url": "https://gulpjs.com/",
 		"ref": "",
-		"description": "Tirez parti du gulp et de la flexibilité de JavaScript pour automatiser les workflows lents et répétitifs et les composer dans des pipelines de build efficaces.",
+		"description": "Leverage gulp and the flexibility of JavaScript to automate slow and repetitive workflows and compose them into efficient build pipelines.",
 		"note": 5
 	}
 ]

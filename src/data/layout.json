@@ -4,7 +4,7 @@
 		"keywords": ["layout", "grid", "flexbox", "css"],
 		"url": "http://bencoveney.github.io/Milligrid/",
 		"ref": "",
-		"description": "Milligrid est un system de grille CSS flexbox configurable et facile a apprendre basée sur Milligram",
+		"description": "Milligrid is a configurable, easy-to-learn flexbox CSS grid system based on Milligram.",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["layout", "grid", "css", "generator"],
 		"url": "https://cssgrid-generator.netlify.app/",
 		"ref": "",
-		"description": "Un projet open source permettant aux utilisateurs de créer rapidement une mise en page dynamique basée sur la grille CSS.",
+		"description": "An open-source project allowing users to quickly create dynamic CSS grid-based layouts.",
 		"note": 4
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["layout", "collection", "css"],
 		"url": "https://csslayout.io/",
 		"ref": "",
-		"description": "Une collection de mises en page et de modèles de Web populaires en Pure CSS",
+		"description": "A collection of popular web layouts and patterns in Pure CSS.",
 		"note": 4
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["layout", "position", "generator"],
 		"url": "http://www.generatecss.com/css/position/",
 		"ref": "",
-		"description": "Ce générateur vous permet de positionner facilement des éléments au-dessus d'un autre élément. Cet outil est idéal pour des choses comme le positionnement d'un logo sur un en-tête dans la mise en page d'un site Web ou la création d'une bannière qui se chevauche avec des textes au lieu d'une image.",
+		"description": "This generator makes it easy to position elements on top of another element. This tool is great for things like positioning a logo over a header in a website layout or creating a banner that overlaps with text instead of an image.",
 		"note": 3
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["layout", "flexbox", "generator"],
 		"url": "https://flexbox.help/",
 		"ref": "",
-		"description": "Un generateur de flexbox rapide et facile",
+		"description": "A quick and easy flexbox generator.",
 		"note": 4
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["layout", "grid", "css"],
 		"url": "https://grid.malven.co/",
 		"ref": "",
-		"description": "Une cheatsheet de grille CSS à référencer lors de la création d'une grille CSS",
+		"description": "A CSS grid cheatsheet to reference when creating a CSS grid.",
 		"note": 4
 	},
 	{
@@ -52,7 +52,7 @@
 		"keywords": ["layout", "flex", "css"],
 		"url": "https://flexbox.malven.co/",
 		"ref": "",
-		"description": "Une cheatsheet de flexbox à référencer lorsque vous travaillez avec flexbox",
+		"description": "A flexbox cheatsheet to reference when working with flexbox.",
 		"note": 4
 	},
 	{
@@ -60,7 +60,7 @@
 		"keywords": ["layout", "flex", "training", "css"],
 		"url": "http://flexboxfroggy.com/#fr",
 		"ref": "",
-		"description": "un jeu où vous aidez Froggy la grenouille et ses amis en écrivant du code flexbox CSS!",
+		"description": "A game where you help Froggy the frog and his friends by writing CSS flexbox code!",
 		"note": 5
 	},
 	{
@@ -68,7 +68,7 @@
 		"keywords": ["layout", "responsive", "react", "javascript"],
 		"url": "https://www.npmjs.com/package/react-responsive",
 		"ref": "",
-		"description": "Un composant de media queries pour React",
+		"description": "A media queries component for React.",
 		"note": 5
 	},
 	{
@@ -76,7 +76,7 @@
 		"keywords": ["layout", "grid", "bootstrap", "generator"],
 		"url": "https://www.layoutit.com/build",
 		"ref": "",
-		"description": "Un générateur de grille Bootstrap pour créer des mises en page personnalisées rapidement",
+		"description": "A Bootstrap grid generator to quickly create custom layouts.",
 		"note": 4
 	}
 ]

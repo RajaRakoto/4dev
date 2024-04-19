@@ -4,7 +4,7 @@
 		"keywords": ["loader", "spinner", "css"],
 		"url": "https://cssloaders.github.io/",
 		"ref": "",
-		"description": "Il s'agit d'une bibliothèque ayant une collection de différents types de chargeurs CSS, spinners.",
+		"description": "This is a library with a collection of different types of CSS loaders, spinners.",
 		"note": 5
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["loader", "preloader", "spinner", "react", "javascript"],
 		"url": "https://www.npmjs.com/package/react-preloaders2",
 		"ref": "https://github.com/vamosgs/react-preloaders",
-		"description": "Ce projet est un fork de vamosgs.github.io/react-preloaders corrigeant un bug lié à la duplication de React dans les dernières versions de React.",
+		"description": "This project is a fork of vamosgs.github.io/react-preloaders fixing a bug related to React duplication in the latest versions of React.",
 		"note": 5
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["loader", "spinner", "react", "javascript"],
 		"url": "https://mhnpd.github.io/react-loader-spinner/",
 		"ref": "",
-		"description": "Stylish Spinners for Your ReactJS Applications",
+		"description": "Stylish Spinners for Your ReactJS Applications.",
 		"note": 4
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["loader", "spinner", "react", "javascript"],
 		"url": "https://www.npmjs.com/package/react-loading-screen",
 		"ref": "",
-		"description": "Un écran de chargement React. Peut être utilisé comme économiseur d'écran pour le téléchargement initial de l'application ou comme écran de surcharge pour les promesses.",
+		"description": "A React loading screen. Can be used as a screensaver for the initial download of the application or as an overload screen for promises.",
 		"note": 4
 	}
 ]

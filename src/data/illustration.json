@@ -4,7 +4,7 @@
 		"keywords": ["illustration", "collection", "svg", "png"],
 		"url": "https://www.manypixels.co/",
 		"ref": "",
-		"description": "Collection d'images vectorielles",
+		"description": "Collection of vector images",
 		"note": 4
 	},
 	{
@@ -12,23 +12,23 @@
 		"keywords": ["illustration", "collection", "svg"],
 		"url": "https://isoflat.com",
 		"ref": "",
-		"description": "Une collection gratuite de ressources graphiques SVG isométriques",
+		"description": "A free collection of isometric SVG graphic resources",
 		"note": 3
 	},
 	{
 		"name": "unDraw",
-		"keywords": ["illustration", "caracters"],
+		"keywords": ["illustration", "characters"],
 		"url": "https://undraw.co/illustrations",
 		"ref": "",
-		"description": "Des illustrations de personnage open source pour toutes les idées que vous pouvez imaginer et créer (couleur personnalisable)",
+		"description": "Open-source character illustrations for all the ideas you can imagine and create (customizable color)",
 		"note": 4
 	},
 	{
 		"name": "humaaans",
-		"keywords": ["illustration", "caracters"],
+		"keywords": ["illustration", "characters"],
 		"url": "https://www.humaaans.com",
 		"ref": "",
-		"description": "De superbes illustrations de personnes capables de se mélanger et de s'assortir",
+		"description": "Beautiful illustrations of people able to mix and match",
 		"note": 3
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["illustration", "404"],
 		"url": "https://error404.fun",
 		"ref": "",
-		"description": "Collection d'illustration sur les erreurs 404 d'une page web",
+		"description": "Collection of illustrations about 404 errors on a web page",
 		"note": 4
 	}
 ]

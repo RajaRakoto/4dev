@@ -4,7 +4,7 @@
 		"keywords": ["checker", "types", "javascript"],
 		"url": "https://www.typescriptlang.org/",
 		"ref": "",
-		"description": "Surcouche du langage Javscript qui a pour but d'améliorer et de sécuriser la production de code JavaScript.",
+		"description": "Superset of the JavaScript language aimed at improving and securing JavaScript code production.",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["checker", "lint", "javascript"],
 		"url": "https://eslint.org/",
 		"ref": "",
-		"description": "ESLint est un outil permettant d'identifier et de signaler les modèles trouvés dans le code ECMAScript/JavaScript, dans le but de rendre le code plus cohérent et d'éviter les bogues. À bien des égards, il est similaire à JSLint et JSHint à quelques exceptions près",
+		"description": "ESLint is a tool for identifying and reporting patterns found in ECMAScript/JavaScript code, with the aim of making the code more consistent and bug-free. In many ways, it is similar to JSLint and JSHint with a few exceptions.",
 		"note": 5
 	}
 ]

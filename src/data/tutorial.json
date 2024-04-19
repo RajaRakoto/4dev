@@ -4,7 +4,7 @@
 		"keywords": ["tutorial", "python", "django", "docs"],
 		"url": "https://www.docstring.fr",
 		"ref": "",
-		"description": "Apprenez à coder avec l'accompagnement Docstring. Maîtrisez le langage de programmation PYTHON.",
+		"description": "Learn to code with Docstring's guidance. Master the PYTHON programming language.",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["tutorial", "docs", "web"],
 		"url": "https://developer.mozilla.org/fr/docs/Web/",
 		"ref": "",
-		"description": "DevDocs combine plusieurs documentations d'API dans une interface rapide, organisée et consultable.",
+		"description": "DevDocs combines multiple API documentations into a fast, organized, and searchable interface.",
 		"note": 5
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["tutorial"],
 		"url": "https://grafikart.fr/formations/",
 		"ref": "",
-		"description": "Découvrez une technologie spécifique à travers une série de vidéo qui vous guidera dans votre apprentissage",
+		"description": "Discover a specific technology through a series of videos that will guide you in your learning process.",
 		"note": 5
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["tutorial"],
 		"url": "https://www.pierre-giraud.com/",
 		"ref": "",
-		"description": "Toutes vos ressources sur le développement web, apprenez à coder en HTML, CSS, JavaScript, Python, PHP.",
+		"description": "All your resources on web development, learn to code in HTML, CSS, JavaScript, Python, PHP.",
 		"note": 4
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["tutorial"],
 		"url": "https://codingartistweb.com/",
 		"ref": "",
-		"description": "Coding Artist se consacre à vous fournir des didacticiels de codage rapides et simples mais efficaces. Nous fournissons les meilleurs tutoriels sur HTML, CSS et Javascript.",
+		"description": "Coding Artist is dedicated to providing you with quick and simple yet effective coding tutorials. We provide the best tutorials on HTML, CSS, and JavaScript.",
 		"note": 5
 	}
 ]

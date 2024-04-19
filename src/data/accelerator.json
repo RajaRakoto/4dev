@@ -4,7 +4,7 @@
 		"keywords": ["accelerator", "gpu", "enhance", "performance", "javascript"],
 		"url": "https://github.com/gpujs/gpu.js",
 		"ref": "",
-		"description": "GPU Accelerated JavaScript",
+		"description": "GPU Accelerated JavaScript.",
 		"note": 5
 	}
 ]

@@ -13,7 +13,7 @@
 		],
 		"url": "https://codepen.io/",
 		"ref": "",
-		"description": "CodePen est un environnement de développement social pour les concepteurs et développeurs frontaux. Créez et déployez un site Web, montrez votre travail, créez des scénarios de test pour apprendre et déboguer, et trouvez l'inspiration.",
+		"description": "CodePen is a social development environment for designers and front-end developers. Create and deploy a website, showcase your work, create test scenarios to learn and debug, and find inspiration.",
 		"note": 4
 	},
 	{
@@ -21,7 +21,7 @@
 		"keywords": ["playground", "editor", "ide", "cloud"],
 		"url": "https://stackblitz.com",
 		"ref": "",
-		"description": "Le playground a la fois rapide et complet pour editer vos projets en ligne",
+		"description": "The playground that is both fast and comprehensive for editing your projects online.",
 		"note": 5
 	},
 	{
@@ -29,7 +29,7 @@
 		"keywords": ["playground", "editor", "ide", "cloud"],
 		"url": "https://codesandbox.io/",
 		"ref": "",
-		"description": "Le playground le plus populaire du moment",
+		"description": "The most popular playground of the moment.",
 		"note": 4
 	},
 	{
@@ -37,7 +37,7 @@
 		"keywords": ["playground", "editor", "ide", "cloud", "dart"],
 		"url": "https://dartpad.dev/",
 		"ref": "",
-		"description": "Le playground pour le langage Dart",
+		"description": "The playground for the Dart language.",
 		"note": 4
 	}
 ]
