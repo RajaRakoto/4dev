@@ -8,7 +8,7 @@
 			"esn",
 			"startup",
 			"offshore",
-			"madagascar"
+			"mg"
 		],
 		"url": "https://www.portaljob-madagascar.com/emploi/liste",
 		"ref": "",
@@ -24,7 +24,7 @@
 			"esn",
 			"startup",
 			"offshore",
-			"madagascar"
+			"mg"
 		],
 		"url": "https://etechconsulting-mg.com",
 		"ref": "",
@@ -40,7 +40,7 @@
 			"esn",
 			"startup",
 			"offshore",
-			"madagascar"
+			"mg"
 		],
 		"url": "https://www.ingenosya.com/",
 		"ref": "",
@@ -56,7 +56,7 @@
 			"esn",
 			"startup",
 			"offshore",
-			"madagascar"
+			"mg"
 		],
 		"url": "https://www.bocasay.com/fr/",
 		"ref": "",
@@ -72,7 +72,7 @@
 			"esn",
 			"startup",
 			"offshore",
-			"madagascar"
+			"mg"
 		],
 		"url": "https://www.hairun-technology.com/",
 		"ref": "",
@@ -88,7 +88,7 @@
 			"esn",
 			"startup",
 			"offshore",
-			"madagascar"
+			"mg"
 		],
 		"url": "https://www.novity.io/",
 		"ref": "",
@@ -104,7 +104,7 @@
 			"esn",
 			"startup",
 			"offshore",
-			"madagascar"
+			"mg"
 		],
 		"url": "https://www.myagency.mg/",
 		"ref": "",
@@ -120,7 +120,7 @@
 			"esn",
 			"startup",
 			"offshore",
-			"madagascar"
+			"mg"
 		],
 		"url": "https://www.creativedev-madagascar.com/",
 		"ref": "",
@@ -136,11 +136,27 @@
 			"esn",
 			"startup",
 			"offshore",
-			"madagascar"
+			"mg"
 		],
 		"url": "https://www.codeo.mg/",
 		"ref": "",
 		"description": "Nous sommes une agence de freelancing dans le domaine de developpement. Nous offrons des solutions de développement d’applications innovantes et personnalisées pour répondre aux besoins de nos clients.",
+		"note": 0
+	},
+	{
+		"name": "relia consulting",
+		"keywords": [
+			"job",
+			"professional",
+			"work",
+			"esn",
+			"startup",
+			"offshore",
+			"mg"
+		],
+		"url": "https://relia-consulting.com/",
+		"ref": "",
+		"description": "Expertise inégalée sur les meilleures technologies - Tarif abordable et avec facilité de paiement - Communication transparente et réactive.",
 		"note": 0
 	},
 	{
@@ -152,7 +168,7 @@
 			"esn",
 			"startup",
 			"offshore",
-			"madagascar",
+			"mg",
 			"docs"
 		],
 		"url": "https://www.agoramada.com/",
@@ -162,7 +178,7 @@
 	},
 	{
 		"name": "inside the mind of a recruiter",
-		"keywords": ["job", "docs", "professional", "work", "madagascar"],
+		"keywords": ["job", "docs", "professional", "work", "mg"],
 		"url": "https://insidemr.vercel.app/",
 		"ref": "",
 		"description": "Tsy ataotao foana ny fitadiavana asa, misy fitsipika mipetraka izay tokony arahina izy ireny. Matetika ny olona efa manan-traikefa amin'ny tontolon'ny Asa no manoro antsika izany (ireo zokintsika, ireo mpampiasa ary ireo namana efa miasa).",
