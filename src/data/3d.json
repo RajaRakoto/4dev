@@ -95,6 +95,22 @@
 		"note": 4
 	},
 	{
+		"name": "react-three-drei",
+		"keywords": [
+			"3d",
+			"collection",
+			"webgl",
+			"threejs",
+			"r3f",
+			"react",
+			"javascript"
+		],
+		"url": "https://github.com/pmndrs/drei",
+		"ref": "",
+		"description": "Collection of utility components for React Three Fiber.",
+		"note": 5
+	},
+	{
 		"name": "camera-controls",
 		"keywords": ["3d", "camera", "webgl", "threejs", "javascript"],
 		"url": "https://yomotsu.github.io/camera-controls/",
@@ -211,22 +227,6 @@
 		"ref": "https://threejs.org/examples/#webgl_animation_keyframes",
 		"description": "Easily monitor your ThreeJS performance.",
 		"note": 4
-	},
-	{
-		"name": "react-three-drei",
-		"keywords": [
-			"3d",
-			"collection",
-			"webgl",
-			"threejs",
-			"r3f",
-			"react",
-			"javascript"
-		],
-		"url": "https://github.com/pmndrs/drei",
-		"ref": "",
-		"description": "Collection of utility components for React Three Fiber.",
-		"note": 5
 	},
 	{
 		"name": "model-viewer",
