@@ -1,8 +1,8 @@
-export type T_Mail = `${string}@${string}.com`;
-
-export interface I_User {
-	id: string;
-	email: T_Mail;
+export interface I_Collection {
 	name: string;
-	admin: boolean;
+	keywords: string[];
+	url: string;
+	ref: string;
+	description: string;
+	note: number | string;
 }
