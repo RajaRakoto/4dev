@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "eslint",
-		"keywords": ["checker", "lint", "javascript"],
+		"keywords": ["checker", "linter", "javascript"],
 		"url": "https://eslint.org/",
 		"ref": "",
 		"description": "ESLint is a tool for identifying and reporting patterns found in ECMAScript/JavaScript code, with the aim of making the code more consistent and bug-free. In many ways, it is similar to JSLint and JSHint with a few exceptions.",

@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "mvola",
-		"keywords": ["api", "mvola", "mobilemoney", "madagascar"],
+		"keywords": ["api", "mvola", "mobilemoney", "mg"],
 		"url": "https://www.mvola.mg/devportal/services/configs",
 		"ref": "",
 		"description": "API to integrate MVOLA into your applications.",

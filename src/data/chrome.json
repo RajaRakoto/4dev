@@ -1,7 +1,7 @@
 [
 	{
 		"name": "wappalyzer",
-		"keywords": ["chrome", "extension", "scan", "analyse"],
+		"keywords": ["chrome", "extension", "scanner", "analyse"],
 		"url": "https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg/related",
 		"ref": "",
 		"description": "Wappalyzer is a technological profiler that shows you what websites are built with.",
@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "whatruns",
-		"keywords": ["chrome", "extension", "scan", "analyse"],
+		"keywords": ["chrome", "extension", "scanner", "analyse"],
 		"url": "https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en",
 		"ref": "",
 		"description": "Find out what runs a website. Frameworks, analytics tools, WordPress plugins, fonts - you name it.",

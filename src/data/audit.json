@@ -1,7 +1,7 @@
 [
 	{
 		"name": "deepscan",
-		"keywords": ["audit", "scan", "debug"],
+		"keywords": ["audit", "scanner", "debug"],
 		"url": "https://deepscan.io/",
 		"ref": "",
 		"description": "DeepScan is an advanced static analysis tool for JavaScript. You can inspect all of your JavaScript code thoroughly.",
@@ -16,7 +16,7 @@
 		"note": 4
 	},
 	{
-		"name": "pagespeed Insights",
+		"name": "pagespeed insights",
 		"keywords": ["audit", "test", "performance", "debug", "google"],
 		"url": "https://pagespeed.web.dev",
 		"ref": "",
