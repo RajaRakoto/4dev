@@ -24,7 +24,7 @@ export function writeToFile(
  * @param filePath Input file path
  */
 export function readFromFile(filePath: string): object | I_Collection[] {
-	const data: string = fs.readFileSync(filePath, "utf-8");
+	const data = fs.readFileSync(filePath, "utf-8");
 	return JSON.parse(data);
 }
 
@@ -32,20 +32,17 @@ export function readFromFile(filePath: string): object | I_Collection[] {
  * @description Combine all JSON files in a directory
  * @param directoryPath The path to the directory containing the JSON files
  */
-export function combineJSONfilesFromDirectory(
+export async function combineJSONfilesFromDirectory(
 	directoryPath: string,
-): I_Collection[] {
+): Promise<I_Collection[]> {
 	let combinedObjects: I_Collection[] = [];
-	const files: string[] = fs.readdirSync(directoryPath);
+	const files = fs.readdirSync(directoryPath);
 
 	files.forEach((file) => {
 		if (path.extname(file) === ".json") {
-			const data: string = fs.readFileSync(
-				path.join(directoryPath, file),
-				"utf-8",
-			);
+			const data = fs.readFileSync(path.join(directoryPath, file), "utf-8");
 			try {
-				const json: I_Collection[] = JSON.parse(data);
+				const json = JSON.parse(data);
 				combinedObjects = combinedObjects.concat(json);
 			} catch (error) {
 				console.error(`Error: parsing JSON file -> ${file}:\n${error}`);
@@ -66,4 +63,14 @@ export function getAllKeywords(data: I_Collection[]): string[] {
 		keywords = keywords.concat(collection.keywords);
 	});
 	return Array.from(new Set(keywords)).sort();
+}
+
+/**
+ * @description Get the names of all JSON files in a directory
+ * @param directoryPath The path to the directory containing the JSON files
+ */
+export function getJSONfilesNameFromDirectory(directoryPath: string): string[] {
+	const files = fs.readdirSync(directoryPath);
+	const jsonFiles = files.filter((file) => path.extname(file) === ".json");
+	return jsonFiles.map((file) => path.basename(file, ".json")).sort();
 }
