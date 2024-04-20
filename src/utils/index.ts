@@ -78,7 +78,11 @@ export function getJSONfilesNameFromDirectory(directoryPath: string): string[] {
 	return jsonFiles.map((file) => path.basename(file, ".json")).sort();
 }
 
-export function formatNote(note: number): string {
+/**
+ * @description Transform a note into a star rating system
+ * @param note
+ */
+export function getFormatedNote(note: number): string {
 	switch (note) {
 		case -1:
 			return "";
@@ -97,4 +101,27 @@ export function formatNote(note: number): string {
 		default:
 			return "unclassified";
 	}
+}
+
+/**
+ * @description Create a table separator
+ * @param columns Number of columns
+ */
+export function getTableSeparator(columns: number): string {
+	if (columns <= 0) {
+		throw new Error("error: columns must be greater than 0");
+	}
+	return "| " + Array.from({ length: columns }, () => " :-- ").join("|") + " |";
+}
+
+/**
+ * @description Transform text to markdown tag
+ * @param text Input of text to transform
+ */
+export function getFormatedTag(text: string): string {
+	let transformedText = text.replace(/\(|\)/g, "-");
+	transformedText = transformedText.replace(/\+|&/g, "--");
+	transformedText = transformedText.replace(/ /g, "-");
+	transformedText = "#-" + transformedText.toLowerCase();
+	return transformedText;
 }
