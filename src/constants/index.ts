@@ -1,6 +1,9 @@
 // dev
 export const DEVMODE = true;
 
+// prod
+export const distFile = "README.md";
+
 // path
 export const dataPath = "src/data";
 
@@ -17,6 +20,8 @@ export const emojiLink = "🔗";
 export const emojiTools = "🛠️";
 export const emojiMessage = "💬";
 export const emojiWarning = "⚠️";
+export const emojiDone = "✅";
+export const emojiFailed = "❌";
 
 // table
 export const tableHeader = "| URL | Keywords | Description | Rating |";
