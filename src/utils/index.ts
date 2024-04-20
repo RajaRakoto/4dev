@@ -1,6 +1,7 @@
 /* libs */
 import * as fs from "fs";
 import * as path from "path";
+import util from "util";
 
 /* converts */
 import { emojiWarning, note1, note2, note3, note4, note5 } from "@/constants";
@@ -10,25 +11,27 @@ import type { I_Collection } from "@/@types";
 
 // ==========================
 
-/**
- * @description Write data to a file
- * @param filePath Output file path
- * @param data Data to write to the file
- */
-export function writeToFile(
-	filePath: string,
-	data: object | I_Collection[],
-): void {
-	fs.writeFileSync(filePath, JSON.stringify(data));
-}
+export async function writeToFile(
+	destination: string,
+	content: string,
+	successMessage: string,
+): Promise<void> {
+	const writeFileAsync = util.promisify(fs.writeFile);
+	const readFileAsync = util.promisify(fs.readFile);
 
-/**
- * @description Read data from a file
- * @param filePath Input file path
- */
-export function readFromFile(filePath: string): object | I_Collection[] {
-	const data = fs.readFileSync(filePath, "utf-8");
-	return JSON.parse(data);
+	try {
+		const fileExists = fs.existsSync(destination);
+
+		if (fileExists) {
+			const existingContent = await readFileAsync(destination, "utf8");
+			content = existingContent + content;
+		}
+
+		await writeFileAsync(destination, content);
+		console.log(successMessage);
+	} catch (error) {
+		console.error(error);
+	}
 }
 
 /**
