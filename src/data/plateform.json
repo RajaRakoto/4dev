@@ -2,7 +2,7 @@
 	{
 		"name": "linkedin",
 		"keywords": [
-			"platform",
+			"plateform",
 			"social",
 			"network",
 			"professional",
@@ -16,7 +16,7 @@
 	},
 	{
 		"name": "discord",
-		"keywords": ["platform", "chat", "communication", "gaming", "community"],
+		"keywords": ["plateform", "chat", "communication", "gaming", "community"],
 		"url": "https://discord.com/",
 		"ref": "",
 		"description": "Discord is a VoIP and instant messaging platform. It works on Windows, macOS, Linux, Android, iOS, and web browsers. It is distributed as freeware and developed with proprietary license.",
@@ -25,7 +25,7 @@
 	{
 		"name": "slack",
 		"keywords": [
-			"platform",
+			"plateform",
 			"project",
 			"management",
 			"organization",
@@ -41,7 +41,7 @@
 	{
 		"name": "trello",
 		"keywords": [
-			"platform",
+			"plateform",
 			"project",
 			"management",
 			"organization",
@@ -57,7 +57,7 @@
 	{
 		"name": "dribbble",
 		"keywords": [
-			"platform",
+			"plateform",
 			"design",
 			"frontend",
 			"ux",
@@ -74,7 +74,7 @@
 	{
 		"name": "smashing magazine",
 		"keywords": [
-			"platform",
+			"plateform",
 			"design",
 			"frontend",
 			"ux",

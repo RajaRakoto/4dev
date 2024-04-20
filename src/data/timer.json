@@ -2,11 +2,11 @@
 	{
 		"name": "react-timer-hook",
 		"keywords": [
-			"react",
 			"timer",
-			"counter",
 			"component",
+			"counter",
 			"hook",
+			"react",
 			"javascript"
 		],
 		"url": "https://www.npmjs.com/package/react-timer-hook",
@@ -16,7 +16,7 @@
 	},
 	{
 		"name": "react-countdown-circle-timer",
-		"keywords": ["react", "timer", "counter", "component", "javascript"],
+		"keywords": ["timer", "component", "counter", "react", "javascript"],
 		"url": "https://www.npmjs.com/package/react-countdown-circle-timer",
 		"ref": "",
 		"description": "A circular countdown timer component for React.",
