@@ -12,14 +12,13 @@ export const note4 = "⭐⭐⭐⭐🟊";
 export const note5 = "⭐⭐⭐⭐⭐";
 
 // emoji
-export const emojiSearch = "🔍";
 export const emojiCategory = "📌";
 export const emojiLink = "🔗";
 export const emojiTools = "🛠️";
 export const emojiMessage = "💬";
 
 // table
-export const tableHeader = "| URL | Description | Rating |";
+export const tableHeader = "| URL | Keywords | Description | Rating |";
 
 // banner
 export const title = `# 4dev ${emojiTools}`;
