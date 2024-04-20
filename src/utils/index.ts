@@ -3,7 +3,7 @@ import * as fs from "fs";
 import * as path from "path";
 
 /* converts */
-import { note1, note2, note3, note4, note5 } from "@/constants";
+import { emojiWarning, note1, note2, note3, note4, note5 } from "@/constants";
 
 /* types */
 import type { I_Collection } from "@/@types";
@@ -33,17 +33,15 @@ export function readFromFile(filePath: string): object | I_Collection[] {
 
 /**
  * @description Combine all JSON files in a directory
- * @param directoryPath The path to the directory containing the JSON files
+ * @param source The path to the directory containing the JSON files
  */
-export function combineJSONfilesFromDirectory(
-	directoryPath: string,
-): I_Collection[] {
+export function combineJSONfilesFromDirectory(source: string): I_Collection[] {
 	let combinedObjects: I_Collection[] = [];
-	const files = fs.readdirSync(directoryPath);
+	const files = fs.readdirSync(source);
 
 	files.forEach((file) => {
 		if (path.extname(file) === ".json") {
-			const data = fs.readFileSync(path.join(directoryPath, file), "utf-8");
+			const data = fs.readFileSync(path.join(source, file), "utf-8");
 			try {
 				const json = JSON.parse(data);
 				combinedObjects = combinedObjects.concat(json);
@@ -70,10 +68,10 @@ export function getAllKeywords(data: I_Collection[]): string[] {
 
 /**
  * @description Get the names of all JSON files in a directory
- * @param directoryPath The path to the directory containing the JSON files
+ * @param source The path to the directory containing the JSON files
  */
-export function getJSONfilesNameFromDirectory(directoryPath: string): string[] {
-	const files = fs.readdirSync(directoryPath);
+export function getJSONfilesNameFromDirectory(source: string): string[] {
+	const files = fs.readdirSync(source);
 	const jsonFiles = files.filter((file) => path.extname(file) === ".json");
 	return jsonFiles.map((file) => path.basename(file, ".json")).sort();
 }
@@ -188,7 +186,7 @@ export function checker(data: I_Collection[]): boolean {
 		}
 
 		if (errors.length > 0) {
-			errorsList.push(`[${item.name}] -> ${errors.join(", ")}`);
+			errorsList.push(`${emojiWarning} [${item.name}] -> ${errors.join(", ")}`);
 		}
 	});
 
@@ -198,4 +196,24 @@ export function checker(data: I_Collection[]): boolean {
 	}
 
 	return true;
+}
+
+/**
+ * @description Fix the dot at the end of the description if it is missing
+ * @param source The path to the directory containing the JSON files
+ */
+export function fixDotFromDescription(source: string): void {
+	fs.readdirSync(source).forEach((file) => {
+		if (file.endsWith(".json")) {
+			const filePath = path.join(source, file);
+			const jsonData = fs.readFileSync(filePath, "utf-8");
+			const data = JSON.parse(jsonData);
+			data.forEach((collection: I_Collection) => {
+				if (!collection.description.endsWith(".")) {
+					collection.description += ".";
+				}
+			});
+			fs.writeFileSync(filePath, JSON.stringify(data, null, 2), "utf-8");
+		}
+	});
 }
