@@ -4,5 +4,5 @@ export interface I_Collection {
 	url: string;
 	ref: string;
 	description: string;
-	note: number | string;
+	note: number;
 }
