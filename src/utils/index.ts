@@ -125,3 +125,15 @@ export function getFormatedTag(text: string): string {
 	transformedText = "#-" + transformedText.toLowerCase();
 	return transformedText;
 }
+
+/**
+ * @description Extract all collections by category
+ * @param data Collections data
+ * @param category Category to extract from the collections
+ */
+export async function getAllCollectionsByCategory(
+	data: I_Collection[],
+	category: string,
+): Promise<I_Collection[]> {
+	return data.filter((collection) => collection.keywords[0] === category);
+}
