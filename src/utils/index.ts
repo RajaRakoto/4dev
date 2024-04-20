@@ -4,13 +4,27 @@ import * as path from "path";
 import util from "util";
 
 /* converts */
-import { emojiWarning, note1, note2, note3, note4, note5 } from "@/constants";
+import {
+	emojiWarning,
+	emojiDone,
+	note1,
+	note2,
+	note3,
+	note4,
+	note5,
+} from "@/constants";
 
 /* types */
 import type { I_Collection } from "@/@types";
 
 // ==========================
 
+/**
+ * @description Write content to a file
+ * @param destination The path to the file to write
+ * @param content The content to write to the file
+ * @param successMessage The message to display if the file is written successfully
+ */
 export async function writeToFile(
 	destination: string,
 	content: string,
@@ -30,8 +44,22 @@ export async function writeToFile(
 		await writeFileAsync(destination, content);
 		console.log(successMessage);
 	} catch (error) {
-		console.error(error);
+		console.error("error: " + error);
 	}
+}
+
+/**
+ * @description Clear the content of a file without deleting it
+ * @param filePath The path to the file to clear
+ */
+export function clearFile(filePath: string): void {
+	fs.writeFile(filePath, "", (error) => {
+		if (error) {
+			console.error("error: an error occurred while clearing the file:", error);
+			return;
+		}
+		console.log(`${emojiDone} ${filePath} has been cleared ... [done]`);
+	});
 }
 
 /**
@@ -49,7 +77,7 @@ export function combineJSONfilesFromDirectory(source: string): I_Collection[] {
 				const json = JSON.parse(data);
 				combinedObjects = combinedObjects.concat(json);
 			} catch (error) {
-				console.error(`Error: parsing JSON file -> ${file}:\n${error}`);
+				console.error(`error: parsing JSON file -> ${file}:\n${error}`);
 			}
 		}
 	});
@@ -160,41 +188,43 @@ export async function getAllCollectionsByCategory(
  * @param data Collections data
  */
 export function checker(data: I_Collection[]): boolean {
-	const errorsList: string[] = [];
+	const warningLists: string[] = [];
 
 	data.forEach((item) => {
-		const errors: string[] = [];
+		const warnings: string[] = [];
 
 		if (!item.url.trim()) {
-			errors.push("URL must not be empty.");
+			warnings.push("URL must not be empty.");
 		}
 		if (item.keywords.length === 0) {
-			errors.push("Keywords must not be empty.");
+			warnings.push("Keywords must not be empty.");
 		}
 		if (!item.description.trim()) {
-			errors.push("Description must not be empty.");
+			warnings.push("Description must not be empty.");
 		}
 		if (item.note < -1 || item.note > 5 || isNaN(item.note)) {
-			errors.push("Note must be a number between -1 and 5.");
+			warnings.push("Note must be a number between -1 and 5.");
 		}
 		if (
 			![item.name, item.url, item.ref, item.description].every(
 				(field) => typeof field === "string",
 			)
 		) {
-			errors.push("Name, URL, ref, and description fields must be strings.");
+			warnings.push("Name, URL, ref, and description fields must be strings.");
 		}
 		if (!item.keywords.every((keyword) => typeof keyword === "string")) {
-			errors.push("Keywords must be an array of strings.");
+			warnings.push("Keywords must be an array of strings.");
 		}
 
-		if (errors.length > 0) {
-			errorsList.push(`${emojiWarning} [${item.name}] -> ${errors.join(", ")}`);
+		if (warnings.length > 0) {
+			warningLists.push(
+				`${emojiWarning} [${item.name}] -> ${warnings.join(", ")}`,
+			);
 		}
 	});
 
-	if (errorsList.length > 0) {
-		errorsList.forEach((error) => console.log(error));
+	if (warningLists.length > 0) {
+		warningLists.forEach((warning) => console.log(warning));
 		return false;
 	}
 
