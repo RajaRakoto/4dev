@@ -2,6 +2,9 @@
 import * as fs from "fs";
 import * as path from "path";
 
+/* converts */
+import { note1, note2, note3, note4, note5 } from "@/constants";
+
 /* types */
 import type { I_Collection } from "@/@types";
 
@@ -73,4 +76,25 @@ export function getJSONfilesNameFromDirectory(directoryPath: string): string[] {
 	const files = fs.readdirSync(directoryPath);
 	const jsonFiles = files.filter((file) => path.extname(file) === ".json");
 	return jsonFiles.map((file) => path.basename(file, ".json")).sort();
+}
+
+export function formatNote(note: number): string {
+	switch (note) {
+		case -1:
+			return "";
+		case 0:
+			return "unclassified";
+		case 1:
+			return note1;
+		case 2:
+			return note2;
+		case 3:
+			return note3;
+		case 4:
+			return note4;
+		case 5:
+			return note5;
+		default:
+			return "unclassified";
+	}
 }
