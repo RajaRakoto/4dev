@@ -17,6 +17,7 @@ import {
 	getFormatedTag,
 	getAllCollectionsByCategory,
 	getFormatedNote,
+	checker,
 } from "@/utils";
 
 /* types */
@@ -61,10 +62,13 @@ function renderCollections(data: I_Collection[], categories: string[]) {
 async function main() {
 	const data = await combineJSONfilesFromDirectory(dataPath);
 	const categories = await getJSONfilesNameFromDirectory(dataPath);
+	const isValid = await checker(data);
 
-	renderBanner();
-	renderTableOfContents(categories);
-	renderCollections(data, categories);
+	if (isValid) {
+		renderBanner();
+		renderTableOfContents(categories);
+		renderCollections(data, categories);
+	}
 }
 
 main();
