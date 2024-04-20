@@ -131,9 +131,25 @@ export function getFormatedTag(text: string): string {
  * @param data Collections data
  * @param category Category to extract from the collections
  */
-export function getAllCollectionsByCategory(
+export async function getAllCollectionsByCategory(
 	data: I_Collection[],
 	category: string,
-): I_Collection[] {
-	return data.filter((collection) => collection.keywords[0] === category);
+): Promise<I_Collection[]> {
+	const filteredCollections = await data.filter(
+		(collection) => collection.keywords[0] === category,
+	);
+
+	await filteredCollections.sort((a, b) => {
+		const nameA = a.name.toUpperCase();
+		const nameB = b.name.toUpperCase();
+		if (nameA < nameB) {
+			return -1;
+		}
+		if (nameA > nameB) {
+			return 1;
+		}
+		return 0;
+	});
+
+	return filteredCollections;
 }
