@@ -164,40 +164,27 @@ export function checker(data: I_Collection[]): boolean {
 	data.forEach((item) => {
 		const errors: string[] = [];
 
-		if (!item.name.trim()) {
-			errors.push("Le nom ne doit pas être vide.");
-		}
 		if (!item.url.trim()) {
-			errors.push("L'URL ne doit pas être vide.");
+			errors.push("URL must not be empty.");
 		}
 		if (item.keywords.length === 0) {
-			errors.push("Les mots-clés ne doivent pas être vides.");
+			errors.push("Keywords must not be empty.");
 		}
 		if (!item.description.trim()) {
-			errors.push("La description ne doit pas être vide.");
-		}
-		if (!item.description.trim().match(/^[A-Z]/)) {
-			errors.push("La description doit commencer par une majuscule.");
-		}
-		if (!item.description.trim().match(/\.$/)) {
-			errors.push("La description doit se terminer par un point.");
+			errors.push("Description must not be empty.");
 		}
 		if (item.note < -1 || item.note > 5 || isNaN(item.note)) {
-			errors.push("La note doit être un nombre entre -1 et 5.");
+			errors.push("Note must be a number between -1 and 5.");
 		}
 		if (
 			![item.name, item.url, item.ref, item.description].every(
 				(field) => typeof field === "string",
 			)
 		) {
-			errors.push(
-				"Les champs name, url, ref et description doivent être des chaînes de caractères.",
-			);
+			errors.push("Name, URL, ref, and description fields must be strings.");
 		}
 		if (!item.keywords.every((keyword) => typeof keyword === "string")) {
-			errors.push(
-				"Les mots-clés doivent être un tableau de chaînes de caractères.",
-			);
+			errors.push("Keywords must be an array of strings.");
 		}
 
 		if (errors.length > 0) {
