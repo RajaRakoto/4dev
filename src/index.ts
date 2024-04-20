@@ -18,6 +18,7 @@ import {
 	getAllCollectionsByCategory,
 	getFormatedNote,
 	checker,
+	fixDotFromDescription,
 } from "@/utils";
 
 /* types */
@@ -65,9 +66,21 @@ async function main() {
 	const isValid = await checker(data);
 
 	if (isValid) {
-		renderBanner();
-		renderTableOfContents(categories);
-		renderCollections(data, categories);
+		try {
+			await fixDotFromDescription(dataPath);
+			await renderBanner();
+			await renderTableOfContents(categories);
+			await renderCollections(data, categories);
+			console.log("\n✅ 4dev collection generated successfully !");
+			console.log(
+				"NOTE: Please execute `bun run prettier` to format all files before commiting",
+			);
+		} catch (error) {
+			console.error(
+				"\n❌ An error occurred while generating the 4dev collection",
+			);
+			console.error(error);
+		}
 	}
 }
 
