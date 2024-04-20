@@ -12,7 +12,7 @@
 		"keywords": ["generator", "ascii", "art"],
 		"url": "http://patorjk.com/software/taag/#p=display&h=2&f=Ogre&t=transfer-cli",
 		"ref": "",
-		"description": "ASCII art text generator to turn your messages into text art pictures",
+		"description": "ASCII art text generator to turn your messages into text art pictures.",
 		"note": 5
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["generator", "ascii", "art"],
 		"url": "https://manytools.org/hacker-tools/convert-images-to-ascii-art",
 		"ref": "",
-		"description": "ASCII art text generator to turn your messages into text art pictures",
+		"description": "ASCII art text generator to turn your messages into text art pictures.",
 		"note": 5
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["generator", "regex", "regular", "expression"],
 		"url": "https://regex-generator.olafneumann.org/",
 		"ref": "",
-		"description": "Regex generator",
+		"description": "Regex generator.",
 		"note": 5
 	},
 	{
@@ -52,7 +52,7 @@
 		"keywords": ["generator", "privacy", "policy"],
 		"url": "https://app.termsfeed.com/wizard/privacy-policy",
 		"ref": "",
-		"description": "Privacy policy generator",
+		"description": "Privacy policy generator.",
 		"note": 4
 	},
 	{
@@ -68,7 +68,7 @@
 		"keywords": ["generator", "id", "identifier", "unique", "javascript"],
 		"url": "https://www.npmjs.com/package/uuid",
 		"ref": "",
-		"description": " Universal Unique Identifier (UUID) generator",
+		"description": " Universal Unique Identifier (UUID) generator.",
 		"note": 5
 	},
 	{

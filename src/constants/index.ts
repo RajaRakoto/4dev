@@ -16,6 +16,7 @@ export const emojiCategory = "📌";
 export const emojiLink = "🔗";
 export const emojiTools = "🛠️";
 export const emojiMessage = "💬";
+export const emojiWarning = "⚠️";
 
 // table
 export const tableHeader = "| URL | Keywords | Description | Rating |";

@@ -13,7 +13,7 @@
 		],
 		"url": "https://fontawesome.com/start",
 		"ref": "",
-		"description": "Font Awesome is a font and icon toolset based on CSS, LESS, and SASS",
+		"description": "Font Awesome is a font and icon toolset based on CSS, LESS, and SASS.",
 		"note": 5
 	},
 	{
@@ -29,7 +29,7 @@
 		"keywords": ["icons", "collection", "svg"],
 		"url": "https://uxwing.com",
 		"ref": "",
-		"description": "Well-optimized vector icon collection",
+		"description": "Well-optimized vector icon collection.",
 		"note": 4
 	},
 	{
@@ -37,7 +37,7 @@
 		"keywords": ["icons", "collection", "svg", "lottie"],
 		"url": "https://lordicon.com/icons",
 		"ref": "",
-		"description": "Animated icon collection (svg | lottie)",
+		"description": "Animated icon collection (svg | lottie).",
 		"note": 5
 	},
 	{
@@ -45,7 +45,7 @@
 		"keywords": ["icons", "collection", "react", "svg", "javascript"],
 		"url": "https://github.com/react-icons/react-icons",
 		"ref": "",
-		"description": "Icon collection for React",
+		"description": "Icon collection for React.",
 		"note": 5
 	},
 	{
@@ -53,7 +53,7 @@
 		"keywords": ["icons", "collection", "mui", "material", "svg"],
 		"url": "https://mui.com/material-ui/material-icons/",
 		"ref": "",
-		"description": "Icon collection for Material UI",
+		"description": "Icon collection for Material UI.",
 		"note": 5
 	},
 	{
@@ -61,7 +61,7 @@
 		"keywords": ["icons", "collection", "dev", "svg"],
 		"url": "https://devicon.dev/",
 		"ref": "",
-		"description": "Icon collection for developers",
+		"description": "Icon collection for developers.",
 		"note": 5
 	}
 ]

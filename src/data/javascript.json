@@ -68,7 +68,7 @@
 		"keywords": ["javascript", "cli", "process"],
 		"url": "https://www.npmjs.com/package/execa",
 		"ref": "",
-		"description": "Run commands in a child process",
+		"description": "Run commands in a child process.",
 		"note": 5
 	},
 	{

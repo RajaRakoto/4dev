@@ -12,7 +12,7 @@
 		"keywords": ["certification", "skill", "evaluation", "training"],
 		"url": "https://www.codingame.com/home",
 		"ref": "",
-		"description": "CodinGame is a website dedicated to playful computer programming, offering on one side puzzles of increasing difficulty to solve in one of the twenty-five programming languages !",
+		"description": "CodinGame is a website dedicated to playful computer programming, offering on one side puzzles of increasing difficulty to solve in one of the twenty-five programming languages !.",
 		"note": 5
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["certification", "skill", "evaluation", "training"],
 		"url": "https://www.hackerrank.com/",
 		"ref": "",
-		"description": "HackerRank is the market-leading remote technical assessment and interview solution for developer hiring. Learn to hire technical talent from anywhere !",
+		"description": "HackerRank is the market-leading remote technical assessment and interview solution for developer hiring. Learn to hire technical talent from anywhere !.",
 		"note": 5
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["certification", "skill", "quiz", "training"],
 		"url": "https://www.frontendmentor.io/",
 		"ref": "",
-		"description": "Challenge yourself with technical quizzes, choose from +1000 technical tests and get noticed. Showcase your skills now and get a certification !",
+		"description": "Challenge yourself with technical quizzes, choose from +1000 technical tests and get noticed. Showcase your skills now and get a certification !.",
 		"note": 4
 	},
 	{

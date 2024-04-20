@@ -169,7 +169,8 @@
 		"keywords": ["ai", "editor", "ide", "code", "cloud", "fullstack"],
 		"url": "https://projectidx.com/",
 		"ref": "",
-		"description": "Project IDX is a fully web-based workspace for full-stack application development, powered by the latest generative AI (optimized by Codey and PaLM 2)."
+		"description": "Project IDX is a fully web-based workspace for full-stack application development, powered by the latest generative AI (optimized by Codey and PaLM 2).",
+		"note": 5
 	},
 	{
 		"name": "yuka",

@@ -12,7 +12,7 @@
 		"keywords": ["builder", "bundle", "electron", "javascript"],
 		"url": "https://evitejs.dev/",
 		"ref": "",
-		"description": "Next-generation Electron build tools based on Vite.js",
+		"description": "Next-generation Electron build tools based on Vite.js.",
 		"note": 4
 	},
 	{

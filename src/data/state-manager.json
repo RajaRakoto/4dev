@@ -4,7 +4,7 @@
 		"keywords": ["state-manager", "react", "javascript"],
 		"url": "https://redux-toolkit.js.org/",
 		"ref": "",
-		"description": "The official, opinionated, batteries-included toolset for efficient Redux development",
+		"description": "The official, opinionated, batteries-included toolset for efficient Redux development.",
 		"note": 4
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["state-manager", "react", "javascript"],
 		"url": "https://zustand-demo.pmnd.rs/",
 		"ref": "",
-		"description": "Bear necessities for state management in React",
+		"description": "Bear necessities for state management in React.",
 		"note": 5
 	},
 	{

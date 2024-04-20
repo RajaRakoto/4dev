@@ -26,6 +26,7 @@
 			"javascript"
 		],
 		"url": "https://www.npmjs.com/package/react-scroll-up-button",
+		"ref": "",
 		"description": "React component for a fixed scroll-up button. The component contains all the necessary code to scroll to the top of the page (or desired position) using Easing Effect.",
 		"note": 4
 	}

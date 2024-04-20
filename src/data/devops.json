@@ -20,7 +20,7 @@
 		"keywords": ["devops", "microsoft", "cloud"],
 		"url": "https://dev.azure.com/",
 		"ref": "",
-		"description": "Microsoft Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services",
+		"description": "Microsoft Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services.",
 		"note": 5
 	},
 	{
@@ -46,6 +46,7 @@
 		],
 		"url": "https://fluentci.io/",
 		"ref": "",
-		"description": "Unleash the power of CI/CD with Dagger and Deno (TypeScript): choose from pre-built pipelines or craft your own, and watch your code soar!"
+		"description": "Unleash the power of CI/CD with Dagger and Deno (TypeScript): choose from pre-built pipelines or craft your own, and watch your code soar!.",
+		"note": 5
 	}
 ]

@@ -4,7 +4,7 @@
 		"keywords": ["image", "video"],
 		"url": "https://pixabay.com",
 		"ref": "",
-		"description": "Over 1.7 million high-quality images and videos",
+		"description": "Over 1.7 million high-quality images and videos.",
 		"note": 5
 	},
 	{
@@ -12,7 +12,7 @@
 		"keywords": ["image", "video"],
 		"url": "https://www.pexels.com",
 		"ref": "",
-		"description": "The largest library of free videos, provided by the community",
+		"description": "The largest library of free videos, provided by the community.",
 		"note": 4
 	},
 	{
@@ -20,7 +20,7 @@
 		"keywords": ["image", "theme"],
 		"url": "https://colorcurves.app",
 		"ref": "",
-		"description": "Gallery and free high-resolution photo every day",
+		"description": "Gallery and free high-resolution photo every day.",
 		"note": 4
 	},
 	{
@@ -28,7 +28,7 @@
 		"keywords": ["image", "gif", "collection"],
 		"url": "https://giphy.com/stickers/",
 		"ref": "",
-		"description": "Collection of GIF images",
+		"description": "Collection of GIF images.",
 		"note": 3
 	},
 	{
@@ -36,7 +36,7 @@
 		"keywords": ["image", "gif", "converter", "generator"],
 		"url": "https://www.bloggif.com/text",
 		"ref": "",
-		"description": "Convert text to GIF image",
+		"description": "Convert text to GIF image.",
 		"note": 3
 	},
 	{
@@ -44,7 +44,7 @@
 		"keywords": ["image", "ocr", "converter", "generator"],
 		"url": "https://www.onlineocr.net/fr/",
 		"ref": "",
-		"description": "Convert image to text",
+		"description": "Convert image to text.",
 		"note": 4
 	}
 ]

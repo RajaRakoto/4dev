@@ -11,7 +11,7 @@
 		],
 		"url": "https://www.npmjs.com/package/react-infinite-scroll-component",
 		"ref": "",
-		"description": "A component to make infinite scroll easy in React",
+		"description": "A component to make infinite scroll easy in React.",
 		"note": 4
 	},
 	{
@@ -27,7 +27,7 @@
 		],
 		"url": "https://tanstack.com/query/v4/docs/react/guides/infinite-queries",
 		"ref": "https://www.youtube.com/watch?v=Ns5wBs-HAzc",
-		"description": "A guide to make infinite scroll easy in React with Tanstack",
+		"description": "A guide to make infinite scroll easy in React with Tanstack.",
 		"note": 5
 	},
 	{
