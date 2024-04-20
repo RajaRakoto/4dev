@@ -19,9 +19,7 @@ export const emojiTools = "🛠️";
 export const emojiMessage = "💬";
 
 // table
-export const tableHeader = "| Liens | Descriptions | Notes |";
-export const tableSeparator1 = "| :-- |";
-export const tableSeparator3 = "| :-- | :-- | :-- |";
+export const tableHeader = "| URL | Description | Rating |";
 
 // banner
 export const title = `# 4dev ${emojiTools}`;
@@ -30,7 +28,7 @@ export const badge = `
 
 ![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![Gitub](https://img.shields.io/badge/-Gitub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff)
 `;
-export const message = `${emojiMessage} Vous pouvez également contribuer à ajouter/créer votre propre collection dans ce référentiel ...`;
+export const message = `${emojiMessage} You can also contribute to add/create your own collection in this repository...`;
 
 // others
 export const backToTop = `
