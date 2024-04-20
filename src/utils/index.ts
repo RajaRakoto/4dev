@@ -85,7 +85,7 @@ export function getJSONfilesNameFromDirectory(directoryPath: string): string[] {
 export function getFormatedNote(note: number): string {
 	switch (note) {
 		case -1:
-			return "";
+			return "unclassifiable";
 		case 0:
 			return "unclassified";
 		case 1:
