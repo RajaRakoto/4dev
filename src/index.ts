@@ -7,6 +7,9 @@ import {
 	tableHeader,
 	emojiCategory,
 	emojiLink,
+	emojiDone,
+	distFile,
+	emojiFailed,
 } from "./constants";
 
 /* utils */
@@ -19,6 +22,8 @@ import {
 	getFormatedNote,
 	checker,
 	fixDotFromDescription,
+	writeToFile,
+	clearFile,
 } from "@/utils";
 
 /* types */
@@ -26,61 +31,85 @@ import type { I_Collection } from "./@types";
 
 // ==========================
 
-function renderBanner() {
-	console.log(title);
-	console.log(badge);
-	console.log("\n---\n");
-	console.log(message);
-	console.log("\n---\n");
+function renderBanner(): string {
+	const result: string[] = [];
+
+	result.push(title);
+	result.push(badge);
+	result.push("\n---\n");
+	result.push(message);
+	result.push("\n---\n");
+
+	return result.join("\n");
 }
 
 function renderTableOfContents(categories: string[]) {
 	let tableOfContents = categories
 		.map((categorie) => `[${categorie}](${getFormatedTag(categorie)})`)
 		.join(" | ");
-	console.log("## table of contents");
-	console.log("| " + tableOfContents + " |");
-	console.log(getTableSeparator(categories.length));
-	console.log("\n---");
+	let result = "";
+	result += "\n## table of contents\n";
+	result += "| " + tableOfContents + " |\n";
+	result += getTableSeparator(categories.length) + "\n";
+	result += "\n---";
+	return result;
 }
 
-function renderCollections(data: I_Collection[], categories: string[]) {
+async function renderCollections(data: I_Collection[], categories: string[]) {
 	const tableColumnNumber = tableHeader.split("|").length - 2;
+	let result = "";
 
-	categories.forEach(async (category) => {
+	for (const category of categories) {
 		const collections = await getAllCollectionsByCategory(data, category);
-		console.log(`\n### ${emojiCategory} ${category}\n`);
-		console.log(tableHeader);
-		console.log(getTableSeparator(tableColumnNumber));
+		result += `\n### ${emojiCategory} ${category}\n`;
+		result += tableHeader + "\n";
+		result += getTableSeparator(tableColumnNumber) + "\n";
 		collections.forEach((collection) => {
-			console.log(
-				`| [${emojiLink} ${collection.name}](${collection.url}) | ${collection.keywords.join(" - ")} | ${collection.description} | ${getFormatedNote(collection.note)} |`,
-			);
+			result += `| [${emojiLink} ${collection.name}](${collection.url}) | ${collection.keywords.join(" - ")} | ${collection.description} | ${getFormatedNote(collection.note)} |\n`;
 		});
-	});
+	}
+
+	return result;
 }
 
 async function main() {
-	const data = await combineJSONfilesFromDirectory(dataPath);
-	const categories = await getJSONfilesNameFromDirectory(dataPath);
-	const isValid = await checker(data);
+	try {
+		const data = await combineJSONfilesFromDirectory(dataPath);
+		const categories = await getJSONfilesNameFromDirectory(dataPath);
+		const isValid = await checker(data);
 
-	if (isValid) {
-		try {
+		if (isValid) {
 			await fixDotFromDescription(dataPath);
-			await renderBanner();
-			await renderTableOfContents(categories);
-			await renderCollections(data, categories);
-			console.log("\n✅ 4dev collection generated successfully !");
+			await clearFile(distFile);
+
+			const banner = await renderBanner();
+			await writeToFile(
+				distFile,
+				banner,
+				`${emojiDone} Banner generated ... [done]`,
+			);
+
+			const tableOfContents = await renderTableOfContents(categories);
+			await writeToFile(
+				distFile,
+				tableOfContents,
+				`${emojiDone} Table of contents generated ... [done]`,
+			);
+
+			const collections = await renderCollections(data, categories);
+			await writeToFile(
+				distFile,
+				collections,
+				`${emojiDone} Collections generated ... [done]`,
+			);
+
 			console.log(
-				"NOTE: Please execute `bun run prettier` to format all files before commiting",
+				"> NOTE: Please execute `bun run prettier` to format all files before commiting",
 			);
-		} catch (error) {
-			console.error(
-				"\n❌ An error occurred while generating the 4dev collection",
-			);
-			console.error(error);
 		}
+	} catch (error) {
+		console.error(`\n${emojiFailed} An error occurred while generating ...`);
+		console.error(error);
 	}
 }
 
