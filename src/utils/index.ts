@@ -35,9 +35,9 @@ export function readFromFile(filePath: string): object | I_Collection[] {
  * @description Combine all JSON files in a directory
  * @param directoryPath The path to the directory containing the JSON files
  */
-export async function combineJSONfilesFromDirectory(
+export function combineJSONfilesFromDirectory(
 	directoryPath: string,
-): Promise<I_Collection[]> {
+): I_Collection[] {
 	let combinedObjects: I_Collection[] = [];
 	const files = fs.readdirSync(directoryPath);
 
@@ -131,9 +131,9 @@ export function getFormatedTag(text: string): string {
  * @param data Collections data
  * @param category Category to extract from the collections
  */
-export async function getAllCollectionsByCategory(
+export function getAllCollectionsByCategory(
 	data: I_Collection[],
 	category: string,
-): Promise<I_Collection[]> {
+): I_Collection[] {
 	return data.filter((collection) => collection.keywords[0] === category);
 }
