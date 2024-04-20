@@ -32,6 +32,6 @@ export const message = `${emojiMessage} You can also contribute to add/create yo
 // others
 export const backToTop = `
 <div align="left">
-    <b><a href="#table-des-matières">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 `;
