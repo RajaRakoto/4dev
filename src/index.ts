@@ -23,6 +23,7 @@ import {
 	clearFile,
 	getJSONfilesNameFromDirectory,
 	getTableSeparator,
+	getFormatedRef,
 	getFormatedTag,
 	getAllCollectionsByCategory,
 	getFormatedNote,
@@ -51,7 +52,7 @@ function renderTableOfContents(categories: string[]) {
 		.map((categorie) => `[${categorie}](${getFormatedTag(categorie)})`)
 		.join(" | ");
 	let result = "";
-	result += `\n## ${emojiTitle} Table of contents\n`;
+	result += `\n### ${emojiTitle} Table of contents\n`;
 	result += "| " + tableOfContents + " |\n";
 	result += getTableSeparator(categories.length) + "\n";
 	result += "\n---\n";
@@ -69,7 +70,7 @@ async function renderCollections(data: I_Collection[], categories: string[]) {
 		result += tableHeader + "\n";
 		result += getTableSeparator(tableColumnNumber) + "\n";
 		collections.forEach((collection) => {
-			result += `| [${emojiLink} ${collection.name}](${collection.url}) | \`${collection.keywords.join(" - ")}\` | ${collection.description} | ${getFormatedNote(collection.note)} |\n`;
+			result += `| [${emojiLink} ${collection.name}](${collection.url}) | \`${collection.keywords.join(" - ")}\` | ${collection.description} | ${getFormatedRef(collection.ref)} | ${getFormatedNote(collection.note)} |\n`;
 		});
 		result += backToTop;
 	}
