@@ -10,6 +10,7 @@ import {
 	emojiDone,
 	distFile,
 	emojiFailed,
+	backToTop,
 } from "./constants";
 
 /* utils */
@@ -51,7 +52,7 @@ function renderTableOfContents(categories: string[]) {
 	result += "\n## table of contents\n";
 	result += "| " + tableOfContents + " |\n";
 	result += getTableSeparator(categories.length) + "\n";
-	result += "\n---";
+	result += "\n---\n";
 	return result;
 }
 
@@ -61,12 +62,13 @@ async function renderCollections(data: I_Collection[], categories: string[]) {
 
 	for (const category of categories) {
 		const collections = await getAllCollectionsByCategory(data, category);
-		result += `\n### ${emojiCategory} ${category}\n`;
+		result += `\n### ${emojiCategory} ${category}\n\n`;
 		result += tableHeader + "\n";
 		result += getTableSeparator(tableColumnNumber) + "\n";
 		collections.forEach((collection) => {
-			result += `| [${emojiLink} ${collection.name}](${collection.url}) | ${collection.keywords.join(" - ")} | ${collection.description} | ${getFormatedNote(collection.note)} |\n`;
+			result += `| [${emojiLink} ${collection.name}](${collection.url}) | \`${collection.keywords.join(" - ")}\` | ${collection.description} | ${getFormatedNote(collection.note)} |\n`;
 		});
+		result += backToTop;
 	}
 
 	return result;
