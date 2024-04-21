@@ -70,5 +70,24 @@
 		"ref": "",
 		"description": "Copilot for your terminal.",
 		"note": 4
+	},
+	{
+		"name": "warp",
+		"keywords": [
+			"cli",
+			"linux",
+			"terminal",
+			"zsh",
+			"shell",
+			"ai",
+			"generative",
+			"sysadmin",
+			"devops",
+			"rust"
+		],
+		"url": "https://www.warp.dev/",
+		"ref": "",
+		"description": "Warp is the terminal reimagined with AI and collaborative tools for better productivity. Built with Rust for speed, intuitive out of the box.",
+		"note": 5
 	}
 ]
