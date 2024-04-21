@@ -3,28 +3,29 @@ import {
 	dataPath,
 	title,
 	badge,
-	message,
+	contrib,
 	tableHeader,
+	distFile,
+	backToTop,
 	emojiCategory,
 	emojiLink,
-	emojiDone,
-	distFile,
 	emojiFailed,
-	backToTop,
+	emojiDone,
+	emojiTitle,
 } from "./constants";
 
 /* utils */
 import {
 	combineJSONfilesFromDirectory,
+	checker,
+	fixDotFromDescription,
+	writeToFile,
+	clearFile,
 	getJSONfilesNameFromDirectory,
 	getTableSeparator,
 	getFormatedTag,
 	getAllCollectionsByCategory,
 	getFormatedNote,
-	checker,
-	fixDotFromDescription,
-	writeToFile,
-	clearFile,
 } from "@/utils";
 
 /* types */
@@ -37,9 +38,10 @@ function renderBanner(): string {
 
 	result.push(title);
 	result.push(badge);
-	result.push("\n---\n");
-	result.push(message);
-	result.push("\n---\n");
+	result.push("\n---");
+	result.push(`\n### ${emojiTitle} Contributing`);
+	result.push(contrib);
+	result.push("---\n");
 
 	return result.join("\n");
 }
@@ -49,7 +51,7 @@ function renderTableOfContents(categories: string[]) {
 		.map((categorie) => `[${categorie}](${getFormatedTag(categorie)})`)
 		.join(" | ");
 	let result = "";
-	result += "\n## table of contents\n";
+	result += `\n## ${emojiTitle} Table of contents\n`;
 	result += "| " + tableOfContents + " |\n";
 	result += getTableSeparator(categories.length) + "\n";
 	result += "\n---\n";
@@ -59,10 +61,11 @@ function renderTableOfContents(categories: string[]) {
 async function renderCollections(data: I_Collection[], categories: string[]) {
 	const tableColumnNumber = tableHeader.split("|").length - 2;
 	let result = "";
+	result += `\n### ${emojiTitle} Collections\n`;
 
 	for (const category of categories) {
 		const collections = await getAllCollectionsByCategory(data, category);
-		result += `\n### ${emojiCategory} ${category}\n\n`;
+		result += `\n#### ${emojiCategory} ${category}\n\n`;
 		result += tableHeader + "\n";
 		result += getTableSeparator(tableColumnNumber) + "\n";
 		collections.forEach((collection) => {
