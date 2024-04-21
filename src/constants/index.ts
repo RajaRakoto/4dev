@@ -1,6 +1,3 @@
-// dev
-export const DEVMODE = true;
-
 // prod
 export const distFile = "README.md";
 
