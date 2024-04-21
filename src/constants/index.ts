@@ -48,13 +48,23 @@ ${emojiMessage} You can also add/create your own collection in this repository b
 
 **STEP 1: Add/Create**
 
-- A JSON file located in the \`src/data\` directory represents a category. If your collection corresponds to an existing category, you can add it directly to the list of existing collections. Otherwise, you have the option to create a new category by creating a new JSON file and building your own collection.
+=> A JSON file located in the \`src/data\` directory represents a category. If your collection corresponds to an existing category, you can directly append it to the list of existing collections. Otherwise, you have the option to create a new category by generating a new JSON file and constructing your collection within it.
 
-- The first keyword should always be the most relevant to the collection, and it should also be similar to the category name to facilitate collection organization and search.
+- The \`name\` field must be unique and devoid of special characters. Following convention, the name should be in lowercase, with capitalization employed only when necessary (e.g: ChatGPT).
+
+- The \`first keyword\` should consistently reflect the collection's primary relevance and align closely with the category name to streamline organization and searchability.
+
+- The \`url\` denotes the collection source's URL.
+
+- The \`ref\` field, while optional, serves to reference the source of the collection. For instance, if the collection derives from another source, you can include the URL of the original collection.
+
+- The \`description\` field should offer a concise overview of the collection.
+
+- The \`note\` field provides a rating ranging from -1 to 5. Ratings are represented by stars: -1 indicates the collection is unclassifiable, 0 denotes unclassified, and ratings between 1 and 5 reflect varying degrees of classification.
 
 **STEP 2: Check/Build/start**
 
-- To check the validity of your collection, simply run the following command. If there are any errors, they will be displayed; otherwise, the collection will be built into the README.md file:
+- To check the validity of your collection, simply run the following command. If there are any errors, they will be displayed; otherwise, the collection will be built into the \`README.md\` file:
 
 \`\`\`bash
 bun run build && bun run start
@@ -62,7 +72,7 @@ bun run build && bun run start
 
 **STEP 3: Format**
 
-- Before commiting your collection, make sure that are formatted correctly with the following command:
+- Before commiting and PR, make sure that are formatted correctly with the following command:
 
 \`\`\`bash
 bun run prettier
