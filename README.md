@@ -92,7 +92,7 @@ bun run prettier
 | [🔗 turboSquid](https://www.turbosquid.com/) | `3d - model - collection - sharing - download` | TurboSquid is an online marketplace for 3D models, textures, and 3D files. TurboSquid offers high-quality 3D models for games, movies, advertising, and architectural visualization. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ accelerator
@@ -102,7 +102,7 @@ bun run prettier
 | [🔗 gpu.js](https://github.com/gpujs/gpu.js) | `accelerator - gpu - enhance - performance - javascript` | GPU Accelerated JavaScript. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ accordion
@@ -113,7 +113,7 @@ bun run prettier
 | [🔗 react-bootstrap-accordion](https://github.com/awran5/react-bootstrap-accordion) | `accordion - react - frontend - bootstrap - javascript` | A simple accordion component for React using Bootstrap styles. | N/A | ⭐⭐⭐🟊🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ ai
@@ -140,7 +140,7 @@ bun run prettier
 | [🔗 yuka](https://mugen87.github.io/yuka/) | `ai - 3d - engine - pathfinding - javascript` | Yuka is an artificial intelligence engine for 3D games. It's designed to handle non-player characters (NPCs) in complex 3D environments. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ animation
@@ -172,7 +172,7 @@ bun run prettier
 | [🔗 wow.js](https://github.com/graingert/wow/) | `animation - scroll - javascript` | Reveal CSS animations when scrolling a page. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ api
@@ -187,7 +187,7 @@ bun run prettier
 | [🔗 steam-api](http://api.steampowered.com/ISteamApps/GetAppList/v0002/?key=STEAMKEY&format=json) | `api - steam - rest` | API to retrieve the list of steam games. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ audit
@@ -200,7 +200,7 @@ bun run prettier
 | [🔗 react-addons-perf](https://legacy.reactjs.org/docs/perf.html) | `audit - test - performance - debug - react - javascript` | React Perf is a profiling tool for React applications. It is installed as an npm package and can be used to profile React applications written with classes or functions. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ auth
@@ -210,7 +210,7 @@ bun run prettier
 | [🔗 oauth2 - google](https://support.google.com/cloud/answer/6158849?hl=en&authuser=1&ref_topic=3473162) | `auth - oauth2 - google` | Google Cloud Platform OAuth 2.0. | N/A | ⭐⭐🟊🟊🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ avatar
@@ -222,7 +222,7 @@ bun run prettier
 | [🔗 personas](https://personas.draftbit.com/) | `avatar - profil - generator` | A playful avatar generator for the modern age. | N/A | ⭐⭐⭐🟊🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ awesome
@@ -250,7 +250,7 @@ bun run prettier
 | [🔗 awesome-vue](https://github.com/vuejs/awesome-vue) | `awesome - collection - vue - framework - javascript` | A curated list of awesome for Vue. | N/A | unclassified |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ backend
@@ -270,7 +270,7 @@ bun run prettier
 | [🔗 symfony](https://symfony.com/) | `backend - framework - php` | Symfony is a robust and highly modular PHP framework, promoting rapid development and maintainability of complex web applications through its flexible component-based architecture, advanced dependency management via Composer, extensive features such as session management, authentication, and data validation, as well as an active community and bundle ecosystem allowing for easy extension of its core functionalities. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ background
@@ -288,7 +288,7 @@ bun run prettier
 | [🔗 vanta.js](https://www.vantajs.com/) | `background - animation - generator - javascript` | Animated website backgrounds in just a few lines of code. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ blog
@@ -299,7 +299,7 @@ bun run prettier
 | [🔗 korben](https://korben.info/) | `blog - techno - fr` | Le meilleur site tech du monde visible et invisible, #logiciel #crypto #cybersecurite #linux #astuces ... | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ boilerplate
@@ -314,7 +314,7 @@ bun run prettier
 | [🔗 vscode-boilerplate](https://github.com/RajaRakoto/vscode-boilerplate) | `boilerplate - vscode - extension - template - starter - javascript` | Minimalistic boilerplate to quick-start VSCode Extension development. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ bot
@@ -326,7 +326,7 @@ bun run prettier
 | [🔗 react-messenger-customer-chat](https://www.npmjs.com/package/react-messenger-customer-chat) | `bot - component - messenger - facebook - chatbot - react - javascript` | A Messenger customer chat plugin for React. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ builder
@@ -341,7 +341,7 @@ bun run prettier
 | [🔗 webpack](https://webpack.js.org/) | `builder - bundle - javascript` | Webpack is a module bundling and compilation tool designed to simplify the development process by bundling and optimizing the application's source files, while offering advanced dependency management, loaders, and plugins, enabling the creation of optimized bundles for deployment in production. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ certification
@@ -357,7 +357,7 @@ bun run prettier
 | [🔗 w3schools](https://www.w3schools.com/) | `certification - skill - training` | W3Schools is a website for online learning of web technologies. Its content includes tutorials and references related to HTML, CSS, JavaScript, JSON, PHP, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX, and XML. It receives over 10 million unique visitors per month. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ chart
@@ -368,7 +368,7 @@ bun run prettier
 | [🔗 chartist.js](http://gionkunz.github.io/chartist-js/getting-started.html/) | `chart - javascript` | Simple responsive charts. | N/A | ⭐⭐⭐🟊🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ checker
@@ -379,7 +379,7 @@ bun run prettier
 | [🔗 typescript](https://www.typescriptlang.org/) | `checker - types - javascript` | Superset of the JavaScript language aimed at improving and securing JavaScript code production. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ chrome
@@ -414,7 +414,7 @@ bun run prettier
 | [🔗 whatruns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en) | `chrome - extension - scanner - analyse` | Find out what runs a website. Frameworks, analytics tools, WordPress plugins, fonts - you name it. | N/A | ⭐⭐⭐🟊🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ cli
@@ -430,7 +430,7 @@ bun run prettier
 | [🔗 zsh-codex](https://github.com/tom-doerr/zsh_codex) | `cli - linux - terminal - zsh - shell - ai - generative - sysadmin - openai - gpt - devops` | This is a ZSH plugin that allows you to use the OpenAI Codex AI in the command line. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ colors
@@ -445,7 +445,7 @@ bun run prettier
 | [🔗 UI gradients](https://uigradients.com) | `colors - gradient - generator` | User interface gradients color generator. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ component
@@ -476,7 +476,7 @@ bun run prettier
 | [🔗 vuetify](https://vuetifyjs.com/en/getting-started/installation/) | `component - frontend - vue - material-design - css` | Vue component framework based on Material Design. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ compress
@@ -488,7 +488,7 @@ bun run prettier
 | [🔗 tinyPNG](https://tinypng.com/) | `compress - image` | Intelligent PNG and JPEG compression. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ converter
@@ -502,7 +502,7 @@ bun run prettier
 | [🔗 vertopal](https://www.vertopal.com/) | `converter` | Free online platform to convert computer files to a variety of file formats. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ database
@@ -518,7 +518,7 @@ bun run prettier
 | [🔗 sequelize](https://sequelize.org/) | `database - sql - orm - node - javascript` | Sequelize is a modern TypeScript and Node.js ORM for Oracle, Postgres, MySQL, MariaDB, SQLite, and SQL Server, and more. Featuring solid transaction support, relations, eager and lazy loading, read replication, and more. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ date
@@ -529,7 +529,7 @@ bun run prettier
 | [🔗 moment-timezone](https://www.npmjs.com/package/moment-timezone) | `date - timer - timezone - parse - formatter - calendar - javascript` | Parse and display dates in any timezone. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ devops
@@ -543,7 +543,7 @@ bun run prettier
 | [🔗 play-with-docker](https://labs.play-with-docker.com/) | `devops - docker - playground` | Play with Docker is a project that allows you to test Docker commands in a matter of seconds. It gives you the experience of having a free Alpine Linux Virtual Machine in the cloud where you can build and run Docker containers and even create clusters. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ discord
@@ -561,7 +561,7 @@ bun run prettier
 | [🔗 speakJS](https://discord.com/invite/FePZ6VR4) | `discord - community - javascript` | A community of over 16,000 JavaScript developers. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ docs
@@ -593,7 +593,7 @@ bun run prettier
 | [🔗 wtfjs](https://github.com/denysdovhan/wtfjs/blob/master/README-fr-fr.md) | `docs - training - tutorial - javascript` | Explanations about the quirks of JavaScript. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ download
@@ -613,7 +613,7 @@ bun run prettier
 | [🔗 y2mate](https://www.y2mate.com/en19) | `download - youtube - video - audio - mp4 - mp3` | A website that allows you to download videos and audios from YouTube. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ editor
@@ -643,7 +643,7 @@ bun run prettier
 | [🔗 zety](https://zety.fr/) | `editor - cv - resume - job - illustrator - fr` | Creer un CV professionnel en ligne. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ email
@@ -655,7 +655,7 @@ bun run prettier
 | [🔗 nodemailer](https://www.npmjs.com/package/nodemailer) | `email - mail - smtp - javascript` | Nodemailer is a node.js module that allows you to send emails. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ emoji
@@ -666,7 +666,7 @@ bun run prettier
 | [🔗 unicode](https://apps.timwhitlock.info/emoji/tables/unicode) | `emoji - unicode - collection - node - javascript` | A collection of emojis and unicode symbols. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ fonts
@@ -679,7 +679,7 @@ bun run prettier
 | [🔗 google fonts](https://fonts.google.com) | `fonts - typography - google` | Library of around 1000 font families under free license. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ formatter
@@ -692,7 +692,7 @@ bun run prettier
 | [🔗 smalldev.io](https://smalldev.tools/) | `formatter - minify - beautify - html - css - javascript` | Free web developer tool to help with Beautify & Minify HTML/CSS/JavaScript, and many other handy tools. With a delightful interface. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ freelance
@@ -727,7 +727,7 @@ bun run prettier
 | [🔗 youteam](https://youteam.io/) | `freelance - remote - job - professional - work - dev` | Two weeks to recalibrate your team: with YouTeam, effortlessly ramp up or streamline, accessing the unique network of 50,000+ top talents from Europe and Latin America. | N/A | unclassifiable |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ frontend
@@ -744,7 +744,7 @@ bun run prettier
 | [🔗 vue.js](https://vuejs.org/) | `frontend - framework - ui - javascript` | Vue.js is a progressive, open-source JavaScript framework designed for building interactive and dynamic user interfaces with its simple and flexible structure, offering a reactive approach based on reusable components and efficient application state management, while seamlessly integrating with other libraries or existing projects. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ generator
@@ -775,7 +775,7 @@ bun run prettier
 | [🔗 yo](https://yeoman.io/) | `generator - extension - vscode - javascript` | Yeoman generator will guide you through the necessary steps to create your customization or extension by asking you for the required information. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ hosting
@@ -792,7 +792,7 @@ bun run prettier
 | [🔗 vercel](https://vercel.com/) | `hosting - frontend` | Vercel is a cloud deployment platform that enables developers to deploy front-end applications and serverless functions with zero configuration. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ http
@@ -802,7 +802,7 @@ bun run prettier
 | [🔗 axios](https://axios-http.com/docs/intro) | `http - promise - node - javascript` | Promise based HTTP client for the browser and node.js. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ icons
@@ -818,7 +818,7 @@ bun run prettier
 | [🔗 xicons](https://www.xicons.org/#) | `icons - collection - quick - vue - react` | Ultra-comprehensive SVG Vue/React components integrated from fluentui-system-icons, ionicons, etc... | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ illustration
@@ -832,7 +832,7 @@ bun run prettier
 | [🔗 unDraw](https://undraw.co/illustrations) | `illustration - characters` | Open-source character illustrations for all the ideas you can imagine and create (customizable color). | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ image
@@ -847,7 +847,7 @@ bun run prettier
 | [🔗 pixabay](https://pixabay.com) | `image - video` | Over 1.7 million high-quality images and videos. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ javascript
@@ -866,7 +866,7 @@ bun run prettier
 | [🔗 underscore](https://underscorejs.org/) | `javascript` | Underscore.js is a utility-belt library for JavaScript that supports the usual suspects (each, map, reduce, filter, etc...) without extending JavaScript's core objects. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ job
@@ -887,7 +887,7 @@ bun run prettier
 | [🔗 relia consulting](https://relia-consulting.com/) | `job - professional - work - esn - startup - offshore - mg` | Expertise inégalée sur les meilleures technologies - Tarif abordable et avec facilité de paiement - Communication transparente et réactive. | N/A | unclassified |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ layout
@@ -906,7 +906,7 @@ bun run prettier
 | [🔗 react-responsive](https://www.npmjs.com/package/react-responsive) | `layout - responsive - react - javascript` | A media queries component for React. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ lazyloading
@@ -918,7 +918,7 @@ bun run prettier
 | [🔗 react-loading-skeleton](https://www.npmjs.com/package/react-loading-skeleton) | `lazyloading - skeleton - animation - query - ux - ui - react - javascript` | Create beautiful animated loading skeletons that automatically adapt to your app. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ loader
@@ -932,7 +932,7 @@ bun run prettier
 | [🔗 spinkit](https://tobiasahlin.com/spinkit/) | `loader - spinner - css` | Simple CSS Spinners. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ logo
@@ -946,7 +946,7 @@ bun run prettier
 | [🔗 wix logo](https://www.wix.com/logo/maker/esh/dashboard/my-logos?logoId=1e2c6a95-5a0b-4a57-8ca0-1907d69ab990&referralInfo=savedlogos) | `logo - maker - generator` | Logo generator from the wix site. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ modal
@@ -959,7 +959,7 @@ bun run prettier
 | [🔗 sweetalert2-react](https://github.com/sweetalert2/sweetalert2-react-content) | `modal - alert - react - javascript` | Sweetalert2 for React. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ music
@@ -970,7 +970,7 @@ bun run prettier
 | [🔗 mixkit](https://mixkit.co) | `music - sound` | Free music & sound effect for your projects. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ nocode
@@ -980,7 +980,7 @@ bun run prettier
 | [🔗 builder.io](https://builder.io) | `nocode - frontend - cms - ui - generator` | Builder.io is a headless visual CMS. Think of it as a drag-drop CMS that integrates with your existing codebase, allowing you and your team to edit content without having to write code. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ pdf
@@ -991,7 +991,7 @@ bun run prettier
 | [🔗 web2pdf](https://www.web2pdfconvert.com/) | `pdf - converter` | Convert web pages to PDF. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ plateform
@@ -1006,7 +1006,7 @@ bun run prettier
 | [🔗 trello](https://trello.com/) | `plateform - project - management - organization - communication - team - community` | Trello is an online project management tool. It was created by Fog Creek Software in 2011 and was acquired by Atlassian in January 2017. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ playground
@@ -1019,7 +1019,7 @@ bun run prettier
 | [🔗 stackblitz](https://stackblitz.com) | `playground - editor - ide - cloud` | The playground that is both fast and comprehensive for editing your projects online. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ query
@@ -1031,7 +1031,7 @@ bun run prettier
 | [🔗 tanstack-query](https://tanstack.com/query) | `query - database - api - rest - async - tanstack - javascript` | tanstack-query is a JavaScript library for querying data from various sources, including REST APIs, GraphQL, and more. It provides a simple and consistent API for fetching and managing data in your applications. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ react
@@ -1049,7 +1049,7 @@ bun run prettier
 | [🔗 react-use-cart](https://www.npmjs.com/package/react-use-cart) | `react - frontend - cart - javascript` | A shopping cart hook for React. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ roadmap
@@ -1061,7 +1061,7 @@ bun run prettier
 | [🔗 roadmap.sh](https://www.roadmap.sh/) | `roadmap - tutorial - frontend - backend - fullstack - devops - mobile - desktop - design - data - docs - security` | roadmap.sh is a community effort to create roadmaps, guides, and other educational content to help developers choose their path and guide their learning. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ router
@@ -1071,7 +1071,7 @@ bun run prettier
 | [🔗 react-router-dom](https://reactrouter.com/) | `router - react - javascript` | React router is the most popular React library for creating client-side routing with rich documentation. | [ref](https://github.com/remix-run/react-router/tree/dev/examples) | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ scroll
@@ -1082,7 +1082,7 @@ bun run prettier
 | [🔗 react-scroll-up-button](https://www.npmjs.com/package/react-scroll-up-button) | `scroll - effect - animation - frontend - component - react - javascript` | React component for a fixed scroll-up button. The component contains all the necessary code to scroll to the top of the page (or desired position) using Easing Effect. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ searchengine
@@ -1093,7 +1093,7 @@ bun run prettier
 | [🔗 meilisearch](https://github.com/meilisearch/meilisearch) | `searchengine - performance - database - rust` | An ultra-fast search API that easily integrates with your applications, websites, and workflows. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ security
@@ -1108,7 +1108,7 @@ bun run prettier
 | [🔗 urlvoid](https://www.urlvoid.com/) | `security - url - scanner` | URLVoid is an online service that allows users to scan a website to detect malware and phishing activities. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ sidebar
@@ -1119,7 +1119,7 @@ bun run prettier
 | [🔗 react-sidebar](https://github.com/balloob/react-sidebar) | `sidebar - component - frontend - react - javascript` | A sidebar component for React. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ slider
@@ -1133,7 +1133,7 @@ bun run prettier
 | [🔗 swiper.js](https://swiperjs.com/get-started/) | `slider - angular - react - vue - javascript` | Free, elegant, and modern carousel without jQuery. Available for Vanilla JS and all modern frameworks like React, Vue, Angular etc... | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ stat
@@ -1146,7 +1146,7 @@ bun run prettier
 | [🔗 stateofjs](https://2021.stateofjs.com/fr-FR/) | `stat - javascript` | JavaScript and its technologies statistics. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ state-manager
@@ -1158,7 +1158,7 @@ bun run prettier
 | [🔗 zustand](https://zustand-demo.pmnd.rs/) | `state-manager - react - javascript` | Bear necessities for state management in React. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ table
@@ -1170,7 +1170,7 @@ bun run prettier
 | [🔗 react-table](https://react-table.tanstack.com/) | `table - tanstack - react - javascript` | React Table is a lightweight, extensible table library for React. It's designed to help you build simple or complex data tables in React quickly. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ tag
@@ -1181,7 +1181,7 @@ bun run prettier
 | [🔗 react-tagsinput](https://www.npmjs.com/package/react-tagsinput) | `tag - input - component - react - javascript` | Highly customizable React component for inputing tags. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ task
@@ -1192,7 +1192,7 @@ bun run prettier
 | [🔗 gulp.js](https://gulpjs.com/) | `task - runner - javascript` | Leverage gulp and the flexibility of JavaScript to automate slow and repetitive workflows and compose them into efficient build pipelines. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ template
@@ -1209,7 +1209,7 @@ bun run prettier
 | [🔗 UI design daily](https://www.uidesigndaily.com) | `template - component - figma - sketch - photoshop` | Awesome UI components of all kinds. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ test
@@ -1222,7 +1222,7 @@ bun run prettier
 | [🔗 verdaccio](https://github.com/verdaccio/verdaccio) | `test - npm - package - registry - proxy` | Verdaccio is an open-source npm package registry server that allows managing private packages locally by storing them in a local cache and publishing them to a local server. It offers a simple and effective solution for testing npm packages locally, allowing developers to install, publish, and manage them seamlessly without having to publish them to the public npm registry. | [ref](https://dev.to/one-beyond/different-approaches-to-testing-your-own-packages-locally-verdaccio-5hd8) | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ timer
@@ -1233,7 +1233,7 @@ bun run prettier
 | [🔗 react-timer-hook](https://www.npmjs.com/package/react-timer-hook) | `timer - component - counter - hook - react - javascript` | The React Timer Hook is a custom React hook designed to handle timer, stopwatch, and temporal logic/state in your React component. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ torrent
@@ -1250,7 +1250,7 @@ bun run prettier
 | [🔗 zbigz](https://zbigz.com/) | `torrent - download - cloud` | ZbigZ is a cloud storage service that lets you download torrents directly from your browser. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ training
@@ -1262,7 +1262,7 @@ bun run prettier
 | [🔗 javascript30](https://javascript30.com/) | `training - javascript` | 30 days Vanilla JS Coding Challenge, Build 30 things in 30 days with 30 tutorials, No frameworks, No compilers, No libraries!. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ tutorial
@@ -1276,7 +1276,7 @@ bun run prettier
 | [🔗 pierre giraud](https://www.pierre-giraud.com/) | `tutorial - fr` | Toutes vos ressources sur le développement web, apprenez à coder en HTML, CSS, JavaScript, Python, PHP. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ validator
@@ -1288,7 +1288,7 @@ bun run prettier
 | [🔗 yup](https://www.npmjs.com/package/yup) | `validator - security - javascript` | Yup is a JavaScript schema builder for value parsing and validation. Define a schema, transform a value to match, validate the shape of an existing value, or both. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ video
@@ -1299,7 +1299,7 @@ bun run prettier
 | [🔗 pixabay](https://pixabay.com) | `video - image` | Over 1.7 million high-quality images and videos. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ vps
@@ -1311,7 +1311,7 @@ bun run prettier
 | [🔗 sitebunker](https://sitebunker.net/vps-servers/) | `vps - server - hosting` | Choose from VPS Server packages below with dedicated resources and unlimited traffic or we can customize a package for your needs. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ vscode
@@ -1321,7 +1321,7 @@ bun run prettier
 | [🔗 vsce](https://www.npmjs.com/package/vsce) | `vscode - extension - manager - generator - javascript` | VS Code Extension Manager. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
 
 #### ⚫ youtube
@@ -1349,5 +1349,5 @@ bun run prettier
 | [🔗 _underscore](https://www.youtube.com/@Underscore_) | `youtube - tips - actu - fr` | Le talk-show des passionnés de l'IT. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>
