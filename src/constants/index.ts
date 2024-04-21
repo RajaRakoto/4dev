@@ -22,7 +22,7 @@ export const emojiDone = "✅";
 export const emojiFailed = "❌";
 
 // table
-export const tableHeader = "| URL | Keywords | Description | Rating |";
+export const tableHeader = "| URL | Keywords | Description | Ref | Rating |";
 
 // banner
 export const title = `# 4dev ${emojiTools}`;
@@ -56,7 +56,7 @@ ${emojiMessage} You can also add/create your own collection in this repository b
 
 - The \`url\` denotes the collection source's URL.
 
-- The \`ref\` field, while optional, serves to reference the source of the collection. For instance, if the collection derives from another source, you can include the URL of the original collection.
+- The optional \`ref\` field is used to indicate the source of the collection. For instance, if the collection is derived from another source, you can include the URL of the original collection. If there are multiple references, they can be separated by a " | " (e.g., "https://ref1.com | https://ref2.com"), and the script will automatically format them into a list.
 
 - The \`description\` field should offer a concise overview of the collection.
 
