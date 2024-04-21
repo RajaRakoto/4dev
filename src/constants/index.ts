@@ -52,12 +52,12 @@ ${emojiMessage} You can also add/create your own collection in this repository b
 
 - The first keyword should always be the most relevant to the collection, and it should also be similar to the category name to facilitate collection organization and search.
 
-**STEP 2: Check/Build**
+**STEP 2: Check/Build/start**
 
 - To check the validity of your collection, simply run the following command. If there are any errors, they will be displayed; otherwise, the collection will be built into the README.md file:
 
 \`\`\`bash
-bun run build
+bun run build && bun run start
 \`\`\`
 
 **STEP 3: Format**
