@@ -3,6 +3,7 @@ import {
 	dataPath,
 	title,
 	badge,
+	description,
 	contrib,
 	tableHeader,
 	distFile,
@@ -39,7 +40,8 @@ function renderBanner(): string {
 
 	result.push(title);
 	result.push(badge);
-	result.push("\n---");
+	result.push(description);
+	result.push("---");
 	result.push(`\n### ${emojiTitle} Contributing`);
 	result.push(contrib);
 	result.push("---\n");
