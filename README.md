@@ -6,17 +6,56 @@
 
 ---
 
-💬 You can also contribute to add/create your own collection in this repository ...
+### 📌 Contributing
+
+💬 You can also add/create your own collection in this repository by following the steps below:
+
+> All collections are stored in the `src/data` directory. Each collection is a JSON file that contains the following fields:
+
+```json
+{
+    "name": "collection name",
+    "keywords": ["keyword1", "keyword2", "keyword3"],
+    "url": "https://collection.io",
+    "ref": "",
+    "description": "A description of the collection ...",
+    "note": 5
+}
+```
+
+**STEP 1: Add/Create**
+
+- A JSON file located in the `src/data` directory represents a category. If your collection corresponds to an existing category, you can add it directly to the list of existing collections. Otherwise, you have the option to create a new category by creating a new JSON file and building your own collection.
+
+- The first keyword should always be the most relevant to the collection, and it should also be similar to the category name to facilitate collection organization and search.
+
+**STEP 2: Check/Build**
+
+- To check the validity of your collection, simply run the following command. If there are any errors, they will be displayed; otherwise, the collection will be built into the README.md file:
+
+```bash
+bun run build
+```
+
+**STEP 3: Format**
+
+- Before commiting your collection, make sure that are formatted correctly with the following command:
+
+```bash
+bun run prettier
+```
 
 ---
 
-## table of contents
+## 📌 Table of contents
 | [3d](#-3d) | [accelerator](#-accelerator) | [accordion](#-accordion) | [ai](#-ai) | [animation](#-animation) | [api](#-api) | [audit](#-audit) | [auth](#-auth) | [avatar](#-avatar) | [awesome](#-awesome) | [backend](#-backend) | [background](#-background) | [blog](#-blog) | [boilerplate](#-boilerplate) | [bot](#-bot) | [builder](#-builder) | [certification](#-certification) | [chart](#-chart) | [checker](#-checker) | [chrome](#-chrome) | [cli](#-cli) | [colors](#-colors) | [component](#-component) | [compress](#-compress) | [converter](#-converter) | [database](#-database) | [date](#-date) | [devops](#-devops) | [discord](#-discord) | [docs](#-docs) | [download](#-download) | [editor](#-editor) | [email](#-email) | [emoji](#-emoji) | [fonts](#-fonts) | [formatter](#-formatter) | [freelance](#-freelance) | [frontend](#-frontend) | [generator](#-generator) | [hosting](#-hosting) | [http](#-http) | [icons](#-icons) | [illustration](#-illustration) | [image](#-image) | [javascript](#-javascript) | [job](#-job) | [layout](#-layout) | [lazyloading](#-lazyloading) | [loader](#-loader) | [logo](#-logo) | [modal](#-modal) | [music](#-music) | [nocode](#-nocode) | [pdf](#-pdf) | [plateform](#-plateform) | [playground](#-playground) | [query](#-query) | [react](#-react) | [roadmap](#-roadmap) | [router](#-router) | [scroll](#-scroll) | [searchengine](#-searchengine) | [security](#-security) | [sidebar](#-sidebar) | [slider](#-slider) | [stat](#-stat) | [state-manager](#-state-manager) | [table](#-table) | [tag](#-tag) | [task](#-task) | [template](#-template) | [test](#-test) | [timer](#-timer) | [torrent](#-torrent) | [training](#-training) | [tutorial](#-tutorial) | [validator](#-validator) | [video](#-video) | [vps](#-vps) | [vscode](#-vscode) | [youtube](#-youtube) |
 |  :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :--  |
 
 ---
 
-### 📌 3d
+### 📌 Collections
+
+#### ⚫ 3d
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -46,7 +85,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 accelerator
+#### ⚫ accelerator
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -56,7 +95,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 accordion
+#### ⚫ accordion
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -67,7 +106,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 ai
+#### ⚫ ai
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -94,7 +133,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 animation
+#### ⚫ animation
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -126,7 +165,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 api
+#### ⚫ api
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -141,7 +180,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 audit
+#### ⚫ audit
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -154,7 +193,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 auth
+#### ⚫ auth
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -164,7 +203,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 avatar
+#### ⚫ avatar
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -176,7 +215,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 awesome
+#### ⚫ awesome
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -204,7 +243,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 backend
+#### ⚫ backend
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -224,7 +263,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 background
+#### ⚫ background
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -242,7 +281,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 blog
+#### ⚫ blog
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -253,7 +292,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 boilerplate
+#### ⚫ boilerplate
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -268,7 +307,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 bot
+#### ⚫ bot
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -280,7 +319,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 builder
+#### ⚫ builder
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -295,7 +334,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 certification
+#### ⚫ certification
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -311,7 +350,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 chart
+#### ⚫ chart
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -322,7 +361,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 checker
+#### ⚫ checker
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -333,7 +372,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 chrome
+#### ⚫ chrome
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -368,7 +407,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 cli
+#### ⚫ cli
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -377,13 +416,14 @@
 | [🔗 inquirer.js](https://www.npmjs.com/package/inquirer) | `cli - prompt - collection - javascript` | A collection of prompts for command-line interfaces. | ⭐⭐⭐⭐⭐ |
 | [🔗 ora](https://www.npmjs.com/package/ora) | `cli - spinner - loader - node - javascript` | An elegant spinner for command-line interfaces. | ⭐⭐⭐⭐⭐ |
 | [🔗 plz-cli](https://github.com/m1guelpf/plz-cli) | `cli - linux - terminal - zsh - shell - ai - generative - sysadmin - openai - gpt - devops` | Copilot for your terminal. | ⭐⭐⭐⭐🟊 |
+| [🔗 warp](https://www.warp.dev/) | `cli - linux - terminal - zsh - shell - ai - generative - sysadmin - devops - rust` | Warp is the terminal reimagined with AI and collaborative tools for better productivity. Built with Rust for speed, intuitive out of the box. | ⭐⭐⭐⭐⭐ |
 | [🔗 zsh-codex](https://github.com/tom-doerr/zsh_codex) | `cli - linux - terminal - zsh - shell - ai - generative - sysadmin - openai - gpt - devops` | This is a ZSH plugin that allows you to use the OpenAI Codex AI in the command line. | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 colors
+#### ⚫ colors
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -398,7 +438,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 component
+#### ⚫ component
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -429,7 +469,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 compress
+#### ⚫ compress
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -441,7 +481,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 converter
+#### ⚫ converter
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -455,7 +495,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 database
+#### ⚫ database
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -471,7 +511,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 date
+#### ⚫ date
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -482,7 +522,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 devops
+#### ⚫ devops
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -496,7 +536,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 discord
+#### ⚫ discord
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -514,7 +554,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 docs
+#### ⚫ docs
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -546,7 +586,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 download
+#### ⚫ download
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -566,7 +606,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 editor
+#### ⚫ editor
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -596,7 +636,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 email
+#### ⚫ email
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -608,7 +648,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 emoji
+#### ⚫ emoji
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -619,7 +659,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 fonts
+#### ⚫ fonts
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -632,7 +672,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 formatter
+#### ⚫ formatter
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -645,7 +685,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 freelance
+#### ⚫ freelance
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -680,7 +720,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 frontend
+#### ⚫ frontend
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -697,7 +737,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 generator
+#### ⚫ generator
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -728,7 +768,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 hosting
+#### ⚫ hosting
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -745,7 +785,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 http
+#### ⚫ http
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -755,7 +795,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 icons
+#### ⚫ icons
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -771,7 +811,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 illustration
+#### ⚫ illustration
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -785,7 +825,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 image
+#### ⚫ image
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -800,7 +840,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 javascript
+#### ⚫ javascript
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -819,7 +859,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 job
+#### ⚫ job
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -840,7 +880,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 layout
+#### ⚫ layout
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -859,7 +899,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 lazyloading
+#### ⚫ lazyloading
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -871,7 +911,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 loader
+#### ⚫ loader
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -885,7 +925,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 logo
+#### ⚫ logo
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -899,7 +939,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 modal
+#### ⚫ modal
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -912,7 +952,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 music
+#### ⚫ music
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -923,7 +963,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 nocode
+#### ⚫ nocode
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -933,7 +973,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 pdf
+#### ⚫ pdf
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -944,7 +984,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 plateform
+#### ⚫ plateform
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -959,7 +999,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 playground
+#### ⚫ playground
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -972,7 +1012,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 query
+#### ⚫ query
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -984,7 +1024,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 react
+#### ⚫ react
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1002,7 +1042,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 roadmap
+#### ⚫ roadmap
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1014,7 +1054,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 router
+#### ⚫ router
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1024,7 +1064,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 scroll
+#### ⚫ scroll
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1035,7 +1075,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 searchengine
+#### ⚫ searchengine
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1046,7 +1086,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 security
+#### ⚫ security
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1061,7 +1101,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 sidebar
+#### ⚫ sidebar
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1072,7 +1112,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 slider
+#### ⚫ slider
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1086,7 +1126,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 stat
+#### ⚫ stat
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1099,7 +1139,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 state-manager
+#### ⚫ state-manager
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1111,7 +1151,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 table
+#### ⚫ table
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1123,7 +1163,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 tag
+#### ⚫ tag
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1134,7 +1174,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 task
+#### ⚫ task
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1145,7 +1185,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 template
+#### ⚫ template
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1162,7 +1202,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 test
+#### ⚫ test
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1175,7 +1215,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 timer
+#### ⚫ timer
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1186,7 +1226,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 torrent
+#### ⚫ torrent
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1203,7 +1243,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 training
+#### ⚫ training
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1215,7 +1255,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 tutorial
+#### ⚫ tutorial
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1229,7 +1269,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 validator
+#### ⚫ validator
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1241,7 +1281,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 video
+#### ⚫ video
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1252,7 +1292,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 vps
+#### ⚫ vps
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1264,7 +1304,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 vscode
+#### ⚫ vscode
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
@@ -1274,7 +1314,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### 📌 youtube
+#### ⚫ youtube
 
 | URL | Keywords | Description | Rating |
 |  :-- | :-- | :-- | :--  |
