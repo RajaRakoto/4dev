@@ -184,6 +184,23 @@ export async function getAllCollectionsByCategory(
 }
 
 /**
+ * @description Format the reference link
+ * @param ref Reference link
+ */
+export function getFormatedRef(ref: string): string {
+	if (ref === "") {
+		return "N/A";
+	} else if (!ref.includes(" | ")) {
+		return `[ref](${ref})`;
+	} else {
+		return ref
+			.split(" | ")
+			.map((url, index) => `[ref${index + 1}](${url})`)
+			.join(" - ");
+	}
+}
+
+/**
  * @description Check the validity of the data before writing it to a file
  * @param data Collections data
  */
