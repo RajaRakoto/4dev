@@ -35,7 +35,7 @@
 
 - The `url` denotes the collection source's URL.
 
-- The optional `ref` field is used to indicate the source of the collection. For instance, if the collection is derived from another source, you can include the URL of the original collection. If there are multiple references, they can be separated by a " | " (e.g., "https://ref1.com | https://ref2.com"), and the script will automatically format them into a list.
+- The optional `ref` field is used to indicate the source of the collection. For instance, if the collection is derived from another source, you can include the URL of the original collection. If there are multiple references, they can be separated by a " | " (e.g: "https://ref1.com | https://ref2.com"), and the script will automatically format them into a list.
 
 - The `description` field should offer a concise overview of the collection.
 
