@@ -24,7 +24,7 @@ describe("CHECKER TEST", () => {
 		expect(checker(data, true)).toBe(true);
 	});
 
-	test("should return false and warn for empty URL", () => {
+	test("should return false for empty URL", () => {
 		const data: I_Collection[] = [
 			{
 				name: "invalid collection",
@@ -38,7 +38,7 @@ describe("CHECKER TEST", () => {
 		expect(checker(data, true)).toBe(false);
 	});
 
-	test("should return false and warn for empty keywords array", () => {
+	test("should return false for empty keywords array", () => {
 		const data: I_Collection[] = [
 			{
 				name: "invalid collection",
@@ -52,7 +52,7 @@ describe("CHECKER TEST", () => {
 		expect(checker(data, true)).toBe(false);
 	});
 
-	test("should return false and warn for empty description", () => {
+	test("should return false for empty description", () => {
 		const data: I_Collection[] = [
 			{
 				name: "invalid collection",
@@ -66,7 +66,7 @@ describe("CHECKER TEST", () => {
 		expect(checker(data, true)).toBe(false);
 	});
 
-	test("should return false and warn for note out of range", () => {
+	test("should return false for note out of range", () => {
 		const data: I_Collection[] = [
 			{
 				name: "invalid collection",
@@ -80,21 +80,21 @@ describe("CHECKER TEST", () => {
 		expect(checker(data, true)).toBe(false);
 	});
 
-	// test("should return false and warn for non-string name", () => {
-	// 	const data: I_Collection[] = [
-	// 		{
-	// 			name: 123 as any,
-	// 			keywords: ["keyword1", "keyword2"],
-	// 			url: "https://example.com",
-	// 			ref: "",
-	// 			description: "This is an invalid collection.",
-	// 			note: 5,
-	// 		},
-	// 	];
-	// 	expect(checker(data, true)).toBe(false);
-	// });
+	test("should return false for non-string name", () => {
+		const data: I_Collection[] = [
+			{
+				name: 123 as any,
+				keywords: ["keyword1", "keyword2"],
+				url: "https://example.com",
+				ref: "",
+				description: "This is an invalid collection.",
+				note: 5,
+			},
+		];
+		expect(checker(data, true)).toBe(false);
+	});
 
-	test("should return false and warn for non-string keywords", () => {
+	test("should return false for non-string keywords", () => {
 		const data: I_Collection[] = [
 			{
 				name: "invalid collection",
@@ -108,63 +108,63 @@ describe("CHECKER TEST", () => {
 		expect(checker(data, true)).toBe(false);
 	});
 
-	// test("should return false and warn for non-string URL", () => {
-	// 	const data: I_Collection[] = [
-	// 		{
-	// 			name: "invalid collection",
-	// 			keywords: ["keyword1", "keyword2"],
-	// 			url: 123 as any,
-	// 			ref: "",
-	// 			description: "This is an invalid collection.",
-	// 			note: 5,
-	// 		},
-	// 	];
-	// 	expect(checker(data, true)).toBe(false);
-	// });
+	test("should return false for non-string URL", () => {
+		const data: I_Collection[] = [
+			{
+				name: "invalid collection",
+				keywords: ["keyword1", "keyword2"],
+				url: 123 as any,
+				ref: "",
+				description: "This is an invalid collection.",
+				note: 5,
+			},
+		];
+		expect(checker(data, true)).toBe(false);
+	});
 
-	// test("should return false and warn for non-string ref", () => {
-	// 	const data: I_Collection[] = [
-	// 		{
-	// 			name: "invalid collection",
-	// 			keywords: ["keyword1", "keyword2"],
-	// 			url: "https://example.com",
-	// 			ref: 123 as any,
-	// 			description: "This is an invalid collection.",
-	// 			note: 5,
-	// 		},
-	// 	];
-	// 	expect(checker(data, true)).toBe(false);
-	// });
+	test("should return false for non-string ref", () => {
+		const data: I_Collection[] = [
+			{
+				name: "invalid collection",
+				keywords: ["keyword1", "keyword2"],
+				url: "https://example.com",
+				ref: 123 as any,
+				description: "This is an invalid collection.",
+				note: 5,
+			},
+		];
+		expect(checker(data, true)).toBe(false);
+	});
 
-	// test("should return false and warn for non-string description", () => {
-	// 	const data: I_Collection[] = [
-	// 		{
-	// 			name: "invalid collection",
-	// 			keywords: ["keyword1", "keyword2"],
-	// 			url: "https://example.com",
-	// 			ref: "",
-	// 			description: 123 as any,
-	// 			note: 5,
-	// 		},
-	// 	];
-	// 	expect(checker(data, true)).toBe(false);
-	// });
+	test("should return false for non-string description", () => {
+		const data: I_Collection[] = [
+			{
+				name: "invalid collection",
+				keywords: ["keyword1", "keyword2"],
+				url: "https://example.com",
+				ref: "",
+				description: 123 as any,
+				note: 5,
+			},
+		];
+		expect(checker(data, true)).toBe(false);
+	});
 
-	// test("should return false and warn for non-number note", () => {
-	// 	const data: I_Collection[] = [
-	// 		{
-	// 			name: "invalid collection",
-	// 			keywords: ["keyword1", "keyword2"],
-	// 			url: "https://example.com",
-	// 			ref: "",
-	// 			description: "This is an invalid collection.",
-	// 			note: "5" as any,
-	// 		},
-	// 	];
-	// 	expect(checker(data, true)).toBe(false);
-	// });
+	test("should return false for non-number note", () => {
+		const data: I_Collection[] = [
+			{
+				name: "invalid collection",
+				keywords: ["keyword1", "keyword2"],
+				url: "https://example.com",
+				ref: "",
+				description: "This is an invalid collection.",
+				note: "5" as any,
+			},
+		];
+		expect(checker(data, true)).toBe(false);
+	});
 
-	test("should return false and warn if one of the collections is invalid", () => {
+	test("should return false if one of the collections is invalid", () => {
 		const data: I_Collection[] = [
 			{
 				name: "valid collection",
@@ -186,7 +186,7 @@ describe("CHECKER TEST", () => {
 		expect(checker(data, true)).toBe(false);
 	});
 
-	test("should return false and warn for multiple errors", () => {
+	test("should return false for multiple errors", () => {
 		const data: I_Collection[] = [
 			{
 				name: "invalid collection",
