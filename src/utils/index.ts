@@ -203,8 +203,9 @@ export function getFormatedRef(ref: string): string {
 /**
  * @description Check the validity of the data before writing it to a file
  * @param data Collections data
+ * @param test If true, the function will enter test mode and not display warnings, useful for unit testing
  */
-export function checker(data: I_Collection[]): boolean {
+export function checker(data: I_Collection[], test: boolean = false): boolean {
 	const warningLists: string[] = [];
 
 	data.forEach((item) => {
@@ -240,8 +241,11 @@ export function checker(data: I_Collection[]): boolean {
 		}
 	});
 
-	if (warningLists.length > 0) {
+	if (!test) {
 		warningLists.forEach((warning) => console.log(warning));
+	}
+
+	if (warningLists.length > 0) {
 		return false;
 	}
 
