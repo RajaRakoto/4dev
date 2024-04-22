@@ -211,16 +211,20 @@ export function checker(data: I_Collection[], test: boolean = false): boolean {
 	data.forEach((item) => {
 		const warnings: string[] = [];
 
-		if (!item.url.trim()) {
-			warnings.push("URL must not be empty.");
+		if (
+			[item.url, item.description].every((field) => typeof field === "string")
+		) {
+			if (!item.url.trim()) {
+				warnings.push("URL must not be empty.");
+			}
+			if (!item.description.trim()) {
+				warnings.push("Description must not be empty.");
+			}
 		}
 		if (item.keywords.length === 0) {
 			warnings.push("Keywords must not be empty.");
 		}
-		if (!item.description.trim()) {
-			warnings.push("Description must not be empty.");
-		}
-		if (item.note < -1 || item.note > 5 || isNaN(item.note)) {
+		if (typeof item.note != "number" || item.note < -1 || item.note > 5) {
 			warnings.push("Note must be a number between -1 and 5.");
 		}
 		if (
@@ -236,7 +240,7 @@ export function checker(data: I_Collection[], test: boolean = false): boolean {
 
 		if (warnings.length > 0) {
 			warningLists.push(
-				`${emojiWarning} [${item.name}] -> ${warnings.join(", ")}`,
+				`${emojiWarning} [${item.name}] -> ${warnings.join(" | ")}`,
 			);
 		}
 	});
