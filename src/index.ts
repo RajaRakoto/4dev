@@ -1,18 +1,11 @@
 /* constants */
 import {
 	dataPath,
-	title,
-	badge,
-	description,
-	contrib,
+	banner,
 	tableHeader,
 	distFile,
 	backToTop,
-	emojiCategory,
-	emojiLink,
-	emojiFailed,
-	emojiDone,
-	emojiTitle,
+	emoji,
 } from "./constants";
 
 /* utils */
@@ -38,12 +31,12 @@ import type { I_Collection } from "./@types";
 function renderBanner(): string {
 	const result: string[] = [];
 
-	result.push(title);
-	result.push(badge);
-	result.push(description);
+	result.push(banner.title);
+	result.push(banner.badge);
+	result.push(banner.description);
 	result.push("---");
-	result.push(`\n### ${emojiTitle} Contributing`);
-	result.push(contrib);
+	result.push(`\n### ${emoji.title} Contributing`);
+	result.push(banner.contrib);
 	result.push("---\n");
 
 	return result.join("\n");
@@ -54,7 +47,7 @@ function renderTableOfContents(categories: string[]) {
 		.map((categorie) => `[${categorie}](${getFormatedTag(categorie)})`)
 		.join(" | ");
 	let result = "";
-	result += `\n### ${emojiTitle} Table of contents\n`;
+	result += `\n### ${emoji.title} Table of contents\n\n`;
 	result += "| " + tableOfContents + " |\n";
 	result += getTableSeparator(categories.length) + "\n";
 	result += "\n---\n";
@@ -64,15 +57,15 @@ function renderTableOfContents(categories: string[]) {
 async function renderCollections(data: I_Collection[], categories: string[]) {
 	const tableColumnNumber = tableHeader.split("|").length - 2;
 	let result = "";
-	result += `\n### ${emojiTitle} Collections\n`;
+	result += `\n### ${emoji.title} Collections\n`;
 
 	for (const category of categories) {
 		const collections = await getAllCollectionsByCategory(data, category);
-		result += `\n#### ${emojiCategory} ${category}\n\n`;
+		result += `\n#### ${emoji.category} ${category}\n\n`;
 		result += tableHeader + "\n";
 		result += getTableSeparator(tableColumnNumber) + "\n";
 		collections.forEach((collection) => {
-			result += `| [${emojiLink} ${collection.name}](${collection.url}) | \`${collection.keywords.join(" - ")}\` | ${collection.description} | ${getFormatedRef(collection.ref)} | ${getFormatedNote(collection.note)} |\n`;
+			result += `| [${emoji.link} ${collection.name}](${collection.url}) | \`${collection.keywords.join(" - ")}\` | ${collection.description} | ${getFormatedRef(collection.ref)} | ${getFormatedNote(collection.note)} |\n`;
 		});
 		result += backToTop;
 	}
@@ -94,21 +87,21 @@ async function main() {
 			await writeToFile(
 				distFile,
 				banner,
-				`${emojiDone} Banner generated ... [done]`,
+				`${emoji.done} Banner generated ... [done]`,
 			);
 
 			const tableOfContents = await renderTableOfContents(categories);
 			await writeToFile(
 				distFile,
 				tableOfContents,
-				`${emojiDone} Table of contents generated ... [done]`,
+				`${emoji.done} Table of contents generated ... [done]`,
 			);
 
 			const collections = await renderCollections(data, categories);
 			await writeToFile(
 				distFile,
 				collections,
-				`${emojiDone} Collections generated ... [done]`,
+				`${emoji.done} Collections generated ... [done]`,
 			);
 
 			console.log(
@@ -116,7 +109,7 @@ async function main() {
 			);
 		}
 	} catch (error) {
-		console.error(`\n${emojiFailed} An error occurred while generating ...`);
+		console.error(`\n${emoji.failed} An error occurred while generating ...`);
 		console.error(error);
 	}
 }

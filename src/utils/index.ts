@@ -4,15 +4,7 @@ import * as path from "path";
 import util from "util";
 
 /* converts */
-import {
-	emojiWarning,
-	emojiDone,
-	note1,
-	note2,
-	note3,
-	note4,
-	note5,
-} from "@/constants";
+import { emoji, rating } from "@/constants";
 
 /* types */
 import type { I_Collection } from "@/@types";
@@ -58,7 +50,7 @@ export function clearFile(filePath: string): void {
 			console.error("error: an error occurred while clearing the file:", error);
 			return;
 		}
-		console.log(`${emojiDone} ${filePath} has been cleared ... [done]`);
+		console.log(`${emoji.done} ${filePath} has been cleared ... [done]`);
 	});
 }
 
@@ -114,21 +106,21 @@ export function getJSONfilesNameFromDirectory(source: string): string[] {
 export function getFormatedNote(note: number): string {
 	switch (note) {
 		case -1:
-			return "unclassifiable";
+			return rating.unclassifiable;
 		case 0:
-			return "unclassified";
+			return rating.unclassified;
 		case 1:
-			return note1;
+			return rating.star1;
 		case 2:
-			return note2;
+			return rating.star2;
 		case 3:
-			return note3;
+			return rating.star3;
 		case 4:
-			return note4;
+			return rating.star4;
 		case 5:
-			return note5;
+			return rating.star5;
 		default:
-			return "unclassified";
+			return rating.unclassified;
 	}
 }
 
@@ -240,7 +232,7 @@ export function checker(data: I_Collection[], test: boolean = false): boolean {
 
 		if (warnings.length > 0) {
 			warningLists.push(
-				`${emojiWarning} [${item.name}] -> ${warnings.join(" | ")}`,
+				`${emoji.warning} [${item.name}] -> ${warnings.join(" | ")}`,
 			);
 		}
 	});
