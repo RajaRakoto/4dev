@@ -28,49 +28,74 @@ import type { I_Collection } from "./@types";
 
 // ==========================
 
-function renderBanner(): string {
-	const result: string[] = [];
+function renderBanner(): Promise<string> {
+	return new Promise((resolve, reject) => {
+		try {
+			const result: string[] = [];
 
-	result.push(banner.title);
-	result.push(banner.badge);
-	result.push(banner.description);
-	result.push("---");
-	result.push(`\n### ${emoji.title} Contributing`);
-	result.push(banner.contrib);
-	result.push("---\n");
+			result.push(banner.title);
+			result.push(banner.badge);
+			result.push(banner.description);
+			result.push("---");
+			result.push(`\n### ${emoji.title} Contributing`);
+			result.push(banner.contrib);
+			result.push("---\n");
 
-	return result.join("\n");
+			resolve(result.join("\n"));
+		} catch (error) {
+			reject(
+				`[error]: an error occurred while rendering the banner: \n${error}`,
+			);
+		}
+	});
 }
 
-function renderTableOfContents(categories: string[]) {
-	let tableOfContents = categories
-		.map((categorie) => `[${categorie}](${getFormatedTag(categorie)})`)
-		.join(" | ");
-	let result = "";
-	result += `\n### ${emoji.title} Table of contents\n\n`;
-	result += "| " + tableOfContents + " |\n";
-	result += getTableSeparator(categories.length) + "\n";
-	result += "\n---\n";
-	return result;
+function renderTableOfContents(categories: string[]): Promise<string> {
+	return new Promise((resolve, reject) => {
+		try {
+			let tableOfContents = categories
+				.map((categorie) => `[${categorie}](${getFormatedTag(categorie)})`)
+				.join(" | ");
+			let result = "";
+			result += `\n### ${emoji.title} Table of contents\n\n`;
+			result += "| " + tableOfContents + " |\n";
+			result += getTableSeparator(categories.length) + "\n";
+			result += "\n---\n";
+			resolve(result);
+		} catch (error) {
+			reject(
+				`[error]: an error occurred while rendering the table of contents: \n${error}`,
+			);
+		}
+	});
 }
 
-async function renderCollections(data: I_Collection[], categories: string[]) {
-	const tableColumnNumber = tableHeader.split("|").length - 2;
-	let result = "";
-	result += `\n### ${emoji.title} Collections\n`;
+async function renderCollections(
+	data: I_Collection[],
+	categories: string[],
+): Promise<string> {
+	try {
+		const tableColumnNumber = tableHeader.split("|").length - 2;
+		let result = "";
+		result += `\n### ${emoji.title} Collections\n`;
 
-	for (const category of categories) {
-		const collections = await getAllCollectionsByCategory(data, category);
-		result += `\n#### ${emoji.category} ${category}\n\n`;
-		result += tableHeader + "\n";
-		result += getTableSeparator(tableColumnNumber) + "\n";
-		collections.forEach((collection) => {
-			result += `| [${emoji.link} ${collection.name}](${collection.url}) | \`${collection.keywords.join(" - ")}\` | ${collection.description} | ${getFormatedRef(collection.ref)} | ${getFormatedNote(collection.note)} |\n`;
-		});
-		result += backToTop;
+		for (const category of categories) {
+			const collections = await getAllCollectionsByCategory(data, category);
+			result += `\n#### ${emoji.category} ${category}\n\n`;
+			result += tableHeader + "\n";
+			result += getTableSeparator(tableColumnNumber) + "\n";
+			collections.forEach((collection) => {
+				result += `| [${emoji.link} ${collection.name}](${collection.url}) | \`${collection.keywords.join(" - ")}\` | ${collection.description} | ${getFormatedRef(collection.ref)} | ${getFormatedNote(collection.note)} |\n`;
+			});
+			result += backToTop;
+		}
+
+		return result;
+	} catch (error) {
+		throw new Error(
+			`[error]: an error occurred while rendering the collections: \n${error}`,
+		);
 	}
-
-	return result;
 }
 
 async function main() {

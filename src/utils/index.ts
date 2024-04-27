@@ -11,6 +11,11 @@ import type { I_Collection } from "@/@types";
 
 // ==========================
 
+const writeFileAsync = util.promisify(fs.writeFile);
+const readFileAsync = util.promisify(fs.readFile);
+const readDirAsync = util.promisify(fs.readdir);
+const fileExistsAsync = util.promisify(fs.exists);
+
 /**
  * @description Write content to a file
  * @param destination The path to the file to write
@@ -22,11 +27,8 @@ export async function writeToFile(
 	content: string,
 	successMessage: string,
 ): Promise<void> {
-	const writeFileAsync = util.promisify(fs.writeFile);
-	const readFileAsync = util.promisify(fs.readFile);
-
 	try {
-		const fileExists = fs.existsSync(destination);
+		const fileExists = await fileExistsAsync(destination);
 
 		if (fileExists) {
 			const existingContent = await readFileAsync(destination, "utf8");
@@ -36,7 +38,9 @@ export async function writeToFile(
 		await writeFileAsync(destination, content);
 		console.log(successMessage);
 	} catch (error) {
-		console.error("error: " + error);
+		throw new Error(
+			`[error]: an error occurred while writing the file: \n${error}`,
+		);
 	}
 }
 
@@ -44,37 +48,43 @@ export async function writeToFile(
  * @description Clear the content of a file without deleting it
  * @param filePath The path to the file to clear
  */
-export function clearFile(filePath: string): void {
-	fs.writeFile(filePath, "", (error) => {
-		if (error) {
-			console.error("error: an error occurred while clearing the file:", error);
-			return;
-		}
+export async function clearFile(filePath: string): Promise<void> {
+	try {
+		await writeFileAsync(filePath, "");
 		console.log(`${emoji.done} ${filePath} has been cleared ... [done]`);
-	});
+	} catch (error) {
+		throw new Error(
+			`[error]: an error occurred while clearing the file: \n${error}`,
+		);
+	}
 }
 
 /**
  * @description Combine all JSON files in a directory
  * @param source The path to the directory containing the JSON files
  */
-export function combineJSONfilesFromDirectory(source: string): I_Collection[] {
-	let combinedObjects: I_Collection[] = [];
-	const files = fs.readdirSync(source);
+export async function combineJSONfilesFromDirectory(
+	source: string,
+): Promise<I_Collection[]> {
+	try {
+		let combinedObjects: I_Collection[] = [];
+		const files = await readDirAsync(source);
 
-	files.forEach((file) => {
-		if (path.extname(file) === ".json") {
-			const data = fs.readFileSync(path.join(source, file), "utf-8");
-			try {
+		files.forEach(async (file) => {
+			if (path.extname(file) === ".json") {
+				const filePath = path.join(source, file);
+				const data = await readFileAsync(filePath, "utf-8");
 				const json = JSON.parse(data);
 				combinedObjects = combinedObjects.concat(json);
-			} catch (error) {
-				console.error(`error: parsing JSON file -> ${file}:\n${error}`);
 			}
-		}
-	});
+		});
 
-	return combinedObjects;
+		return combinedObjects;
+	} catch (error) {
+		throw new Error(
+			`[error]: an error occurred while combining the JSON files: \n${error}`,
+		);
+	}
 }
 
 /**
@@ -93,10 +103,18 @@ export function getAllKeywords(data: I_Collection[]): string[] {
  * @description Get the names of all JSON files in a directory
  * @param source The path to the directory containing the JSON files
  */
-export function getJSONfilesNameFromDirectory(source: string): string[] {
-	const files = fs.readdirSync(source);
-	const jsonFiles = files.filter((file) => path.extname(file) === ".json");
-	return jsonFiles.map((file) => path.basename(file, ".json")).sort();
+export async function getJSONfilesNameFromDirectory(
+	source: string,
+): Promise<string[]> {
+	try {
+		const files = await readDirAsync(source);
+		const jsonFiles = files.filter((file) => path.extname(file) === ".json");
+		return jsonFiles.map((file) => path.basename(file, ".json")).sort();
+	} catch (error) {
+		throw new Error(
+			`[error]: an error occurred while getting the JSON files names: \n${error}`,
+		);
+	}
 }
 
 /**
@@ -130,7 +148,7 @@ export function getFormatedNote(note: number): string {
  */
 export function getTableSeparator(columns: number): string {
 	if (columns <= 0) {
-		throw new Error("error: columns must be greater than 0");
+		throw new Error("[error]: columns must be greater than 0");
 	}
 	return "| " + Array.from({ length: columns }, () => " :-- ").join("|") + " |";
 }
@@ -156,23 +174,29 @@ export async function getAllCollectionsByCategory(
 	data: I_Collection[],
 	category: string,
 ): Promise<I_Collection[]> {
-	const filteredCollections = await data.filter(
-		(collection) => collection.keywords[0] === category,
-	);
+	try {
+		const filteredCollections = await data.filter(
+			(collection) => collection.keywords[0] === category,
+		);
 
-	await filteredCollections.sort((a, b) => {
-		const nameA = a.name.toUpperCase();
-		const nameB = b.name.toUpperCase();
-		if (nameA < nameB) {
-			return -1;
-		}
-		if (nameA > nameB) {
-			return 1;
-		}
-		return 0;
-	});
+		filteredCollections.sort((a, b) => {
+			const nameA = a.name.toUpperCase();
+			const nameB = b.name.toUpperCase();
+			if (nameA < nameB) {
+				return -1;
+			}
+			if (nameA > nameB) {
+				return 1;
+			}
+			return 0;
+		});
 
-	return filteredCollections;
+		return filteredCollections;
+	} catch (error) {
+		throw new Error(
+			`[error]: an error occurred while getting all collections by category: \n${error}`,
+		);
+	}
 }
 
 /**
@@ -197,73 +221,93 @@ export function getFormatedRef(ref: string): string {
  * @param data Collections data
  * @param test If true, the function will enter test mode and not display warnings, useful for unit testing
  */
-export function checker(data: I_Collection[], test: boolean = false): boolean {
-	const warningLists: string[] = [];
+export function checker(
+	data: I_Collection[],
+	test: boolean = false,
+): Promise<boolean> {
+	return new Promise((resolve, reject) => {
+		try {
+			const warningLists: string[] = [];
 
-	data.forEach((item) => {
-		const warnings: string[] = [];
+			data.forEach((item) => {
+				const warnings: string[] = [];
 
-		if (
-			[item.url, item.description].every((field) => typeof field === "string")
-		) {
-			if (!item.url.trim()) {
-				warnings.push("URL must not be empty.");
+				if (
+					[item.url, item.description].every(
+						(field) => typeof field === "string",
+					)
+				) {
+					if (!item.url.trim()) {
+						warnings.push("URL must not be empty.");
+					}
+					if (!item.description.trim()) {
+						warnings.push("Description must not be empty.");
+					}
+				}
+				if (item.keywords.length === 0) {
+					warnings.push("Keywords must not be empty.");
+				}
+				if (typeof item.note != "number" || item.note < -1 || item.note > 5) {
+					warnings.push("Note must be a number between -1 and 5.");
+				}
+				if (
+					![item.name, item.url, item.ref, item.description].every(
+						(field) => typeof field === "string",
+					)
+				) {
+					warnings.push(
+						"Name, URL, ref, and description fields must be strings.",
+					);
+				}
+				if (!item.keywords.every((keyword) => typeof keyword === "string")) {
+					warnings.push("Keywords must be an array of strings.");
+				}
+
+				if (warnings.length > 0) {
+					warningLists.push(
+						`${emoji.warning} [${item.name}] -> ${warnings.join(" | ")}`,
+					);
+				}
+			});
+
+			if (!test) {
+				warningLists.forEach((warning) => console.log(warning));
 			}
-			if (!item.description.trim()) {
-				warnings.push("Description must not be empty.");
+			if (warningLists.length > 0) {
+				resolve(false);
 			}
-		}
-		if (item.keywords.length === 0) {
-			warnings.push("Keywords must not be empty.");
-		}
-		if (typeof item.note != "number" || item.note < -1 || item.note > 5) {
-			warnings.push("Note must be a number between -1 and 5.");
-		}
-		if (
-			![item.name, item.url, item.ref, item.description].every(
-				(field) => typeof field === "string",
-			)
-		) {
-			warnings.push("Name, URL, ref, and description fields must be strings.");
-		}
-		if (!item.keywords.every((keyword) => typeof keyword === "string")) {
-			warnings.push("Keywords must be an array of strings.");
-		}
 
-		if (warnings.length > 0) {
-			warningLists.push(
-				`${emoji.warning} [${item.name}] -> ${warnings.join(" | ")}`,
-			);
+			resolve(true);
+		} catch (error) {
+			reject(`[error]: an error occurred while checking the data: \n${error}`);
 		}
 	});
-
-	if (!test) {
-		warningLists.forEach((warning) => console.log(warning));
-	}
-
-	if (warningLists.length > 0) {
-		return false;
-	}
-
-	return true;
 }
 
 /**
  * @description Fix the dot at the end of the description if it is missing
  * @param source The path to the directory containing the JSON files
  */
-export function fixDotFromDescription(source: string): void {
-	fs.readdirSync(source).forEach((file) => {
-		if (file.endsWith(".json")) {
-			const filePath = path.join(source, file);
-			const jsonData = fs.readFileSync(filePath, "utf-8");
-			const data = JSON.parse(jsonData);
-			data.forEach((collection: I_Collection) => {
-				if (!collection.description.endsWith(".")) {
-					collection.description += ".";
-				}
-			});
-			fs.writeFileSync(filePath, JSON.stringify(data, null, 2), "utf-8");
-		}
-	});
+export async function fixDotFromDescription(source: string): Promise<void> {
+	try {
+		const files = await readDirAsync(source);
+
+		files.forEach(async (file) => {
+			if (file.endsWith(".json")) {
+				const filePath = path.join(source, file);
+				const jsonData = await readFileAsync(filePath, "utf-8");
+				const data = JSON.parse(jsonData);
+				data.forEach((collection: I_Collection) => {
+					if (!collection.description.endsWith(".")) {
+						collection.description += ".";
+					}
+				});
+				await writeFileAsync(filePath, JSON.stringify(data, null, 2), "utf-8");
+			}
+		});
+	} catch (error) {
+		throw new Error(
+			`[error]: an error occurred while fixing the dot from the description: \n${error}`,
+		);
+	}
 }
