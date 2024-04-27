@@ -30,5 +30,13 @@
 		"ref": "",
 		"description": "Count lines of code.",
 		"note": 4
+	},
+	{
+		"name": "nodejs libhunt",
+		"keywords": ["stat", "dev", "awesome", "node", "javascript"],
+		"url": "https://nodejs.libhunt.com/",
+		"ref": "",
+		"description": "Find the best Node.js libraries.",
+		"note": 5
 	}
 ]
