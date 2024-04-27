@@ -21,7 +21,7 @@ describe("CHECKER TEST", () => {
 				note: 5,
 			},
 		];
-		expect(checker(data, true)).toBe(true);
+		expect(checker(data, true)).resolves.toBe(true);
 	});
 
 	test("should return false for empty URL", () => {
@@ -35,7 +35,7 @@ describe("CHECKER TEST", () => {
 				note: -1,
 			},
 		];
-		expect(checker(data, true)).toBe(false);
+		expect(checker(data, true)).resolves.toBe(false);
 	});
 
 	test("should return false for empty keywords array", () => {
@@ -49,7 +49,7 @@ describe("CHECKER TEST", () => {
 				note: 0,
 			},
 		];
-		expect(checker(data, true)).toBe(false);
+		expect(checker(data, true)).resolves.toBe(false);
 	});
 
 	test("should return false for empty description", () => {
@@ -63,7 +63,7 @@ describe("CHECKER TEST", () => {
 				note: 3,
 			},
 		];
-		expect(checker(data, true)).toBe(false);
+		expect(checker(data, true)).resolves.toBe(false);
 	});
 
 	test("should return false for note out of range", () => {
@@ -77,7 +77,7 @@ describe("CHECKER TEST", () => {
 				note: 6,
 			},
 		];
-		expect(checker(data, true)).toBe(false);
+		expect(checker(data, true)).resolves.toBe(false);
 	});
 
 	test("should return false for non-string name", () => {
@@ -91,7 +91,7 @@ describe("CHECKER TEST", () => {
 				note: 5,
 			},
 		];
-		expect(checker(data, true)).toBe(false);
+		expect(checker(data, true)).resolves.toBe(false);
 	});
 
 	test("should return false for non-string keywords", () => {
@@ -105,7 +105,7 @@ describe("CHECKER TEST", () => {
 				note: 5,
 			},
 		];
-		expect(checker(data, true)).toBe(false);
+		expect(checker(data, true)).resolves.toBe(false);
 	});
 
 	test("should return false for non-string URL", () => {
@@ -119,7 +119,7 @@ describe("CHECKER TEST", () => {
 				note: 5,
 			},
 		];
-		expect(checker(data, true)).toBe(false);
+		expect(checker(data, true)).resolves.toBe(false);
 	});
 
 	test("should return false for non-string ref", () => {
@@ -133,7 +133,7 @@ describe("CHECKER TEST", () => {
 				note: 5,
 			},
 		];
-		expect(checker(data, true)).toBe(false);
+		expect(checker(data, true)).resolves.toBe(false);
 	});
 
 	test("should return false for non-string description", () => {
@@ -147,7 +147,7 @@ describe("CHECKER TEST", () => {
 				note: 5,
 			},
 		];
-		expect(checker(data, true)).toBe(false);
+		expect(checker(data, true)).resolves.toBe(false);
 	});
 
 	test("should return false for non-number note", () => {
@@ -161,7 +161,7 @@ describe("CHECKER TEST", () => {
 				note: "5" as any,
 			},
 		];
-		expect(checker(data, true)).toBe(false);
+		expect(checker(data, true)).resolves.toBe(false);
 	});
 
 	test("should return false if one of the collections is invalid", () => {
@@ -183,7 +183,7 @@ describe("CHECKER TEST", () => {
 				note: -2,
 			},
 		];
-		expect(checker(data, true)).toBe(false);
+		expect(checker(data, true)).resolves.toBe(false);
 	});
 
 	test("should return false for multiple errors", () => {
@@ -197,6 +197,6 @@ describe("CHECKER TEST", () => {
 				note: -2,
 			},
 		];
-		expect(checker(data, true)).toBe(false);
+		expect(checker(data, true)).resolves.toBe(false);
 	});
 });
