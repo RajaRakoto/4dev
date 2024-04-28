@@ -70,15 +70,14 @@ export async function combineJSONfilesFromDirectory(
 		let combinedObjects: I_Collection[] = [];
 		const files = await readDirAsync(source);
 
-		files.forEach(async (file) => {
+		files.forEach((file) => {
 			if (path.extname(file) === ".json") {
 				const filePath = path.join(source, file);
-				const data = await readFileAsync(filePath, "utf-8");
+				const data = fs.readFileSync(filePath, "utf-8");
 				const json = JSON.parse(data);
 				combinedObjects = combinedObjects.concat(json);
 			}
 		});
-
 		return combinedObjects;
 	} catch (error) {
 		throw new Error(
