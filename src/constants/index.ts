@@ -41,7 +41,7 @@ export const banner = {
 **4dev** is a versatile opensource toolkit tailored to meet diverse development demands, with a primary emphasis on web development. Boasting a rich collection of tools and resources, it equips developers with the essentials needed to streamline their workflow and enhance productivity.
 `,
 	contrib: `
-${emoji.message} You can also add/create your own collection in this repository by following the steps below:
+${emoji.message} You can also add/create your own collection in this repository by following the steps below ...
 
 > All collections are stored in the \`src/data\` directory. Each collection is a JSON file that contains the following fields:
 
