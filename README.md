@@ -10,7 +10,7 @@
 
 ### 📌 Contributing
 
-💬 You can also add/create your own collection in this repository by following the steps below:
+💬 You can also add/create your own collection in this repository by following the steps below ...
 
 > All collections are stored in the `src/data` directory. Each collection is a JSON file that contains the following fields:
 
@@ -1144,6 +1144,7 @@ bun run prettier
 | URL | Keywords | Description | Ref | Rating |
 |  :-- | :-- | :-- | :-- | :--  |
 | [🔗 cloc](https://github.com/kentcdodds/cloc) | `stat - dev - counter - reporter` | Count lines of code. | N/A | ⭐⭐⭐⭐🟊 |
+| [🔗 nodejs libhunt](https://nodejs.libhunt.com/) | `stat - dev - awesome - node - javascript` | Find the best Node.js libraries. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 npmtrends](https://npmtrends.com/) | `stat - versus - npm - package - javascript` | Compare the number of package downloads over time. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 stateofcss](https://2021.stateofcss.com/fr-FR/) | `stat - css` | CSS and its technologies statistics. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 stateofjs](https://2021.stateofjs.com/fr-FR/) | `stat - javascript` | JavaScript and its technologies statistics. | N/A | ⭐⭐⭐⭐⭐ |
