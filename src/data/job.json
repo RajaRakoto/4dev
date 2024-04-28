@@ -183,5 +183,21 @@
 		"ref": "",
 		"description": "Tsy ataotao foana ny fitadiavana asa, misy fitsipika mipetraka izay tokony arahina izy ireny. Matetika ny olona efa manan-traikefa amin'ny tontolon'ny Asa no manoro antsika izany (ireo zokintsika, ireo mpampiasa ary ireo namana efa miasa).",
 		"note": -1
+	},
+	{
+		"name": "developa",
+		"keywords": [
+			"job",
+			"professional",
+			"work",
+			"esn",
+			"startup",
+			"offshore",
+			"mg"
+		],
+		"url": "https://www.developa.net/",
+		"ref": "",
+		"description": "DevelopA est spécialisée dans la conception et developpement de Système d'Information novateurs, en exploitant pleinement la flexibilité des technologies web.",
+		"note": -1
 	}
 ]
