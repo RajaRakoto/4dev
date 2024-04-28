@@ -54,7 +54,7 @@ function renderTableOfContents(categories: string[]): Promise<string> {
 	return new Promise((resolve, reject) => {
 		try {
 			let tableOfContents = categories
-				.map((categorie) => `[${categorie}](${getFormatedTag(categorie)})`)
+				.map((category) => `[${category}](${getFormatedTag(category)})`)
 				.join(" | ");
 			let result = "";
 			result += `\n### ${emoji.title} Table of contents\n\n`;
