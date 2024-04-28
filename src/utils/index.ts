@@ -169,33 +169,35 @@ export function getFormatedTag(text: string): string {
  * @param data Collections data
  * @param category Category to extract from the collections
  */
-export async function getAllCollectionsByCategory(
+export function getAllCollectionsByCategory(
 	data: I_Collection[],
 	category: string,
 ): Promise<I_Collection[]> {
-	try {
-		const filteredCollections = await data.filter(
-			(collection) => collection.keywords[0] === category,
-		);
+	return new Promise((resolve, reject) => {
+		try {
+			const filteredCollections = data.filter(
+				(collection) => collection.keywords[0] === category,
+			);
 
-		filteredCollections.sort((a, b) => {
-			const nameA = a.name.toUpperCase();
-			const nameB = b.name.toUpperCase();
-			if (nameA < nameB) {
-				return -1;
-			}
-			if (nameA > nameB) {
-				return 1;
-			}
-			return 0;
-		});
+			filteredCollections.sort((a, b) => {
+				const nameA = a.name.toUpperCase();
+				const nameB = b.name.toUpperCase();
+				if (nameA < nameB) {
+					return -1;
+				}
+				if (nameA > nameB) {
+					return 1;
+				}
+				return 0;
+			});
 
-		return filteredCollections;
-	} catch (error) {
-		throw new Error(
-			`[error]: an error occurred while getting all collections by category: \n${error}`,
-		);
-	}
+			resolve(filteredCollections);
+		} catch (error) {
+			reject(
+				`[error]: an error occurred while getting all collections by category: \n${error}`,
+			);
+		}
+	});
 }
 
 /**
