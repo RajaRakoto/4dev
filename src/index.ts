@@ -1,11 +1,11 @@
 /* constants */
 import {
-	dataPath,
-	banner,
-	tableHeader,
-	distFile,
-	backToTop,
-	emoji,
+	DATA_PATH,
+	BANNER,
+	TABLE_HEADER,
+	DIST_FILE,
+	BACK_TO_TOP,
+	EMOJI,
 } from "./constants";
 
 /* utils */
@@ -33,18 +33,18 @@ function renderBanner(): Promise<string> {
 		try {
 			const result: string[] = [];
 
-			result.push(banner.title);
-			result.push(banner.badge);
-			result.push(banner.description);
+			result.push(BANNER.title);
+			result.push(BANNER.badge);
+			result.push(BANNER.description);
 			result.push("---");
-			result.push(`\n### ${emoji.title} Contributing`);
-			result.push(banner.contrib);
+			result.push(`\n### ${EMOJI.title} Contributing`);
+			result.push(BANNER.contrib);
 			result.push("---\n");
 
 			resolve(result.join("\n"));
 		} catch (error) {
 			reject(
-				`[error]: an error occurred while rendering the banner: \n${error}`,
+				`[error]: an error occurred while rendering the BANNER: \n${error}`,
 			);
 		}
 	});
@@ -57,7 +57,7 @@ function renderTableOfContents(categories: string[]): Promise<string> {
 				.map((category) => `[${category}](${getFormatedTag(category)})`)
 				.join(" | ");
 			let result = "";
-			result += `\n### ${emoji.title} Table of contents\n\n`;
+			result += `\n### ${EMOJI.title} Table of contents\n\n`;
 			result += "| " + tableOfContents + " |\n";
 			result += getTableSeparator(categories.length) + "\n";
 			result += "\n---\n";
@@ -75,19 +75,19 @@ async function renderCollections(
 	categories: string[],
 ): Promise<string> {
 	try {
-		const tableColumnNumber = tableHeader.split("|").length - 2;
+		const tableColumnNumber = TABLE_HEADER.split("|").length - 2;
 		let result = "";
-		result += `\n### ${emoji.title} Collections\n`;
+		result += `\n### ${EMOJI.title} Collections\n`;
 
 		for (const category of categories) {
 			const collections = await getAllCollectionsByCategory(data, category);
-			result += `\n#### ${emoji.category} ${category}\n\n`;
-			result += tableHeader + "\n";
+			result += `\n#### ${EMOJI.category} ${category}\n\n`;
+			result += TABLE_HEADER + "\n";
 			result += getTableSeparator(tableColumnNumber) + "\n";
 			collections.forEach((collection) => {
-				result += `| [${emoji.link} ${collection.name}](${collection.url}) | \`${collection.keywords.join(" - ")}\` | ${collection.description} | ${getFormatedRef(collection.ref)} | ${getFormatedNote(collection.note)} |\n`;
+				result += `| [${EMOJI.link} ${collection.name}](${collection.url}) | \`${collection.keywords.join(" - ")}\` | ${collection.description} | ${getFormatedRef(collection.ref)} | ${getFormatedNote(collection.note)} |\n`;
 			});
-			result += backToTop;
+			result += BACK_TO_TOP;
 		}
 
 		return result;
@@ -100,33 +100,33 @@ async function renderCollections(
 
 async function main() {
 	try {
-		const data = await combineJSONfilesFromDirectory(dataPath);
-		const categories = await getJSONfilesNameFromDirectory(dataPath);
+		const data = await combineJSONfilesFromDirectory(DATA_PATH);
+		const categories = await getJSONfilesNameFromDirectory(DATA_PATH);
 		const isValid = await checker(data);
 
 		if (isValid) {
-			await fixDotFromDescription(dataPath);
-			await clearFile(distFile);
+			await fixDotFromDescription(DATA_PATH);
+			await clearFile(DIST_FILE);
 
-			const banner = await renderBanner();
+			const BANNER = await renderBanner();
 			await writeToFile(
-				distFile,
-				banner,
-				`${emoji.done} Banner generated ... [done]`,
+				DIST_FILE,
+				BANNER,
+				`${EMOJI.done} Banner generated ... [done]`,
 			);
 
 			const tableOfContents = await renderTableOfContents(categories);
 			await writeToFile(
-				distFile,
+				DIST_FILE,
 				tableOfContents,
-				`${emoji.done} Table of contents generated ... [done]`,
+				`${EMOJI.done} Table of contents generated ... [done]`,
 			);
 
 			const collections = await renderCollections(data, categories);
 			await writeToFile(
-				distFile,
+				DIST_FILE,
 				collections,
-				`${emoji.done} Collections generated ... [done]`,
+				`${EMOJI.done} Collections generated ... [done]`,
 			);
 
 			console.log(
@@ -134,7 +134,7 @@ async function main() {
 			);
 		}
 	} catch (error) {
-		console.error(`\n${emoji.failed} An error occurred while generating ...`);
+		console.error(`\n${EMOJI.failed} An error occurred while generating ...`);
 		console.error(error);
 	}
 }

@@ -1,11 +1,11 @@
 // prod
-export const distFile = "README.md";
+export const DIST_FILE = "README.md";
 
 // path
-export const dataPath = "src/data";
+export const DATA_PATH = "src/data";
 
 // rating
-export const rating = {
+export const RATING = {
 	unclassifiable: "Unclassifiable",
 	unclassified: "Unclassified",
 	star1: "⭐🟊🟊🟊🟊",
@@ -16,7 +16,7 @@ export const rating = {
 };
 
 // emoji
-export const emoji = {
+export const EMOJI = {
 	title: "📌",
 	category: "⚫",
 	link: "🔗",
@@ -28,11 +28,11 @@ export const emoji = {
 };
 
 // table
-export const tableHeader = "| URL | Keywords | Description | Ref | Rating |";
+export const TABLE_HEADER = "| URL | Keywords | Description | Ref | Rating |";
 
 // banner
-export const banner = {
-	title: `# 4dev ${emoji.tools}`,
+export const BANNER = {
+	title: `# 4dev ${EMOJI.tools}`,
 	badge: `
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/build-by.svg?raw=true)](https://forthebadge.com)
 
@@ -41,7 +41,7 @@ export const banner = {
 **4dev** is a versatile opensource toolkit tailored to meet diverse development demands, with a primary emphasis on web development. Boasting a rich collection of tools and resources, it equips developers with the essentials needed to streamline their workflow and enhance productivity.
 `,
 	contrib: `
-${emoji.message} You can also add/create your own collection in this repository by following the steps below ...
+${EMOJI.message} You can also add/create your own collection in this repository by following the steps below ...
 
 > All collections are stored in the \`src/data\` directory. Each collection is a JSON file that contains the following fields:
 
@@ -91,7 +91,7 @@ bun run prettier
 };
 
 // others
-export const backToTop = `
+export const BACK_TO_TOP = `
 <div align="left">
     <b><a href="#-table-of-contents">↥ Back To Top</a></b>
 </div>

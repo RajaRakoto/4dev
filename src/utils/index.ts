@@ -4,7 +4,7 @@ import * as path from "path";
 import util from "util";
 
 /* converts */
-import { emoji, rating } from "@/constants";
+import { EMOJI, RATING } from "@/constants";
 
 /* types */
 import type { I_Collection } from "@/@types";
@@ -51,7 +51,7 @@ export async function writeToFile(
 export async function clearFile(filePath: string): Promise<void> {
 	try {
 		await writeFileAsync(filePath, "");
-		console.log(`${emoji.done} ${filePath} has been cleared ... [done]`);
+		console.log(`${EMOJI.done} ${filePath} has been cleared ... [done]`);
 	} catch (error) {
 		throw new Error(
 			`[error]: an error occurred while clearing the file: \n${error}`,
@@ -117,27 +117,27 @@ export async function getJSONfilesNameFromDirectory(
 }
 
 /**
- * @description Transform a note into a star rating system
+ * @description Transform a note into a star RATING system
  * @param note
  */
 export function getFormatedNote(note: number): string {
 	switch (note) {
 		case -1:
-			return rating.unclassifiable;
+			return RATING.unclassifiable;
 		case 0:
-			return rating.unclassified;
+			return RATING.unclassified;
 		case 1:
-			return rating.star1;
+			return RATING.star1;
 		case 2:
-			return rating.star2;
+			return RATING.star2;
 		case 3:
-			return rating.star3;
+			return RATING.star3;
 		case 4:
-			return rating.star4;
+			return RATING.star4;
 		case 5:
-			return rating.star5;
+			return RATING.star5;
 		default:
-			return rating.unclassified;
+			return RATING.unclassified;
 	}
 }
 
@@ -266,7 +266,7 @@ export function checker(
 
 				if (warnings.length > 0) {
 					warningLists.push(
-						`${emoji.warning} [${item.name}] -> ${warnings.join(" | ")}`,
+						`${EMOJI.warning} [${item.name}] -> ${warnings.join(" | ")}`,
 					);
 				}
 			});
