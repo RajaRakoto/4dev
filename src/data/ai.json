@@ -179,5 +179,13 @@
 		"ref": "",
 		"description": "Yuka is an artificial intelligence engine for 3D games. It's designed to handle non-player characters (NPCs) in complex 3D environments.",
 		"note": 4
+	},
+	{
+		"name": "huggingface",
+		"keywords": ["ai", "community", "ml", "model", "nlp"],
+		"url": "https://huggingface.co/",
+		"ref": "",
+		"description": "A platform for building, training, and deploying state-of-the-art machine learning models.",
+		"note": 5
 	}
 ]
