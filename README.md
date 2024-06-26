@@ -1111,6 +1111,7 @@ bun run prettier
 | [🔗 owasp-password-strength-test](https://github.com/nowsecure/owasp-password-strength-test) | `security - password - validator - test` | OWASP Password Strength Test is a tool that tests password strength based on OWASP criteria. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 passport](https://www.npmjs.com/package/passport) | `security - authentication - node - javascript` | Passport is an authentication middleware for Node.js. It is extremely flexible and modular and can be easily integrated into any Express-based web application. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 urlvoid](https://www.urlvoid.com/) | `security - url - scanner` | URLVoid is an online service that allows users to scan a website to detect malware and phishing activities. | N/A | ⭐⭐⭐⭐⭐ |
+| [🔗 virustotal](https://www.virustotal.com/gui/home/upload) | `security - malware - scan - upload - analysis` | Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
     <b><a href="#-table-of-contents">↥ Back To Top</a></b>
