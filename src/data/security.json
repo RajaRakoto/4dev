@@ -46,5 +46,13 @@
 		"ref": "",
 		"description": "Liste de mots grossiers en français.",
 		"note": 4
+	},
+	{
+		"name": "virustotal",
+		"keywords": ["security", "malware", "scan", "upload", "analysis"],
+		"url": "https://www.virustotal.com/gui/home/upload",
+		"ref": "",
+		"description": "Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community.",
+		"note": 5
 	}
 ]
