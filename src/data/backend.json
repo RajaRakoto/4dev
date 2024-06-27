@@ -95,5 +95,13 @@
 		"ref": "",
 		"description": "Firebase, Inc. is a set of cloud computing backend services and application development platforms provided by Google. It hosts databases, services, authentication, and integration for a variety of applications, including Android, iOS, JavaScript, Node.",
 		"note": 5
+	},
+	{
+		"name": "nginx ui",
+		"keywords": ["backend", "devops", "server", "config"],
+		"url": "https://github.com/0xJacky/nginx-ui",
+		"ref": "",
+		"description": "Yet another WebUI for Nginx.",
+		"note": 5
 	}
 ]
