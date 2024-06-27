@@ -98,7 +98,7 @@
 	},
 	{
 		"name": "nginx ui",
-		"keywords": ["backend", "devops", "server", "config"],
+		"keywords": ["backend", "devops", "server"],
 		"url": "https://github.com/0xJacky/nginx-ui",
 		"ref": "",
 		"description": "Yet another WebUI for Nginx.",
