@@ -22,5 +22,13 @@
 		"ref": "https://mailtrap.io/blog/react-contact-form/",
 		"description": "Grow your business with Brevo, the all-in-one platform to manage your client relationships via email, SMS, chat, and more.",
 		"note": 4
+	},
+	{
+		"name": "10 minute mail",
+		"keywords": ["email", "mail", "privacy", "security"],
+		"url": "https://10minutemail.com/?lang=fr",
+		"ref": "",
+		"description": "A service providing temporary email addresses to protect your privacy.",
+		"note": 5
 	}
 ]
