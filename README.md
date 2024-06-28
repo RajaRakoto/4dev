@@ -655,6 +655,7 @@ bun run prettier
 
 | URL | Keywords | Description | Ref | Rating |
 |  :-- | :-- | :-- | :-- | :--  |
+| [🔗 10 minute mail](https://10minutemail.com/?lang=fr) | `email - mail - privacy - security` | A service providing temporary email addresses to protect your privacy. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 brevo](https://www.brevo.com/) | `email - mail - smtp - client - manager` | Grow your business with Brevo, the all-in-one platform to manage your client relationships via email, SMS, chat, and more. | [ref](https://mailtrap.io/blog/react-contact-form/) | ⭐⭐⭐⭐🟊 |
 | [🔗 email-js-react](https://www.emailjs.com/docs/examples/reactjs/) | `email - mail - smtp - react - javascript` | EmailJS is a service that allows you to send emails directly from the client. | [ref1](https://blog.devgenius.io/set-up-emailjs-in-react-app-from-scratch-42e669efc22a) - [ref2](https://dev.to/ethand91/using-emailjs-to-send-emails-from-the-frontend-ka9) | ⭐⭐⭐⭐⭐ |
 | [🔗 nodemailer](https://www.npmjs.com/package/nodemailer) | `email - mail - smtp - javascript` | Nodemailer is a node.js module that allows you to send emails. | N/A | ⭐⭐⭐⭐⭐ |
