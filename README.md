@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/RajaRakoto/github-docs/blob/master/4dev/4dev.png?raw=true" width=720>
+<img src="https://github.com/RajaRakoto/github-docs/blob/master/4dev/4dev.png?raw=true" width=256>
 </div>
 
 # 4dev 🛠️
