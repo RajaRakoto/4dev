@@ -237,6 +237,7 @@ bun run prettier
 | [🔗 awesome-angular](https://github.com/PatrickJS/awesome-angular) | `awesome - collection - angular - framework - javascript` | A curated list of awesome for Angular. | N/A | Unclassified |
 | [🔗 awesome-boilerplate](https://github.com/melvin0008/awesome-projects-boilerplates) | `awesome - collection - boilerplate - starter - template - project` | A curated list of awesome boilerplates. | N/A | Unclassified |
 | [🔗 awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) | `awesome - collection - bootstrap - css` | A curated list of awesome for Bootstrap. | N/A | Unclassified |
+| [🔗 awesome-bun](https://github.com/oven-sh/awesome-bun) | `awesome - collection - bun - javascript - runtime` | A curated list of awesome for Flutter. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | `awesome - collection - cheatsheet - reference` | A curated list of awesome cheatsheets. | N/A | Unclassified |
 | [🔗 awesome-css](https://github.com/awesome-css-group/awesome-css) | `awesome - collection - css` | A curated list of awesome for CSS. | N/A | Unclassified |
 | [🔗 awesome-figma](https://github.com/react-figma/awesome-figma) | `awesome - collection - figma - design - ui - ux - illustrator` | A curated list of awesome for Figma. | N/A | Unclassified |
