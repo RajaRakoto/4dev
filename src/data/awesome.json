@@ -190,5 +190,13 @@
 		"ref": "",
 		"description": "A curated list of awesome for Flutter.",
 		"note": 0
+	},
+	{
+		"name": "awesome-bun",
+		"keywords": ["awesome", "collection", "bun", "javascript", "runtime"],
+		"url": "https://github.com/oven-sh/awesome-bun",
+		"ref": "",
+		"description": "A curated list of awesome for Flutter.",
+		"note": 5
 	}
 ]
