@@ -1,10 +1,16 @@
+<div align="center">
+<img src="https://github.com/RajaRakoto/github-docs/blob/master/4dev/4dev.jpg?raw=true" width=256>
+</div>
+
 # 4dev 🛠️
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/build-by.svg?raw=true)](https://forthebadge.com)
 
 ![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![Gitub](https://img.shields.io/badge/-Gitub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff)
 
-**4dev** is a versatile opensource toolkit tailored to meet diverse development demands, with a primary emphasis on web development. Boasting a rich collection of tools and resources, it equips developers with the essentials needed to streamline their workflow and enhance productivity.
+**4dev** is an all-in-one solution specifically designed to meet the diverse needs of developers, with a special focus on web development. This toolkit integrates the most renowned and efficient tools and resources into a single repository. Say goodbye to endless searches; everything you need is right here, ready to use immediately.
+
+> The name "4dev" is phonetically equivalent to "for developers," highlighting that this project is created for developers by developers ♥️ This is the origin of the project's name.
 
 ---
 
