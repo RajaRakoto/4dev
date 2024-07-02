@@ -191,8 +191,8 @@
 	{
 		"name": "gitnarrator",
 		"keywords": ["ai", "generative", "article", "github", "project"],
-		"url": "https://github.com/codesmith-emmy/gitNarrator",
-		"ref": "",
+		"url": "https://git-narrator.vercel.app/",
+		"ref": "https://github.com/codesmith-emmy/gitNarrator",
 		"description": "An application that generates well-crafted articles about GitHub projects based on user input.",
 		"note": 4
 	}
