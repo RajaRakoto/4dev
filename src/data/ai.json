@@ -187,5 +187,13 @@
 		"ref": "",
 		"description": "A platform for building, training, and deploying state-of-the-art machine learning models.",
 		"note": 5
+	},
+	{
+		"name": "gitnarrator",
+		"keywords": ["ai", "generative", "article", "github", "project"],
+		"url": "https://github.com/codesmith-emmy/gitNarrator",
+		"ref": "",
+		"description": "An application that generates well-crafted articles about GitHub projects based on user input.",
+		"note": 4
 	}
 ]
