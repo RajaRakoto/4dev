@@ -1,16 +1,10 @@
-<div align="center">
-<img src="https://github.com/RajaRakoto/github-docs/blob/master/4dev/4dev.png?raw=true" width=256>
-</div>
-
 # 4dev 🛠️
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/build-by.svg?raw=true)](https://forthebadge.com)
 
 ![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![Gitub](https://img.shields.io/badge/-Gitub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff)
 
-**4dev** is an all-in-one solution specifically designed to meet the diverse needs of developers, with a special focus on web development. This toolkit integrates the most renowned and efficient tools and resources into a single repository. Say goodbye to endless searches; everything you need is right here, ready to use immediately.
-
-> The name "4dev" is phonetically equivalent to "for developers," highlighting that this project is created for developers by developers ♥️ This is the origin of the project's name.
+**4dev** is a versatile opensource toolkit tailored to meet diverse development demands, with a primary emphasis on web development. Boasting a rich collection of tools and resources, it equips developers with the essentials needed to streamline their workflow and enhance productivity.
 
 ---
 
@@ -132,6 +126,7 @@ bun run prettier
 | [🔗 chatGPT](https://chat.openai.com/chat) | `ai - gpt - generative - model` | Chat with an AI model trained by OpenAI. It can generate human-like text based on the input you provide. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 claude](https://claude.ai/chat) | `ai - generative - model - upload` | Claude is a conversational AI that can generate human-like text based on the input you provide. You can also upload your own files to generate text based on them. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 doctransgpt](https://doctransgpt.com/) | `ai - gpt - translator - pdf` | Translate PDFs with AI. DoctransGPT is a tool that can translate PDFs using AI technology. | N/A | ⭐⭐⭐⭐🟊 |
+| [🔗 gitnarrator](https://github.com/codesmith-emmy/gitNarrator) | `ai - generative - article - github - project` | An application that generates well-crafted articles about GitHub projects based on user input. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 huggingface](https://huggingface.co/) | `ai - community - ml - model - nlp` | A platform for building, training, and deploying state-of-the-art machine learning models. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 leonardo ai](https://leonardo.ai/) | `ai - illustrator - imagine - generative - image - model` | Transform your projects with our AI image generator. Generate high-quality, AI generated images with unparalleled speed and style to elevate your creative ... | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 logo ai](https://www.logoai.com/) | `ai - logo - design - illustrator - generative` | Let AI-powered logo maker generate your new logo and create a brand identity design you love. | N/A | ⭐⭐⭐⭐🟊 |
