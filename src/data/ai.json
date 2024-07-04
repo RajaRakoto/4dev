@@ -1,7 +1,7 @@
 [
 	{
 		"name": "chatGPT",
-		"keywords": ["ai", "gpt", "generative", "model"],
+		"keywords": ["ai", "gpt", "generative", "chat"],
 		"url": "https://chat.openai.com/chat",
 		"ref": "",
 		"description": "Chat with an AI model trained by OpenAI. It can generate human-like text based on the input you provide.",
@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "perplexity",
-		"keywords": ["ai", "search", "generative", "model", "upload"],
+		"keywords": ["ai", "search", "generative", "chat"],
 		"url": "https://perplexity.ai/",
 		"ref": "",
 		"description": "Search for AI models and chat with them. You can also upload your own files to generate text based on them. Perplexity AI unlocks the power of knowledge with information discovery and sharing.",
@@ -17,7 +17,7 @@
 	},
 	{
 		"name": "phind",
-		"keywords": ["ai", "gpt", "search", "dev", "generative", "model"],
+		"keywords": ["ai", "search", "generative", "dev", "chat"],
 		"url": "https://www.phind.com/",
 		"ref": "",
 		"description": "Phind is an intelligent answer engine for developers. Focused on helping you solve challenging problems, it uses generative AI to give you the answer you're looking for.",
@@ -25,7 +25,7 @@
 	},
 	{
 		"name": "claude",
-		"keywords": ["ai", "generative", "model", "upload"],
+		"keywords": ["ai", "generative", "chat"],
 		"url": "https://claude.ai/chat",
 		"ref": "",
 		"description": "Claude is a conversational AI that can generate human-like text based on the input you provide. You can also upload your own files to generate text based on them.",
@@ -33,14 +33,7 @@
 	},
 	{
 		"name": "leonardo ai",
-		"keywords": [
-			"ai",
-			"illustrator",
-			"imagine",
-			"generative",
-			"image",
-			"model"
-		],
+		"keywords": ["ai", "image", "imagine", "generative", "logo", "illustrator"],
 		"url": "https://leonardo.ai/",
 		"ref": "",
 		"description": "Transform your projects with our AI image generator. Generate high-quality, AI generated images with unparalleled speed and style to elevate your creative ...",
@@ -48,14 +41,7 @@
 	},
 	{
 		"name": "midjourney",
-		"keywords": [
-			"ai",
-			"illustrator",
-			"imagine",
-			"generative",
-			"image",
-			"model"
-		],
+		"keywords": ["ai", "image", "imagine", "generative", "logo", "illustrator"],
 		"url": "https://midjourney.com/",
 		"ref": "",
 		"description": "An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
@@ -63,16 +49,7 @@
 	},
 	{
 		"name": "midjourney-free",
-		"keywords": [
-			"ai",
-			"illustrator",
-			"imagine",
-			"generative",
-			"image",
-			"model",
-			"free",
-			"telegram"
-		],
+		"keywords": ["ai", "image", "imagine", "generative"],
 		"url": "https://t.me/freemidjourney",
 		"ref": "",
 		"description": "Midjourney Free is a Telegram bot that generates AI images for free. You can use it to generate high-quality, AI-generated images with unparalleled speed and style.",
@@ -82,11 +59,13 @@
 		"name": "mistral ai",
 		"keywords": [
 			"ai",
-			"training",
-			"learning",
+			"mistral",
+			"generative",
 			"finetune",
+			"llm",
 			"model",
-			"opensource"
+			"opensource",
+			"chat"
 		],
 		"url": "https://mistral.ai/fr/",
 		"ref": "",
@@ -95,7 +74,7 @@
 	},
 	{
 		"name": "prompt collection",
-		"keywords": ["ai", "gpt", "prompt", "collection"],
+		"keywords": ["ai", "prompt", "collection"],
 		"url": "https://www.prompt-collection.com/",
 		"ref": "",
 		"description": "Welcome to the “Awesome ChatGPT Prompts” repository! This is a collection of prompt examples to be used with the ChatGPT model.",
@@ -111,7 +90,7 @@
 	},
 	{
 		"name": "speech to text - google",
-		"keywords": ["ai", "speech", "text", "google"],
+		"keywords": ["ai", "text", "speech", "google"],
 		"url": "https://cloud.google.com/speech-to-text",
 		"ref": "",
 		"description": "Convert speech to text with Google's Speech-to-Text API. You can use this API to transcribe audio into text.",
@@ -119,7 +98,7 @@
 	},
 	{
 		"name": "speechtexter",
-		"keywords": ["ai", "speech", "text", "transcribe"],
+		"keywords": ["ai", "speech", "text", "transciption", "audio"],
 		"url": "https://www.speechtexter.com/",
 		"ref": "",
 		"description": "SpeechTexter is a free online speech recognition software that converts your speech to text.",
@@ -133,7 +112,9 @@
 			"article",
 			"video",
 			"youtube",
-			"generative"
+			"generative",
+			"transcription",
+			"audio"
 		],
 		"url": "https://www.summarize.tech/",
 		"ref": "",
@@ -182,7 +163,17 @@
 	},
 	{
 		"name": "huggingface",
-		"keywords": ["ai", "community", "ml", "model", "nlp"],
+		"keywords": [
+			"ai",
+			"community",
+			"ml",
+			"gpt",
+			"mistral",
+			"llama",
+			"model",
+			"llm",
+			"nlp"
+		],
 		"url": "https://huggingface.co/",
 		"ref": "",
 		"description": "A platform for building, training, and deploying state-of-the-art machine learning models.",
@@ -195,5 +186,24 @@
 		"ref": "https://github.com/codesmith-emmy/gitNarrator",
 		"description": "An application that generates well-crafted articles about GitHub projects based on user input.",
 		"note": 4
+	},
+	{
+		"name": "anythingllm",
+		"keywords": [
+			"ai",
+			"generative",
+			"finetune",
+			"opensource",
+			"model",
+			"llm",
+			"local",
+			"privacy",
+			"security",
+			"rag"
+		],
+		"url": "https://useanything.com",
+		"ref": "",
+		"description": "An open-source, feature-rich document chatbot that allows users to interact with their documents locally or on the cloud with full privacy controls.",
+		"note": 5
 	}
 ]
