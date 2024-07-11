@@ -205,5 +205,22 @@
 		"ref": "",
 		"description": "An open-source, feature-rich document chatbot that allows users to interact with their documents locally or on the cloud with full privacy controls.",
 		"note": 5
+	},
+	{
+		"name": "llama",
+		"keywords": [
+			"ai",
+			"llama",
+			"generative",
+			"finetune",
+			"llm",
+			"model",
+			"opensource",
+			"chat"
+		],
+		"url": "https://llama.meta.com/",
+		"ref": "https://github.com/facebookresearch/llama",
+		"description": "LLaMA (Large Language Model Meta AI) is a series of foundational language models, ranging from 7 billion to 70 billion parameters, developed by Facebook's AI Research (FAIR) team.",
+		"note": 5
 	}
 ]
