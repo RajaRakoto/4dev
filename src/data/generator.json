@@ -82,7 +82,7 @@
 			"performance",
 			"standalone",
 			"database",
-			"go",
+			"golang",
 			"javascript"
 		],
 		"url": "https://dev.to/icflorescu/pocketbaseuml-2ci5",
