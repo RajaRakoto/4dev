@@ -80,7 +80,7 @@
 			"performance",
 			"standalone",
 			"database",
-			"go",
+			"golang",
 			"javascript"
 		],
 		"url": "https://pocketbase.io/",
@@ -110,6 +110,14 @@
 		"url": "https://github.com/0xJacky/nginx-ui",
 		"ref": "",
 		"description": "Yet another WebUI for Nginx.",
+		"note": 5
+	},
+	{
+		"name": "fiber",
+		"keywords": ["backend", "framework", "golang"],
+		"url": "https://github.com/gofiber/fiber",
+		"ref": "",
+		"description": "An Express-inspired web framework written in Go with high performance.",
 		"note": 5
 	}
 ]
