@@ -1,0 +1,18 @@
+[
+	{
+		"name": "tauri",
+		"keywords": ["desktop", "native", "rust", "web"],
+		"url": "https://tauri.app/",
+		"ref": "",
+		"description": "A framework for building tiny, secure, and fast desktop applications with Rust and Web technologies.",
+		"note": 5
+	},
+	{
+		"name": "electron.js",
+		"keywords": ["desktop", "native", "javascript", "node", "web"],
+		"url": "https://www.electronjs.org/",
+		"ref": "",
+		"description": "A framework for creating native desktop applications using web technologies like JavaScript, HTML, and CSS. It combines the Chromium rendering engine and the Node.js runtime.",
+		"note": 5
+	}
+]
