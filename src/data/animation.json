@@ -182,5 +182,13 @@
 		"ref": "",
 		"description": "Customizable SVG dynamically generated that gives the impression of typing and deleting text.",
 		"note": 4
+	},
+	{
+		"name": "driver.js",
+		"keywords": ["animation", "drive", "javascript"],
+		"url": "https://driverjs.com",
+		"ref": "https://github.com/kamranahmedse/driver.js",
+		"description": "A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page.",
+		"note": 4
 	}
 ]
