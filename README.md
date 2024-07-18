@@ -157,6 +157,7 @@ bun run prettier
 | [🔗 animate.css](https://animate.style/) | `animation - css` | Just-add-water CSS animations. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 animista.css](http://animista.net/) | `animation - css` | On-demand CSS animations. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 barba.js](https://barba.js.org/docs/getstarted/intro/) | `animation - transition - javascript` | Barba.js is a small (7kb minified and compressed) and easy-to-use library that helps you create smooth transitions between pages of your website. It enables your website to function like a Single Page Application (SPA) and helps reduce the delay between your pages, minimize browser HTTP requests, and improve your user's web experience. | N/A | ⭐⭐⭐⭐⭐ |
+| [🔗 driver.js](https://driverjs.com) | `animation - drive - javascript` | A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page. | [ref](https://github.com/kamranahmedse/driver.js) | ⭐⭐⭐⭐🟊 |
 | [🔗 granim.js](https://sarcadass.github.io/granim.js/examples.html) | `animation - gradient - javascript` | Create smooth and interactive gradient animations with this small JavaScript library. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 hover.css](https://ianlunn.github.io/Hover/) | `animation - hover - collection - effect - css` | A collection of CSS3 hover effects. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 kute.js](https://thednp.github.io/kute.js/) | `animation - javascript` | KUTE.js is a JavaScript animation engine (component collection) for modern browsers. | N/A | ⭐⭐⭐⭐⭐ |
