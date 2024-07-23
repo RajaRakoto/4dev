@@ -1312,6 +1312,7 @@ bun run prettier
 | [🔗 validator](https://www.npmjs.com/package/validator) | `validator - security - javascript` | A library of string validators and sanitizers. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 validator.js](https://github.com/validatorjs/validator.js) | `validator - security - javascript` | String validation and sanitization. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 yup](https://www.npmjs.com/package/yup) | `validator - security - javascript` | Yup is a JavaScript schema builder for value parsing and validation. Define a schema, transform a value to match, validate the shape of an existing value, or both. | N/A | ⭐⭐⭐⭐🟊 |
+| [🔗 zod](https://zod.dev/) | `validator - schema - javascript` | A TypeScript-first schema declaration and validation library. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
     <b><a href="#-table-of-contents">↥ Back To Top</a></b>
