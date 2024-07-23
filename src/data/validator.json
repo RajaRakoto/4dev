@@ -22,5 +22,13 @@
 		"ref": "",
 		"description": "Yup is a JavaScript schema builder for value parsing and validation. Define a schema, transform a value to match, validate the shape of an existing value, or both.",
 		"note": 4
+	},
+	{
+		"name": "zod",
+		"keywords": ["validator", "schema", "javascript"],
+		"url": "https://zod.dev/",
+		"ref": "",
+		"description": "A TypeScript-first schema declaration and validation library.",
+		"note": 5
 	}
 ]
