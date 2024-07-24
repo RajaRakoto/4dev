@@ -54,5 +54,13 @@
 		"ref": "",
 		"description": "Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.",
 		"note": 4
+	},
+	{
+		"name": "db fiddle",
+		"keywords": ["database", "sql", "test"],
+		"url": "https://www.db-fiddle.com/",
+		"ref": "",
+		"description": "An online tool for testing and sharing database queries.",
+		"note": 5
 	}
 ]
