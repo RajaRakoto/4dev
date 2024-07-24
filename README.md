@@ -520,6 +520,7 @@ bun run prettier
 
 | URL | Keywords | Description | Ref | Rating |
 |  :-- | :-- | :-- | :-- | :--  |
+| [🔗 db fiddle](https://www.db-fiddle.com/) | `database - sql - test` | An online tool for testing and sharing database queries. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 db4free](https://www.db4free.net/) | `database - sql - mysql - free - test` | db4free.net provides a testing service for the latest - sometimes even development - version of the MySQL database server. You can easily create a new database for free and start testing. We currently support MySQL 8.0 and MariaDB 10.4. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 faker.js](https://www.npmjs.com/package/@faker-js/faker) | `database - faker - test - javascript` | Faker.js is a library that generates fake data for you. It is useful for seeding databases, creating fake API responses, and more. It is available for JavaScript and Node.js. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 js-cookie](https://www.npmjs.com/package/js-cookie) | `database - cookie - javascript` | A simple, lightweight JavaScript API for handling browser cookies. | N/A | ⭐⭐⭐⭐🟊 |
