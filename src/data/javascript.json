@@ -78,5 +78,13 @@
 		"ref": "",
 		"description": "Save files easily in the browser.",
 		"note": 4
+	},
+	{
+		"name": "jsr",
+		"keywords": ["javascript", "opensource", "package", "registry"],
+		"url": "https://jsr.io/",
+		"ref": "",
+		"description": "The open-source package registry for modern JavaScript and TypeScript.",
+		"note": 5
 	}
 ]
