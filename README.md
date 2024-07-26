@@ -885,6 +885,7 @@ bun run prettier
 | [🔗 execa](https://www.npmjs.com/package/execa) | `javascript - cli - process` | Run commands in a child process. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 file-saver](https://www.npmjs.com/package/file-saver) | `javascript - file` | Save files easily in the browser. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 fs-extra](https://www.npmjs.com/package/fs-extra) | `javascript` | fs-extra adds file system methods that aren't included in the native fs module. | N/A | ⭐⭐⭐⭐🟊 |
+| [🔗 jsr](https://jsr.io/) | `javascript - opensource - package - registry` | The open-source package registry for modern JavaScript and TypeScript. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 lodash](https://lodash.com/) | `javascript` | JavaScript library that provides utility functions for functional programming. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 nodemon](https://nodemon.io/) | `javascript` | nodemon is a utility that monitors for changes in files and automatically restarts the server. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 prompt-sync](https://www.npmjs.com/package/prompt-sync) | `javascript` | A simple prompt for Node.js. | N/A | ⭐⭐⭐⭐🟊 |
