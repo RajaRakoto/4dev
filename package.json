@@ -14,9 +14,7 @@
 	},
 	"homepage": "https://github.com/RajaRakoto/bun-boilerplate#readme",
 	"bugs": "https://github.com/RajaRakoto/bun-boilerplate/issues",
-	"files": [
-		"dist"
-	],
+	"files": ["dist"],
 	"keywords": [
 		"typescript",
 		"bunjs",
