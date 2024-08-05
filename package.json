@@ -58,6 +58,7 @@
 		"tslib": "^2.6.2"
 	},
 	"devDependencies": {
+		"@biomejs/biome": "1.8.3",
 		"@types/bun": "latest",
 		"@types/jest": "^29.5.12",
 		"@typescript-eslint/eslint-plugin": "^7.1.0",
