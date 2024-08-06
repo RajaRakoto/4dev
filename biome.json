@@ -108,15 +108,12 @@
 			"**/node_modules",
 			"**/bower_components",
 			"**/jspm_packages",
-			"**/*.cjs",
-			"**/*.mjs",
-			"**/*.js",
-			"**/*.ts",
 			"**/backups",
 			"**/tmp"
 		]
 	},
 	"javascript": {
+		"globals": ["Bun"],
 		"formatter": {
 			"jsxQuoteStyle": "double",
 			"quoteProperties": "asNeeded",
