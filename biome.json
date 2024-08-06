@@ -19,7 +19,7 @@
 			"**/jspm_packages"
 		]
 	},
-	"organizeImports": { "enabled": true },
+	"organizeImports": { "enabled": false },
 	"linter": {
 		"enabled": true,
 		"rules": {
