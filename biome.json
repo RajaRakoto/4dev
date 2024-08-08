@@ -7,23 +7,13 @@
 		"indentWidth": 2,
 		"lineEnding": "lf",
 		"lineWidth": 80,
-		"attributePosition": "auto",
-		"ignore": [
-			"**/build",
-			"**/dist",
-			"**/.pnp",
-			"**/.pnp.js",
-			".yarn/install-state.gz",
-			"**/node_modules",
-			"**/bower_components",
-			"**/jspm_packages"
-		]
+		"attributePosition": "auto"
 	},
 	"organizeImports": { "enabled": false },
 	"linter": {
 		"enabled": true,
 		"rules": {
-			"recommended": false,
+			"recommended": true,
 			"complexity": {
 				"noExtraBooleanCast": "error",
 				"noMultipleSpacesInRegularExpressionLiterals": "error",
@@ -98,19 +88,7 @@
 				"useNamespaceKeyword": "error",
 				"useValidTypeof": "error"
 			}
-		},
-		"ignore": [
-			"**/build",
-			"**/dist",
-			"**/.pnp",
-			"**/.pnp.js",
-			".yarn/install-state.gz",
-			"**/node_modules",
-			"**/bower_components",
-			"**/jspm_packages",
-			"**/backups",
-			"**/tmp"
-		]
+		}
 	},
 	"javascript": {
 		"globals": ["Bun"],
@@ -161,5 +139,16 @@
 				}
 			}
 		}
-	]
+	],
+  "files": {
+    "ignore": [
+			"build",
+			"dist",
+			"node_modules",
+			"bower_components",
+			"jspm_packages",
+			"backups",
+			"tmp"
+		]
+  }
 }
