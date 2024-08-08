@@ -12,10 +12,9 @@ Instant Value - All basic tools included and configured:
 - 🧅 Bun.js >= 1.0.26
 - 🧅 Use Bun as package manager
 - 🌈 ESM
-- 🧹 ESlint with some initial rules recommendation
+- 🧪 Biome for code formatting and linting
 - ✅ Jest or Bun test for fast unit testing and code coverage
 - 📚 Type definitions for Bun.js and Jest
-- 🎨 Prettier to enforce consistent code style
 - ⚙️ EditorConfig for consistent coding style
 - 📦 NPM scripts for common operations
 - 🛠️ Example configuration for GitHub Actions
@@ -81,6 +80,10 @@ bun run pkg-upgrade # to upgrade outdated dependencies in interactive mode
 
 - 📜 `eslint` - Lint source files with ESLint.
 - 📜 `prettier` - Reformat source files with Prettier.
+- 📜 `biome:start` - Starts the Biome daemon server. You can specify a custom configuration file path using the `--config-path` option.
+- 📜 `biome:stop` - Stops the Biome daemon server.
+- 📜 `biome:fix` - Runs a source code check and applies automatic fixes (linter & formatter) according to the defined rules.
+- 📜 `biome:unsafe` - Works like `biome:fix`, but may apply more invasive or risky changes.
 
 **Backup and Dependency Management**
 
