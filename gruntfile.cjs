@@ -1,5 +1,5 @@
 /**
- * @description: gruntfile for bun boilerplate
+ * @description: gruntfile for 4dev
  * @requires: grunt | load-grunt-tasks | grunt-contrib-compress
  */
 module.exports = (grunt) => {

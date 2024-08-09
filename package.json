@@ -61,9 +61,6 @@
 		"npm-version:minor": "npm version minor",
 		"npm-version:patch": "npm version patch"
 	},
-	"dependencies": {
-		"tslib": "^2.6.3"
-	},
 	"devDependencies": {
 		"@biomejs/biome": "1.8.3",
 		"@types/bun": "latest",
