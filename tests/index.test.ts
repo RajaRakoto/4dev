@@ -83,7 +83,8 @@ describe("CHECKER TEST", () => {
 	test("should return false for non-string name", () => {
 		const data: I_Collection[] = [
 			{
-				name: 123 as any,
+				// @ts-ignore
+				name: 123,
 				keywords: ["keyword1", "keyword2"],
 				url: "https://example.com",
 				ref: "",
@@ -98,7 +99,8 @@ describe("CHECKER TEST", () => {
 		const data: I_Collection[] = [
 			{
 				name: "invalid collection",
-				keywords: [123 as any, "keyword2"],
+				// @ts-ignore
+				keywords: [123, "keyword2"],
 				url: "https://example.com",
 				ref: "",
 				description: "This is an invalid collection.",
@@ -113,7 +115,8 @@ describe("CHECKER TEST", () => {
 			{
 				name: "invalid collection",
 				keywords: ["keyword1", "keyword2"],
-				url: 123 as any,
+				// @ts-ignore
+				url: 123,
 				ref: "",
 				description: "This is an invalid collection.",
 				note: 5,
@@ -128,7 +131,8 @@ describe("CHECKER TEST", () => {
 				name: "invalid collection",
 				keywords: ["keyword1", "keyword2"],
 				url: "https://example.com",
-				ref: 123 as any,
+				// @ts-ignore
+				ref: 123,
 				description: "This is an invalid collection.",
 				note: 5,
 			},
@@ -143,7 +147,8 @@ describe("CHECKER TEST", () => {
 				keywords: ["keyword1", "keyword2"],
 				url: "https://example.com",
 				ref: "",
-				description: 123 as any,
+				// @ts-ignore
+				description: 123,
 				note: 5,
 			},
 		];
@@ -158,7 +163,8 @@ describe("CHECKER TEST", () => {
 				url: "https://example.com",
 				ref: "",
 				description: "This is an invalid collection.",
-				note: "5" as any,
+				// @ts-ignore
+				note: "5",
 			},
 		];
 		expect(checker(data, true)).resolves.toBe(false);

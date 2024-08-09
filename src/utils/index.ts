@@ -269,16 +269,17 @@ export function checker(data: I_Collection[], test = false): Promise<boolean> {
 						`${EMOJI.warning} [${item.name}] -> ${warnings.join(" | ")}`,
 					);
 				}
+			}
 
-				if (!test) {
-					for (const warning of warningLists) {
-						console.log(warning);
-					}
+			if (!test) {
+				for (const warning of warningLists) {
+					console.log(warning);
 				}
-				if (warningLists.length > 0) {
-					resolve(false);
-				}
+			}
 
+			if (warningLists.length > 0) {
+				resolve(false);
+			} else {
 				resolve(true);
 			}
 		} catch (error) {
