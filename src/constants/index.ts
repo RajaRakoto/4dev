@@ -80,12 +80,12 @@ ${EMOJI.message} You can also add/create your own collection in this repository 
 bun run build && bun run start
 \`\`\`
 
-**STEP 3: Format**
+**STEP 3: Lint/Format**
 
-- Before commiting and PR, make sure that are formatted correctly with the following command:
+- Before committing and creating a PR, make sure the code is linted and formatted correctly using the following command:
 
 \`\`\`bash
-bun run prettier
+bun run biome:fix
 \`\`\`
 `,
 };
