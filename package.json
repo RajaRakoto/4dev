@@ -14,9 +14,7 @@
 	},
 	"homepage": "https://github.com/RajaRakoto/4dev#readme",
 	"bugs": "https://github.com/RajaRakoto/4dev/issues",
-	"files": [
-		"dist"
-	],
+	"files": ["dist"],
 	"keywords": [
 		"mobile",
 		"collection",

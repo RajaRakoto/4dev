@@ -51,13 +51,7 @@
 	},
 	{
 		"name": "pocketenv",
-		"keywords": [
-			"devops",
-			"docker",
-      "environment",
-      "deno",
-			"javascript"
-		],
+		"keywords": ["devops", "docker", "environment", "deno", "javascript"],
 		"url": "https://github.com/pocketenv-io/pocketenv",
 		"ref": "",
 		"description": "Manage your development environment with ease ✨",

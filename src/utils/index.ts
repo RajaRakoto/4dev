@@ -1,7 +1,7 @@
 /* libs */
-import * as fs from "fs";
-import * as path from "path";
-import util from "util";
+import * as fs from "node:fs";
+import * as path from "node:path";
+import util from "node:util";
 
 /* converts */
 import { EMOJI, RATING } from "@/constants";
@@ -29,13 +29,14 @@ export async function writeToFile(
 ): Promise<void> {
 	try {
 		const fileExists = await fileExistsAsync(destination);
+		let finalContent = content;
 
 		if (fileExists) {
 			const existingContent = await readFileAsync(destination, "utf8");
-			content = existingContent + content;
+			finalContent = existingContent + content;
 		}
 
-		await writeFileAsync(destination, content);
+		await writeFileAsync(destination, finalContent);
 		console.log(successMessage);
 	} catch (error) {
 		throw new Error(
@@ -70,14 +71,14 @@ export async function combineJSONfilesFromDirectory(
 		let combinedObjects: I_Collection[] = [];
 		const files = await readDirAsync(source);
 
-		files.forEach((file) => {
+		for (const file of files) {
 			if (path.extname(file) === ".json") {
 				const filePath = path.join(source, file);
 				const data = fs.readFileSync(filePath, "utf-8");
 				const json = JSON.parse(data);
 				combinedObjects = combinedObjects.concat(json);
 			}
-		});
+		}
 		return combinedObjects;
 	} catch (error) {
 		throw new Error(
@@ -92,9 +93,9 @@ export async function combineJSONfilesFromDirectory(
  */
 export function getAllKeywords(data: I_Collection[]): string[] {
 	let keywords: string[] = [];
-	data.forEach((collection) => {
+	for (const collection of data) {
 		keywords = keywords.concat(collection.keywords);
-	});
+	}
 	return Array.from(new Set(keywords)).sort();
 }
 
@@ -149,7 +150,7 @@ export function getTableSeparator(columns: number): string {
 	if (columns <= 0) {
 		throw new Error("[error]: columns must be greater than 0");
 	}
-	return "| " + Array.from({ length: columns }, () => " :-- ").join("|") + " |";
+	return `| ${Array.from({ length: columns }, () => " :-- ").join("|")} |`;
 }
 
 /**
@@ -160,7 +161,7 @@ export function getFormatedTag(text: string): string {
 	let transformedText = text.replace(/\(|\)/g, "-");
 	transformedText = transformedText.replace(/\+|&/g, "--");
 	transformedText = transformedText.replace(/ /g, "-");
-	transformedText = "#-" + transformedText.toLowerCase();
+	transformedText = `#-${transformedText.toLowerCase()}`;
 	return transformedText;
 }
 
@@ -207,14 +208,16 @@ export function getAllCollectionsByCategory(
 export function getFormatedRef(ref: string): string {
 	if (ref === "") {
 		return "N/A";
-	} else if (!ref.includes(" | ")) {
-		return `[ref](${ref})`;
-	} else {
-		return ref
-			.split(" | ")
-			.map((url, index) => `[ref${index + 1}](${url})`)
-			.join(" - ");
 	}
+
+	if (!ref.includes(" | ")) {
+		return `[ref](${ref})`;
+	}
+
+	return ref
+		.split(" | ")
+		.map((url, index) => `[ref${index + 1}](${url})`)
+		.join(" - ");
 }
 
 /**
@@ -222,15 +225,12 @@ export function getFormatedRef(ref: string): string {
  * @param data Collections data
  * @param test If true, the function will enter test mode and not display warnings, useful for unit testing
  */
-export function checker(
-	data: I_Collection[],
-	test: boolean = false,
-): Promise<boolean> {
+export function checker(data: I_Collection[], test = false): Promise<boolean> {
 	return new Promise((resolve, reject) => {
 		try {
 			const warningLists: string[] = [];
 
-			data.forEach((item) => {
+			for (const item of data) {
 				const warnings: string[] = [];
 
 				if (
@@ -248,7 +248,7 @@ export function checker(
 				if (item.keywords.length === 0) {
 					warnings.push("Keywords must not be empty.");
 				}
-				if (typeof item.note != "number" || item.note < -1 || item.note > 5) {
+				if (typeof item.note !== "number" || item.note < -1 || item.note > 5) {
 					warnings.push("Note must be a number between -1 and 5.");
 				}
 				if (
@@ -269,16 +269,18 @@ export function checker(
 						`${EMOJI.warning} [${item.name}] -> ${warnings.join(" | ")}`,
 					);
 				}
-			});
 
-			if (!test) {
-				warningLists.forEach((warning) => console.log(warning));
-			}
-			if (warningLists.length > 0) {
-				resolve(false);
-			}
+				if (!test) {
+					for (const warning of warningLists) {
+						console.log(warning);
+					}
+				}
+				if (warningLists.length > 0) {
+					resolve(false);
+				}
 
-			resolve(true);
+				resolve(true);
+			}
 		} catch (error) {
 			reject(`[error]: an error occurred while checking the data: \n${error}`);
 		}
@@ -293,19 +295,19 @@ export async function fixDotFromDescription(source: string): Promise<void> {
 	try {
 		const files = await readDirAsync(source);
 
-		files.forEach(async (file) => {
+		for (const file of files) {
 			if (file.endsWith(".json")) {
 				const filePath = path.join(source, file);
 				const jsonData = await readFileAsync(filePath, "utf-8");
 				const data = JSON.parse(jsonData);
-				data.forEach((collection: I_Collection) => {
+				for (const collection of data) {
 					if (!collection.description.endsWith(".")) {
 						collection.description += ".";
 					}
-				});
+				}
 				await writeFileAsync(filePath, JSON.stringify(data, null, 2), "utf-8");
 			}
-		});
+		}
 	} catch (error) {
 		throw new Error(
 			`[error]: an error occurred while fixing the dot from the description: \n${error}`,
