@@ -130,7 +130,7 @@ async function main() {
 			);
 
 			console.log(
-				"> NOTE: Please execute `bun run prettier` to format all files before commiting",
+				"> NOTE: Please execute `bun run biome:fix` to lint/format all files before commiting",
 			);
 		}
 	} catch (error) {
