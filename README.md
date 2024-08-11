@@ -880,6 +880,7 @@ bun run biome:fix
 
 | URL | Keywords | Description | Ref | Rating |
 |  :-- | :-- | :-- | :-- | :--  |
+| [🔗 biome](https://biomejs.dev/) | `javascript - linter - formatter - fixer` | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. | [ref](https://github.com/biomejs/biome) | ⭐⭐⭐⭐⭐ |
 | [🔗 browserify](http://browserify.org/) | `javascript` | Browserify is a tool that allows you to write Node.js-style modules that compile for use in the browser. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 debug](https://www.npmjs.com/package/debug) | `javascript` | A tiny JavaScript debugging utility modeled after Node.js core's debugging technique. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 dotenv](https://www.npmjs.com/package/dotenv) | `javascript` | Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. | N/A | ⭐⭐⭐⭐🟊 |
