@@ -86,5 +86,13 @@
 		"ref": "",
 		"description": "The open-source package registry for modern JavaScript and TypeScript.",
 		"note": 5
+	},
+	{
+		"name": "biome",
+		"keywords": ["javascript", "linter", "formatter", "fixer"],
+		"url": "https://biomejs.dev/",
+		"ref": "https://github.com/biomejs/biome",
+		"description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+		"note": 5
 	}
 ]
