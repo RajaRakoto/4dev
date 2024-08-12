@@ -54,5 +54,13 @@
 		"ref": "",
 		"description": "Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community.",
 		"note": 5
+	},
+	{
+		"name": "infisical",
+		"keywords": ["security", "secrets", "encryption", "env", "golang"],
+		"url": "https://infisical.com/",
+		"ref": "https://github.com/Infisical/infisical",
+		"description": "All-in-one platform to securely manage application configuration and secrets across your team and infrastructure.",
+		"note": 5
 	}
 ]
