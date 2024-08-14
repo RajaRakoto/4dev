@@ -1,0 +1,10 @@
+[
+	{
+		"name": "document translation (Google)",
+		"keywords": ["translation", "document", "pdf"],
+		"url": "https://translate.google.com/?hl=fr&sl=auto&tl=fr&op=translate",
+		"ref": "",
+		"description": "Google document translation service (max file size: 10 Mo).",
+		"note": 5
+	}
+]
