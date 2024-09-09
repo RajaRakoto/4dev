@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/RajaRakoto/github-docs/blob/master/4dev/4dev.png?raw=true" width=512>
+</div>
+
 # 4dev 🛠️
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/build-by.svg?raw=true)](https://forthebadge.com)
@@ -1301,7 +1305,7 @@ bun run biome:fix
 
 | URL | Keywords | Description | Ref | Rating |
 |  :-- | :-- | :-- | :-- | :--  |
-| [🔗 document translation (Google)](https://translate.google.com/?hl=fr&sl=auto&tl=fr&op=translate) | `translation - document - pdf` | Google document translation service (max file size: 10 Mo) | N/A | ⭐⭐⭐⭐⭐ |
+| [🔗 document translation (Google)](https://translate.google.com/?hl=fr&sl=auto&tl=fr&op=translate) | `translation - document - pdf` | Google document translation service (max file size: 10 Mo). | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
     <b><a href="#-table-of-contents">↥ Back To Top</a></b>
