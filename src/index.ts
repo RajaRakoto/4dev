@@ -33,6 +33,7 @@ function renderBanner(): Promise<string> {
 		try {
 			const result: string[] = [];
 
+			result.push(BANNER.logo);
 			result.push(BANNER.title);
 			result.push(BANNER.badge);
 			result.push(BANNER.description);
