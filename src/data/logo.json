@@ -1,5 +1,13 @@
 [
 	{
+		"name": "logo ai",
+		"keywords": ["logo", "ai", "design", "illustrator", "generative"],
+		"url": "https://www.logoai.com/",
+		"ref": "",
+		"description": "Let AI-powered logo maker generate your new logo and create a brand identity design you love.",
+		"note": 4
+	},
+	{
 		"name": "logomakr",
 		"keywords": ["logo", "maker"],
 		"url": "https://logomakr.com/app",

@@ -138,14 +138,6 @@
 		"note": 4
 	},
 	{
-		"name": "logo ai",
-		"keywords": ["ai", "logo", "design", "illustrator", "generative"],
-		"url": "https://www.logoai.com/",
-		"ref": "",
-		"description": "Let AI-powered logo maker generate your new logo and create a brand identity design you love.",
-		"note": 4
-	},
-	{
 		"name": "project IDX",
 		"keywords": ["ai", "editor", "ide", "code", "cloud", "fullstack"],
 		"url": "https://projectidx.com/",
