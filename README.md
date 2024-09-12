@@ -135,7 +135,6 @@ bun run biome:fix
 | [🔗 huggingface](https://huggingface.co/) | `ai - community - ml - gpt - mistral - llama - model - llm - nlp` | A platform for building, training, and deploying state-of-the-art machine learning models. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 leonardo ai](https://leonardo.ai/) | `ai - image - imagine - generative - logo - illustrator` | Transform your projects with our AI image generator. Generate high-quality, AI generated images with unparalleled speed and style to elevate your creative ... | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 llama](https://llama.meta.com/) | `ai - llama - generative - finetune - llm - model - opensource - chat` | LLaMA (Large Language Model Meta AI) is a series of foundational language models, ranging from 7 billion to 70 billion parameters, developed by Facebook's AI Research (FAIR) team. | [ref](https://github.com/facebookresearch/llama) | ⭐⭐⭐⭐⭐ |
-| [🔗 logo ai](https://www.logoai.com/) | `ai - logo - design - illustrator - generative` | Let AI-powered logo maker generate your new logo and create a brand identity design you love. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 midjourney](https://midjourney.com/) | `ai - image - imagine - generative - logo - illustrator` | An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 midjourney-free](https://t.me/freemidjourney) | `ai - image - imagine - generative` | Midjourney Free is a Telegram bot that generates AI images for free. You can use it to generate high-quality, AI-generated images with unparalleled speed and style. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 mistral ai](https://mistral.ai/fr/) | `ai - mistral - generative - finetune - llm - model - opensource - chat` | A generative AI, open and portable, for developers and businesses. | N/A | ⭐⭐⭐⭐⭐ |
@@ -972,6 +971,7 @@ bun run biome:fix
 
 | URL | Keywords | Description | Ref | Rating |
 |  :-- | :-- | :-- | :-- | :--  |
+| [🔗 logo ai](https://www.logoai.com/) | `logo - ai - design - illustrator - generative` | Let AI-powered logo maker generate your new logo and create a brand identity design you love. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 logoideas](https://www.namecheap.com/logo-maker/ideas) | `logo - idea - maker` | Logo creation idea. | N/A | ⭐⭐⭐🟊🟊 |
 | [🔗 logomakr](https://logomakr.com/app) | `logo - maker` | Web application for creating a logo. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 logoSearch](https://logosear.ch/search.html?q=) | `logo - search - collection - svg` | Search engine with over 200,000 indexed SVG logos. | N/A | ⭐⭐⭐🟊🟊 |
