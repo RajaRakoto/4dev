@@ -228,6 +228,7 @@ bun run biome:fix
 
 | URL | Keywords | Description | Ref | Rating |
 |  :-- | :-- | :-- | :-- | :--  |
+| [🔗 Avvvatars](https://avvvatars.com/?ref=dailydev) | `avatar - profil - generator` | A simple tool for generating unique avatars for your projects. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 bigheads](https://github.com/RobertBroersma/bigheads/) | `avatar - profil - generator` | Easily generate avatars for your projects with Big Heads by Robert Broersma. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 getavataaars](https://getavataaars.com/) | `avatar - profil - generator` | Fun and colorful free avatar web generation tool by Fang-Pen Lin using Pablo Stanley's sketch library. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 personas](https://personas.draftbit.com/) | `avatar - profil - generator` | A playful avatar generator for the modern age. | N/A | ⭐⭐⭐🟊🟊 |
