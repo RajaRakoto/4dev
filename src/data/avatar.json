@@ -22,5 +22,13 @@
 		"ref": "",
 		"description": "A playful avatar generator for the modern age.",
 		"note": 3
+	},
+	{
+		"name": "Avvvatars",
+		"keywords": ["avatar", "profil", "generator"],
+		"url": "https://avvvatars.com/?ref=dailydev",
+		"ref": "",
+		"description": "A simple tool for generating unique avatars for your projects.",
+		"note": 5
 	}
 ]
