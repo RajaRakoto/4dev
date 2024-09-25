@@ -40,6 +40,14 @@
 		"note": 5
 	},
 	{
+		"name": "hono",
+		"keywords": ["backend", "framework", "javascript"],
+		"url": "https://hono.dev/",
+		"ref": "",
+		"description": "A small, fast web framework for TypeScript and JavaScript.",
+		"note": 5
+	},
+	{
 		"name": "nest.js",
 		"keywords": ["backend", "framework", "angular", "javascript"],
 		"url": "https://nestjs.com/",
