@@ -62,5 +62,13 @@
 		"ref": "https://github.com/Infisical/infisical",
 		"description": "All-in-one platform to securely manage application configuration and secrets across your team and infrastructure.",
 		"note": 5
+	},
+	{
+		"name": "haveibeenpwned",
+		"keywords": ["security", "safety", "account", "email"],
+		"url": "https://haveibeenpwned.com/",
+		"ref": "",
+		"description": "A tool to check if your email or phone number has been in a data breach.",
+		"note": 5
 	}
 ]
