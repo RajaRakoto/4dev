@@ -70,5 +70,13 @@
 		"ref": "",
 		"description": "A tool to check if your email or phone number has been in a data breach.",
 		"note": 5
+	},
+	{
+		"name": "cloudflare",
+		"keywords": ["security", "ddos-protection", "cdn", "dns"],
+		"url": "https://www.cloudflare.com/",
+		"ref": "",
+		"description": "Cloudflare provides content delivery network services, DDoS mitigation, Internet security, and distributed domain name server services.",
+		"note": 5
 	}
 ]
