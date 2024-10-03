@@ -1137,6 +1137,7 @@ bun run biome:fix
 |  :-- | :-- | :-- | :-- | :--  |
 | [🔗 bad-words](https://www.npmjs.com/package/bad-words) | `security - filter - validator - test` | Bad Words is a word filter that allows filtering offensive words. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 bcrypt](https://www.npmjs.com/package/bcrypt) | `security - hash - password - javascript` | bcrypt is a password hashing algorithm. | N/A | ⭐⭐⭐⭐⭐ |
+| [🔗 cloudflare](https://www.cloudflare.com/) | `security - ddos-protection - cdn - dns` | Cloudflare provides content delivery network services, DDoS mitigation, Internet security, and distributed domain name server services. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 french-badwords-list](https://www.npmjs.com/package/french-badwords-list) | `security - filter - collection - validator - test - fr` | Liste de mots grossiers en français. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 haveibeenpwned](https://haveibeenpwned.com/) | `security - safety - account - email` | A tool to check if your email or phone number has been in a data breach. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 infisical](https://infisical.com/) | `security - secrets - encryption - env - golang` | All-in-one platform to securely manage application configuration and secrets across your team and infrastructure. | [ref](https://github.com/Infisical/infisical) | ⭐⭐⭐⭐⭐ |
