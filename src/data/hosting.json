@@ -1,7 +1,7 @@
 [
 	{
 		"name": "render",
-		"keywords": ["hosting", "frontend", "backend"],
+		"keywords": ["hosting", "cdn", "frontend", "backend"],
 		"url": "https://render.com/",
 		"ref": "",
 		"description": "Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, private networks, and automatic deployments from Git.",
