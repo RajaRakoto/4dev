@@ -54,13 +54,13 @@ function renderBanner(): Promise<string> {
 function renderTableOfContents(categories: string[]): Promise<string> {
 	return new Promise((resolve, reject) => {
 		try {
-			const tableOfContents = categories
-				.map((category) => `[${category}](${getFormatedTag(category)})`)
-				.join(" | ");
+			const listItems = categories
+				.map((category) => `- [${category}](${getFormatedTag(category)})`)
+				.join("\n");
+
 			let result = "";
 			result += `\n### ${EMOJI.title} Table of contents\n\n`;
-			result += `| ${tableOfContents} |\n`;
-			result += `${getTableSeparator(categories.length)}\n`;
+			result += `${listItems}\n`;
 			result += "\n---\n";
 			resolve(result);
 		} catch (error) {
@@ -86,7 +86,13 @@ async function renderCollections(
 			result += `${TABLE_HEADER}\n`;
 			result += `${getTableSeparator(tableColumnNumber)}\n`;
 			for (const collection of collections) {
-				result += `| [${EMOJI.link} ${collection.name}](${collection.url}) | \`${collection.keywords.join(" - ")}\` | ${collection.description} | ${getFormatedRef(collection.ref)} | ${getFormatedNote(collection.note)} |\n`;
+				result += `| [${EMOJI.link} ${collection.name}](${
+					collection.url
+				}) | \`${collection.keywords.join(" - ")}\` | ${
+					collection.description
+				} | ${getFormatedRef(collection.ref)} | ${getFormatedNote(
+					collection.note,
+				)} |\n`;
 			}
 			result += BACK_TO_TOP;
 		}
