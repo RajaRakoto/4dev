@@ -107,6 +107,7 @@ bun run biome:fix
 - [freelance](#-freelance)
 - [frontend](#-frontend)
 - [generator](#-generator)
+- [hardware](#-hardware)
 - [hosting](#-hosting)
 - [http](#-http)
 - [icons](#-icons)
@@ -907,6 +908,16 @@ bun run biome:fix
 | [🔗 uuid](https://www.npmjs.com/package/uuid) | `generator - id - identifier - unique - javascript` |  Universal Unique Identifier (UUID) generator. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 wix](https://fr.wix.com/) | `generator` | Wix is a SaaS online platform that allows you to create HTML5 websites and their mobile version. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 yo](https://yeoman.io/) | `generator - extension - vscode - javascript` | Yeoman generator will guide you through the necessary steps to create your customization or extension by asking you for the required information. | N/A | ⭐⭐⭐⭐🟊 |
+
+<div align="left">
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
+</div>
+
+#### ⚫ hardware
+
+| URL | Keywords | Description | Ref | Rating |
+|  :-- | :-- | :-- | :-- | :--  |
+| [🔗 technicalcity](https://technical.city/fr/) | `hardware - benchmark - comparison - versus - gpu - cpu` | Technical City offers benchmarks and hardware comparisons, helping users choose the best CPU and GPU for their needs. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
     <b><a href="#-table-of-contents">↥ Back To Top</a></b>
