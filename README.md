@@ -956,6 +956,7 @@ bun run biome:fix
 |  :-- | :-- | :-- | :-- | :--  |
 | [🔗 devicons](https://devicon.dev/) | `icons - collection - dev - svg` | Icon collection for developers. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 fontawesome](https://fontawesome.com/start) | `icons - fonts - typography - collection - svg - css - sass - less` | Font Awesome is a font and icon toolset based on CSS, LESS, and SASS. | N/A | ⭐⭐⭐⭐⭐ |
+| [🔗 icon8](https://www.icons8.com/) | `icons - collection - various - svg - png - favicon` | Icons8 provides a vast library of icons, illustrations, and design tools for various projects. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 lordIcons](https://lordicon.com/icons) | `icons - collection - svg - lottie` | Animated icon collection (svg - lottie). | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 mui-icons](https://mui.com/material-ui/material-icons/) | `icons - collection - mui - material - svg` | Icon collection for Material UI. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 react-icons](https://github.com/react-icons/react-icons) | `icons - collection - react - svg - javascript` | Icon collection for React. | N/A | ⭐⭐⭐⭐⭐ |
