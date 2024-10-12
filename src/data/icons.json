@@ -63,5 +63,13 @@
 		"ref": "",
 		"description": "Icon collection for developers.",
 		"note": 5
+	},
+	{
+		"name": "icon8",
+		"keywords": ["icons", "collection", "various", "svg", "png", "favicon"],
+		"url": "https://www.icons8.com/",
+		"ref": "",
+		"description": "Icons8 provides a vast library of icons, illustrations, and design tools for various projects.",
+		"note": 4
 	}
 ]
