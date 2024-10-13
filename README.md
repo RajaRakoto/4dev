@@ -146,6 +146,7 @@ bun run biome:fix
 - [training](#-training)
 - [translation](#-translation)
 - [tutorial](#-tutorial)
+- [url](#-url)
 - [validator](#-validator)
 - [video](#-video)
 - [vps](#-vps)
@@ -1439,6 +1440,16 @@ bun run biome:fix
 | [🔗 grafikart](https://grafikart.fr/formations/) | `tutorial - fr` | Découvrez une technologie précise à travers une série de vidéos qui vous guideront dans votre apprentissage. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 MDN](https://developer.mozilla.org/fr/docs/Web/) | `tutorial - docs - web` | DevDocs combines multiple API documentations into a fast, organized, and searchable interface. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 pierre giraud](https://www.pierre-giraud.com/) | `tutorial - fr` | Toutes vos ressources sur le développement web, apprenez à coder en HTML, CSS, JavaScript, Python, PHP. | N/A | ⭐⭐⭐⭐🟊 |
+
+<div align="left">
+    <b><a href="#-table-of-contents">↥ Back To Top</a></b>
+</div>
+
+#### ⚫ url
+
+| URL | Keywords | Description | Ref | Rating |
+|  :-- | :-- | :-- | :-- | :--  |
+| [🔗 shorturl](https://shortUrl.com/) | `url - links - shortener` | ShortURL allows users to shorten long URLs and manage their links efficiently. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
     <b><a href="#-table-of-contents">↥ Back To Top</a></b>
