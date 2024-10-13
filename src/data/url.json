@@ -1,0 +1,10 @@
+[
+	{
+		"name": "shorturl",
+		"keywords": ["url", "links", "shortener"],
+		"url": "https://shortUrl.com/",
+		"ref": "",
+		"description": "ShortURL allows users to shorten long URLs and manage their links efficiently.",
+		"note": 4
+	}
+]
