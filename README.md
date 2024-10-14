@@ -812,6 +812,7 @@ bun run biome:fix
 | [🔗 dafont](https://www.dafont.com) | `fonts - typography` | Archive of downloadable fonts for free. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 fontawesome](https://fontawesome.com/start) | `fonts - typography - icons - svg - css - sass - less` | Font Awesome is a font and icon toolkit based on CSS, LESS, and SASS. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 fontgeneratorguru](https://www.fontgeneratorguru.com/) | `fonts - typography - generator` | Cool font generator!. | N/A | ⭐⭐⭐⭐🟊 |
+| [🔗 fontsource](https://fontsource.org/) | `fonts - typography` | Fontsource provides self-hosted open-source fonts to use in your web projects. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 google fonts](https://fonts.google.com) | `fonts - typography - google` | Library of around 1000 font families under free license. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
