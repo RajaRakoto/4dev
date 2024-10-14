@@ -30,5 +30,13 @@
 		"ref": "",
 		"description": "Cool font generator!.",
 		"note": 4
+	},
+	{
+		"name": "fontsource",
+		"keywords": ["fonts", "typography"],
+		"url": "https://fontsource.org/",
+		"ref": "",
+		"description": "Fontsource provides self-hosted open-source fonts to use in your web projects.",
+		"note": 5
 	}
 ]
