@@ -46,5 +46,13 @@
 		"ref": "",
 		"description": "Color palette generator with advanced customization features.",
 		"note": 4
+	},
+	{
+		"name": "color contrast rule",
+		"keywords": ["colors", "accessibility", "contrast", "rule"],
+		"url": "https://dequeuniversity.com/rules/axe/4.9/color-contrast",
+		"ref": "",
+		"description": "Deque University provides accessibility training and tools, including guidelines for color contrast to meet WCAG standards.",
+		"note": 5
 	}
 ]
