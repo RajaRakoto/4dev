@@ -549,6 +549,7 @@ bun run biome:fix
 
 | URL | Keywords | Description | Ref | Rating |
 |  :-- | :-- | :-- | :-- | :--  |
+| [🔗 color contrast rule](https://dequeuniversity.com/rules/axe/4.9/color-contrast) | `colors - accessibility - contrast - rule` | Deque University provides accessibility training and tools, including guidelines for color contrast to meet WCAG standards. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 colorBrewer](https://colorbrewer2.org/#) | `colors - map - generator` | The original color palette generator, also supporting colorblindness. Arguably the best scientifically. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 colorCurves](https://colorcurves.app) | `colors - curve - generator` | Color palette generator that uses curves to generate color schemes. | N/A | ⭐⭐⭐🟊🟊 |
 | [🔗 colorHunt](https://colorhunt.co/palettes/popular) | `colors - idea` | An open-source platform for color scheme inspiration with thousands of curated trendy color palettes. | N/A | ⭐⭐⭐⭐⭐ |
