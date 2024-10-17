@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "play-with-docker",
-		"keywords": ["devops", "docker", "playground"],
+		"keywords": ["devops", "docker", "playground", "linux"],
 		"url": "https://labs.play-with-docker.com/",
 		"ref": "",
 		"description": "Play with Docker is a project that allows you to test Docker commands in a matter of seconds. It gives you the experience of having a free Alpine Linux Virtual Machine in the cloud where you can build and run Docker containers and even create clusters.",
@@ -55,6 +55,22 @@
 		"url": "https://github.com/pocketenv-io/pocketenv",
 		"ref": "",
 		"description": "Manage your development environment with ease ✨.",
+		"note": 5
+	},
+	{
+		"name": "nginx ui",
+		"keywords": ["devops", "backend", "server"],
+		"url": "https://github.com/0xJacky/nginx-ui",
+		"ref": "",
+		"description": "Yet another WebUI for Nginx.",
+		"note": 5
+	},
+	{
+		"name": "crontab ui",
+		"keywords": ["devops", "linux", "task", "automation"],
+		"url": "https://github.com/alseambusher/crontab-ui",
+		"ref": "",
+		"description": "A user-friendly graphical interface to manage cron jobs on Unix, allowing users to view and modify jobs without using the terminal.",
 		"note": 5
 	}
 ]

@@ -105,14 +105,6 @@
 		"note": 5
 	},
 	{
-		"name": "nginx ui",
-		"keywords": ["backend", "devops", "server"],
-		"url": "https://github.com/0xJacky/nginx-ui",
-		"ref": "",
-		"description": "Yet another WebUI for Nginx.",
-		"note": 5
-	},
-	{
 		"name": "fiber",
 		"keywords": ["backend", "framework", "golang"],
 		"url": "https://github.com/gofiber/fiber",
