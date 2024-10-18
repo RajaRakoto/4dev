@@ -72,5 +72,13 @@
 		"ref": "",
 		"description": "A user-friendly graphical interface to manage cron jobs on Unix, allowing users to view and modify jobs without using the terminal.",
 		"note": 5
+	},
+	{
+		"name": "labex",
+		"keywords": ["devops", "linux", "docker", "environment", "labs"],
+		"url": "https://labex.io",
+		"ref": "",
+		"description": "An interactive platform offering online labs for practicing programming or testing Unix systems in a virtual environment, without local setup.",
+		"note": 4
 	}
 ]
