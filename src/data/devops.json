@@ -80,5 +80,13 @@
 		"ref": "",
 		"description": "An interactive platform offering online labs for practicing programming or testing Unix systems in a virtual environment, without local setup.",
 		"note": 4
+	},
+	{
+		"name": "virtualbox",
+		"keywords": ["devops", "virtualization", "opensource", "oracle", "os"],
+		"url": "https://virtualbox.org/wiki/Downloads",
+		"ref": "",
+		"description": "An open-source virtualization software that allows users to create and run virtual machines to test different operating systems.",
+		"note": 5
 	}
 ]
