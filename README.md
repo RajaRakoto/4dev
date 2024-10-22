@@ -679,6 +679,7 @@ bun run biome:fix
 | [🔗 nginx ui](https://github.com/0xJacky/nginx-ui) | `devops - backend - server` | Yet another WebUI for Nginx. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 play-with-docker](https://labs.play-with-docker.com/) | `devops - docker - playground - linux` | Play with Docker is a project that allows you to test Docker commands in a matter of seconds. It gives you the experience of having a free Alpine Linux Virtual Machine in the cloud where you can build and run Docker containers and even create clusters. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 pocketenv](https://github.com/pocketenv-io/pocketenv) | `devops - docker - environment - deno - javascript` | Manage your development environment with ease ✨. | N/A | ⭐⭐⭐⭐⭐ |
+| [🔗 virtualbox](https://virtualbox.org/wiki/Downloads) | `devops - virtualization - opensource - oracle - os` | An open-source virtualization software that allows users to create and run virtual machines to test different operating systems. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
     <b><a href="#-table-of-contents">↥ Back To Top</a></b>
