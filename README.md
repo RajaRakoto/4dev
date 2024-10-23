@@ -1303,8 +1303,9 @@ bun run biome:fix
 | [🔗 cloc](https://github.com/kentcdodds/cloc) | `stat - dev - counter - reporter` | Count lines of code. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 nodejs libhunt](https://nodejs.libhunt.com/) | `stat - dev - awesome - node - javascript` | Find the best Node.js libraries. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 npmtrends](https://npmtrends.com/) | `stat - versus - npm - package - javascript` | Compare the number of package downloads over time. | N/A | ⭐⭐⭐⭐🟊 |
-| [🔗 stateofcss](https://2021.stateofcss.com/fr-FR/) | `stat - css` | CSS and its technologies statistics. | N/A | ⭐⭐⭐⭐⭐ |
-| [🔗 stateofjs](https://2021.stateofjs.com/fr-FR/) | `stat - javascript` | JavaScript and its technologies statistics. | N/A | ⭐⭐⭐⭐⭐ |
+| [🔗 stateofcss](https://stateofcss.com) | `stat - css` | Explore the latest trends in CSS tools, libraries, and technologies to determine what to learn based on current trends. | N/A | ⭐⭐⭐⭐⭐ |
+| [🔗 stateofhtml](https://stateofhtml.com) | `stat - html` | Discover the latest trends in HTML and understand the evolving standards in web development. | N/A | ⭐⭐⭐⭐⭐ |
+| [🔗 stateofjs](https://stateofjs.com) | `stat - javascript` | Find out the current trends in JavaScript, including popular libraries and frameworks used in modern development. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
     <b><a href="#-table-of-contents">↥ Back To Top</a></b>
