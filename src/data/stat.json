@@ -1,18 +1,26 @@
 [
 	{
+		"name": "stateofhtml",
+		"keywords": ["stat", "html"],
+		"url": "https://stateofhtml.com",
+		"ref": "",
+		"description": "Discover the latest trends in HTML and understand the evolving standards in web development.",
+		"note": 5
+	},
+	{
 		"name": "stateofcss",
 		"keywords": ["stat", "css"],
-		"url": "https://2021.stateofcss.com/fr-FR/",
+		"url": "https://stateofcss.com",
 		"ref": "",
-		"description": "CSS and its technologies statistics.",
+		"description": "Explore the latest trends in CSS tools, libraries, and technologies to determine what to learn based on current trends.",
 		"note": 5
 	},
 	{
 		"name": "stateofjs",
 		"keywords": ["stat", "javascript"],
-		"url": "https://2021.stateofjs.com/fr-FR/",
+		"url": "https://stateofjs.com",
 		"ref": "",
-		"description": "JavaScript and its technologies statistics.",
+		"description": "Find out the current trends in JavaScript, including popular libraries and frameworks used in modern development.",
 		"note": 5
 	},
 	{
