@@ -1,7 +1,7 @@
 [
 	{
 		"name": "stateofhtml",
-		"keywords": ["stat", "html"],
+		"keywords": ["stat", "trends", "html"],
 		"url": "https://stateofhtml.com",
 		"ref": "",
 		"description": "Discover the latest trends in HTML and understand the evolving standards in web development.",
@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "stateofcss",
-		"keywords": ["stat", "css"],
+		"keywords": ["stat", "trends", "css"],
 		"url": "https://stateofcss.com",
 		"ref": "",
 		"description": "Explore the latest trends in CSS tools, libraries, and technologies to determine what to learn based on current trends.",
@@ -17,15 +17,23 @@
 	},
 	{
 		"name": "stateofjs",
-		"keywords": ["stat", "javascript"],
+		"keywords": ["stat", "trends", "javascript"],
 		"url": "https://stateofjs.com",
 		"ref": "",
 		"description": "Find out the current trends in JavaScript, including popular libraries and frameworks used in modern development.",
 		"note": 5
 	},
 	{
+		"name": "stateofreact",
+		"keywords": ["stat", "trends", "react"],
+		"url": "https://stateofreact.com",
+		"ref": "",
+		"description": "Learn about the latest trends in the React ecosystem, including the most popular tools and practices.",
+		"note": 5
+	},
+	{
 		"name": "npmtrends",
-		"keywords": ["stat", "versus", "npm", "package", "javascript"],
+		"keywords": ["stat", "trends", "versus", "npm", "package", "javascript"],
 		"url": "https://npmtrends.com/",
 		"ref": "",
 		"description": "Compare the number of package downloads over time.",
