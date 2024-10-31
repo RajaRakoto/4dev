@@ -199,5 +199,13 @@
 		"ref": "",
 		"description": "DevelopA est spécialisée dans la conception et developpement de Système d'Information novateurs, en exploitant pleinement la flexibilité des technologies web.",
 		"note": -1
+	},
+	{
+		"name": "facture.net",
+		"keywords": ["job", "freelance", "facturation", "management"],
+		"url": "https://www.facture.net",
+		"ref": "",
+		"description": "Facture.net propose une solution de facturation en ligne gratuite, offrant des outils pour la gestion des devis, des factures et des clients.",
+		"note": 5
 	}
 ]
