@@ -46,5 +46,13 @@
 		"ref": "",
 		"description": "Convert image to text.",
 		"note": 4
+	},
+	{
+		"name": "Merge Image Online",
+		"keywords": ["image", "merge", "editor"],
+		"url": "https://merge.imageonline.co/",
+		"ref": "",
+		"description": "Merge Image Online is a free tool for merging multiple images into a single one, with customization options for image formats and layout.",
+		"note": 4
 	}
 ]
