@@ -759,6 +759,7 @@ bun run biome:fix
 
 | URL | Keywords | Description | Ref | Rating |
 |  :-- | :-- | :-- | :-- | :--  |
+| [🔗 balsamiq](https://balsamiq.com/) | `editor - wireframe - design - prototyping` | Balsamiq is a wireframing tool that allows users to easily design mockups for web and mobile projects. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 beFunky](https://www.befunky.com/create/photo-to-cartoon) | `editor - cartoon` | Cartoon yourself. | N/A | ⭐⭐⭐🟊🟊 |
 | [🔗 blobmaker](https://www.blobmaker.app/) | `editor - svg - generator` | Blobmaker is a free generative design tool that helps you quickly create random, unique, organic-looking SVG shapes. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 boxy SVG](https://boxy-svg.com/app) | `editor - illustrator - svg - image` | An online SVG editor. | N/A | ⭐⭐⭐⭐🟊 |
