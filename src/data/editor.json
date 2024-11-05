@@ -199,5 +199,13 @@
 		"ref": "",
 		"description": "Convert Quill delta to HTML.",
 		"note": 4
+	},
+	{
+		"name": "balsamiq",
+		"keywords": ["editor", "wireframe", "design", "prototyping"],
+		"url": "https://balsamiq.com/",
+		"ref": "",
+		"description": "Balsamiq is a wireframing tool that allows users to easily design mockups for web and mobile projects.",
+		"note": 4
 	}
 ]
