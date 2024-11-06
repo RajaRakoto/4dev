@@ -276,6 +276,7 @@ bun run biome:fix
 | URL | Keywords | Description | Ref | Rating |
 |  :-- | :-- | :-- | :-- | :--  |
 | [🔗 google-translate-api](https://github.com/matheuss/google-translate-api) | `api - google - translate` | A free and unlimited API for Google Translate. | N/A | ⭐⭐⭐🟊🟊 |
+| [🔗 insomnia](https://insomnia.rest/) | `api - rest - client - test` | Insomnia is a powerful API client for testing, debugging, and designing HTTP requests, ideal for developers working with APIs. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 json-server](https://github.com/typicode/json-server) | `api - rest - server - faker - test` | Get a complete fake REST API without coding in less than 30 seconds. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 mvola](https://www.mvola.mg/devportal/services/configs) | `api - mvola - mobilemoney - mg` | API to integrate MVOLA into your applications. | N/A | ⭐⭐⭐⭐🟊 |
 | [🔗 public-apis](https://github.com/public-apis/public-apis) | `api` | A list of public APIs. | N/A | ⭐⭐⭐⭐⭐ |
