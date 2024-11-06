@@ -46,5 +46,13 @@
 		"ref": "",
 		"description": "A free and unlimited API for Google Translate.",
 		"note": 3
+	},
+	{
+		"name": "insomnia",
+		"keywords": ["api", "rest", "client", "test"],
+		"url": "https://insomnia.rest/",
+		"ref": "",
+		"description": "Insomnia is a powerful API client for testing, debugging, and designing HTTP requests, ideal for developers working with APIs.",
+		"note": 5
 	}
 ]
