@@ -231,6 +231,7 @@ bun run biome:fix
 | [🔗 speechtexter](https://www.speechtexter.com/) | `ai - speech - text - transciption - audio` | SpeechTexter is a free online speech recognition software that converts your speech to text. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 summarize ai](https://www.summarize.tech/) | `ai - summarize - article - video - youtube - generative - transcription - audio` | Summarize AI is a tool that can summarize YouTube videos to text. It uses AI to generate a summary of the video's content. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 text to speech - google](https://cloud.google.com/text-to-speech?hl=fr) | `ai - text - speech - google` | Convert text to speech with Google's Text-to-Speech API. You can use this API to generate human-like speech from text. | N/A | ⭐⭐⭐⭐⭐ |
+| [🔗 together ai](https://api.together.xyz/) | `ai - generative - finetune - llm - model - api - rag` | Run and fine-tune generative AI models with easy-to-use APIs and highly scalable infrastructure. Train & deploy models at scale on our AI Acceleration Cloud ... | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 upscale-image](https://www.iloveimg.com/upscale-image) | `ai - image - upscaler - enhance` | Upscale your images with AI. Enhance the quality of your images using AI technology. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 yuka](https://mugen87.github.io/yuka/) | `ai - 3d - engine - pathfinding - javascript` | Yuka is an artificial intelligence engine for 3D games. It's designed to handle non-player characters (NPCs) in complex 3D environments. | N/A | ⭐⭐⭐⭐🟊 |
 
