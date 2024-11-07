@@ -214,5 +214,13 @@
 		"ref": "https://github.com/facebookresearch/llama",
 		"description": "LLaMA (Large Language Model Meta AI) is a series of foundational language models, ranging from 7 billion to 70 billion parameters, developed by Facebook's AI Research (FAIR) team.",
 		"note": 5
+	},
+	{
+		"name": "together ai",
+		"keywords": ["ai", "generative", "finetune", "llm", "model", "api", "rag"],
+		"url": "https://api.together.xyz/",
+		"ref": "",
+		"description": "Run and fine-tune generative AI models with easy-to-use APIs and highly scalable infrastructure. Train & deploy models at scale on our AI Acceleration Cloud ...",
+		"note": 5
 	}
 ]
