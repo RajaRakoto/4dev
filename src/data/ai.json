@@ -217,10 +217,41 @@
 	},
 	{
 		"name": "together ai",
-		"keywords": ["ai", "generative", "finetune", "llm", "model", "api", "rag"],
+		"keywords": [
+			"ai",
+			"service",
+			"dashboard",
+			"monitoring",
+			"generative",
+			"finetune",
+			"llm",
+			"model",
+			"api",
+			"rag"
+		],
 		"url": "https://api.together.xyz/",
 		"ref": "",
 		"description": "Run and fine-tune generative AI models with easy-to-use APIs and highly scalable infrastructure. Train & deploy models at scale on our AI Acceleration Cloud ...",
+		"note": 5
+	},
+	{
+		"name": "langchain",
+		"keywords": [
+			"ai",
+			"service",
+			"dashboard",
+			"monitoring",
+			"generative",
+			"finetune",
+			"llm",
+			"model",
+			"api",
+			"rag",
+			"opensource"
+		],
+		"url": "https://langchain.com/",
+		"ref": "",
+		"description": "LangChain is an open-source framework designed to facilitate the development of applications using large language models (LLMs).",
 		"note": 5
 	}
 ]
