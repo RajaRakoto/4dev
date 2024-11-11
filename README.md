@@ -234,6 +234,7 @@ bun run biome:fix
 | [🔗 text to speech - google](https://cloud.google.com/text-to-speech?hl=fr) | `ai - text - speech - google` | Convert text to speech with Google's Text-to-Speech API. You can use this API to generate human-like speech from text. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 together ai](https://api.together.xyz/) | `ai - service - dashboard - monitoring - generative - finetune - llm - model - api - rag` | Run and fine-tune generative AI models with easy-to-use APIs and highly scalable infrastructure. Train & deploy models at scale on our AI Acceleration Cloud ... | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 upscale-image](https://www.iloveimg.com/upscale-image) | `ai - image - upscaler - enhance` | Upscale your images with AI. Enhance the quality of your images using AI technology. | N/A | ⭐⭐⭐⭐⭐ |
+| [🔗 webpilot](https://www.webpilot.ai/) | `ai - web - summarize - article - generative` | WebPilot is an AI-powered tool designed for automating web browsing tasks, helping users retrieve information quickly and efficiently from any website. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 yuka](https://mugen87.github.io/yuka/) | `ai - 3d - engine - pathfinding - javascript` | Yuka is an artificial intelligence engine for 3D games. It's designed to handle non-player characters (NPCs) in complex 3D environments. | N/A | ⭐⭐⭐⭐🟊 |
 
 <div align="left">
