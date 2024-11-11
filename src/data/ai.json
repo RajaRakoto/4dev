@@ -253,5 +253,13 @@
 		"ref": "",
 		"description": "LangChain is an open-source framework designed to facilitate the development of applications using large language models (LLMs).",
 		"note": 5
+	},
+	{
+		"name": "webpilot",
+		"keywords": ["ai", "web", "summarize", "article", "generative"],
+		"url": "https://www.webpilot.ai/",
+		"ref": "",
+		"description": "WebPilot is an AI-powered tool designed for automating web browsing tasks, helping users retrieve information quickly and efficiently from any website.",
+		"note": 5
 	}
 ]
