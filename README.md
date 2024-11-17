@@ -928,6 +928,7 @@ bun run biome:fix
 
 | URL | Keywords | Description | Ref | Rating |
 |  :-- | :-- | :-- | :-- | :--  |
+| [🔗 psu calculator](https://pc-builds.com/fr/power-supply-calculator/) | `hardware - psu - calculator` | This calculator helps PC builders select the appropriate power supply unit (PSU) based on their hardware configuration, ensuring optimal performance and safety. | N/A | ⭐⭐⭐⭐⭐ |
 | [🔗 technicalcity](https://technical.city/fr/) | `hardware - benchmark - comparison - versus - gpu - cpu` | Technical City offers benchmarks and hardware comparisons, helping users choose the best CPU and GPU for their needs. | N/A | ⭐⭐⭐⭐⭐ |
 
 <div align="left">
