@@ -6,5 +6,13 @@
 		"ref": "",
 		"description": "Technical City offers benchmarks and hardware comparisons, helping users choose the best CPU and GPU for their needs.",
 		"note": 5
+	},
+	{
+		"name": "psu calculator",
+		"keywords": ["hardware", "psu", "calculator"],
+		"url": "https://pc-builds.com/fr/power-supply-calculator/",
+		"ref": "",
+		"description": "This calculator helps PC builders select the appropriate power supply unit (PSU) based on their hardware configuration, ensuring optimal performance and safety.",
+		"note": 5
 	}
 ]
