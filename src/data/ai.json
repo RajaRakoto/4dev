@@ -261,5 +261,13 @@
 		"ref": "",
 		"description": "WebPilot is an AI-powered tool designed for automating web browsing tasks, helping users retrieve information quickly and efficiently from any website.",
 		"note": 5
+	},
+	{
+		"name": "tokenizers",
+		"keywords": ["ai", "nlp", "nlu", "transformers", "tokenizer"],
+		"url": "https://huggingface.co/docs/tokenizers/index",
+		"ref": "https://github.com/huggingface/tokenizers",
+		"description": "Fast State-of-the-Art tokenizers optimized for research and production.",
+		"note": 5
 	}
 ]
