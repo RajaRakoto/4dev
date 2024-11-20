@@ -269,5 +269,21 @@
 		"ref": "https://github.com/huggingface/tokenizers",
 		"description": "Fast State-of-the-Art tokenizers optimized for research and production.",
 		"note": 5
+	},
+	{
+		"name": "auto-commit",
+		"keywords": [
+			"ai",
+			"generative",
+			"git",
+			"automation",
+			"workflow",
+			"github",
+			"rust"
+		],
+		"url": "https://github.com/m1guelpf/auto-commit",
+		"ref": "",
+		"description": "A tool that automatically generates commit messages for your Git repositories using OpenAI's GPT models.",
+		"note": 5
 	}
 ]
