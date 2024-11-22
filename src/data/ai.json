@@ -284,6 +284,22 @@
 		"url": "https://github.com/m1guelpf/auto-commit",
 		"ref": "",
 		"description": "A tool that automatically generates commit messages for your Git repositories using OpenAI's GPT models.",
+		"note": 4
+	},
+	{
+		"name": "geminicommit",
+		"keywords": [
+			"ai",
+			"generative",
+			"git",
+			"automation",
+			"workflow",
+			"github",
+			"golang"
+		],
+		"url": "https://github.com/tfkhdyt/geminicommit",
+		"ref": "",
+		"description": "CLI that writes git commit messages for you with Google Gemini AI.",
 		"note": 5
 	}
 ]
